@@ -1,0 +1,31 @@
+{
+  "name" : "figma",
+  "name_en" : null,
+  "id" : "1e843b6f-35fa-4902-8fdb-acef73ce5da8",
+  "description" : "Design tool ",
+  "description_en" : "Figma",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 1, 354642000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 1, 354645000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
