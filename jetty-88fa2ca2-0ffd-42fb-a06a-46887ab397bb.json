@@ -1,0 +1,31 @@
+{
+  "name" : "jetty",
+  "name_en" : null,
+  "id" : "88fa2ca2-0ffd-42fb-a06a-46887ab397bb",
+  "description" : " ",
+  "description_en" : "Jetty",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 31, 183501000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 31, 183504000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
