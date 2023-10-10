@@ -1,0 +1,31 @@
+{
+  "name" : "basic",
+  "name_en" : null,
+  "id" : "0b2a3ce4-c2ef-46cf-8d72-12909ebaf8e2",
+  "description" : "back to basics ",
+  "description_en" : "BASIC",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 52, 923612000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 52, 923614000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
