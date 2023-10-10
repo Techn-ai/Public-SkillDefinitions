@@ -1,0 +1,31 @@
+{
+  "name" : "postgresql",
+  "name_en" : null,
+  "id" : "206850ce-97fd-463c-82eb-f0bf7ea762e0",
+  "description" : " ",
+  "description_en" : "PostgreSQL",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 42, 960578000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 42, 960581000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
