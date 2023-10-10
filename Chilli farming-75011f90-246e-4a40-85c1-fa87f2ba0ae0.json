@@ -1,0 +1,31 @@
+{
+  "name" : "Chilli farming",
+  "name_en" : null,
+  "id" : "75011f90-246e-4a40-85c1-fa87f2ba0ae0",
+  "description" : " ",
+  "description_en" : "Chilli farming",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "User Admin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 10, 13, 8, 52, 15, 951875000 ],
+  "lastEdited" : [ 2022, 10, 13, 8, 52, 15, 951872000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
