@@ -1,0 +1,31 @@
+{
+  "name" : "eXOReactions brewing initiativ",
+  "name_en" : null,
+  "id" : "56d93ae4-5159-4eab-8af6-24d56f0c95ce",
+  "description" : " ",
+  "description_en" : "eXOReactions brewing initiativ",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "User Admin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 10, 13, 9, 0, 58, 850580000 ],
+  "lastEdited" : [ 2022, 10, 13, 9, 0, 58, 850577000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
