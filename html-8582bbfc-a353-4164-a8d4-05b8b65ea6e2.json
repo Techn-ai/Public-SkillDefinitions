@@ -1,0 +1,31 @@
+{
+  "name" : "html",
+  "name_en" : null,
+  "id" : "8582bbfc-a353-4164-a8d4-05b8b65ea6e2",
+  "description" : "Hypertext markup language ",
+  "description_en" : "HTML",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 0, 990469000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 0, 990471000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
