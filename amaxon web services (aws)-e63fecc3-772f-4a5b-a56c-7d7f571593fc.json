@@ -1,0 +1,33 @@
+{
+  "name" : "amaxon web services (aws)",
+  "name_en" : null,
+  "id" : "e63fecc3-772f-4a5b-a56c-7d7f571593fc",
+  "description" : "AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings. AWS services can offer an organization tools such as compute power, database storage and content delivery services.",
+  "description_en" : "Amaxon Web Services (AWS)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "skillOwnerUsername" : "javatotto",
+  "editedBy" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "editedByUsername" : "javatotto",
+  "networkReference" : null,
+  "currentVersion" : 4,
+  "createdAt" : [ 2022, 1, 25, 8, 11, 23, 472221000 ],
+  "lastEdited" : [ 2022, 2, 18, 14, 15, 44, 440864000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
