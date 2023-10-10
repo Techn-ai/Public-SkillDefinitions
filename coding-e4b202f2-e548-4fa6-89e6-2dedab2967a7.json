@@ -1,0 +1,35 @@
+{
+  "name" : "coding",
+  "name_en" : null,
+  "id" : "e4b202f2-e548-4fa6-89e6-2dedab2967a7",
+  "description" : "HTML, Java, C++",
+  "description_en" : "Coding",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "brad",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 1, 5, 8, 49, 37, 478709000 ],
+  "lastEdited" : [ 2022, 1, 5, 8, 49, 37, 478701000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
