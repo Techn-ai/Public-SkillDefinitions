@@ -1,0 +1,31 @@
+{
+  "name" : "latex",
+  "name_en" : null,
+  "id" : "7e86db86-76df-4384-a0fa-12ba0f58b791",
+  "description" : "A document preparation system ",
+  "description_en" : "LaTex",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 7, 772024000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 7, 772027000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
