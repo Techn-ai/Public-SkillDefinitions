@@ -1,0 +1,35 @@
+{
+  "name" : "test (Cloned 01)",
+  "name_en" : null,
+  "id" : "92efe8a1-0304-44aa-80d9-b589ffbb6f9a",
+  "description" : "test 3",
+  "description_en" : "test",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 3, 28, 10, 42, 35, 469548000 ],
+  "lastEdited" : [ 2023, 2, 15, 16, 56, 58, 89613000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
