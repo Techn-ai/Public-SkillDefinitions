@@ -1,0 +1,39 @@
+{
+  "name" : "test - updated",
+  "name_en" : null,
+  "id" : "ad5b79df-3072-4f00-92cc-dcb8efa6493a",
+  "description" : "test edit 1",
+  "description_en" : "test",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 3,
+  "createdAt" : [ 2022, 2, 24, 20, 33, 19, 816541000 ],
+  "lastEdited" : [ 2023, 2, 15, 17, 15, 59, 71225000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
