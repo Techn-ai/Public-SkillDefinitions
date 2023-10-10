@@ -1,0 +1,31 @@
+{
+  "name" : "test rrr",
+  "name_en" : null,
+  "id" : "41a3a13e-ed40-4d20-9585-7994ad301e39",
+  "description" : "rrr",
+  "description_en" : "Test rrr",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 47, 955102000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 47, 955105000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
