@@ -1,0 +1,31 @@
+{
+  "name" : "soa",
+  "name_en" : null,
+  "id" : "717e02a2-b35d-4e6c-8663-9c2e0dce4089",
+  "description" : " ",
+  "description_en" : "SOA",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 19, 354665000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 19, 354667000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
