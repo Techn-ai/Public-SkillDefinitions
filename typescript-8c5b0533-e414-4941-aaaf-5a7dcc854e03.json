@@ -1,0 +1,31 @@
+{
+  "name" : "typescript",
+  "name_en" : null,
+  "id" : "8c5b0533-e414-4941-aaaf-5a7dcc854e03",
+  "description" : " ",
+  "description_en" : "typescript",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 56, 159890000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 56, 159892000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
