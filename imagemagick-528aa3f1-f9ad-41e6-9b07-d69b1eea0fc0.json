@@ -1,0 +1,31 @@
+{
+  "name" : "imagemagick",
+  "name_en" : null,
+  "id" : "528aa3f1-f9ad-41e6-9b07-d69b1eea0fc0",
+  "description" : "Image manipulation lib, commonly used in the terminal. ",
+  "description_en" : "imagemagick",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 29, 404265000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 29, 404268000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
