@@ -1,0 +1,272 @@
+{
+  "name" : "ada (Cloned) - Resubmitting from josefine",
+  "name_en" : null,
+  "id" : "7d5082ce-cd2a-4df4-955e-dae90ed7a50e",
+  "description" : "a structured, statically typed, imperative, and object-oriented high-level programming language ... ... v2",
+  "description_en" : "Ada",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "4959bd77-0abd-4575-83d5-d7e0aa9ececc",
+    "name" : "test",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "92efe8a1-0304-44aa-80d9-b589ffbb6f9a",
+    "name" : "test (Cloned 01)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "b982a9c0-b384-4e48-aa64-c545927e44af",
+    "name" : "test5",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "d84adb72-e1b3-426b-9e7a-2f3716842790",
+    "name" : "cybersecurity",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "08b32fe1-39fd-49ce-ac14-07b952dc9c51",
+    "name" : "New version edited460 (Edited4)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 3,
+  "createdAt" : [ 2022, 4, 19, 12, 17, 44, 674041000 ],
+  "lastEdited" : [ 2023, 5, 30, 15, 18, 55, 348239000 ],
+  "relatesToSkill" : [ {
+    "name" : "test",
+    "name_en" : null,
+    "id" : "3d0a666d-daf6-471c-bdc1-c6e8e59360ba",
+    "description" : "test",
+    "description_en" : "test",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "test (Cloned 01)",
+    "name_en" : null,
+    "id" : "50b2e442-0937-4873-8a33-c0e943cde43b",
+    "description" : "test (Cloned 01)",
+    "description_en" : "test (Cloned 01)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "test5",
+    "name_en" : null,
+    "id" : "7e5ac285-5808-4a36-939a-bcd9b37e6968",
+    "description" : "test5",
+    "description_en" : "test5",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "cybersecurity",
+    "name_en" : null,
+    "id" : "13fed9de-17e9-479a-9741-33d427bc926e",
+    "description" : "cybersecurity",
+    "description_en" : "cybersecurity",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "cybersecurity",
+    "name_en" : null,
+    "id" : "13fed9de-17e9-479a-9741-33d427bc926e",
+    "description" : "cybersecurity",
+    "description_en" : "cybersecurity",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "New version edited460 (Edited4)",
+    "name_en" : null,
+    "id" : "ef85f40e-6a63-4fae-99e3-06e633700190",
+    "description" : "New version edited460 (Edited4)",
+    "description_en" : "New version edited460 (Edited4)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "New version edited460 (Edited4)",
+    "name_en" : null,
+    "id" : "ef85f40e-6a63-4fae-99e3-06e633700190",
+    "description" : "New version edited460 (Edited4)",
+    "description_en" : "New version edited460 (Edited4)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "public" : true
+}
