@@ -1,0 +1,31 @@
+{
+  "name" : "virtualization",
+  "name_en" : null,
+  "id" : "00931fe7-c9cc-4b16-a561-5ad5de361d4c",
+  "description" : " ",
+  "description_en" : "Virtualization",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 15, 562740000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 15, 562745000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
