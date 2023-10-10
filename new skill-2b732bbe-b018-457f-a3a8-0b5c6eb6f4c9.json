@@ -1,0 +1,33 @@
+{
+  "name" : "new skill",
+  "name_en" : null,
+  "id" : "2b732bbe-b018-457f-a3a8-0b5c6eb6f4c9",
+  "description" : "New skill on skill dashboard page",
+  "description_en" : "New Skill",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 10, 908268000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 10, 908271000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
