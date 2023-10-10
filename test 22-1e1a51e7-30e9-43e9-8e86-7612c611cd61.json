@@ -1,0 +1,33 @@
+{
+  "name" : "test 22",
+  "name_en" : null,
+  "id" : "1e1a51e7-30e9-43e9-8e86-7612c611cd61",
+  "description" : "Test 2",
+  "description_en" : "Test 22",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "brad",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 1, 21, 9, 21, 18, 46132000 ],
+  "lastEdited" : [ 2022, 1, 21, 9, 21, 18, 46124000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
