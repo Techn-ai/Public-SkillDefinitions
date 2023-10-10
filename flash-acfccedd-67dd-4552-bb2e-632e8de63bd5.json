@@ -1,0 +1,201 @@
+{
+  "name" : "flash",
+  "name_en" : null,
+  "id" : "acfccedd-67dd-4552-bb2e-632e8de63bd5",
+  "description" : " ",
+  "description_en" : "flash",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : null
+  },
+  "relatesTo" : [ {
+    "id" : "1ce28236-d542-4ef2-8c3e-f189f1bd527e",
+    "name" : "test555",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "e2673a4f-5e8e-4b95-9721-5fe90dc42acc",
+    "name" : "katlin",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "f8da2455-42be-4dbf-a881-b16cb1980823",
+    "name" : "kotlin",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "87b39e6c-36b6-488b-9939-d76a8d348ad9",
+    "name" : "testsubskill7",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "Brad Personas",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 10,
+  "createdAt" : [ 2022, 4, 21, 18, 5, 6, 154850000 ],
+  "lastEdited" : [ 2022, 5, 11, 20, 35, 10, 261145000 ],
+  "relatesToSkill" : [ {
+    "name" : "test555",
+    "name_en" : null,
+    "id" : "acf32270-d96f-408e-b37b-68931f3c4069",
+    "description" : "test555",
+    "description_en" : "test555",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ {
+    "name" : "kotlin",
+    "name_en" : null,
+    "id" : "03990e59-0c25-4160-9f0b-4901f753f385",
+    "description" : "kotlin",
+    "description_en" : "kotlin",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "kotlin",
+    "name_en" : null,
+    "id" : "03990e59-0c25-4160-9f0b-4901f753f385",
+    "description" : "kotlin",
+    "description_en" : "kotlin",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "testsubskill7",
+    "name_en" : null,
+    "id" : "8db878e3-f4b2-4bd4-8edf-cc864c3458c2",
+    "description" : "testsubskill7",
+    "description_en" : "testsubskill7",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "testsubskill7",
+    "name_en" : null,
+    "id" : "8db878e3-f4b2-4bd4-8edf-cc864c3458c2",
+    "description" : "testsubskill7",
+    "description_en" : "testsubskill7",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "public" : true
+}
