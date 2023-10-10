@@ -1,0 +1,38 @@
+{
+  "name" : "test admin",
+  "name_en" : null,
+  "id" : "aa7bc900-e783-4788-aa53-d731d8bb1b9c",
+  "description" : "test admin skill 2",
+  "description_en" : "test admin",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "7a8c65df-2380-455f-8b79-ffa0ba4376fc",
+    "name" : "test 123",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "useradmin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 2, 14, 8, 26, 10, 916859000 ],
+  "lastEdited" : [ 2022, 10, 6, 6, 38, 41, 610942000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
