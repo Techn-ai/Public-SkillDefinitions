@@ -1,0 +1,31 @@
+{
+  "name" : "vagrant",
+  "name_en" : null,
+  "id" : "a632d028-dcb8-4d34-a965-4937bbf087f7",
+  "description" : "easy to use virtualization ",
+  "description_en" : "vagrant",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 51, 822704000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 51, 822707000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
