@@ -1,0 +1,31 @@
+{
+  "name" : "inkscape",
+  "name_en" : null,
+  "id" : "32e54da2-949e-49dd-ba03-be15a72b4f3e",
+  "description" : "Vector drawing ",
+  "description_en" : "inkscape",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 0, 622331000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 0, 622333000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
