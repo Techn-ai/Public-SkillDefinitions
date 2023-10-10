@@ -1,0 +1,31 @@
+{
+  "name" : "zsh",
+  "name_en" : null,
+  "id" : "d55d7a98-bc1d-401c-a7ed-8515490484b2",
+  "description" : "alternative to bash shell, extended. ",
+  "description_en" : "zsh",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 27, 198071000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 27, 198074000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
