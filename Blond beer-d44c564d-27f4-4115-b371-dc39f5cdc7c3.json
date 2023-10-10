@@ -1,0 +1,31 @@
+{
+  "name" : "Blond beer",
+  "name_en" : null,
+  "id" : "d44c564d-27f4-4115-b371-dc39f5cdc7c3",
+  "description" : " ",
+  "description_en" : "Blond beer",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "User Admin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 10, 13, 8, 54, 20, 224573000 ],
+  "lastEdited" : [ 2022, 10, 13, 8, 54, 20, 224570000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
