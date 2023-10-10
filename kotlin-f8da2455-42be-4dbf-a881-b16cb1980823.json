@@ -1,0 +1,31 @@
+{
+  "name" : "kotlin",
+  "name_en" : null,
+  "id" : "f8da2455-42be-4dbf-a881-b16cb1980823",
+  "description" : "kotlin for mobile ",
+  "description_en" : "kotlin",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "brad",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2021, 12, 12, 9, 1, 49, 479244000 ],
+  "lastEdited" : [ 2021, 12, 12, 9, 1, 49, 479237000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
