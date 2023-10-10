@@ -1,0 +1,31 @@
+{
+  "name" : "nb",
+  "name_en" : null,
+  "id" : "41b487a4-c895-4804-aef6-4f50188fa0da",
+  "description" : "jgøldfjgk ",
+  "description_en" : "nb",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 34, 961584000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 34, 961587000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
