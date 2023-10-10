@@ -1,0 +1,31 @@
+{
+  "name" : "emacs lisp",
+  "name_en" : null,
+  "id" : "33a2b35a-b962-4cd5-b994-e4ac6c368d82",
+  "description" : "Scripting your editor ",
+  "description_en" : "Emacs lisp",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 58, 770695000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 58, 770697000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
