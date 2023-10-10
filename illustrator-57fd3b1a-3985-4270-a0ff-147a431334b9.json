@@ -1,0 +1,31 @@
+{
+  "name" : "illustrator",
+  "name_en" : null,
+  "id" : "57fd3b1a-3985-4270-a0ff-147a431334b9",
+  "description" : "vector graphics ",
+  "description_en" : "illustrator",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 28, 298626000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 28, 298629000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
