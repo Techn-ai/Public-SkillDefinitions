@@ -1,0 +1,31 @@
+{
+  "name" : "github",
+  "name_en" : null,
+  "id" : "6e2d2d90-cec4-4887-80c7-29f5081fc42c",
+  "description" : " ",
+  "description_en" : "GitHub",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 41, 488905000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 41, 488908000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
