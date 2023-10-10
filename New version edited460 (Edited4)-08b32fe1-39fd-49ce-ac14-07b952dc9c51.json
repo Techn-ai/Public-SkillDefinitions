@@ -1,0 +1,152 @@
+{
+  "name" : "New version edited460 (Edited4)",
+  "name_en" : null,
+  "id" : "08b32fe1-39fd-49ce-ac14-07b952dc9c51",
+  "description" : "test 2 full description.......",
+  "description_en" : "test 3",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "test4",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ {
+    "id" : "9f5f0335-2c8f-43d7-b3d9-f0ba69346cab",
+    "name" : "new skill (version 6)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "d84adb72-e1b3-426b-9e7a-2f3716842790",
+    "name" : "cybersecurity",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "4edaf1ac-7216-4ba0-8765-9c5a6165de5d",
+    "name" : "android",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "d84adb72-e1b3-426b-9e7a-2f3716842790",
+    "name" : "cybersecurity",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 36,
+  "createdAt" : [ 2022, 2, 24, 20, 34, 50, 566002000 ],
+  "lastEdited" : [ 2023, 5, 30, 14, 39, 41, 264700000 ],
+  "relatesToSkill" : [ {
+    "name" : "new skill (version 6)",
+    "name_en" : null,
+    "id" : "eefc50ad-0e15-44a5-bafe-0451791de4d7",
+    "description" : "new skill (version 6)",
+    "description_en" : "new skill (version 6)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ null, null ],
+  "isExtensionOfSkill" : [ {
+    "name" : "cybersecurity",
+    "name_en" : null,
+    "id" : "13fed9de-17e9-479a-9741-33d427bc926e",
+    "description" : "cybersecurity",
+    "description_en" : "cybersecurity",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "cybersecurity",
+    "name_en" : null,
+    "id" : "13fed9de-17e9-479a-9741-33d427bc926e",
+    "description" : "cybersecurity",
+    "description_en" : "cybersecurity",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "public" : true
+}
