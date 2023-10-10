@@ -1,0 +1,31 @@
+{
+  "name" : "tolyism",
+  "name_en" : null,
+  "id" : "a8593041-8bd0-49f8-a329-68d02f01dd54",
+  "description" : "a way to look at the world ",
+  "description_en" : "tolyism",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "6f1bedda-0002-45b1-a86b-3d34b4e91aca",
+  "skillOwnerUsername" : "Josefine Personas",
+  "editedBy" : "6f1bedda-0002-45b1-a86b-3d34b4e91aca",
+  "editedByUsername" : "Josefine Personas",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 22, 18, 14, 9, 153832000 ],
+  "lastEdited" : [ 2023, 3, 22, 18, 14, 9, 153821000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
