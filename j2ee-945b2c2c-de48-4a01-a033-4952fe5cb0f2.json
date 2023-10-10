@@ -1,0 +1,31 @@
+{
+  "name" : "j2ee",
+  "name_en" : null,
+  "id" : "945b2c2c-de48-4a01-a033-4952fe5cb0f2",
+  "description" : " ",
+  "description_en" : "J2EE",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "skillOwnerUsername" : "javatotto",
+  "editedBy" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "editedByUsername" : "javatotto",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 1, 25, 9, 14, 46, 247471000 ],
+  "lastEdited" : [ 2022, 1, 25, 9, 14, 46, 247464000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
