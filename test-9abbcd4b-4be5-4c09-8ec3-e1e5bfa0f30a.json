@@ -1,0 +1,33 @@
+{
+  "name" : "test",
+  "name_en" : null,
+  "id" : "9abbcd4b-4be5-4c09-8ec3-e1e5bfa0f30a",
+  "description" : "test 3",
+  "description_en" : "test",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 11, 599269000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 11, 599271000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
