@@ -1,0 +1,33 @@
+{
+  "name" : "testtt 3",
+  "name_en" : null,
+  "id" : "ce5ed5ea-d8fa-4e6f-94d9-2b4caf9dbf20",
+  "description" : "sgfg sg",
+  "description_en" : "TESTTT 3",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 12, 294331000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 12, 294334000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
