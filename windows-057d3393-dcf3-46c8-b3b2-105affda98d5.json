@@ -1,0 +1,31 @@
+{
+  "name" : "windows",
+  "name_en" : null,
+  "id" : "057d3393-dcf3-46c8-b3b2-105affda98d5",
+  "description" : "Microsoft windows operating system ",
+  "description_en" : "windows",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 21, 796247000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 21, 796249000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
