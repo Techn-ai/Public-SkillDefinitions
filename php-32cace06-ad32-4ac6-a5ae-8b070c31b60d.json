@@ -1,0 +1,31 @@
+{
+  "name" : "php",
+  "name_en" : null,
+  "id" : "32cace06-ad32-4ac6-a5ae-8b070c31b60d",
+  "description" : "Web development scripting language ",
+  "description_en" : "PHP",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 45, 0, 203763000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 45, 0, 203767000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
