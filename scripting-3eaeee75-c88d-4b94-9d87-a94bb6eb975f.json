@@ -1,0 +1,31 @@
+{
+  "name" : "scripting",
+  "name_en" : null,
+  "id" : "3eaeee75-c88d-4b94-9d87-a94bb6eb975f",
+  "description" : "shell scripting ",
+  "description_en" : "scripting",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 59, 113541000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 59, 113543000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
