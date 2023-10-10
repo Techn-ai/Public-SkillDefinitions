@@ -1,0 +1,31 @@
+{
+  "name" : "vimscript",
+  "name_en" : null,
+  "id" : "f6f9c3d4-aab6-451f-8bb1-5056cdf5e452",
+  "description" : "Scripting the editor ",
+  "description_en" : "vimscript",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 58, 411938000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 58, 411941000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
