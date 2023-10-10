@@ -1,0 +1,31 @@
+{
+  "name" : "Company fun",
+  "name_en" : null,
+  "id" : "5757956c-1513-47c1-8c05-0ada75e8a781",
+  "description" : " ",
+  "description_en" : "Company fun",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "User Admin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 10, 13, 8, 57, 34, 900212000 ],
+  "lastEdited" : [ 2022, 10, 13, 8, 57, 34, 900209000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
