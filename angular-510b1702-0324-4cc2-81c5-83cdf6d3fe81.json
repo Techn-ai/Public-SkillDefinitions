@@ -1,0 +1,136 @@
+{
+  "name" : "angular",
+  "name_en" : null,
+  "id" : "510b1702-0324-4cc2-81c5-83cdf6d3fe81",
+  "description" : " ",
+  "description_en" : "Angular",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ {
+    "id" : "8582bbfc-a353-4164-a8d4-05b8b65ea6e2",
+    "name" : "html",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "c40ce6ba-00de-4d6e-9d85-3882ee18c52a",
+    "name" : "Wheat beer",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "ef33faed-ded7-4245-9c36-88e3665e3933",
+    "name" : "ux",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : "6f1bedda-0002-45b1-a86b-3d34b4e91aca",
+  "editedByUsername" : "Josefine Personas",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 47, 594784000 ],
+  "lastEdited" : [ 2023, 1, 23, 10, 29, 12, 278624000 ],
+  "relatesToSkill" : [ {
+    "name" : "html",
+    "name_en" : null,
+    "id" : "4704d141-79bd-43a6-9ab3-228fdaecb399",
+    "description" : "html",
+    "description_en" : "html",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ {
+    "name" : "ux",
+    "name_en" : null,
+    "id" : "6e9d1145-1e5e-4eec-b2b0-321321dab01f",
+    "description" : "ux",
+    "description_en" : "ux",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "ux",
+    "name_en" : null,
+    "id" : "6e9d1145-1e5e-4eec-b2b0-321321dab01f",
+    "description" : "ux",
+    "description_en" : "ux",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "public" : true
+}
