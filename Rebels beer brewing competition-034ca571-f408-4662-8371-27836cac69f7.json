@@ -1,0 +1,31 @@
+{
+  "name" : "Rebels beer brewing competition",
+  "name_en" : null,
+  "id" : "034ca571-f408-4662-8371-27836cac69f7",
+  "description" : " ",
+  "description_en" : "Rebels beer brewing competition",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "skillOwnerUsername" : "User Admin",
+  "editedBy" : "80121c55-e838-4f6e-a58b-c02af5d0f1f5",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 10, 13, 8, 53, 26, 486126000 ],
+  "lastEdited" : [ 2022, 10, 13, 8, 53, 26, 486118000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
