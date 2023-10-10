@@ -1,0 +1,31 @@
+{
+  "name" : "bash",
+  "name_en" : null,
+  "id" : "3f3282ba-b302-49d8-94b7-3f28d88fbc29",
+  "description" : "shell scripting ",
+  "description_en" : "bash",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : null,
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : null,
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 10, 22, 44, 53, 942404000 ],
+  "lastEdited" : [ 2023, 10, 10, 22, 44, 53, 942406000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
