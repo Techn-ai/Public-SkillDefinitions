@@ -1,0 +1,31 @@
+{
+  "name" : "bpmn",
+  "name_en" : null,
+  "id" : "27a4a853-247d-4635-8a49-6e180dbce895",
+  "description" : " ",
+  "description_en" : "BPMN",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "skillOwnerUsername" : "javatotto",
+  "editedBy" : "e54b322d-3b1c-4b7e-8879-301514e3c4a1",
+  "editedByUsername" : "javatotto",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 1, 25, 8, 44, 59, 715444000 ],
+  "lastEdited" : [ 2022, 1, 25, 8, 44, 59, 715437000 ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
+}
