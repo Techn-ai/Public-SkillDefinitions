@@ -1,0 +1,272 @@
+{
+  "name" : "test 12 (Cloned)",
+  "name_en" : null,
+  "id" : "a413ef3f-e6f6-4a11-89ef-945b44027bcc",
+  "description" : "Test",
+  "description_en" : "Test 1",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "be6b4bee-c8bf-4b48-97b4-e76c2b5cb653",
+    "name" : "javascript",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "46b5da66-d47c-4521-b02b-3c79824f6318",
+    "name" : "backend developer",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "4b707b6e-2bf5-4f9a-8d8a-9035435d0152",
+    "name" : "testskill9 (2)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "4edaf1ac-7216-4ba0-8765-9c5a6165de5d",
+    "name" : "android",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "a64762c5-5d45-44bc-b0b9-4ae628bd37fe",
+    "name" : "new skill - updated",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : "{\"referenceId\":\"a413ef3f-e6f6-4a11-89ef-945b44027bcc\"}",
+  "skillOwner" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "skillOwnerUsername" : "brad",
+  "editedBy" : "2cb6df74-7903-4d41-8591-1eb390d8bb99",
+  "editedByUsername" : "Brad Personas",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 1, 17, 19, 44, 56, 783830000 ],
+  "lastEdited" : [ 2023, 10, 2, 14, 54, 43, 256161000 ],
+  "relatesToSkill" : [ {
+    "name" : "javascript",
+    "name_en" : null,
+    "id" : "e7c0c5ff-0f21-411f-a219-60cc281481e8",
+    "description" : "javascript",
+    "description_en" : "javascript",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ {
+    "name" : "testskill9 (2)",
+    "name_en" : null,
+    "id" : "be764d51-a294-4e76-bee9-dd3550c8f501",
+    "description" : "testskill9 (2)",
+    "description_en" : "testskill9 (2)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "testskill9 (2)",
+    "name_en" : null,
+    "id" : "be764d51-a294-4e76-bee9-dd3550c8f501",
+    "description" : "testskill9 (2)",
+    "description_en" : "testskill9 (2)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "android",
+    "name_en" : null,
+    "id" : "28302049-7acf-491b-9f60-d2d1f0181a11",
+    "description" : "android",
+    "description_en" : "android",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "android",
+    "name_en" : null,
+    "id" : "28302049-7acf-491b-9f60-d2d1f0181a11",
+    "description" : "android",
+    "description_en" : "android",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "new skill - updated",
+    "name_en" : null,
+    "id" : "70f5c587-5d5b-45c1-bd3c-368321d714aa",
+    "description" : "new skill - updated",
+    "description_en" : "new skill - updated",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  }, {
+    "name" : "new skill - updated",
+    "name_en" : null,
+    "id" : "70f5c587-5d5b-45c1-bd3c-368321d714aa",
+    "description" : "new skill - updated",
+    "description_en" : "new skill - updated",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "public" : false
+  } ],
+  "public" : true
+}
