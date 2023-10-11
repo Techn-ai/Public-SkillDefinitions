@@ -1,0 +1,33 @@
+{
+  "name" : "XML Schema Definition (XSD)",
+  "name_en" : null,
+  "id" : "90d0365f-abf7-4515-bd01-610073afa8f7",
+  "description" : "XML Schema Definition or XSD is a recommendation by the World Wide Web Consortium (W3C) to describe and validate the structure and content of an XML document. It is primarily used to define the elements, attributes and data types the document can contain.",
+  "description_en" : "xsd",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 14, 8, 833384000 ],
+  "lastEdited" : [ 2022, 8, 26, 10, 44, 44, 477571000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
