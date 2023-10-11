@@ -1,0 +1,43 @@
+{
+  "name" : "ejb",
+  "name_en" : null,
+  "id" : "0c030aed-5b88-474c-b627-5dccdaf867cc",
+  "description" : "An EJB container is a run-time container for beans that are deployed to an application server. The container is automatically created when the application server starts up, and serves as an interface between a bean and run-time services such as: Life-cycle management. Code generation.",
+  "description_en" : "ejb",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "d2726f43-16a1-42c4-8623-8d4d56ca085e",
+    "name" : "JavaServer Pages (JSP) ",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3971e83f-1832-46f2-b28f-e4a8da8a30a0",
+    "name" : "java servlet",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 8, 28, 938617000 ],
+  "lastEdited" : [ 2022, 8, 30, 13, 40, 2, 237003000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null ],
+  "isExtensionOfSkill" : [ ]
+}
