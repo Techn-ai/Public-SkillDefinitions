@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 365",
+  "name_en" : null,
+  "id" : "bb8340ee-42d0-4a54-b615-fb6bc2e8339c",
+  "description" : "Public Skill 365",
+  "description_en" : "Public Skill 365",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 59, 53, 795956000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 59, 56, 973368000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
