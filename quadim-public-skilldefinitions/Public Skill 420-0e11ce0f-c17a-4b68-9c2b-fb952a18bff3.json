@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 420",
+  "name_en" : null,
+  "id" : "0e11ce0f-c17a-4b68-9c2b-fb952a18bff3",
+  "description" : "Public Skill 420",
+  "description_en" : "Public Skill 420",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 4, 33, 916627000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 7, 24, 61414000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
