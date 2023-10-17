@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 238",
+  "name_en" : null,
+  "id" : "0f2c33af-6fde-4bdc-9f3b-684d8bcb8c81",
+  "description" : "Public Skill 238",
+  "description_en" : "Public Skill 238",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 20, 26, 0, 327831000 ],
+  "lastEdited" : [ 2023, 10, 16, 20, 26, 1, 909600000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
