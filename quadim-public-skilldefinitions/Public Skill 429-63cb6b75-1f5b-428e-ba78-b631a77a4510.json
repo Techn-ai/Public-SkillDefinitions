@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 429",
+  "name_en" : null,
+  "id" : "63cb6b75-1f5b-428e-ba78-b631a77a4510",
+  "description" : "Public Skill 429",
+  "description_en" : "Public Skill 429",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 4, 33, 928208000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 7, 27, 586800000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
