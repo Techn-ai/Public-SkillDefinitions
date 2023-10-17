@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 345",
+  "name_en" : null,
+  "id" : "0c20f3d0-3f7f-4d37-b5eb-3695ecbc43bf",
+  "description" : "Public Skill 345",
+  "description_en" : "Public Skill 345",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 17, 0, 21, 40, 340074000 ],
+  "lastEdited" : [ 2023, 10, 17, 0, 23, 53, 670287000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
