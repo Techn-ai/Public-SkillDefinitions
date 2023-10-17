@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 500",
+  "name_en" : null,
+  "id" : "6e147f4f-b495-41d6-9d10-dbfcabe565d9",
+  "description" : "Public Skill 500",
+  "description_en" : "Public Skill 500",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 4, 34, 3897000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 7, 56, 928739000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
