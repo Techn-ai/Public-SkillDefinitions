@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 380",
+  "name_en" : null,
+  "id" : "9a13a215-9252-474a-bd1b-dfa6ca8ee85c",
+  "description" : "Public Skill 380",
+  "description_en" : "Public Skill 380",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 17, 0, 21, 40, 373626000 ],
+  "lastEdited" : [ 2023, 10, 17, 0, 24, 6, 906328000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
