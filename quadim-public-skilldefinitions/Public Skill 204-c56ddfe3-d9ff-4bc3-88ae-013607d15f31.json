@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 204",
+  "name_en" : null,
+  "id" : "c56ddfe3-d9ff-4bc3-88ae-013607d15f31",
+  "description" : "Public Skill 204",
+  "description_en" : "Public Skill 204",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 17, 0, 21, 40, 165156000 ],
+  "lastEdited" : [ 2023, 10, 17, 0, 23, 1, 195471000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
