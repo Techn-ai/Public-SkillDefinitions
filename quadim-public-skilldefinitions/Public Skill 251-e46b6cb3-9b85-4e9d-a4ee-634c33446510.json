@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 251",
+  "name_en" : null,
+  "id" : "e46b6cb3-9b85-4e9d-a4ee-634c33446510",
+  "description" : "Public Skill 251",
+  "description_en" : "Public Skill 251",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 59, 53, 460851000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 59, 56, 356308000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
