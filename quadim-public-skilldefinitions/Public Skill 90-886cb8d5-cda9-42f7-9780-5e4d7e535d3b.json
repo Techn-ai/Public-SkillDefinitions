@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 90",
+  "name_en" : null,
+  "id" : "886cb8d5-cda9-42f7-9780-5e4d7e535d3b",
+  "description" : "Public Skill 90",
+  "description_en" : "Public Skill 90",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 23, 31, 1, 986042000 ],
+  "lastEdited" : [ 2023, 10, 16, 23, 31, 37, 957103000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
