@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 404",
+  "name_en" : null,
+  "id" : "d02e6b09-85f2-481a-ae7e-a33f2bc01e6c",
+  "description" : "Public Skill 404",
+  "description_en" : "Public Skill 404",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 4, 33, 897193000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 7, 17, 689342000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
