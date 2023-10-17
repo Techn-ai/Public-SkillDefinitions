@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 218",
+  "name_en" : null,
+  "id" : "ccebdd7c-00e1-48ed-b34b-87a7dfe770a2",
+  "description" : "Public Skill 218",
+  "description_en" : "Public Skill 218",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 19, 4, 33, 680898000 ],
+  "lastEdited" : [ 2023, 10, 16, 19, 6, 3, 60115000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
