@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 34",
+  "name_en" : null,
+  "id" : "5cf67fd4-d256-407b-a971-f7ffaf3c8ff9",
+  "description" : "Public Skill 34",
+  "description_en" : "Public Skill 34",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 16, 20, 20, 39, 758805000 ],
+  "lastEdited" : [ 2023, 10, 16, 20, 20, 40, 708756000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
