@@ -1,0 +1,33 @@
+{
+  "name" : "gis",
+  "name_en" : null,
+  "id" : "52ac66c3-9b26-495f-ad27-a70cca1ed538",
+  "description" : "A Geographic Information System (GIS) is a computer system that analyzes and displays geographically referenced information. It uses data that is attached to a unique location.",
+  "description_en" : "gis",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 10, 2, 672542000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 16, 7, 478278000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
