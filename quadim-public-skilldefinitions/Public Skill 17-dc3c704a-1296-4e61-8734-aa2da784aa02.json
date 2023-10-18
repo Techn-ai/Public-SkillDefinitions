@@ -1,0 +1,31 @@
+{
+  "name" : "Public Skill 17",
+  "name_en" : null,
+  "id" : "dc3c704a-1296-4e61-8734-aa2da784aa02",
+  "description" : "Public Skill 17",
+  "description_en" : "Public Skill 17",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "Thor Henning Hetland",
+  "skillOwnerUsername" : null,
+  "editedBy" : null,
+  "editedByUsername" : "Jose Diaz",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 18, 17, 18, 5, 906208000 ],
+  "lastEdited" : [ 2023, 10, 18, 17, 19, 3, 671150000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
