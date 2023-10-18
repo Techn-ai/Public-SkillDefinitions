@@ -1,0 +1,33 @@
+{
+  "name" : "volantis",
+  "name_en" : null,
+  "id" : "8167bc45-8e24-4487-9d3b-dd4d11e07fc7",
+  "description" : "Volantis provides mobile applications and software solutions which give operators and enterprises access to a content delivery platform and a device database",
+  "description_en" : "volantis",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 13, 30, 599916000 ],
+  "lastEdited" : [ 2022, 8, 30, 11, 58, 54, 952756000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
