@@ -41,13 +41,10 @@
   "currentVersion" : 0,
   "createdAt" : [ 2022, 5, 23, 10, 20, 37, 948624000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 16, 10, 933585000 ],
-  "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Infrastructure Architecture",
     "name_en" : null,
-    "id" : "3e21c1fb-447f-462c-a37a-c57e633d150f",
+    "id" : "8ee2aff6-3475-40da-806d-966af9052f13",
     "description" : "Infrastructure Architecture",
     "description_en" : "Infrastructure Architecture",
     "coversElement" : {
@@ -70,44 +67,14 @@
     "currentVersion" : 0,
     "createdAt" : null,
     "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Infrastructure Architecture",
-    "name_en" : null,
-    "id" : "3e21c1fb-447f-462c-a37a-c57e633d150f",
-    "description" : "Infrastructure Architecture",
-    "description_en" : "Infrastructure Architecture",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "public" : false
   }, {
     "name" : "Information security",
     "name_en" : null,
-    "id" : "bd4a01fc-0a91-4fe5-8c8c-a1b891554ee7",
+    "id" : "44e50ab3-6d5c-4095-9219-38f1bc8ee019",
     "description" : "Information security",
     "description_en" : "Information security",
     "coversElement" : {
@@ -130,44 +97,14 @@
     "currentVersion" : 0,
     "createdAt" : null,
     "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Information security",
-    "name_en" : null,
-    "id" : "bd4a01fc-0a91-4fe5-8c8c-a1b891554ee7",
-    "description" : "Information security",
-    "description_en" : "Information security",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "public" : false
   }, {
     "name" : "Cryptography",
     "name_en" : null,
-    "id" : "24a493cb-d070-4502-a7e3-b7873af3fbc2",
+    "id" : "e9744efd-6e32-45d1-80df-4d757bf37b53",
     "description" : "Cryptography",
     "description_en" : "Cryptography",
     "coversElement" : {
@@ -190,39 +127,12 @@
     "currentVersion" : 0,
     "createdAt" : null,
     "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Cryptography",
-    "name_en" : null,
-    "id" : "24a493cb-d070-4502-a7e3-b7873af3fbc2",
-    "description" : "Cryptography",
-    "description_en" : "Cryptography",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
 }
