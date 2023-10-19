@@ -45,7 +45,37 @@
   "relatesToSkill" : [ {
     "name" : "Infrastructure Architecture",
     "name_en" : null,
-    "id" : "65bd8a06-fd5d-47eb-835c-702fce0040bf",
+    "id" : "16d92e8f-8f93-4015-b966-0dc73c994278",
+    "description" : "Infrastructure Architecture",
+    "description_en" : "Infrastructure Architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Infrastructure Architecture",
+    "name_en" : null,
+    "id" : "16d92e8f-8f93-4015-b966-0dc73c994278",
     "description" : "Infrastructure Architecture",
     "description_en" : "Infrastructure Architecture",
     "coversElement" : {
@@ -75,7 +105,37 @@
   }, {
     "name" : "Information security",
     "name_en" : null,
-    "id" : "5424007d-301a-4240-bc97-ceaa1f918c02",
+    "id" : "19022a34-a52d-47d4-b082-2b31d42c3eb3",
+    "description" : "Information security",
+    "description_en" : "Information security",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Information security",
+    "name_en" : null,
+    "id" : "19022a34-a52d-47d4-b082-2b31d42c3eb3",
     "description" : "Information security",
     "description_en" : "Information security",
     "coversElement" : {
@@ -105,7 +165,37 @@
   }, {
     "name" : "Cryptography",
     "name_en" : null,
-    "id" : "53a9f1af-48b1-495f-a53c-e7f9bdd1fb5e",
+    "id" : "764c3a35-9057-4161-b0f0-759a498a20b0",
+    "description" : "Cryptography",
+    "description_en" : "Cryptography",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Cryptography",
+    "name_en" : null,
+    "id" : "764c3a35-9057-4161-b0f0-759a498a20b0",
     "description" : "Cryptography",
     "description_en" : "Cryptography",
     "coversElement" : {
