@@ -1,0 +1,98 @@
+{
+  "name" : "enterprise architect",
+  "name_en" : null,
+  "id" : "76bcc806-1b86-4339-ae2d-4a0048af4b47",
+  "description" : "The perfect enterprise wide solution to visualise, analyse, model, test and maintain all of your systems, software, processes and architectures. Enterprise Architect is the ideal platform to help you to stay in control of your workspace, support your colleagues and team, enable collaboration and build confidence within your most complex projects. ",
+  "description_en" : "enterprise architect",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "4ceeb01c-a2c7-4a88-aae5-217ae8c9e3e3",
+    "name" : "Enterprise architecture (EA)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 22, 0, 229104000 ],
+  "lastEdited" : [ 2022, 8, 30, 13, 42, 40, 356153000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Enterprise architecture (EA)",
+    "name_en" : null,
+    "id" : "9aa8f2e3-8c70-4c07-9613-06b3db880605",
+    "description" : "Enterprise architecture (EA)",
+    "description_en" : "Enterprise architecture (EA)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Enterprise architecture (EA)",
+    "name_en" : null,
+    "id" : "9aa8f2e3-8c70-4c07-9613-06b3db880605",
+    "description" : "Enterprise architecture (EA)",
+    "description_en" : "Enterprise architecture (EA)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
