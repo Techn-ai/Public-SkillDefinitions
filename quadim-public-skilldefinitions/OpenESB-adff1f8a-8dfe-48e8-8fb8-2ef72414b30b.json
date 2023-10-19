@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "soa",
     "name_en" : null,
-    "id" : "48f2b216-7976-4a7e-8b59-6db79c58028f",
+    "id" : "0306a49c-2e3a-4570-ab0f-510bcad72f93",
     "description" : "soa",
     "description_en" : "soa",
     "coversElement" : {
@@ -70,7 +70,7 @@
   }, {
     "name" : "soa",
     "name_en" : null,
-    "id" : "48f2b216-7976-4a7e-8b59-6db79c58028f",
+    "id" : "0306a49c-2e3a-4570-ab0f-510bcad72f93",
     "description" : "soa",
     "description_en" : "soa",
     "coversElement" : {
@@ -100,7 +100,7 @@
   }, {
     "name" : "SOA",
     "name_en" : null,
-    "id" : "5975e980-86fa-4815-8da5-d1507400724b",
+    "id" : "c175c09b-f265-4ddf-8825-9103bf542c30",
     "description" : "SOA",
     "description_en" : "SOA",
     "coversElement" : {
@@ -130,7 +130,7 @@
   }, {
     "name" : "SOA",
     "name_en" : null,
-    "id" : "5975e980-86fa-4815-8da5-d1507400724b",
+    "id" : "c175c09b-f265-4ddf-8825-9103bf542c30",
     "description" : "SOA",
     "description_en" : "SOA",
     "coversElement" : {
