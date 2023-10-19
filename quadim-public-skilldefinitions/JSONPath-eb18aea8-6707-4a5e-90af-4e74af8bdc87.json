@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 20, 19, 30702000 ],
   "lastEdited" : [ 2022, 8, 26, 11, 4, 51, 912984000 ],
   "public" : true,
-  "relatesToSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "aadca7fd-2e5c-47e7-811f-c25fcbef359f",
+    "id" : "fc04a5ac-b483-4d92-a4e5-a829b9a4d421",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
@@ -61,13 +59,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "aadca7fd-2e5c-47e7-811f-c25fcbef359f",
+    "id" : "fc04a5ac-b483-4d92-a4e5-a829b9a4d421",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
@@ -91,8 +89,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  } ]
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
 }
