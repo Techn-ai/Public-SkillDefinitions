@@ -1,0 +1,33 @@
+{
+  "name" : "intershop enfinity",
+  "name_en" : null,
+  "id" : "7bca077b-6c42-4754-a00d-d24d5424fcdc",
+  "description" : "Intershop's Enfinity is high-performance packaged software for internet sales, complemented by all necessary services as well as comprehensive online marketing consulting. Intershop also acts as a business process outsourcing provider, covering all aspects of online retailing, including fulfillment.",
+  "description_en" : "intershop enfinity",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 12, 17, 322124000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 21, 59, 933709000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
