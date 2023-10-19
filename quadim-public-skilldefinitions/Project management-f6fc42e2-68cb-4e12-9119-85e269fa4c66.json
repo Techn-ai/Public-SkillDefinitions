@@ -1,0 +1,38 @@
+{
+  "name" : "Project management",
+  "name_en" : null,
+  "id" : "f6fc42e2-68cb-4e12-9119-85e269fa4c66",
+  "description" : "Project management is the process of leading the work of a team to achieve all project goals within the given constraints.",
+  "description_en" : "Project management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Project_management",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 1, 13, 9, 2, 863832000 ],
+  "lastEdited" : [ 2023, 2, 1, 13, 9, 2, 863825000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
