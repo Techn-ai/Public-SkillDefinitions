@@ -44,13 +44,10 @@
   "currentVersion" : 0,
   "createdAt" : [ 2022, 5, 23, 10, 29, 10, 707466000 ],
   "lastEdited" : [ 2022, 8, 30, 13, 6, 5, 398727000 ],
-  "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Information architecture (IA)",
     "name_en" : null,
-    "id" : "192c0223-f161-4903-911f-a5ec9708fd53",
+    "id" : "dddc355f-ac6e-44ab-b969-90e929e381ad",
     "description" : "Information architecture (IA)",
     "description_en" : "Information architecture (IA)",
     "coversElement" : {
@@ -73,44 +70,14 @@
     "currentVersion" : 0,
     "createdAt" : null,
     "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Information architecture (IA)",
-    "name_en" : null,
-    "id" : "192c0223-f161-4903-911f-a5ec9708fd53",
-    "description" : "Information architecture (IA)",
-    "description_en" : "Information architecture (IA)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "public" : false
   }, {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "e73449e7-4645-4498-846a-9782410604f4",
+    "id" : "6a5c740d-e8c4-481c-bd41-c905f51ac021",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
@@ -133,39 +100,12 @@
     "currentVersion" : 0,
     "createdAt" : null,
     "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Enterprise architecture (EA)",
-    "name_en" : null,
-    "id" : "e73449e7-4645-4498-846a-9782410604f4",
-    "description" : "Enterprise architecture (EA)",
-    "description_en" : "Enterprise architecture (EA)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "public" : false
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "public" : true
 }
