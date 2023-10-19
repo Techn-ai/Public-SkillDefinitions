@@ -26,8 +26,8 @@
   "currentVersion" : 0,
   "createdAt" : [ 2022, 5, 23, 10, 27, 46, 193473000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 36, 50, 816705000 ],
+  "public" : true,
   "relatesToSkill" : [ ],
   "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ],
-  "public" : true
+  "isExtensionOfSkill" : [ ]
 }
