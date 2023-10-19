@@ -37,10 +37,12 @@
   "createdAt" : [ 2022, 5, 23, 10, 20, 28, 279964000 ],
   "lastEdited" : [ 2022, 8, 25, 11, 48, 30, 461523000 ],
   "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "soa",
     "name_en" : null,
-    "id" : "0306a49c-2e3a-4570-ab0f-510bcad72f93",
+    "id" : "d4db49f4-fd71-45a6-b6f2-eb19ebcbb947",
     "description" : "soa",
     "description_en" : "soa",
     "coversElement" : {
@@ -64,13 +66,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
   }, {
     "name" : "soa",
     "name_en" : null,
-    "id" : "0306a49c-2e3a-4570-ab0f-510bcad72f93",
+    "id" : "d4db49f4-fd71-45a6-b6f2-eb19ebcbb947",
     "description" : "soa",
     "description_en" : "soa",
     "coversElement" : {
@@ -94,13 +96,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
   }, {
     "name" : "SOA",
     "name_en" : null,
-    "id" : "c175c09b-f265-4ddf-8825-9103bf542c30",
+    "id" : "ba266371-324b-49db-9455-b411d602b51f",
     "description" : "SOA",
     "description_en" : "SOA",
     "coversElement" : {
@@ -124,13 +126,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
   }, {
     "name" : "SOA",
     "name_en" : null,
-    "id" : "c175c09b-f265-4ddf-8825-9103bf542c30",
+    "id" : "ba266371-324b-49db-9455-b411d602b51f",
     "description" : "SOA",
     "description_en" : "SOA",
     "coversElement" : {
@@ -154,10 +156,8 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
+  } ]
 }
