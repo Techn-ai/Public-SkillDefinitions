@@ -1,0 +1,31 @@
+{
+  "name" : "Patent law",
+  "name_en" : null,
+  "id" : "7fb00c91-1bb1-4b66-9878-0a73fdb502fe",
+  "description" : "Patent law",
+  "description_en" : "Patent law",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 5, 12, 12, 8, 26, 713236000 ],
+  "lastEdited" : [ 2023, 5, 12, 12, 8, 26, 713230000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
