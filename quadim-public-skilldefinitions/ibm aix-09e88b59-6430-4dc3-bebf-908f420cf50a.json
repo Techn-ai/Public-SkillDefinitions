@@ -1,0 +1,33 @@
+{
+  "name" : "ibm aix",
+  "name_en" : null,
+  "id" : "09e88b59-6430-4dc3-bebf-908f420cf50a",
+  "description" : "IBM's Advanced Interactive eXecutive, or AIX, is a series of proprietary UNIX-based operating systems built and sold by IBM. AIX is the leading open standards-based UNIX operating system providing secure, scalable, and robust infrastructure solutions for enterprise.",
+  "description_en" : "ibm aix",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 8, 6, 365651000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 16, 51, 673561000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
