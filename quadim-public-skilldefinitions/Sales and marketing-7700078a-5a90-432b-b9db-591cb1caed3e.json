@@ -1,0 +1,31 @@
+{
+  "name" : "Sales and marketing",
+  "name_en" : null,
+  "id" : "7700078a-5a90-432b-b9db-591cb1caed3e",
+  "description" : "The ability to develop and execute effective sales and marketing strategies, including digital marketing, content marketing, and social media. ",
+  "description_en" : "Sales and marketing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 4, 27, 10, 25, 25, 712502000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 25, 25, 712497000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
