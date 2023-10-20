@@ -1,0 +1,31 @@
+{
+  "name" : "Sourcing",
+  "name_en" : null,
+  "id" : "c0a13cd1-72de-4e37-8af0-6fec4143badc",
+  "description" : " ",
+  "description_en" : "Sourcing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "skillOwnerUsername" : "Selina Stenberg",
+  "editedBy" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "editedByUsername" : "Selina Stenberg",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 31, 8, 48, 17, 739470000 ],
+  "lastEdited" : [ 2022, 5, 31, 8, 48, 17, 739465000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
