@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 2, 24, 13035000 ],
   "lastEdited" : [ 2022, 8, 25, 8, 0, 3, 169456000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "whydah",
     "name_en" : null,
-    "id" : "93ad00d6-55dd-43c8-bbf2-79c403c21932",
+    "id" : "fa8599f9-67b8-40b3-8d91-7a6b961c1be3",
     "description" : "whydah",
     "description_en" : "whydah",
     "coversElement" : {
@@ -61,8 +59,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "whydah",
+    "name_en" : null,
+    "id" : "fa8599f9-67b8-40b3-8d91-7a6b961c1be3",
+    "description" : "whydah",
+    "description_en" : "whydah",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
