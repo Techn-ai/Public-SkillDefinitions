@@ -46,7 +46,7 @@
   "relatesToSkill" : [ {
     "name" : "Software Product development",
     "name_en" : null,
-    "id" : "dccf7c6f-df96-4a9b-a6af-93ab90185ba3",
+    "id" : "c249320c-7c55-4938-9306-c37b5185d18e",
     "description" : "Software Product development",
     "description_en" : "Software Product development",
     "coversElement" : {
@@ -71,42 +71,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Software Product development",
-    "name_en" : null,
-    "id" : "dccf7c6f-df96-4a9b-a6af-93ab90185ba3",
-    "description" : "Software Product development",
-    "description_en" : "Software Product development",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "91cb1c02-66b0-414f-9a1b-02eb0fd818ef",
+    "id" : "9a78a4c3-9862-4133-8c03-95c23030c544",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
@@ -131,9 +101,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
