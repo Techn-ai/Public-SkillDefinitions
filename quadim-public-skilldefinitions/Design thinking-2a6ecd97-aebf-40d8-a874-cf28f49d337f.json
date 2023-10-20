@@ -1,0 +1,38 @@
+{
+  "name" : "Design thinking",
+  "name_en" : null,
+  "id" : "2a6ecd97-aebf-40d8-a874-cf28f49d337f",
+  "description" : "Design thinking refers to the set of cognitive, strategic and practical procedures used by designers in the process of designing, and to the body of knowledge that has been developed about how people reason when engaging with design problems.\n\nDesign thinking is also associated with prescriptions for the innovation of products and services within business and social contexts",
+  "description_en" : "Design thinking",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Design_thinking",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 19, 13, 36, 505260000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 13, 36, 505253000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
