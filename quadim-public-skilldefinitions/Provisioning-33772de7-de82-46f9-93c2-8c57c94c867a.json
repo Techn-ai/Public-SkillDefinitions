@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
+    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -65,12 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Continuous Integration (CI)",
     "name_en" : null,
-    "id" : "d58062bd-e71f-4539-8305-918739bafa93",
+    "id" : "5a44b1a9-d116-45b6-84fe-65841c8547c7",
     "description" : "Continuous Integration (CI)",
     "description_en" : "Continuous Integration (CI)",
     "coversElement" : {
@@ -95,9 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
