@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 30, 11, 49, 43, 744361000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "netty",
     "name_en" : null,
-    "id" : "52e789f4-8d4f-4a34-a0aa-15b11ce4c69d",
+    "id" : "761c0a41-b029-4ab8-8049-f0d758bc49f5",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "netty",
     "name_en" : null,
-    "id" : "52e789f4-8d4f-4a34-a0aa-15b11ce4c69d",
+    "id" : "761c0a41-b029-4ab8-8049-f0d758bc49f5",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
