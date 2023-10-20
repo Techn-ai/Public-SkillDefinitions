@@ -1,0 +1,33 @@
+{
+  "name" : "blitzjavaspaces",
+  "name_en" : null,
+  "id" : "b090b38f-ba75-42d2-b7f7-05cdacbc483c",
+  "description" : "blitzjavaspaces is a Java library. blitzjavaspaces has no bugs, it has no vulnerabilities, it has build file available and it has low support. You can download it from GitHub.\nThe Blitz JavaSpace Implementation. Since Github doesn’t support binary downloads, these can be found over at [Google Code](http://code.google.com/p/blitz-javaspaces/downloads/list). Use maven to compile and test. ",
+  "description_en" : "blitz javaspaces",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 18, 27, 708379000 ],
+  "lastEdited" : [ 2022, 8, 25, 7, 47, 3, 670825000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
