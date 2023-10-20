@@ -27,7 +27,7 @@
   "createdAt" : [ 2022, 5, 23, 10, 55, 46, 698821000 ],
   "lastEdited" : [ 2022, 8, 25, 7, 9, 28, 146507000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
