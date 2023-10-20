@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
+    "id" : "a891acb5-7b1f-4933-8b36-20c64a56003b",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -75,7 +75,7 @@
   }, {
     "name" : "Containers",
     "name_en" : null,
-    "id" : "baf35b43-01a1-45dd-aad9-e1f07bfc9475",
+    "id" : "f2ecd48e-8697-4e7a-afc5-cd68cc3a9f17",
     "description" : "Containers",
     "description_en" : "Containers",
     "coversElement" : {
@@ -105,7 +105,7 @@
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
+    "id" : "8fbf1b29-f777-46fc-95dc-b6cda9f0f34e",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
