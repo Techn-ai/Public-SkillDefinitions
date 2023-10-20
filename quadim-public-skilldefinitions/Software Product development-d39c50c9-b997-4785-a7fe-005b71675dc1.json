@@ -40,10 +40,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 42, 52, 484767000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 22, 33, 4852000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "c1210562-64ce-462d-ba46-100adb7654ac",
+    "id" : "91cb1c02-66b0-414f-9a1b-02eb0fd818ef",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
@@ -67,13 +68,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "c1210562-64ce-462d-ba46-100adb7654ac",
+    "id" : "91cb1c02-66b0-414f-9a1b-02eb0fd818ef",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
@@ -97,10 +98,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
