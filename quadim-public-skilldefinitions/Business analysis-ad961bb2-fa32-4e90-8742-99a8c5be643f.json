@@ -1,0 +1,42 @@
+{
+  "name" : "Business analysis",
+  "name_en" : null,
+  "id" : "ad961bb2-fa32-4e90-8742-99a8c5be643f",
+  "description" : "Business analysis is a professional discipline[1] focussed on identifying business needs and determining solutions to business problems. Solutions may include a software-systems development component, process improvements, or organizational changes, and may involve extensive analysis, strategic planning and policy development. A person dedicated to carrying out these tasks within an organization is called a business analyst or BA",
+  "description_en" : "Business analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Business_analysis",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 1, 13, 5, 14, 141264000 ],
+  "lastEdited" : [ 2023, 2, 1, 13, 5, 14, 141259000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
