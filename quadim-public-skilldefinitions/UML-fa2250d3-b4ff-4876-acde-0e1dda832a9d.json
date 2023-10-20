@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "Rational unified process (RUP) ",
     "name_en" : null,
-    "id" : "d6bd9377-8178-45c7-811b-241e384c5c66",
+    "id" : "e1193ed7-78b4-44bc-af20-d595a59bd291",
+    "description" : "Rational unified process (RUP) ",
+    "description_en" : "Rational unified process (RUP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Rational unified process (RUP) ",
+    "name_en" : null,
+    "id" : "e1193ed7-78b4-44bc-af20-d595a59bd291",
     "description" : "Rational unified process (RUP) ",
     "description_en" : "Rational unified process (RUP) ",
     "coversElement" : {
