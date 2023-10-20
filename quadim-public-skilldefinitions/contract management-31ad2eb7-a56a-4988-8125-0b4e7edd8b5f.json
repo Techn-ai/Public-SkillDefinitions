@@ -1,0 +1,40 @@
+{
+  "name" : "contract management",
+  "name_en" : null,
+  "id" : "31ad2eb7-a56a-4988-8125-0b4e7edd8b5f",
+  "description" : "Contract management is the process of managing contract creation, execution, and analysis to maximize operational and financial performance at an organization, all while reducing financial risk. Organizations encounter an ever-increasing amount of pressure to reduce costs and improve company performance.",
+  "description_en" : "contract management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.businessnewsdaily.com/4813-contract-management.html#:~:text=Contract%20management%20is%20the%20process,costs%20and%20improve%20company%20performance.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 11, 24, 45, 504124000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 22, 36, 776068000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
