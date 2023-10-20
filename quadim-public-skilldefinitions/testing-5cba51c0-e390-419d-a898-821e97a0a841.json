@@ -1,0 +1,31 @@
+{
+  "name" : "testing",
+  "name_en" : null,
+  "id" : "5cba51c0-e390-419d-a898-821e97a0a841",
+  "description" : " ",
+  "description_en" : "testing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "skillOwnerUsername" : "Selina Stenberg",
+  "editedBy" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "editedByUsername" : "Selina Stenberg",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 31, 8, 51, 38, 766791000 ],
+  "lastEdited" : [ 2022, 5, 31, 8, 51, 38, 766778000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
