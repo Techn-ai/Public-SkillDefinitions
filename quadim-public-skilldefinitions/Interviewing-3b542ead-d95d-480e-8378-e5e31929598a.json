@@ -1,0 +1,31 @@
+{
+  "name" : "Interviewing",
+  "name_en" : null,
+  "id" : "3b542ead-d95d-480e-8378-e5e31929598a",
+  "description" : " ",
+  "description_en" : "Interviewing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "skillOwnerUsername" : "Selina Stenberg",
+  "editedBy" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "editedByUsername" : "Selina Stenberg",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 31, 8, 48, 38, 896230000 ],
+  "lastEdited" : [ 2022, 5, 31, 8, 48, 38, 896221000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
