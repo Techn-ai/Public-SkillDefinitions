@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "solr",
     "name_en" : null,
-    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
+    "id" : "52b79e77-0c11-416e-bf7b-9a3de86c1949",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
+    "id" : "52b79e77-0c11-416e-bf7b-9a3de86c1949",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
