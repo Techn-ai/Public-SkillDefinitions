@@ -1,0 +1,138 @@
+{
+  "name" : "AWS ELB",
+  "name_en" : null,
+  "id" : "b942be40-1a21-436d-91d0-758f98cbde6c",
+  "description" : "Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, and IP addresses.\n\nNetwork traffic can be distributed across a single or multiple Availability Zones (AZs) within an AWS Region.\n\nThere are four types of Elastic Load Balancer (ELB) on AWS:\n\n    Classic Load Balancer (CLB) – this is the oldest of the three and provides basic load balancing at both layer 4 and layer 7.\n    Application Load Balancer (ALB) – layer 7 load balancer that routes connections based on the content of the request.\n    Network Load Balancer (NLB) – layer 4 load balancer that routes connections based on IP protocol data.\n    Gateway Load Balancer (GLB) – layer 3/4 load balancer used in front of virtual appliances such as firewalls and IDS/IPS systems.",
+  "description_en" : "aws elb",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "39dabe08-5dc7-4ea3-aee4-1aced1f07212",
+    "name" : "Technical Infrastructure",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c0e4c39d-e6fb-40bd-8fdd-4046f3b63329",
+    "name" : "AWS (Amazon Web Services)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "67b238b5-a661-4299-b737-51b9fa8aee49",
+    "name" : "Cloud computing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 23, 10, 48, 18, 41491000 ],
+  "lastEdited" : [ 2023, 9, 7, 14, 41, 2, 137726000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Technical Infrastructure",
+    "name_en" : null,
+    "id" : "d953836e-85c8-45ff-bb07-fc908178460d",
+    "description" : "Technical Infrastructure",
+    "description_en" : "Technical Infrastructure",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "AWS (Amazon Web Services)",
+    "name_en" : null,
+    "id" : "567589b4-8d55-4184-b1c4-692069494749",
+    "description" : "AWS (Amazon Web Services)",
+    "description_en" : "AWS (Amazon Web Services)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Cloud computing",
+    "name_en" : null,
+    "id" : "2b5f00fc-f130-4698-9ecf-925b2b30e208",
+    "description" : "Cloud computing",
+    "description_en" : "Cloud computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
