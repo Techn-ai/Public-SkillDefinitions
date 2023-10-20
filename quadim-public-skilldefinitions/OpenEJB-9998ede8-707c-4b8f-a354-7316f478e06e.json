@@ -1,0 +1,33 @@
+{
+  "name" : "OpenEJB",
+  "name_en" : null,
+  "id" : "9998ede8-707c-4b8f-a354-7316f478e06e",
+  "description" : "OpenEJB was founded by Richard Monson-Haefel and David Blevins in December 1999. At the time there were new vendors moving in the enterprise Java space seemingly every week. Rather than join the space as a competitor, the project was focused entirely on providing these new platforms with a way to quickly get EJB compliance via plugging OpenEJB into their application server.\n\nThe first to integrate OpenEJB in this fashion was Apple's WebObjects in late 2000, released in 2001. When the project moved to Source Forge in 2002 an Apache Tomcat integration was created. Again rather than follow what most in the industry were doing and putting Tomcat into OpenEJB, the project decided to follow its vision and provide an integration that allowed Tomcat users to plug in OpenEJB to gain EJB support in the Tomcat platform. It was in this same vein of putting an EJB container into a Web server that the project developed the Collapsed EAR concept of putting EJBs inside the .war file.\n\nAs part of the work that OpenEJB did to prepare for the integration with Apple's WebObjects, a very large integration test suite was developed. The test suite was developed as a generic application since it would need to be run against both WebObjects and other platforms that integrated OpenEJB. For simplicity in the build the test suite based on JUnit, was run with OpenEJB right inside the tests rather than as a separate process, which was easy to do as the container was designed to be plugged into other platforms and make as little assumptions about its environment as possible. It was from this work that the concept of combining an EJB application with plain unit tests and an embeddable EJB container was born. Originally referred to as a \"local\" EJB container and what lead the project to describe itself as being able to run in two modes: Local and Remote.\n\nIn August 2003 the project helped launch the Apache Geronimo application server. Originally a new version of OpenEJB was developed ground up based on Geronimo's GBean architecture and released as OpenEJB 2.0 which lived throughout the Geronimo 1.x cycle. In 2006 when EJB 3.0 was released which had a focus on simplicity, the project went back to its roots and revived the OpenEJB 1.0 codebase, ported select bits of the 2.0 codebase, and eventually brought it up to the EJB 3.0 spec level in what is now called OpenEJB 3.0. ",
+  "description_en" : "openejb",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "7bd03303-db11-4958-8cd0-dca5ad8971e1",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 23, 10, 30, 23, 104629000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 46, 55, 997976000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
