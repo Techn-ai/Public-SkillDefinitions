@@ -1,0 +1,43 @@
+{
+  "name" : "glassfish",
+  "name_en" : null,
+  "id" : "2af870d8-2dd8-42bf-826a-8a35b6ecf10a",
+  "description" : "GlassFish is an open-source Jakarta EE platform application server project started by Sun Microsystems, then sponsored by Oracle Corporation, and now living at the Eclipse Foundation and supported by Payara, Oracle and Red Hat. The supported version under Oracle was called Oracle GlassFish Server. GlassFish is free software and was initially dual-licensed under two free software licences: the Common Development and Distribution License (CDDL) and the GNU General Public License (GPL) with the Classpath exception. After having been transferred to Eclipse, GlassFish remained dual-licensed, but the CDDL license was replaced by the Eclipse Public License (EPL).",
+  "description_en" : "glassfish",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "d2726f43-16a1-42c4-8623-8d4d56ca085e",
+    "name" : "JavaServer Pages (JSP) ",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3971e83f-1832-46f2-b28f-e4a8da8a30a0",
+    "name" : "java servlet",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 34, 27, 4188000 ],
+  "lastEdited" : [ 2022, 8, 30, 13, 44, 44, 729491000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null ],
+  "relatesToSkill" : [ ]
+}
