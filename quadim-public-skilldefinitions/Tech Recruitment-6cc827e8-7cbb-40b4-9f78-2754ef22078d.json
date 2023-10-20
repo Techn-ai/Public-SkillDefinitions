@@ -1,0 +1,37 @@
+{
+  "name" : "Tech Recruitment",
+  "name_en" : null,
+  "id" : "6cc827e8-7cbb-40b4-9f78-2754ef22078d",
+  "description" : "Technology recruiting is defined as technical or IT recruiting which includes sourcing, screening, and assessing candidates who fit specific technical roles on an online platform. Technology recruiting comprises identifying quality technical talent from a sourcing pipeline to match the hiring manager's requirements",
+  "description_en" : "Tech Recruitment",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 12, 8, 27, 798243000 ],
+  "lastEdited" : [ 2022, 8, 25, 12, 8, 27, 798240000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
