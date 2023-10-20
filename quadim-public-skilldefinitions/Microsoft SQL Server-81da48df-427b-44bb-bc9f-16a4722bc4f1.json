@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 41, 16, 110845000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 10, 20, 402597000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "RDBMS",
     "name_en" : null,
-    "id" : "d6ac7d04-b181-4b51-abe1-a56714fcb977",
+    "id" : "8e4b9158-9c8c-4fe5-b457-693e33068e20",
     "description" : "RDBMS",
     "description_en" : "RDBMS",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "RDBMS",
     "name_en" : null,
-    "id" : "d6ac7d04-b181-4b51-abe1-a56714fcb977",
+    "id" : "8e4b9158-9c8c-4fe5-b457-693e33068e20",
     "description" : "RDBMS",
     "description_en" : "RDBMS",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
