@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "netty",
     "name_en" : null,
-    "id" : "761c0a41-b029-4ab8-8049-f0d758bc49f5",
+    "id" : "056b006c-9fa5-47de-9c22-db9f7a00c455",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "netty",
     "name_en" : null,
-    "id" : "761c0a41-b029-4ab8-8049-f0d758bc49f5",
+    "id" : "056b006c-9fa5-47de-9c22-db9f7a00c455",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
