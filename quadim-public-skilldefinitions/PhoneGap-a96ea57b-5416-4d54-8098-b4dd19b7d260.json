@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 45, 17, 845156000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 43, 0, 311215000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Cascading Style Sheets (CSS)",
     "name_en" : null,
-    "id" : "86936af8-7b33-4487-aee9-ba0160589dd9",
+    "id" : "64514c54-2b87-42c4-9fa7-d89344f67544",
     "description" : "Cascading Style Sheets (CSS)",
     "description_en" : "Cascading Style Sheets (CSS)",
     "coversElement" : {
@@ -71,13 +69,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Cascading Style Sheets (CSS)",
+    "name_en" : null,
+    "id" : "64514c54-2b87-42c4-9fa7-d89344f67544",
+    "description" : "Cascading Style Sheets (CSS)",
+    "description_en" : "Cascading Style Sheets (CSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "JavaScript",
     "name_en" : null,
-    "id" : "9c5eb775-b14d-4a0b-bb4c-46d33521944c",
+    "id" : "02417ff8-52d3-4a31-b283-cb27a95e0d76",
     "description" : "JavaScript",
     "description_en" : "JavaScript",
     "coversElement" : {
@@ -101,13 +129,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "e953b2bf-fb4a-4719-90e8-9e5647f1e079",
+    "id" : "a9ea1a9a-7eba-4525-8839-77b5d292d2a1",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
@@ -131,8 +159,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
