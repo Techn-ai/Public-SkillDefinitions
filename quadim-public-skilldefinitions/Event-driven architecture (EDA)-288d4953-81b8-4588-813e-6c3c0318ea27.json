@@ -43,12 +43,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 27, 57, 286741000 ],
   "lastEdited" : [ 2022, 8, 25, 6, 52, 57, 572816000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Xorcery",
     "name_en" : null,
-    "id" : "bfe88d62-70ac-4596-8c39-cc6adfc3eb6a",
+    "id" : "c5022c13-c21a-4b89-8490-17c4ab947554",
     "description" : "Xorcery",
     "description_en" : "Xorcery",
     "coversElement" : {
@@ -72,13 +70,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Xorcery",
+    "name_en" : null,
+    "id" : "c5022c13-c21a-4b89-8490-17c4ab947554",
+    "description" : "Xorcery",
+    "description_en" : "Xorcery",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "streaming data architecture",
     "name_en" : null,
-    "id" : "3f8bce46-831d-4436-8ad3-f80af32dc990",
+    "id" : "f0434cb9-3581-4c51-b5e3-1b9bb76b6e9d",
     "description" : "streaming data architecture",
     "description_en" : "streaming data architecture",
     "coversElement" : {
@@ -102,8 +130,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "streaming data architecture",
+    "name_en" : null,
+    "id" : "f0434cb9-3581-4c51-b5e3-1b9bb76b6e9d",
+    "description" : "streaming data architecture",
+    "description_en" : "streaming data architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
