@@ -1,0 +1,33 @@
+{
+  "name" : "Think!EHR Platform",
+  "name_en" : null,
+  "id" : "98a7e07b-f005-4d2c-94e1-708a61b14d74",
+  "description" : "Think!EHR Platform as vendor-neutral, open health data platform, designed for real-time, transactional health data storage enabling to go from idea to application in one hour.",
+  "description_en" : "thinkehr",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 11, 5, 31, 873410000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 31, 52, 892753000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
