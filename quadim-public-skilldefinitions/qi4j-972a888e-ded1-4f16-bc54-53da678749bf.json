@@ -1,0 +1,98 @@
+{
+  "name" : "qi4j",
+  "name_en" : null,
+  "id" : "972a888e-ded1-4f16-bc54-53da678749bf",
+  "description" : "Composite oriented programming (COP) addresses one of the short comings of OO: That the meaning of an object depends on the context.\n\nIn most OO languages today, it’s hard to change the type of an object. Actually, Object Oriented Programming should be called Class Oriented Programming because the class (the type) is the core feature which we use to build application.\n\nBut in the real world, objects can have several types. This isn’t polymorphism. It means that COP allows you use the data in an instance within the context of several classes.",
+  "description_en" : "qi4j",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "2a715a47-14e4-4b58-8578-dfa1fea493c0",
+    "name" : "java",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 34, 16, 542753000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 53, 3, 851687000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "java",
+    "name_en" : null,
+    "id" : "91a39f07-8f00-4127-a4f6-bb8b22b72ed6",
+    "description" : "java",
+    "description_en" : "java",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "java",
+    "name_en" : null,
+    "id" : "91a39f07-8f00-4127-a4f6-bb8b22b72ed6",
+    "description" : "java",
+    "description_en" : "java",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
