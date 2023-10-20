@@ -1,0 +1,33 @@
+{
+  "name" : "dips epj",
+  "name_en" : null,
+  "id" : "b7561821-ca27-412b-b0d5-f9df0a492784",
+  "description" : "DIPS includes medicine management, operation theatre\nplanning, nursing plans, order entry and management, request handling, booking, ADT, LIS,RIS in an integrated way. The solution does not include ICU, pharmacy, labor and delivery.\nDIPS is interfaced with a number of partner applications for MTUs, specialist systems,reporting purposes and patient systems.",
+  "description_en" : "dips epj",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 39, 3, 390572000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 35, 58, 921880000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
