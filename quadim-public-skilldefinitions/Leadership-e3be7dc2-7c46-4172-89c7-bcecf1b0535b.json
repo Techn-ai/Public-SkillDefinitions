@@ -1,0 +1,44 @@
+{
+  "name" : "Leadership",
+  "name_en" : null,
+  "id" : "e3be7dc2-7c46-4172-89c7-bcecf1b0535b",
+  "description" : "Leadership is the ability of an individual or a group of people to influence and guide followers or members of an organization, society or team.",
+  "description_en" : "Leadership",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.techtarget.com/searchcio/definition/leadership#:~:text=Leadership%20is%20the%20ability%20of,or%20ranking%20in%20a%20hierarchy.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 9, 9, 7, 8, 10, 344404000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 44, 10, 205313000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
