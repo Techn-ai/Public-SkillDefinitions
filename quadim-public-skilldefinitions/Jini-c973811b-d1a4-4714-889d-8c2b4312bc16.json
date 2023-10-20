@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "rmi",
     "name_en" : null,
-    "id" : "c5fa7bb3-487a-4267-8ebb-b5d19e80abb6",
+    "id" : "5e33b884-016a-4367-8d9c-da020f2a8bad",
     "description" : "rmi",
     "description_en" : "rmi",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "rmi",
     "name_en" : null,
-    "id" : "c5fa7bb3-487a-4267-8ebb-b5d19e80abb6",
+    "id" : "5e33b884-016a-4367-8d9c-da020f2a8bad",
     "description" : "rmi",
     "description_en" : "rmi",
     "coversElement" : {
