@@ -1,0 +1,43 @@
+{
+  "name" : "netty",
+  "name_en" : null,
+  "id" : "725fd1a5-24e5-44a4-8049-72ed8534189a",
+  "description" : "Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.",
+  "description_en" : "netty",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "349efc41-8fea-45b1-afc0-880836efe281",
+    "name" : "HTML",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "2258790d-47d8-4658-a2c8-d0e5d8ca144a",
+    "name" : "HTTP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 11, 1, 32, 564165000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 46, 5, 538545000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null ],
+  "relatesToSkill" : [ ]
+}
