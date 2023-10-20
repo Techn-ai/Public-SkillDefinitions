@@ -40,7 +40,37 @@
   "relatesToSkill" : [ {
     "name" : "spring framework",
     "name_en" : null,
-    "id" : "506c7b9c-0c08-40d2-b97e-964beed98b86",
+    "id" : "7f3764e4-05a5-4d69-aa74-0f3f78ccba17",
+    "description" : "spring framework",
+    "description_en" : "spring framework",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "spring framework",
+    "name_en" : null,
+    "id" : "7f3764e4-05a5-4d69-aa74-0f3f78ccba17",
     "description" : "spring framework",
     "description_en" : "spring framework",
     "coversElement" : {
@@ -72,7 +102,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
+    "id" : "efce5eda-bd97-49c7-aac3-5b2b0f0eebf9",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -102,7 +132,7 @@
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
+    "id" : "efce5eda-bd97-49c7-aac3-5b2b0f0eebf9",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
