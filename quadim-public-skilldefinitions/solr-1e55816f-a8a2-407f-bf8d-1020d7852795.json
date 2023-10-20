@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 25, 6, 37, 28, 981201000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
+    "id" : "965883a1-284c-4bc6-bb35-238461d6add8",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
+    "id" : "965883a1-284c-4bc6-bb35-238461d6add8",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
