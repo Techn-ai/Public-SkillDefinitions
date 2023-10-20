@@ -48,7 +48,7 @@
   "relatesToSkill" : [ {
     "name" : "Information architecture (IA)",
     "name_en" : null,
-    "id" : "54761c9f-f39a-460c-b9c3-f59ea27f450a",
+    "id" : "f17dae58-8290-4310-a7d8-64294145045c",
     "description" : "Information architecture (IA)",
     "description_en" : "Information architecture (IA)",
     "coversElement" : {
@@ -78,7 +78,7 @@
   }, {
     "name" : "Information architecture (IA)",
     "name_en" : null,
-    "id" : "54761c9f-f39a-460c-b9c3-f59ea27f450a",
+    "id" : "f17dae58-8290-4310-a7d8-64294145045c",
     "description" : "Information architecture (IA)",
     "description_en" : "Information architecture (IA)",
     "coversElement" : {
@@ -108,7 +108,7 @@
   }, {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "214f7ea8-edff-4de7-9f06-b22f84a807d6",
+    "id" : "44a698b3-81b1-4c15-ad79-f0936f075267",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
@@ -138,7 +138,7 @@
   }, {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "214f7ea8-edff-4de7-9f06-b22f84a807d6",
+    "id" : "44a698b3-81b1-4c15-ad79-f0936f075267",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
