@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 57, 25, 413657000 ],
   "lastEdited" : [ 2022, 8, 25, 7, 22, 37, 185586000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "configservice",
     "name_en" : null,
-    "id" : "33a7522c-3e77-402a-8574-3b82aca73b28",
+    "id" : "5e412fd0-4b22-41f6-954d-b169bd8f1d8c",
     "description" : "configservice",
     "description_en" : "configservice",
     "coversElement" : {
@@ -61,8 +59,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
