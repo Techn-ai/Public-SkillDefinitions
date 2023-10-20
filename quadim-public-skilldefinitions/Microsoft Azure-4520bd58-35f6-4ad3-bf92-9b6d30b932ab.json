@@ -1,0 +1,33 @@
+{
+  "name" : "Microsoft Azure",
+  "name_en" : null,
+  "id" : "4520bd58-35f6-4ad3-bf92-9b6d30b932ab",
+  "description" : "Azure is Microsoft's public cloud platform. Azure offers a large collection of services, which includes platform as a service (PaaS), infrastructure as a service (IaaS), and managed database service capabilities. However, what exactly is Azure, and how does it work?\n\nAzure, like other cloud platforms, relies on a technology known as virtualization. Most computer hardware can be emulated in software. Computer hardware is simply a set of instructions, which are permanently, or semi-permanently, encoded in silicon. Emulation layers are used to map software instructions to hardware instructions. Emulation layers allow virtualized hardware to execute in software like the actual hardware itself.\n\nEssentially, the cloud is a set of physical servers in one or more datacenters. The datacenters execute virtualized hardware for customers. So how does the cloud create, start, stop, and delete millions of instances of virtualized hardware for millions of customers simultaneously?\n\nTo understand the servers, let's look at the architecture of hardware in the datacenter. Inside each datacenter, there's a collection of servers sitting in server racks. Each server rack contains many server blades, and a network switch. These provide network connectivity and a power distribution unit (PDU), which creates power. Racks are sometimes grouped together in larger units known as clusters.\n\nThe server racks, or clusters, are chosen to run virtualized hardware instances for the user. However, some servers run cloud management software, known as a fabric controller. The fabric controller is a distributed application with many responsibilities. It allocates services, monitors the health of the server and the services running on it, and heals servers when they fail.\n\nEach instance of the fabric controller is connected to another set of servers running cloud orchestration software, typically known as the front end. The front end hosts the web services, RESTful APIs, and internal Azure databases, which are used for all functions in the cloud.\n\nFor example, the front end hosts the services that handle customer requests. The requests allocate Azure resources and services such as virtual machines, and Azure Cosmos DB. First, the front end validates and verifies if the user is authorized to allocate the requested resources. If so, the front end checks a database to locate a server rack with sufficient capacity, which instructs the fabric controller to allocate the resource.\n\nAzure is a huge collection of servers and networking hardware, which runs a complex set of distributed applications. These applications orchestrate the configuration and operation of virtualized hardware and software on those servers. The orchestration of these servers is what makes Azure so powerful. With Azure, users don't have to maintain and upgrade their hardware as Azure does this behind the scenes.",
+  "description_en" : "azure",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 10, 11, 3, 536408000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 12, 38, 877353000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
