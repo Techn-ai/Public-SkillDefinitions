@@ -1,0 +1,31 @@
+{
+  "name" : "Business management",
+  "name_en" : null,
+  "id" : "63cff106-c2b4-4ad4-b043-fbb90a047e76",
+  "description" : "Business management is the coordination and organization of business activities. Business managers oversee operations and help employees reach their top productivity levels. A business manager may also supervise or train new employees, help a business reach its operational and financial objectives. ",
+  "description_en" : "Business management",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 21, 9, 25, 1, 961647000 ],
+  "lastEdited" : [ 2023, 3, 21, 9, 25, 1, 961633000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
