@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "dfdd26d9-1d28-40ab-96d2-14cd7945b4a8",
+    "id" : "43ac57dd-1fd1-4a22-a909-33c207cfa451",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "dfdd26d9-1d28-40ab-96d2-14cd7945b4a8",
+    "id" : "43ac57dd-1fd1-4a22-a909-33c207cfa451",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
