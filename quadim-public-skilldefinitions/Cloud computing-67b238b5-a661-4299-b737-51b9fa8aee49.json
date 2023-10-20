@@ -1,0 +1,173 @@
+{
+  "name" : "Cloud computing",
+  "name_en" : null,
+  "id" : "67b238b5-a661-4299-b737-51b9fa8aee49",
+  "description" : "Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.\n\nRather than keeping files on a proprietary hard drive or local storage device, cloud-based storage makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it.\n\nCloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security. ",
+  "description_en" : "cloud computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "4520bd58-35f6-4ad3-bf92-9b6d30b932ab",
+    "name" : "Microsoft Azure",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "1ed52331-598a-48d0-84bc-db60f329f448",
+    "name" : "Oracle Cloud",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "326eb2ac-51b3-45ef-9e54-93df8d7b63a4",
+    "name" : "Google Cloud",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c0e4c39d-e6fb-40bd-8fdd-4046f3b63329",
+    "name" : "AWS (Amazon Web Services)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 49, 22, 570770000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 14, 13, 401572000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Microsoft Azure",
+    "name_en" : null,
+    "id" : "c8f68fdb-ed2c-4ae2-bdcc-1a9cd7bf7e78",
+    "description" : "Microsoft Azure",
+    "description_en" : "Microsoft Azure",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Oracle Cloud",
+    "name_en" : null,
+    "id" : "ffdc9b5e-6cb9-4e29-b360-e96eaf06136a",
+    "description" : "Oracle Cloud",
+    "description_en" : "Oracle Cloud",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Google Cloud",
+    "name_en" : null,
+    "id" : "d0cd030c-0baf-40d8-aa42-85583d9bca9b",
+    "description" : "Google Cloud",
+    "description_en" : "Google Cloud",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "AWS (Amazon Web Services)",
+    "name_en" : null,
+    "id" : "567589b4-8d55-4184-b1c4-692069494749",
+    "description" : "AWS (Amazon Web Services)",
+    "description_en" : "AWS (Amazon Web Services)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
