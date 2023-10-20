@@ -1,0 +1,31 @@
+{
+  "name" : "whydah",
+  "name_en" : null,
+  "id" : "33a5239e-8fe3-41a7-ace3-1c53c182edb1",
+  "description" : " ",
+  "description_en" : "whydah",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 44, 4, 86239000 ],
+  "lastEdited" : [ 2022, 5, 23, 10, 44, 4, 86235000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
