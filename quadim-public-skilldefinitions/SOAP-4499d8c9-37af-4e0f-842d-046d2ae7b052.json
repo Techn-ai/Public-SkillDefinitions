@@ -1,0 +1,31 @@
+{
+  "name" : "SOAP",
+  "name_en" : null,
+  "id" : "4499d8c9-37af-4e0f-842d-046d2ae7b052",
+  "description" : " ",
+  "description_en" : "SOAP",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "99261d8d-a9b4-4f80-a25f-94de6509f649",
+  "skillOwnerUsername" : "Steinar Haugen",
+  "editedBy" : "99261d8d-a9b4-4f80-a25f-94de6509f649",
+  "editedByUsername" : "Steinar Haugen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 24, 12, 59, 27, 143686000 ],
+  "lastEdited" : [ 2022, 5, 24, 12, 59, 27, 143685000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
