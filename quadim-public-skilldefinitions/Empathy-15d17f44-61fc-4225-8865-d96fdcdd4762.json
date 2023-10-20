@@ -1,0 +1,36 @@
+{
+  "name" : "Empathy",
+  "name_en" : null,
+  "id" : "15d17f44-61fc-4225-8865-d96fdcdd4762",
+  "description" : "Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another's position. The English word empathy is derived from the Ancient Greek ἐμπάθεια (empatheia, meaning \"physical affection or passion\").[3] That word derives from ἐν (en, \"in, at\") and πάθος (pathos, \"passion\" or \"suffering\")",
+  "description_en" : "Empathy",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Empathy",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 9, 11, 9, 1, 31, 76023000 ],
+  "lastEdited" : [ 2023, 9, 11, 9, 1, 31, 76014000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
