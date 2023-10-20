@@ -1,0 +1,33 @@
+{
+  "name" : "Communication",
+  "name_en" : null,
+  "id" : "f5c96ae6-1e6d-4e3c-b732-b960d33ee2ea",
+  "description" : "The ability to concisely get ideas across, convince others around them to get behind these ideas, and build as well as maintain strong relationships through dialogue. Communication also includes the ability to listen.",
+  "description_en" : "Communication",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 1, 25, 20, 29, 31, 360796000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 20, 51, 303411000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
