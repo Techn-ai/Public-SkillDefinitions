@@ -40,7 +40,37 @@
   "relatesToSkill" : [ {
     "name" : "jackson",
     "name_en" : null,
-    "id" : "a3e98c1d-9f2e-48ce-b7b9-114a1d4bec0a",
+    "id" : "c1bdfad8-fe50-4175-8494-e1bbf2fe2139",
+    "description" : "jackson",
+    "description_en" : "jackson",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "jackson",
+    "name_en" : null,
+    "id" : "c1bdfad8-fe50-4175-8494-e1bbf2fe2139",
     "description" : "jackson",
     "description_en" : "jackson",
     "coversElement" : {
@@ -70,7 +100,7 @@
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "ff31d164-fcdd-4976-b9cf-f31ad5f4b753",
+    "id" : "871e8d79-c06a-4184-8d5a-30854cdf0bc3",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
