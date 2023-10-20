@@ -1,0 +1,33 @@
+{
+  "name" : "apache activemq",
+  "name_en" : null,
+  "id" : "c7f702f6-c7be-472e-8753-116d25553c39",
+  "description" : " ActiveMQ is an open source protocol developed by Apache which functions as an implementation of message-oriented middleware (MOM). Its basic function is to send messages between different applications, but includes additional features like STOMP, JMS, and OpenWire. It supports enterprise features and a high number of transport protocols.\n\nWritten in Java, ActiveMQ translates messages from sender to receiver. It can connect multiple clients and servers and allows messages to be held in queue, instead of requiring both the client and server to be available simultaneously in order to communicate. Messaging can still happen even if one application is temporarily indisposed.\n",
+  "description_en" : "apache activemq",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 52, 22, 28654000 ],
+  "lastEdited" : [ 2022, 8, 25, 6, 44, 22, 64091000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
