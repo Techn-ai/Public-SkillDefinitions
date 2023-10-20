@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 59, 46, 212659000 ],
   "lastEdited" : [ 2022, 8, 26, 8, 42, 59, 154049000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "9c10635e-c191-4945-8a35-2be7b008538c",
+    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -71,13 +69,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "apache lucene",
+    "name_en" : null,
+    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
+    "description" : "apache lucene",
+    "description_en" : "apache lucene",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "1541fb2f-f0fb-42ad-9d52-30251020c9ce",
+    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -101,13 +129,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "solr",
+    "name_en" : null,
+    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
+    "description" : "solr",
+    "description_en" : "solr",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Hazelcast",
     "name_en" : null,
-    "id" : "91802bc0-29d6-46df-a86b-257644471c7d",
+    "id" : "2f71a9d5-4c40-4173-9fba-e4346463be49",
     "description" : "Hazelcast",
     "description_en" : "Hazelcast",
     "coversElement" : {
@@ -131,8 +189,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Hazelcast",
+    "name_en" : null,
+    "id" : "2f71a9d5-4c40-4173-9fba-e4346463be49",
+    "description" : "Hazelcast",
+    "description_en" : "Hazelcast",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
