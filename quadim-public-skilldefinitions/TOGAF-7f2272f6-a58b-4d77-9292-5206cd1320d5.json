@@ -1,0 +1,37 @@
+{
+  "name" : "TOGAF",
+  "name_en" : null,
+  "id" : "7f2272f6-a58b-4d77-9292-5206cd1320d5",
+  "description" : "TOGAF®, introduced by The Open Group, is a proven enterprise architecture methodology and framework used by the world's leading organizations to improve business efficiency. It is an enterprise architecture standard, ensuring consistent standards, methods, and communication among enterprise architecture professionals, so that we can conduct our enterprise architecture work in a better way, including:\n\n    An iterative process model supported by best practices\n    A re-usable set of existing architecture assets\n    Methods and tools for the planning, development, implementation, and maintenance of an enterprise architecture\n\n",
+  "description_en" : "togaf",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 21, 20, 138599000 ],
+  "lastEdited" : [ 2022, 8, 26, 10, 56, 36, 504958000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
