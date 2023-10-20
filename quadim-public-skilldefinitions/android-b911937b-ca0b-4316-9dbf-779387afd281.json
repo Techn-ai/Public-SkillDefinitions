@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
+    "id" : "41c50030-591d-4727-a671-611cf751f36b",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -65,12 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Mobile solutions",
     "name_en" : null,
-    "id" : "e9487d4e-3891-437c-9cef-67ef0b56e096",
+    "id" : "6c05379f-f6ec-49bd-b7da-bdf8cc935eb4",
     "description" : "Mobile solutions",
     "description_en" : "Mobile solutions",
     "coversElement" : {
@@ -95,39 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Mobile solutions",
-    "name_en" : null,
-    "id" : "e9487d4e-3891-437c-9cef-67ef0b56e096",
-    "description" : "Mobile solutions",
-    "description_en" : "Mobile solutions",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
