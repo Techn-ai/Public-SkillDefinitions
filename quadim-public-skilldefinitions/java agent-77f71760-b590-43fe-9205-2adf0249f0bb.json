@@ -1,0 +1,33 @@
+{
+  "name" : "java agent",
+  "name_en" : null,
+  "id" : "77f71760-b590-43fe-9205-2adf0249f0bb",
+  "description" : "Java agents are a special type of class which, by using the Java Instrumentation API, can intercept applications running on the JVM, modifying their bytecode. Java agents are extremely powerful and also dangerous.\n\nBefore diving in, I will explain how a Java Agent intercepts a Class using the simple HelloWorld Example.\nJava\n\n1\n\npublic class Hello {\n\n2\n\n    public static void main(String[] args){\n\n3\n\n        System.out.println(\"hello world\");\n\n4\n\n    }\n\n5\n\n}\n\n\nAs shown in the below diagram, Classloaders are in charge of loading classes from binary to in-memory. When you run the compiled HelloWorld application (HelloWorld.class), the agent could be viewed as a way to intercept classloaders behavior at runtime. You may think how come the java byte code will be restructured so that agent can add the relevant code at the correct places. The interesting fact is, for Java programs, the structure of the bytecode is really close to the original Java program source code. Hence, while we don’t instrument the Java program itself, we use a very close representation of it. One thing to note is that there are non-Java languages that compile into Java bytecode (such as Scala, Clojure, and Kotlin), which means that the structure and shape of the bytecode for programs can be very different.",
+  "description_en" : "java agent",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "7bd03303-db11-4958-8cd0-dca5ad8971e1",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 23, 10, 56, 6, 764025000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 32, 23, 908197000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
