@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "name_en" : null,
-    "id" : "2560ae20-11c5-45ab-9240-b2e451291db7",
+    "id" : "b458a652-87d6-4fee-b7a7-0b449ba64dfd",
     "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "coversElement" : {
@@ -75,7 +75,7 @@
   }, {
     "name" : "XML Schema Definition (XSD)",
     "name_en" : null,
-    "id" : "ec114420-445a-496d-9fe1-3c8ac63a8fcb",
+    "id" : "ff0af980-697d-4cd1-aaf2-2d1af1e224d2",
     "description" : "XML Schema Definition (XSD)",
     "description_en" : "XML Schema Definition (XSD)",
     "coversElement" : {
@@ -107,7 +107,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "XML",
     "name_en" : null,
-    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
+    "id" : "ea02d204-8d0a-454b-8bfd-3870fece3bf6",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -137,7 +137,7 @@
   }, {
     "name" : "XML",
     "name_en" : null,
-    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
+    "id" : "ea02d204-8d0a-454b-8bfd-3870fece3bf6",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
