@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 8, 28, 11, 11, 44, 316643000 ],
   "lastEdited" : [ 2022, 8, 28, 11, 16, 44, 341792000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "rmi",
     "name_en" : null,
-    "id" : "88e68669-97ba-4647-b285-20d0fda2b0b5",
+    "id" : "810457a8-eda2-4894-baa5-af9ec07e0f28",
     "description" : "rmi",
     "description_en" : "rmi",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "rmi",
     "name_en" : null,
-    "id" : "88e68669-97ba-4647-b285-20d0fda2b0b5",
+    "id" : "810457a8-eda2-4894-baa5-af9ec07e0f28",
     "description" : "rmi",
     "description_en" : "rmi",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
