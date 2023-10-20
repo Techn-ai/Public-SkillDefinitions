@@ -1,0 +1,43 @@
+{
+  "name" : "CORBA",
+  "name_en" : null,
+  "id" : "335ae8a9-7cf9-4865-9dba-87178380b389",
+  "description" : "CORBA is a standard for distributing objects across networks so that operations on those objects can be called remotely. CORBA is not associated with a particular programming language, and any language with a CORBA binding can be used to call and implement CORBA objects.",
+  "description_en" : "corba",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "91b21c5d-5462-464c-810b-88661cade4e9",
+    "name" : "tcp/ip",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3105a080-6e92-4daf-a35c-54e41df079c1",
+    "name" : "sockets",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 7, 18, 285755000 ],
+  "lastEdited" : [ 2022, 8, 25, 13, 17, 0, 121184000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null ],
+  "relatesToSkill" : [ ]
+}
