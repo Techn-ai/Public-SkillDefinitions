@@ -1,0 +1,35 @@
+{
+  "name" : "FEST",
+  "name_en" : null,
+  "id" : "5e8dd254-38cd-4081-862a-e844b262e094",
+  "description" : "FEST is a Norwegian database and information service aimed towards providing all the required pharmaceutical data to different stakeholders such as hospitals, pharmaceutical companies, and practitioners. FEST being a complete pharmaceutical database, ensures every information related to drugs such as dosage, form of drug, interactions, and brand. The FEST database is represented as an XML and schema files. ",
+  "description_en" : "fest",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 11, 5, 24, 868961000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 30, 42, 921352000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
