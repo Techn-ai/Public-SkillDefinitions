@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "41c50030-591d-4727-a671-611cf751f36b",
+    "id" : "d228db36-a8bf-4c64-821f-8d376507c864",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -75,7 +75,7 @@
   }, {
     "name" : "rest",
     "name_en" : null,
-    "id" : "0e81120d-3255-4cd1-851a-908a277a3a49",
+    "id" : "9ebd369d-6de9-4e4c-a785-53039ba62cdd",
     "description" : "rest",
     "description_en" : "rest",
     "coversElement" : {
@@ -105,7 +105,37 @@
   }, {
     "name" : "web services",
     "name_en" : null,
-    "id" : "883c85a6-1285-42f3-a405-f3275213f6fa",
+    "id" : "e4569d64-6910-4469-8939-a5ec7fe6ce82",
+    "description" : "web services",
+    "description_en" : "web services",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "web services",
+    "name_en" : null,
+    "id" : "e4569d64-6910-4469-8939-a5ec7fe6ce82",
     "description" : "web services",
     "description_en" : "web services",
     "coversElement" : {
