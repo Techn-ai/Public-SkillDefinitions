@@ -1,0 +1,35 @@
+{
+  "name" : "Content management system (CMS)",
+  "name_en" : null,
+  "id" : "0ee09f02-616a-4797-b580-9169a9746d34",
+  "description" : "A content management system (CMS) is a software application that enables users to create, edit, collaborate on, publish and store digital content. CMSes are typically used for enterprise content management (ECM) and web content management (WCM).",
+  "description_en" : "cms",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 13, 11, 60600000 ],
+  "lastEdited" : [ 2023, 10, 7, 15, 55, 2, 861246000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
