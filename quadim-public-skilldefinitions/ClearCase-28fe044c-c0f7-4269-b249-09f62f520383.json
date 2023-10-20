@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "GitLab",
     "name_en" : null,
-    "id" : "4147eed7-bdbf-42c7-a47e-1abb4fd0f6f6",
+    "id" : "0507454d-d4e0-4e0a-a990-653de4075f26",
     "description" : "GitLab",
     "description_en" : "GitLab",
     "coversElement" : {
@@ -65,42 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "GitLab",
-    "name_en" : null,
-    "id" : "4147eed7-bdbf-42c7-a47e-1abb4fd0f6f6",
-    "description" : "GitLab",
-    "description_en" : "GitLab",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "GitHub",
     "name_en" : null,
-    "id" : "7a241a05-754a-4a8a-905f-d40869fd3b38",
+    "id" : "0aef244b-49ac-441f-aeea-27b8458f1893",
     "description" : "GitHub",
     "description_en" : "GitHub",
     "coversElement" : {
@@ -125,39 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "GitHub",
-    "name_en" : null,
-    "id" : "7a241a05-754a-4a8a-905f-d40869fd3b38",
-    "description" : "GitHub",
-    "description_en" : "GitHub",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
