@@ -1,0 +1,68 @@
+{
+  "name" : "UML",
+  "name_en" : null,
+  "id" : "fa2250d3-b4ff-4876-acde-0e1dda832a9d",
+  "description" : "The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.[1]\nThe creation of UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design. It was developed at Rational Software in 1994–1995, with further development led by them through 1996.\n\nIn 1997, UML was adopted as a standard by the Object Management Group (OMG), and has been managed by this organization ever since. In 2005, UML was also published by the International Organization for Standardization (ISO) as an approved ISO standard. Since then the standard has been periodically revised to cover the latest revision of UML. In software engineering, most practitioners do not use UML, but instead produce informal hand drawn diagrams; these diagrams, however, often include elements from UML.",
+  "description_en" : "uml",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "bd3f5631-529d-4748-8749-23adc7a755ff",
+    "name" : "Rational unified process (RUP) ",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 8, 15, 165790000 ],
+  "lastEdited" : [ 2022, 8, 26, 10, 58, 35, 897540000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Rational unified process (RUP) ",
+    "name_en" : null,
+    "id" : "d86d6376-eabe-44a5-8983-4a58247f106c",
+    "description" : "Rational unified process (RUP) ",
+    "description_en" : "Rational unified process (RUP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
