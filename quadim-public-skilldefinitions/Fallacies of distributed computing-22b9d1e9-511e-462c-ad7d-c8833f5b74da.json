@@ -1,0 +1,35 @@
+{
+  "name" : "Fallacies of distributed computing",
+  "name_en" : null,
+  "id" : "22b9d1e9-511e-462c-ad7d-c8833f5b74da",
+  "description" : "The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make. \n\nThe fallacies are\n\n    The network is reliable;\n    Latency is zero;\n    Bandwidth is infinite;\n    The network is secure;\n    Topology doesn't change;\n    There is one administrator;\n    Transport cost is zero;\n    The network is homogeneous. ",
+  "description_en" : "Fallacies of distributed computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 26, 9, 5, 44, 383120000 ],
+  "lastEdited" : [ 2022, 8, 26, 9, 6, 19, 782651000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
