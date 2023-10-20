@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "Fallacies of distributed computing",
     "name_en" : null,
-    "id" : "3d4d41ba-d69b-49c7-9eb0-cd5c16c04a75",
+    "id" : "f899f9b9-bf1d-4fae-928a-0f94bbf4cf0c",
+    "description" : "Fallacies of distributed computing",
+    "description_en" : "Fallacies of distributed computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Fallacies of distributed computing",
+    "name_en" : null,
+    "id" : "f899f9b9-bf1d-4fae-928a-0f94bbf4cf0c",
     "description" : "Fallacies of distributed computing",
     "description_en" : "Fallacies of distributed computing",
     "coversElement" : {
