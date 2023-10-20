@@ -1,0 +1,42 @@
+{
+  "name" : "Business development",
+  "name_en" : null,
+  "id" : "bc0461d7-aa2a-42a7-b785-d6a563689c35",
+  "description" : "Business development entails tasks and processes to develop and implement growth opportunities within and between organizations.[1] It is a subset of the fields of business, commerce and organizational theory. Business development is the creation of long-term value for an organization from customers, markets, and relationships.[2] Business development can be taken to mean any activity by either a small or large organization, non-profit or for-profit enterprise which serves the purpose of ‘developing’ the business in some way. In addition, business development activities can be done internally or externally by a business development consultant. External business development can be facilitated through Planning Systems, which are put in place by governments to help small businesses. In addition, reputation building has also proven to help facilitate business development.",
+  "description_en" : "Business development",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Business_development",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 53, 31, 4309000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 53, 31, 4301000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
