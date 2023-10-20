@@ -1,0 +1,138 @@
+{
+  "name" : "zachman",
+  "name_en" : null,
+  "id" : "926c7940-03f8-43dd-a362-c17e57c9585d",
+  "description" : " The Zachman Framework is an enterprise ontology and is a fundamental structure for enterprise architecture which provides a formal and structured way of viewing and defining an enterprise. The ontology is a two dimensional classification schema that reflects the intersection between two historical classifications.",
+  "description_en" : "zachman",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "919cd884-f3e4-4e25-b09b-37fe9c13235f",
+    "name" : "sparx enterprise architect",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "76bcc806-1b86-4339-ae2d-4a0048af4b47",
+    "name" : "enterprise architect",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "20ebaa0a-dbb1-4656-add7-2bad7d13a703",
+    "name" : "system architecture",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 19, 53, 11745000 ],
+  "lastEdited" : [ 2022, 8, 25, 7, 49, 43, 474131000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "sparx enterprise architect",
+    "name_en" : null,
+    "id" : "daaf394d-aa8a-4496-903e-e8abee774180",
+    "description" : "sparx enterprise architect",
+    "description_en" : "sparx enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "enterprise architect",
+    "name_en" : null,
+    "id" : "9b1ea494-3ccc-47b6-a1ac-b50839c6a84c",
+    "description" : "enterprise architect",
+    "description_en" : "enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "system architecture",
+    "name_en" : null,
+    "id" : "0358e5b9-1f56-4b66-90cb-ad90b722482e",
+    "description" : "system architecture",
+    "description_en" : "system architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
