@@ -92,7 +92,37 @@
   "relatesToSkill" : [ {
     "name" : "Due Diligence",
     "name_en" : null,
-    "id" : "e81f5e63-1353-4580-9e3f-b4405633180a",
+    "id" : "7e86b4bd-889b-4b39-b7e4-825b26548627",
+    "description" : "Due Diligence",
+    "description_en" : "Due Diligence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Due Diligence",
+    "name_en" : null,
+    "id" : "7e86b4bd-889b-4b39-b7e4-825b26548627",
     "description" : "Due Diligence",
     "description_en" : "Due Diligence",
     "coversElement" : {
@@ -122,7 +152,7 @@
   }, {
     "name" : "Data analysis",
     "name_en" : null,
-    "id" : "a43a8658-48c8-4940-a1d0-306bc0a93c02",
+    "id" : "fd83c48a-fe7f-41b0-946e-87499e3281c6",
     "description" : "Data analysis",
     "description_en" : "Data analysis",
     "coversElement" : {
@@ -152,7 +182,7 @@
   }, {
     "name" : "Risk management",
     "name_en" : null,
-    "id" : "4715a576-d401-406f-8d58-6b63f55db27c",
+    "id" : "4306c45d-f178-4d29-b1b1-40335cac86e6",
     "description" : "Risk management",
     "description_en" : "Risk management",
     "coversElement" : {
@@ -182,7 +212,37 @@
   }, {
     "name" : "financial acumen",
     "name_en" : null,
-    "id" : "d9cf923c-9294-4bea-af7f-4964b9aa592b",
+    "id" : "b628d00c-0a3c-4cdb-a46d-1ff6c139cc5d",
+    "description" : "financial acumen",
+    "description_en" : "financial acumen",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "financial acumen",
+    "name_en" : null,
+    "id" : "b628d00c-0a3c-4cdb-a46d-1ff6c139cc5d",
     "description" : "financial acumen",
     "description_en" : "financial acumen",
     "coversElement" : {
@@ -212,7 +272,7 @@
   }, {
     "name" : "Financial management",
     "name_en" : null,
-    "id" : "eaec77b2-3020-4b15-b513-d810d92cd281",
+    "id" : "719a7af5-38a9-41ea-8f40-01ea4d38f382",
     "description" : "Financial management",
     "description_en" : "Financial management",
     "coversElement" : {
@@ -242,7 +302,37 @@
   }, {
     "name" : "Business strategy",
     "name_en" : null,
-    "id" : "21cd0835-5551-4199-a447-4fcac41452a1",
+    "id" : "badefae2-c924-4789-81c7-1f0d90ae706e",
+    "description" : "Business strategy",
+    "description_en" : "Business strategy",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Business strategy",
+    "name_en" : null,
+    "id" : "badefae2-c924-4789-81c7-1f0d90ae706e",
     "description" : "Business strategy",
     "description_en" : "Business strategy",
     "coversElement" : {
@@ -272,7 +362,7 @@
   }, {
     "name" : "Communication",
     "name_en" : null,
-    "id" : "ee71a369-bfb0-48eb-9a8f-129d7d560105",
+    "id" : "8226b038-c32e-4ef8-965b-3752c1cc5c95",
     "description" : "Communication",
     "description_en" : "Communication",
     "coversElement" : {
@@ -302,7 +392,37 @@
   }, {
     "name" : "networking",
     "name_en" : null,
-    "id" : "f37398c3-01f2-44c2-a0a4-1feb38d2cef8",
+    "id" : "bba024c7-0b3b-43bf-9db0-dcc9306d3ed7",
+    "description" : "networking",
+    "description_en" : "networking",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "networking",
+    "name_en" : null,
+    "id" : "bba024c7-0b3b-43bf-9db0-dcc9306d3ed7",
     "description" : "networking",
     "description_en" : "networking",
     "coversElement" : {
@@ -334,7 +454,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Founder",
     "name_en" : null,
-    "id" : "2b18f91a-f4be-41ab-ac63-01aeea8c5139",
+    "id" : "8c7e47a1-f30c-4e90-bcda-462c68569681",
     "description" : "Founder",
     "description_en" : "Founder",
     "coversElement" : {
@@ -364,7 +484,7 @@
   }, {
     "name" : "Founder",
     "name_en" : null,
-    "id" : "2b18f91a-f4be-41ab-ac63-01aeea8c5139",
+    "id" : "8c7e47a1-f30c-4e90-bcda-462c68569681",
     "description" : "Founder",
     "description_en" : "Founder",
     "coversElement" : {
@@ -394,7 +514,7 @@
   }, {
     "name" : "Scaling businesses",
     "name_en" : null,
-    "id" : "602b7576-006c-41ee-a41d-6fc742bc0143",
+    "id" : "2a1a35cc-22c7-4216-9f62-e190b38b6818",
     "description" : "Scaling businesses",
     "description_en" : "Scaling businesses",
     "coversElement" : {
@@ -424,7 +544,7 @@
   }, {
     "name" : "Scaling businesses",
     "name_en" : null,
-    "id" : "602b7576-006c-41ee-a41d-6fc742bc0143",
+    "id" : "2a1a35cc-22c7-4216-9f62-e190b38b6818",
     "description" : "Scaling businesses",
     "description_en" : "Scaling businesses",
     "coversElement" : {
@@ -454,7 +574,7 @@
   }, {
     "name" : "Saas Founder",
     "name_en" : null,
-    "id" : "466d4c83-9a05-4ab4-9d43-77f30a1dffa2",
+    "id" : "cb51bf7b-391a-46ea-8449-3eac7ebdfcfd",
     "description" : "Saas Founder",
     "description_en" : "Saas Founder",
     "coversElement" : {
@@ -484,7 +604,7 @@
   }, {
     "name" : "Saas Founder",
     "name_en" : null,
-    "id" : "466d4c83-9a05-4ab4-9d43-77f30a1dffa2",
+    "id" : "cb51bf7b-391a-46ea-8449-3eac7ebdfcfd",
     "description" : "Saas Founder",
     "description_en" : "Saas Founder",
     "coversElement" : {
