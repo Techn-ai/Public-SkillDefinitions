@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "spring framework",
     "name_en" : null,
-    "id" : "17d93031-5f36-4462-be90-41918a7a1f2f",
+    "id" : "506c7b9c-0c08-40d2-b97e-964beed98b86",
     "description" : "spring framework",
     "description_en" : "spring framework",
     "coversElement" : {
@@ -65,43 +65,14 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "spring framework",
-    "name_en" : null,
-    "id" : "17d93031-5f36-4462-be90-41918a7a1f2f",
-    "description" : "spring framework",
-    "description_en" : "spring framework",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -126,12 +97,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -156,8 +127,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
