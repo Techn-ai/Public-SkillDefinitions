@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
+    "id" : "a891acb5-7b1f-4933-8b36-20c64a56003b",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -70,7 +70,7 @@
   }, {
     "name" : "Jenkins",
     "name_en" : null,
-    "id" : "e10e5e13-a4e9-4990-b83d-bdea2b4ea6cd",
+    "id" : "48eef974-3281-44fb-9467-b0fc4957fb48",
     "description" : "Jenkins",
     "description_en" : "Jenkins",
     "coversElement" : {
