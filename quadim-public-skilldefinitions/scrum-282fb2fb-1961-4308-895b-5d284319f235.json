@@ -42,7 +42,37 @@
   "relatesToSkill" : [ {
     "name" : "Kanban",
     "name_en" : null,
-    "id" : "374ce7c6-5fe9-4071-a3e4-e608c2f29ec5",
+    "id" : "484a9f16-139d-410b-932b-03df06eed805",
+    "description" : "Kanban",
+    "description_en" : "Kanban",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Kanban",
+    "name_en" : null,
+    "id" : "484a9f16-139d-410b-932b-03df06eed805",
     "description" : "Kanban",
     "description_en" : "Kanban",
     "coversElement" : {
@@ -74,7 +104,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "32080b66-1e21-4baa-9787-cc68877bcfae",
+    "id" : "306a5eff-92f7-43ff-af54-2a9e977a89a2",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
@@ -104,7 +134,7 @@
   }, {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "32080b66-1e21-4baa-9787-cc68877bcfae",
+    "id" : "306a5eff-92f7-43ff-af54-2a9e977a89a2",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
