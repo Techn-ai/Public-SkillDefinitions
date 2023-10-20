@@ -1,0 +1,31 @@
+{
+  "name" : "Customer Service",
+  "name_en" : null,
+  "id" : "6e3da15d-4816-4030-8497-e6465d08cc01",
+  "description" : "Customer service is the provision of service to customers before, during, and after a purchase. This makes it an important part of the value chain of clients. Each industry requires different levels of customer service, but in the end, the idea of a well-performed service is that of increasing revenues. ",
+  "description_en" : "Customer Service",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 11, 26, 18, 356435000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 26, 18, 356431000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
