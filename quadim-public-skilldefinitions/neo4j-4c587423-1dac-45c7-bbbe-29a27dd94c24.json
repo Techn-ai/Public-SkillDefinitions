@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "nosql",
     "name_en" : null,
-    "id" : "5a220eed-9b09-4e6f-ae2d-64a17c4ea7d7",
+    "id" : "17cf305e-130a-4c52-b509-7f813a80fbaf",
     "description" : "nosql",
     "description_en" : "nosql",
     "coversElement" : {
@@ -70,7 +70,37 @@
   }, {
     "name" : "polyglot persistence",
     "name_en" : null,
-    "id" : "b2998b98-6793-47d8-bad8-c7eb900a41c4",
+    "id" : "5833bdf4-1125-4929-ab25-6c63dbea64c0",
+    "description" : "polyglot persistence",
+    "description_en" : "polyglot persistence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "polyglot persistence",
+    "name_en" : null,
+    "id" : "5833bdf4-1125-4929-ab25-6c63dbea64c0",
     "description" : "polyglot persistence",
     "description_en" : "polyglot persistence",
     "coversElement" : {
