@@ -1,0 +1,37 @@
+{
+  "name" : "Enterprise architecture (EA)",
+  "name_en" : null,
+  "id" : "4ceeb01c-a2c7-4a88-aae5-217ae8c9e3e3",
+  "description" : "An enterprise architecture (EA) is a conceptual blueprint that defines the structure and operation of organizations. The intent of enterprise architecture is to determine how an organization can effectively achieve its current and future objectives.",
+  "description_en" : "virksomhetsarkitektur",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 21, 8, 989934000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 47, 0, 995475000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
