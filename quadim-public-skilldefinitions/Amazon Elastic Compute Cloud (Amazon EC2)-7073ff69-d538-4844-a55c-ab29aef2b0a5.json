@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "virtualization",
     "name_en" : null,
-    "id" : "a56158f8-0ab8-4676-9968-c68ec419a0f4",
+    "id" : "4fb661fa-b6d7-40ad-b263-6b981275f0de",
     "description" : "virtualization",
     "description_en" : "virtualization",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "virtualization",
     "name_en" : null,
-    "id" : "a56158f8-0ab8-4676-9968-c68ec419a0f4",
+    "id" : "4fb661fa-b6d7-40ad-b263-6b981275f0de",
     "description" : "virtualization",
     "description_en" : "virtualization",
     "coversElement" : {
