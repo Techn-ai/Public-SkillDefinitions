@@ -1,0 +1,31 @@
+{
+  "name" : "Personality test analysis",
+  "name_en" : null,
+  "id" : "80aa6ef1-0358-4f17-8900-8afe145c05ad",
+  "description" : " ",
+  "description_en" : "Personality test analysis",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "skillOwnerUsername" : "Selina Stenberg",
+  "editedBy" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "editedByUsername" : "Selina Stenberg",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 31, 8, 56, 53, 367907000 ],
+  "lastEdited" : [ 2022, 5, 31, 8, 56, 53, 367903000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
