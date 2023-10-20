@@ -37,10 +37,11 @@
   "createdAt" : [ 2022, 8, 25, 10, 55, 15, 996549000 ],
   "lastEdited" : [ 2022, 8, 25, 11, 39, 5, 287956000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -64,13 +65,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -94,13 +95,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "servlet",
     "name_en" : null,
-    "id" : "c3d3bf1d-be76-483a-a6c4-731097f8cc68",
+    "id" : "9c09a91d-de09-4a04-a4bc-0275edfa9638",
     "description" : "servlet",
     "description_en" : "servlet",
     "coversElement" : {
@@ -124,13 +125,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "servlet",
     "name_en" : null,
-    "id" : "c3d3bf1d-be76-483a-a6c4-731097f8cc68",
+    "id" : "9c09a91d-de09-4a04-a4bc-0275edfa9638",
     "description" : "servlet",
     "description_en" : "servlet",
     "coversElement" : {
@@ -154,10 +155,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
