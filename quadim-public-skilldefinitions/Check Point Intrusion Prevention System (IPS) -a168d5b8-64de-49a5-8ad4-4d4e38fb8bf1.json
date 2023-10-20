@@ -32,10 +32,12 @@
   "createdAt" : [ 2022, 5, 23, 10, 50, 51, 94050000 ],
   "lastEdited" : [ 2022, 8, 30, 9, 36, 1, 840727000 ],
   "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "intrusion prevention system (ips)",
     "name_en" : null,
-    "id" : "2768636a-653b-4be2-9a31-5c14d3b84ff5",
+    "id" : "74d58709-a113-4afa-aaa8-a30ea464dfd5",
     "description" : "intrusion prevention system (ips)",
     "description_en" : "intrusion prevention system (ips)",
     "coversElement" : {
@@ -59,40 +61,8 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  }, {
-    "name" : "intrusion prevention system (ips)",
-    "name_en" : null,
-    "id" : "2768636a-653b-4be2-9a31-5c14d3b84ff5",
-    "description" : "intrusion prevention system (ips)",
-    "description_en" : "intrusion prevention system (ips)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
+  } ]
 }
