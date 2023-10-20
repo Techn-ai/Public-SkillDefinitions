@@ -1,0 +1,31 @@
+{
+  "name" : "Technical expertise",
+  "name_en" : null,
+  "id" : "14255663-2f57-4da3-ac4d-f875c3d3aebd",
+  "description" : "The ability to understand and develop software, as well as the ability to oversee and manage technical teams. ",
+  "description_en" : "Technical expertise",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 4, 27, 10, 24, 5, 231125000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 24, 5, 231122000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
