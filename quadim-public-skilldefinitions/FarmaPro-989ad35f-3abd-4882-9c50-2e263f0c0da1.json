@@ -34,10 +34,12 @@
   "createdAt" : [ 2022, 5, 23, 10, 49, 45, 140548000 ],
   "lastEdited" : [ 2022, 8, 30, 9, 30, 46, 685201000 ],
   "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "eHealth",
     "name_en" : null,
-    "id" : "44ac7db9-1ad0-490c-9a72-56d8437a08c1",
+    "id" : "6cf5e214-e755-472d-8906-a8a2c7efe91b",
     "description" : "eHealth",
     "description_en" : "eHealth",
     "coversElement" : {
@@ -61,10 +63,8 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
+  } ]
 }
