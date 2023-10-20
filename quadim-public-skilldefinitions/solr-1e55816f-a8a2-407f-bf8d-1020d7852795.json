@@ -1,0 +1,98 @@
+{
+  "name" : "solr",
+  "name_en" : null,
+  "id" : "1e55816f-a8a2-407f-bf8d-1020d7852795",
+  "description" : "Apache Solr is an open source search platform built upon a Java library called Lucene.\n\nSolr is a popular search platform for Web sites because it can index and search multiple sites and return recommendations for related content based on the search query’s taxonomy. Solr is also a popular search platform for enterprise search because it can be used to index and search documents and email attachments.\n\nSolr works with Hypertext Transfer Protocol (HTTP) Extensible Markup Language (XML). It offers application program interfaces (APIs) for Javascript Object Notation (JSON), Python, and Ruby. According to the Apache Lucene Project, Solr offers capabilities that have made it popular with administrators including:\n\n    Indexing in near real time\n    Automated index replication\n    Server statistics logging\n    Automated failover and recovery\n    Rich document Parsing and indexing\n    Multiple search indexes\n    User-extensible caching\n    Design for high-volume traffic\n    Scalability, flexibility and extensibility\n    Advanced full-text searching\n    Geospatial searching\n    Load-balanced querying\n",
+  "description_en" : "solr",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "b3d207af-8b92-4fc3-9acb-7ece832a2a18",
+    "name" : "apache lucene",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 45, 22, 903824000 ],
+  "lastEdited" : [ 2022, 8, 25, 6, 37, 28, 981201000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "apache lucene",
+    "name_en" : null,
+    "id" : "9c10635e-c191-4945-8a35-2be7b008538c",
+    "description" : "apache lucene",
+    "description_en" : "apache lucene",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "apache lucene",
+    "name_en" : null,
+    "id" : "9c10635e-c191-4945-8a35-2be7b008538c",
+    "description" : "apache lucene",
+    "description_en" : "apache lucene",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
