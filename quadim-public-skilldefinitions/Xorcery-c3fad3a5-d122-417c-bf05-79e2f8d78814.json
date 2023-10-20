@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 8, 25, 6, 51, 47, 863672000 ],
   "lastEdited" : [ 2022, 8, 26, 9, 27, 23, 138630000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ null ],
   "relatesToSkill" : [ {
     "name" : "microservice architecture",
     "name_en" : null,
-    "id" : "1437c32c-ff96-4ee3-bd74-c223c00e6736",
+    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
     "description" : "microservice architecture",
     "description_en" : "microservice architecture",
     "coversElement" : {
@@ -71,13 +69,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "microservice architecture",
+    "name_en" : null,
+    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
+    "description" : "microservice architecture",
+    "description_en" : "microservice architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Fallacies of distributed computing",
     "name_en" : null,
-    "id" : "0a2e33e6-972f-45f4-b7ff-afd3bcdf2728",
+    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
     "description" : "Fallacies of distributed computing",
     "description_en" : "Fallacies of distributed computing",
     "coversElement" : {
@@ -101,8 +129,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null ]
 }
