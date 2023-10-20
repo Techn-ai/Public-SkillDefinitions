@@ -1,0 +1,33 @@
+{
+  "name" : "Facebook API",
+  "name_en" : null,
+  "id" : "a07a9ee7-0578-401d-8bcc-78790e9cf09d",
+  "description" : "The Facebook Graph API is an HTTP-based API that allows developers to extract data and functionality from the Facebook platform. Applications can use this API to programmatically query data, post in pages and groups, and manage ads, among other tasks.",
+  "description_en" : "facebook",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 45, 53, 776852000 ],
+  "lastEdited" : [ 2022, 8, 30, 11, 45, 2, 139041000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
