@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "microservice architecture",
     "name_en" : null,
-    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
+    "id" : "f9b0947a-c7d7-4602-8b9d-c71d810173c8",
     "description" : "microservice architecture",
     "description_en" : "microservice architecture",
     "coversElement" : {
@@ -70,42 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "microservice architecture",
-    "name_en" : null,
-    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
-    "description" : "microservice architecture",
-    "description_en" : "microservice architecture",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Fallacies of distributed computing",
     "name_en" : null,
-    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
+    "id" : "3d4d41ba-d69b-49c7-9eb0-cd5c16c04a75",
     "description" : "Fallacies of distributed computing",
     "description_en" : "Fallacies of distributed computing",
     "coversElement" : {
@@ -130,9 +100,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ null ]
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
 }
