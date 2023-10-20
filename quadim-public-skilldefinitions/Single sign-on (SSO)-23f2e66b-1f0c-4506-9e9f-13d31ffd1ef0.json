@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "whydah",
     "name_en" : null,
-    "id" : "5a24e0db-8af5-456f-b5b5-17aeff83b1d3",
+    "id" : "9aa9c412-0480-407f-8161-e000aa168df2",
+    "description" : "whydah",
+    "description_en" : "whydah",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "whydah",
+    "name_en" : null,
+    "id" : "9aa9c412-0480-407f-8161-e000aa168df2",
     "description" : "whydah",
     "description_en" : "whydah",
     "coversElement" : {
