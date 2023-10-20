@@ -1,0 +1,68 @@
+{
+  "name" : "maven",
+  "name_en" : null,
+  "id" : "453479e8-86d6-4d56-96a0-27a2ffbe0cb1",
+  "description" : "Maven is a popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management. The tool provides allows developers to build and document the lifecycle framework.",
+  "description_en" : "maven",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d0fc0e0b-3f0f-4651-87cb-a4f0655b17ab",
+    "name" : "maven 3",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 15, 52, 777099000 ],
+  "lastEdited" : [ 2022, 8, 30, 9, 59, 49, 126671000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "maven 3",
+    "name_en" : null,
+    "id" : "ec28abe4-7abe-4fd5-9aae-eb3fcc5347e5",
+    "description" : "maven 3",
+    "description_en" : "maven 3",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
