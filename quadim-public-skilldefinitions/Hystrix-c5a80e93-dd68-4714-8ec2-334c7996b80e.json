@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "Fallacies of distributed computing",
     "name_en" : null,
-    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
+    "id" : "3d4d41ba-d69b-49c7-9eb0-cd5c16c04a75",
     "description" : "Fallacies of distributed computing",
     "description_en" : "Fallacies of distributed computing",
     "coversElement" : {
@@ -60,39 +60,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Fallacies of distributed computing",
-    "name_en" : null,
-    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
-    "description" : "Fallacies of distributed computing",
-    "description_en" : "Fallacies of distributed computing",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
