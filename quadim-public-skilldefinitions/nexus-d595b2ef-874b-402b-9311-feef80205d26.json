@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 0, 44, 351577000 ],
   "lastEdited" : [ 2022, 8, 30, 10, 50, 55, 283702000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "dd0d6bd3-d4c9-479d-a009-49c7159bf282",
+    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -71,13 +69,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "CI/CD ",
     "name_en" : null,
-    "id" : "521bd80f-e4c0-4080-8123-fa2f33f5067f",
+    "id" : "bf5aa65e-027a-45f9-aef6-402a5c82ea73",
     "description" : "CI/CD ",
     "description_en" : "CI/CD ",
     "coversElement" : {
@@ -101,13 +99,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "e34f831a-f676-456c-87bc-c59e5d5fd654",
+    "id" : "d88322d3-56bb-4f4a-8ec2-5d43a9426fa2",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -131,8 +129,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
