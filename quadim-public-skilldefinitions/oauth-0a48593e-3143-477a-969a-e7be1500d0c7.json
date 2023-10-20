@@ -40,7 +40,37 @@
   "relatesToSkill" : [ {
     "name" : "Identity and access management (IAM)",
     "name_en" : null,
-    "id" : "b2b7e32f-7522-4203-9633-05eb806a5c9b",
+    "id" : "5292c3ef-fcda-44d0-b4da-5fb7747b47f0",
+    "description" : "Identity and access management (IAM)",
+    "description_en" : "Identity and access management (IAM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Identity and access management (IAM)",
+    "name_en" : null,
+    "id" : "5292c3ef-fcda-44d0-b4da-5fb7747b47f0",
     "description" : "Identity and access management (IAM)",
     "description_en" : "Identity and access management (IAM)",
     "coversElement" : {
@@ -70,7 +100,37 @@
   }, {
     "name" : "Single sign-on (SSO)",
     "name_en" : null,
-    "id" : "1a9ee9e5-de41-4fb9-b80b-e5adcf4dd00a",
+    "id" : "3e3e5db3-4afa-425b-8a02-1e47f916ab53",
+    "description" : "Single sign-on (SSO)",
+    "description_en" : "Single sign-on (SSO)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Single sign-on (SSO)",
+    "name_en" : null,
+    "id" : "3e3e5db3-4afa-425b-8a02-1e47f916ab53",
     "description" : "Single sign-on (SSO)",
     "description_en" : "Single sign-on (SSO)",
     "coversElement" : {
