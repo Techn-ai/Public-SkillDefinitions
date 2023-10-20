@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 8, 52, 509568000 ],
   "lastEdited" : [ 2022, 8, 28, 11, 17, 34, 612755000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "JVM",
     "name_en" : null,
-    "id" : "8d91f435-b174-4c02-8527-3428c87c2269",
+    "id" : "bdfc76b5-d787-4587-b579-6b4b977c90ee",
     "description" : "JVM",
     "description_en" : "JVM",
     "coversElement" : {
@@ -61,8 +59,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "JVM",
+    "name_en" : null,
+    "id" : "bdfc76b5-d787-4587-b579-6b4b977c90ee",
+    "description" : "JVM",
+    "description_en" : "JVM",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
