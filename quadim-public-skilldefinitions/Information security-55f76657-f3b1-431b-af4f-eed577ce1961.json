@@ -1,0 +1,35 @@
+{
+  "name" : "Information security",
+  "name_en" : null,
+  "id" : "55f76657-f3b1-431b-af4f-eed577ce1961",
+  "description" : "Information security is a set of practices intended to keep data secure from unauthorized access or alterations. Here's a broad look at the policies, principles, and people used to protect data.",
+  "description_en" : "informasjonssikkerhet",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 38, 3, 957480000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 8, 32, 550737000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
