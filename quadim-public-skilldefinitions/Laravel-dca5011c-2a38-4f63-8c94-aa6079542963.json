@@ -1,0 +1,33 @@
+{
+  "name" : "Laravel",
+  "name_en" : null,
+  "id" : "dca5011c-2a38-4f63-8c94-aa6079542963",
+  "description" : "Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+  "description_en" : "Laravel",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 16, 20, 23, 50, 34909000 ],
+  "lastEdited" : [ 2023, 3, 21, 9, 48, 57, 451963000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
