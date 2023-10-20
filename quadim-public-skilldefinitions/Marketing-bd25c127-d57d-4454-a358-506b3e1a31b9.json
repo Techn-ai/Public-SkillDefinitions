@@ -1,0 +1,108 @@
+{
+  "name" : "Marketing",
+  "name_en" : null,
+  "id" : "bd25c127-d57d-4454-a358-506b3e1a31b9",
+  "description" : "Marketing is the process of exploring, creating, and delivering value to meet the needs of a target market in terms of goods and services;[1][2] potentially including selection of a target audience; selection of certain attributes or themes to emphasize in advertising; operation of advertising campaigns; attendance at trade shows and public events; design of products and packaging attractive to buyers; defining the terms of sale, such as price, discounts, warranty, and return policy; product placement in media or with people believed to influence the buying habits of others; agreements with retailers, wholesale distributors, or resellers; and attempts to create awareness of, loyalty to, and positive feelings about a brand.",
+  "description_en" : "Marketing",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Marketing",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "9b8ecb2b-b00d-4bf0-8273-930a2c6b67d0",
+    "name" : "Advertising",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "90158cb6-fe0f-45d8-b5cd-581d266e44ed",
+    "name" : "digital marketing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 2, 1, 13, 7, 41, 502489000 ],
+  "lastEdited" : [ 2023, 2, 17, 8, 34, 29, 997221000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Advertising",
+    "name_en" : null,
+    "id" : "2a1958c6-a214-4729-bc05-acefe4e2ea61",
+    "description" : "Advertising",
+    "description_en" : "Advertising",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "digital marketing",
+    "name_en" : null,
+    "id" : "d20670b3-cb7a-4772-929c-7060ffa125d2",
+    "description" : "digital marketing",
+    "description_en" : "digital marketing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
