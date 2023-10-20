@@ -48,10 +48,11 @@
   "lastEdited" : [ 2022, 8, 26, 8, 41, 51, 837384000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "postgresql",
     "name_en" : null,
-    "id" : "2568fac0-6755-43f0-924d-df789af83b04",
+    "id" : "801444c2-546c-4811-998c-dfbf8cf5e97a",
     "description" : "postgresql",
     "description_en" : "postgresql",
     "coversElement" : {
@@ -76,12 +77,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "postgresql",
     "name_en" : null,
-    "id" : "2568fac0-6755-43f0-924d-df789af83b04",
+    "id" : "801444c2-546c-4811-998c-dfbf8cf5e97a",
     "description" : "postgresql",
     "description_en" : "postgresql",
     "coversElement" : {
@@ -106,12 +107,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
+    "id" : "f0081230-c762-43dc-afbf-3b0c6533d951",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -136,12 +137,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "80c00738-2c80-43cd-80dd-096e8757f563",
+    "id" : "f0081230-c762-43dc-afbf-3b0c6533d951",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -166,12 +167,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
+    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -196,12 +197,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
+    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -226,12 +227,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "nosql",
     "name_en" : null,
-    "id" : "3ea7bc22-f9aa-4d34-ac26-b27417601eea",
+    "id" : "5a220eed-9b09-4e6f-ae2d-64a17c4ea7d7",
     "description" : "nosql",
     "description_en" : "nosql",
     "coversElement" : {
@@ -256,12 +257,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "nosql",
     "name_en" : null,
-    "id" : "3ea7bc22-f9aa-4d34-ac26-b27417601eea",
+    "id" : "5a220eed-9b09-4e6f-ae2d-64a17c4ea7d7",
     "description" : "nosql",
     "description_en" : "nosql",
     "coversElement" : {
@@ -286,8 +287,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
