@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "Identity and access management (IAM)",
     "name_en" : null,
-    "id" : "6696e4cf-dcaf-474e-9689-ab526983a0b3",
+    "id" : "b2b7e32f-7522-4203-9633-05eb806a5c9b",
     "description" : "Identity and access management (IAM)",
     "description_en" : "Identity and access management (IAM)",
     "coversElement" : {
@@ -65,42 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Identity and access management (IAM)",
-    "name_en" : null,
-    "id" : "6696e4cf-dcaf-474e-9689-ab526983a0b3",
-    "description" : "Identity and access management (IAM)",
-    "description_en" : "Identity and access management (IAM)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Single sign-on (SSO)",
     "name_en" : null,
-    "id" : "2db390c5-c2ac-4c81-adbc-ac01d175abaf",
+    "id" : "1a9ee9e5-de41-4fb9-b80b-e5adcf4dd00a",
     "description" : "Single sign-on (SSO)",
     "description_en" : "Single sign-on (SSO)",
     "coversElement" : {
@@ -125,39 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Single sign-on (SSO)",
-    "name_en" : null,
-    "id" : "2db390c5-c2ac-4c81-adbc-ac01d175abaf",
-    "description" : "Single sign-on (SSO)",
-    "description_en" : "Single sign-on (SSO)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
