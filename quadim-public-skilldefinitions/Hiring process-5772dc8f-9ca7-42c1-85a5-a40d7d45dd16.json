@@ -1,0 +1,31 @@
+{
+  "name" : "Hiring process",
+  "name_en" : null,
+  "id" : "5772dc8f-9ca7-42c1-85a5-a40d7d45dd16",
+  "description" : "The hiring process is the process of reviewing applications, selecting the right candidates to interview, testing candidates, choosing between candidates to make the decision and performing various pre-employment tests and checks. ",
+  "description_en" : "Hiring process",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 17, 12, 19, 56, 958212000 ],
+  "lastEdited" : [ 2022, 8, 17, 12, 19, 56, 958205000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
