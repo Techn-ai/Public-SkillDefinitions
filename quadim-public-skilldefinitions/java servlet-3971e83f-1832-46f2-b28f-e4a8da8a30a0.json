@@ -1,0 +1,33 @@
+{
+  "name" : "java servlet",
+  "name_en" : null,
+  "id" : "3971e83f-1832-46f2-b28f-e4a8da8a30a0",
+  "description" : "A servlet is a Java programming language class that is used to extend the capabilities of servers that host applications accessed by means of a request-response programming model. Although servlets can respond to any type of request, they are commonly used to extend the applications hosted by web servers.",
+  "description_en" : "java servlet",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "7bd03303-db11-4958-8cd0-dca5ad8971e1",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 23, 10, 9, 37, 300109000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 34, 38, 46911000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
