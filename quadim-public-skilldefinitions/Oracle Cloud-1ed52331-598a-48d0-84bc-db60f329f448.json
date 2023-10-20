@@ -1,0 +1,33 @@
+{
+  "name" : "Oracle Cloud",
+  "name_en" : null,
+  "id" : "1ed52331-598a-48d0-84bc-db60f329f448",
+  "description" : "Oracle Cloud is the database company's public cloud service offering. Oracle has positioned and tailored its cloud services as the best option to run Oracle databases. It is a competitor to the market-leading competitor, Amazon. Oracle has a global network of managed data centers set to run their cloud offerings.",
+  "description_en" : "Oracle Cloud",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 10, 14, 6, 130183000 ],
+  "lastEdited" : [ 2022, 8, 25, 10, 15, 27, 79540000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
