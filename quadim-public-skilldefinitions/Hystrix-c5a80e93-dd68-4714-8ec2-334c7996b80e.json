@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 2, 39, 461922000 ],
   "lastEdited" : [ 2022, 8, 26, 9, 5, 51, 544337000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Fallacies of distributed computing",
     "name_en" : null,
-    "id" : "0a2e33e6-972f-45f4-b7ff-afd3bcdf2728",
+    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
     "description" : "Fallacies of distributed computing",
     "description_en" : "Fallacies of distributed computing",
     "coversElement" : {
@@ -61,8 +59,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Fallacies of distributed computing",
+    "name_en" : null,
+    "id" : "66ce701f-65c3-4c73-89cb-5f2c653b3227",
+    "description" : "Fallacies of distributed computing",
+    "description_en" : "Fallacies of distributed computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
