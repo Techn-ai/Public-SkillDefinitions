@@ -1,0 +1,31 @@
+{
+  "name" : "frontendutvikling",
+  "name_en" : null,
+  "id" : "064e8686-f0cf-4550-8c0b-e2d6a8158128",
+  "description" : "frontendutvikling",
+  "description_en" : "frontendutvikling",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 24, 12, 27, 18, 413450000 ],
+  "lastEdited" : [ 2022, 8, 24, 12, 27, 18, 413445000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
