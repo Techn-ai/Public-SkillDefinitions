@@ -1,0 +1,31 @@
+{
+  "name" : "Business acumen",
+  "name_en" : null,
+  "id" : "58e9446a-bc4f-46c1-95a2-d3046d68908d",
+  "description" : "The ability to understand the market, identify opportunities, and make strategic business decisions that will drive growth and profitability. ",
+  "description_en" : "Business acumen",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 4, 27, 10, 24, 45, 165770000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 24, 45, 165767000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
