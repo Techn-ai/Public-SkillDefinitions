@@ -48,7 +48,7 @@
   "relatesToSkill" : [ {
     "name" : "Business process management (BPM)",
     "name_en" : null,
-    "id" : "7a189b31-ef4e-407d-851e-2beda244bd11",
+    "id" : "0a433001-a673-48f8-9ddd-277915fda3c5",
     "description" : "Business process management (BPM)",
     "description_en" : "Business process management (BPM)",
     "coversElement" : {
@@ -73,12 +73,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Business Process Modeling Notation (BPMN)",
     "name_en" : null,
-    "id" : "1fc49e82-1a15-4df5-8914-a851fc34cb41",
+    "id" : "49837175-95a5-4096-9940-464f4b8329bf",
     "description" : "Business Process Modeling Notation (BPMN)",
     "description_en" : "Business Process Modeling Notation (BPMN)",
     "coversElement" : {
@@ -103,39 +103,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Business Process Modeling Notation (BPMN)",
-    "name_en" : null,
-    "id" : "1fc49e82-1a15-4df5-8914-a851fc34cb41",
-    "description" : "Business Process Modeling Notation (BPMN)",
-    "description_en" : "Business Process Modeling Notation (BPMN)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
