@@ -1,0 +1,33 @@
+{
+  "name" : "appliance-packaging",
+  "name_en" : null,
+  "id" : "af9717d5-b0d3-48bc-a83c-042d39b41db4",
+  "description" : "Appliance packaging is to build and deliver/deploy software solution as shrink-wrapped solution consisting of software, hardware  ",
+  "description_en" : "appliance-pakketering",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 39, 58, 613877000 ],
+  "lastEdited" : [ 2022, 8, 25, 7, 52, 58, 66339000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
