@@ -28,6 +28,6 @@
   "lastEdited" : [ 2022, 8, 28, 11, 16, 16, 255821000 ],
   "public" : true,
   "relatesToSkill" : [ ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
