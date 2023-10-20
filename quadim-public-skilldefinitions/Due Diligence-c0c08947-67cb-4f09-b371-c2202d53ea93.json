@@ -1,0 +1,39 @@
+{
+  "name" : "Due Diligence",
+  "name_en" : null,
+  "id" : "c0c08947-67cb-4f09-b371-c2202d53ea93",
+  "description" : "Due diligence is the investigation or exercise of care that a reasonable business or person is normally expected to take before entering into an agreement or contract with another party or an act with a certain standard of care.\n\nIt can be a legal obligation, but the term will more commonly apply to voluntary investigations. A common example of due diligence in various industries is the process through which a potential acquirer evaluates a target company or its assets for an acquisition.[1] The theory behind due diligence holds that performing this type of investigation contributes significantly to informed decision making by enhancing the amount and quality of information available to decision makers and by ensuring that this information is systematically used to deliberate on the decision at hand and all its costs, benefits, and risks",
+  "description_en" : "Due Diligence",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 55, 6, 353026000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 55, 6, 353018000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
