@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 56, 31, 185227000 ],
   "lastEdited" : [ 2022, 8, 25, 7, 23, 58, 587426000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Configuration Management (CM)",
     "name_en" : null,
-    "id" : "26b24a3b-9822-42f9-a9bb-8d6de151ca91",
+    "id" : "7b578f91-cc85-43cb-b641-309ab40db2fa",
     "description" : "Configuration Management (CM)",
     "description_en" : "Configuration Management (CM)",
     "coversElement" : {
@@ -61,8 +59,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
