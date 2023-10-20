@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "Configuration Management (CM)",
     "name_en" : null,
-    "id" : "7b578f91-cc85-43cb-b641-309ab40db2fa",
+    "id" : "c7f9189f-c1b8-40d4-ac10-3e0a2c4e1f29",
     "description" : "Configuration Management (CM)",
     "description_en" : "Configuration Management (CM)",
     "coversElement" : {
@@ -60,9 +60,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
