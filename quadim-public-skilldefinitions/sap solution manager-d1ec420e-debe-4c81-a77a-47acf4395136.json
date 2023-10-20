@@ -1,0 +1,39 @@
+{
+  "name" : "sap solution manager",
+  "name_en" : null,
+  "id" : "d1ec420e-debe-4c81-a77a-47acf4395136",
+  "description" : "The SAP Solution Manager is a centralized robust application management and adminitration solution used to implement, support, operate and monitor your SAP enterprise solutions, SAP Solution Manager is a platform providing integrated content, tools, methodologies and access to SAP systems.",
+  "description_en" : "sap solution manager",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 53, 6, 971438000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 55, 41, 822571000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
