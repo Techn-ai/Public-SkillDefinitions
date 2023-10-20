@@ -1,0 +1,63 @@
+{
+  "name" : "Founder",
+  "name_en" : null,
+  "id" : "89f5c25b-a698-4c63-a05d-80a9bf59a569",
+  "description" : "Founder definition, a person who founds or establishes something, as a company or institution. They're the one who came up with the business idea and acted on it.",
+  "description_en" : "founder",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "d059e4dd-ecfd-4fb3-94dc-1de9404ed772",
+    "name" : "Strategic thinking",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e3be7dc2-7c46-4172-89c7-bcecf1b0535b",
+    "name" : "Leadership",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8918a993-67cb-4832-9b4c-baa22c9c78f1",
+    "name" : "financial acumen",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "ae6c7e62-7f91-4610-b5d5-503b1dc704fb",
+    "name" : "Resiliance",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f5c96ae6-1e6d-4e3c-b732-b960d33ee2ea",
+    "name" : "Communication",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "035b5971-2926-463b-af10-5b73e14d874d",
+    "name" : "Creativity",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 8, 25, 10, 52, 9, 627177000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 16, 36, 238658000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null, null, null, null, null ],
+  "relatesToSkill" : [ ]
+}
