@@ -57,192 +57,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 17, 10, 925890000 ],
   "lastEdited" : [ 2022, 8, 25, 10, 55, 50, 122447000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ {
-    "name" : "JavaServer Pages (JSP) ",
-    "name_en" : null,
-    "id" : "cec4242f-2a79-47e5-9e96-70774acdd4e9",
-    "description" : "JavaServer Pages (JSP) ",
-    "description_en" : "JavaServer Pages (JSP) ",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "JavaServer Pages (JSP) ",
-    "name_en" : null,
-    "id" : "cec4242f-2a79-47e5-9e96-70774acdd4e9",
-    "description" : "JavaServer Pages (JSP) ",
-    "description_en" : "JavaServer Pages (JSP) ",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "java servlet",
-    "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
-    "description" : "java servlet",
-    "description_en" : "java servlet",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "java servlet",
-    "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
-    "description" : "java servlet",
-    "description_en" : "java servlet",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "ejb",
-    "name_en" : null,
-    "id" : "030d2294-0813-4e78-8b2e-20cce8098f62",
-    "description" : "ejb",
-    "description_en" : "ejb",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "ejb",
-    "name_en" : null,
-    "id" : "030d2294-0813-4e78-8b2e-20cce8098f62",
-    "description" : "ejb",
-    "description_en" : "ejb",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "OpenEJB",
     "name_en" : null,
-    "id" : "0031f48d-fe97-432a-ad33-cff7f8bbd233",
+    "id" : "14d34e77-4370-4689-af84-76b0f252faf8",
     "description" : "OpenEJB",
     "description_en" : "OpenEJB",
     "coversElement" : {
@@ -266,13 +84,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "OpenEJB",
+    "name_en" : null,
+    "id" : "14d34e77-4370-4689-af84-76b0f252faf8",
+    "description" : "OpenEJB",
+    "description_en" : "OpenEJB",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "glassfish",
     "name_en" : null,
-    "id" : "609f130c-5e7e-4425-82d8-3f8bd80916f3",
+    "id" : "7309b12b-9ca1-4cf6-a4e9-423bff9c1385",
     "description" : "glassfish",
     "description_en" : "glassfish",
     "coversElement" : {
@@ -296,13 +144,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "glassfish",
+    "name_en" : null,
+    "id" : "7309b12b-9ca1-4cf6-a4e9-423bff9c1385",
+    "description" : "glassfish",
+    "description_en" : "glassfish",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "OpenESB",
     "name_en" : null,
-    "id" : "731a7176-130e-42b4-89e0-e689d67943df",
+    "id" : "a024b907-cfd0-46b8-9df0-ce8e415e4cc7",
     "description" : "OpenESB",
     "description_en" : "OpenESB",
     "coversElement" : {
@@ -326,8 +204,220 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "OpenESB",
+    "name_en" : null,
+    "id" : "a024b907-cfd0-46b8-9df0-ce8e415e4cc7",
+    "description" : "OpenESB",
+    "description_en" : "OpenESB",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ {
+    "name" : "JavaServer Pages (JSP) ",
+    "name_en" : null,
+    "id" : "a85ff5b9-bbf3-4144-8f99-891e86ea14eb",
+    "description" : "JavaServer Pages (JSP) ",
+    "description_en" : "JavaServer Pages (JSP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "JavaServer Pages (JSP) ",
+    "name_en" : null,
+    "id" : "a85ff5b9-bbf3-4144-8f99-891e86ea14eb",
+    "description" : "JavaServer Pages (JSP) ",
+    "description_en" : "JavaServer Pages (JSP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "java servlet",
+    "name_en" : null,
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "description" : "java servlet",
+    "description_en" : "java servlet",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "java servlet",
+    "name_en" : null,
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "description" : "java servlet",
+    "description_en" : "java servlet",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "ejb",
+    "name_en" : null,
+    "id" : "9481ccb7-915c-4d63-b3f5-d4b510d75a21",
+    "description" : "ejb",
+    "description_en" : "ejb",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "ejb",
+    "name_en" : null,
+    "id" : "9481ccb7-915c-4d63-b3f5-d4b510d75a21",
+    "description" : "ejb",
+    "description_en" : "ejb",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ]
 }
