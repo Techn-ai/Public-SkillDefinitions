@@ -38,12 +38,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 4, 13, 586970000 ],
   "lastEdited" : [ 2022, 8, 26, 10, 42, 45, 195029000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "XML",
     "name_en" : null,
-    "id" : "3bc95634-00ee-4861-b911-c2262864185c",
+    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -67,8 +65,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
