@@ -1,0 +1,35 @@
+{
+  "name" : "sap car",
+  "name_en" : null,
+  "id" : "1b8fc48c-bb5f-4c63-8074-2d256d8531a7",
+  "description" : "SAP Customer Activity Repository (CAR) is a powerful data platform that collects, cleanses, and centralizes customer and transactional data previously spread in different formats over separate applications.",
+  "description_en" : "sap car",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 54, 13, 492713000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 53, 5, 649436000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
