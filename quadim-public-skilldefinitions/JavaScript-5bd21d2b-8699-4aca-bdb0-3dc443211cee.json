@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "a9ea1a9a-7eba-4525-8839-77b5d292d2a1",
+    "id" : "168281fb-fca1-42f0-ac28-412e77cfc5ed",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
@@ -65,12 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "HTTP",
     "name_en" : null,
-    "id" : "1c0bf4bb-3b76-4c75-86be-ccef79a4caa1",
+    "id" : "53da70f9-9505-486c-a286-86b07540795e",
     "description" : "HTTP",
     "description_en" : "HTTP",
     "coversElement" : {
@@ -95,9 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
