@@ -1,0 +1,286 @@
+{
+  "name" : "Adaptability",
+  "name_en" : null,
+  "id" : "3e94509a-6890-4374-b17a-9f08c4188ff9",
+  "description" : "Adaptability is the skill and ability to adjust to new situations and changes in the environment quickly and effectively. It is the capacity to remain flexible and open-minded in the face of uncertainty, ambiguity, or unexpected events. Adaptability involves being able to think on your feet, pivot when necessary, and embrace new ideas and ways of doing things. It also includes the ability to learn from experience and feedback, and to adjust one's approach accordingly. As a skill, adaptability is highly valued in many contexts, including the workplace, where it is often essential for success in roles that involve innovation, problem-solving, and change management.",
+  "description_en" : "adaptability",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ {
+    "id" : "f7a8e8e0-1327-4f3f-854f-43a94284b892",
+    "name" : "Time management",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c4274f52-cd03-49bf-a998-eb4846b08cf8",
+    "name" : "Open-mindedness",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "cbf53a81-6819-4705-8195-bf6fcd4a5074",
+    "name" : "Flexibility",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8394000f-602a-4390-a106-d334d9be792b",
+    "name" : "problem-solving",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "a2926825-f78f-47ac-a4d2-f34b11e948ab",
+    "name" : "Cultural competence",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5aa50d11-071c-45d3-ada7-1997cae7d6cd",
+    "name" : "Emotional intelligence",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e44b48e8-77d7-449a-935c-39ce8e8b9a57",
+    "name" : "Learning agility",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 4, 27, 10, 20, 45, 524959000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 33, 58, 680999000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Time management",
+    "name_en" : null,
+    "id" : "5b40fd5b-ad21-4765-ac70-6062bb0a1db7",
+    "description" : "Time management",
+    "description_en" : "Time management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Open-mindedness",
+    "name_en" : null,
+    "id" : "d33c25d2-1509-477b-8f44-3360d21bb1f7",
+    "description" : "Open-mindedness",
+    "description_en" : "Open-mindedness",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Flexibility",
+    "name_en" : null,
+    "id" : "783c4ca0-c46c-4112-b385-73f3d6130b6d",
+    "description" : "Flexibility",
+    "description_en" : "Flexibility",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "problem-solving",
+    "name_en" : null,
+    "id" : "892f05e6-266f-4128-9cde-80a5269f415e",
+    "description" : "problem-solving",
+    "description_en" : "problem-solving",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Cultural competence",
+    "name_en" : null,
+    "id" : "631b7a09-053a-4799-960b-3a3f61b2258b",
+    "description" : "Cultural competence",
+    "description_en" : "Cultural competence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Emotional intelligence",
+    "name_en" : null,
+    "id" : "9a49c4fb-1b35-4f48-906f-c1e793d2f830",
+    "description" : "Emotional intelligence",
+    "description_en" : "Emotional intelligence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Learning agility",
+    "name_en" : null,
+    "id" : "1dbd7318-b174-4bd3-a343-1d1817cc5713",
+    "description" : "Learning agility",
+    "description_en" : "Learning agility",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
