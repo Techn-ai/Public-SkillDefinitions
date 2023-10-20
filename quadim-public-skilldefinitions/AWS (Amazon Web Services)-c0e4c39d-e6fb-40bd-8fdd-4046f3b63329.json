@@ -1,0 +1,63 @@
+{
+  "name" : "AWS (Amazon Web Services)",
+  "name_en" : null,
+  "id" : "c0e4c39d-e6fb-40bd-8fdd-4046f3b63329",
+  "description" : "AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings. AWS services can offer an organization tools such as compute power, database storage and content delivery services.",
+  "description_en" : "amazon web services (aws)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "71013ad8-8c48-4f48-8f05-bfce7a9218dd",
+    "name" : "Amazon Simple Notification Service (Amazon SNS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "b942be40-1a21-436d-91d0-758f98cbde6c",
+    "name" : "AWS ELB",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "7073ff69-d538-4844-a55c-ab29aef2b0a5",
+    "name" : "Amazon Elastic Compute Cloud (Amazon EC2)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "0c3facfd-e46f-48c3-be3a-31decad35453",
+    "name" : "Amazon Relational Database Service (RDS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "cc94cbb9-cc20-49bc-aa47-54ef25ba0b5e",
+    "name" : "Amazon CloudWatch",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "d4d8f3af-3231-4ab2-a579-db5b6ed3afc0",
+    "name" : "Amazon Simple Queue Service (SQS)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 14, 56, 7797000 ],
+  "lastEdited" : [ 2022, 8, 25, 8, 58, 49, 154580000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null, null, null, null, null ],
+  "relatesToSkill" : [ ]
+}
