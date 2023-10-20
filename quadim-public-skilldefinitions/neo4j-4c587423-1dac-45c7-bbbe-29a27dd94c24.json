@@ -1,0 +1,103 @@
+{
+  "name" : "neo4j",
+  "name_en" : null,
+  "id" : "4c587423-1dac-45c7-bbbe-29a27dd94c24",
+  "description" : "Neo4j is a database designed around relationships. Instead of fixed relations between tables, storage and retrieval is based on the interconnections between data. Neo4j is the most used graph database, a category of NoSQL databases. It is open source and backed by Neo Technology.",
+  "description_en" : "neo4j",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "f4abac0e-44af-43ed-9aea-70445e220c1e",
+    "name" : "nosql",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "9d0f1dc2-f7f7-4c40-b30b-53f74d0703c6",
+    "name" : "polyglot persistence",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 44, 10, 577995000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 45, 5, 738774000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "nosql",
+    "name_en" : null,
+    "id" : "19723c9a-464c-45ed-8696-f076235f0282",
+    "description" : "nosql",
+    "description_en" : "nosql",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "polyglot persistence",
+    "name_en" : null,
+    "id" : "bb4dd553-20f7-4161-9267-3836c6cc13f8",
+    "description" : "polyglot persistence",
+    "description_en" : "polyglot persistence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
