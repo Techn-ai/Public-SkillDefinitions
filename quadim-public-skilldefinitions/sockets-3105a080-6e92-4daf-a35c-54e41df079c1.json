@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 43, 7, 288740000 ],
   "lastEdited" : [ 2022, 8, 25, 13, 18, 33, 222086000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "tcp/ip",
     "name_en" : null,
-    "id" : "2c3a0135-1f23-48fe-913b-566ad40123d9",
+    "id" : "a25d1bc1-7f9e-4755-914c-b2f45a3449c1",
     "description" : "tcp/ip",
     "description_en" : "tcp/ip",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "tcp/ip",
     "name_en" : null,
-    "id" : "2c3a0135-1f23-48fe-913b-566ad40123d9",
+    "id" : "a25d1bc1-7f9e-4755-914c-b2f45a3449c1",
     "description" : "tcp/ip",
     "description_en" : "tcp/ip",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
