@@ -46,7 +46,7 @@
   "relatesToSkill" : [ {
     "name" : "Xorcery",
     "name_en" : null,
-    "id" : "c5022c13-c21a-4b89-8490-17c4ab947554",
+    "id" : "07a0c6c0-8982-4732-8949-a10b8920224e",
     "description" : "Xorcery",
     "description_en" : "Xorcery",
     "coversElement" : {
@@ -71,42 +71,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Xorcery",
-    "name_en" : null,
-    "id" : "c5022c13-c21a-4b89-8490-17c4ab947554",
-    "description" : "Xorcery",
-    "description_en" : "Xorcery",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "streaming data architecture",
     "name_en" : null,
-    "id" : "f0434cb9-3581-4c51-b5e3-1b9bb76b6e9d",
+    "id" : "e0125a50-1ac6-4ed6-9716-020e5bf99c03",
     "description" : "streaming data architecture",
     "description_en" : "streaming data architecture",
     "coversElement" : {
@@ -131,39 +101,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "streaming data architecture",
-    "name_en" : null,
-    "id" : "f0434cb9-3581-4c51-b5e3-1b9bb76b6e9d",
-    "description" : "streaming data architecture",
-    "description_en" : "streaming data architecture",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
