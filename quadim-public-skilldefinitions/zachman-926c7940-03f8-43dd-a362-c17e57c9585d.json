@@ -45,7 +45,37 @@
   "relatesToSkill" : [ {
     "name" : "sparx enterprise architect",
     "name_en" : null,
-    "id" : "17e0620a-13aa-44c0-84f9-849deb12b337",
+    "id" : "7baf6d0d-1cb1-4b04-a12d-0c49a68b1d4d",
+    "description" : "sparx enterprise architect",
+    "description_en" : "sparx enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "sparx enterprise architect",
+    "name_en" : null,
+    "id" : "7baf6d0d-1cb1-4b04-a12d-0c49a68b1d4d",
     "description" : "sparx enterprise architect",
     "description_en" : "sparx enterprise architect",
     "coversElement" : {
@@ -75,7 +105,37 @@
   }, {
     "name" : "enterprise architect",
     "name_en" : null,
-    "id" : "44fb33c5-c8ac-40eb-91f9-a456aa1d4d5c",
+    "id" : "87bda410-5dc1-47ee-8d84-a3a8d2a41eb0",
+    "description" : "enterprise architect",
+    "description_en" : "enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "enterprise architect",
+    "name_en" : null,
+    "id" : "87bda410-5dc1-47ee-8d84-a3a8d2a41eb0",
     "description" : "enterprise architect",
     "description_en" : "enterprise architect",
     "coversElement" : {
@@ -105,7 +165,37 @@
   }, {
     "name" : "system architecture",
     "name_en" : null,
-    "id" : "f80ddb16-74cb-4583-81b0-16b2536ced57",
+    "id" : "32c522b7-2d0f-4b6b-ae3a-229cc5910eea",
+    "description" : "system architecture",
+    "description_en" : "system architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "system architecture",
+    "name_en" : null,
+    "id" : "32c522b7-2d0f-4b6b-ae3a-229cc5910eea",
     "description" : "system architecture",
     "description_en" : "system architecture",
     "coversElement" : {
