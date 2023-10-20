@@ -60,7 +60,37 @@
   "relatesToSkill" : [ {
     "name" : "OpenEJB",
     "name_en" : null,
-    "id" : "f046a720-e26d-405a-80d2-7b58f9f494a3",
+    "id" : "d62a8c3d-8fa5-4ba8-a7ae-9fa6e111a6a8",
+    "description" : "OpenEJB",
+    "description_en" : "OpenEJB",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "OpenEJB",
+    "name_en" : null,
+    "id" : "d62a8c3d-8fa5-4ba8-a7ae-9fa6e111a6a8",
     "description" : "OpenEJB",
     "description_en" : "OpenEJB",
     "coversElement" : {
@@ -90,7 +120,37 @@
   }, {
     "name" : "glassfish",
     "name_en" : null,
-    "id" : "8aa0990c-b90f-48ab-98b2-7b548c72a20f",
+    "id" : "30098cbb-76e8-43ce-b07e-8c0ffda7632b",
+    "description" : "glassfish",
+    "description_en" : "glassfish",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "glassfish",
+    "name_en" : null,
+    "id" : "30098cbb-76e8-43ce-b07e-8c0ffda7632b",
     "description" : "glassfish",
     "description_en" : "glassfish",
     "coversElement" : {
@@ -120,7 +180,37 @@
   }, {
     "name" : "OpenESB",
     "name_en" : null,
-    "id" : "c49e7ed3-42e0-4080-bf59-aa75c1aaa690",
+    "id" : "0d53dee2-8a93-42f0-a43d-0460d8a11d05",
+    "description" : "OpenESB",
+    "description_en" : "OpenESB",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "OpenESB",
+    "name_en" : null,
+    "id" : "0d53dee2-8a93-42f0-a43d-0460d8a11d05",
     "description" : "OpenESB",
     "description_en" : "OpenESB",
     "coversElement" : {
@@ -152,7 +242,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "JavaServer Pages (JSP) ",
     "name_en" : null,
-    "id" : "db50ceb7-fda8-46f7-8fae-4219029ccfea",
+    "id" : "9e6868ee-04a1-45de-87af-18ffae08c7e6",
     "description" : "JavaServer Pages (JSP) ",
     "description_en" : "JavaServer Pages (JSP) ",
     "coversElement" : {
@@ -182,7 +272,7 @@
   }, {
     "name" : "JavaServer Pages (JSP) ",
     "name_en" : null,
-    "id" : "db50ceb7-fda8-46f7-8fae-4219029ccfea",
+    "id" : "9e6868ee-04a1-45de-87af-18ffae08c7e6",
     "description" : "JavaServer Pages (JSP) ",
     "description_en" : "JavaServer Pages (JSP) ",
     "coversElement" : {
@@ -212,7 +302,7 @@
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
+    "id" : "efce5eda-bd97-49c7-aac3-5b2b0f0eebf9",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -242,7 +332,7 @@
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
+    "id" : "efce5eda-bd97-49c7-aac3-5b2b0f0eebf9",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -272,7 +362,7 @@
   }, {
     "name" : "ejb",
     "name_en" : null,
-    "id" : "eaf3b989-e735-45b1-9277-4242505beef3",
+    "id" : "b6544cd7-7461-4060-ad8a-f7670c0afe3d",
     "description" : "ejb",
     "description_en" : "ejb",
     "coversElement" : {
@@ -302,7 +392,7 @@
   }, {
     "name" : "ejb",
     "name_en" : null,
-    "id" : "eaf3b989-e735-45b1-9277-4242505beef3",
+    "id" : "b6544cd7-7461-4060-ad8a-f7670c0afe3d",
     "description" : "ejb",
     "description_en" : "ejb",
     "coversElement" : {
