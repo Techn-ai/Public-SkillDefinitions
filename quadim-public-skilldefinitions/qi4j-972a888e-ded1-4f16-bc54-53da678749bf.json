@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "41c50030-591d-4727-a671-611cf751f36b",
+    "id" : "d228db36-a8bf-4c64-821f-8d376507c864",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "java",
     "name_en" : null,
-    "id" : "41c50030-591d-4727-a671-611cf751f36b",
+    "id" : "d228db36-a8bf-4c64-821f-8d376507c864",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
