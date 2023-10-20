@@ -1,0 +1,31 @@
+{
+  "name" : "servlet",
+  "name_en" : null,
+  "id" : "a596e91d-1408-490f-a37c-980c5e5ed0ee",
+  "description" : " ",
+  "description_en" : "servlet",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "99261d8d-a9b4-4f80-a25f-94de6509f649",
+  "skillOwnerUsername" : "Steinar Haugen",
+  "editedBy" : "99261d8d-a9b4-4f80-a25f-94de6509f649",
+  "editedByUsername" : "Steinar Haugen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 24, 12, 58, 51, 970709000 ],
+  "lastEdited" : [ 2022, 5, 24, 12, 58, 51, 970708000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
