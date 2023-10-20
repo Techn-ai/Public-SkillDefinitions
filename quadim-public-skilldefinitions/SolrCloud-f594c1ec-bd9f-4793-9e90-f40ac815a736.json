@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 30, 11, 54, 16, 404772000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "solr",
     "name_en" : null,
-    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
+    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
+    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
