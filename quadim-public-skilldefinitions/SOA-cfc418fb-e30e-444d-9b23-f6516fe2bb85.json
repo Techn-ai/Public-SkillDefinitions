@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 25, 11, 52, 22, 443736000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "dc96a7fc-7104-4ce7-8732-03514915add1",
+    "id" : "dfdd26d9-1d28-40ab-96d2-14cd7945b4a8",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "dc96a7fc-7104-4ce7-8732-03514915add1",
+    "id" : "dfdd26d9-1d28-40ab-96d2-14cd7945b4a8",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
