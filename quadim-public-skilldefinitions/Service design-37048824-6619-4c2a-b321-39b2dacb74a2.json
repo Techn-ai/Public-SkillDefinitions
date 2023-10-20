@@ -1,0 +1,42 @@
+{
+  "name" : "Service design",
+  "name_en" : null,
+  "id" : "37048824-6619-4c2a-b321-39b2dacb74a2",
+  "description" : "Service design practice is the specification and construction of processes which deliver valuable capacities for action to a particular user. Service design practice can be both tangible and intangible, and can involve artifacts or other elements such as communication, environment and behaviour",
+  "description_en" : "Service design",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Service_design",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 19, 9, 38, 502610000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 10, 5, 605106000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
