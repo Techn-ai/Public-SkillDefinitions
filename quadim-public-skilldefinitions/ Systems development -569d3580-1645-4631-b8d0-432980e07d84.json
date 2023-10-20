@@ -39,12 +39,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 36, 20, 608767000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 31, 50, 518783000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Software Product development",
     "name_en" : null,
-    "id" : "5c2c1b9c-196d-4e18-9712-ba4fd328d384",
+    "id" : "dccf7c6f-df96-4a9b-a6af-93ab90185ba3",
     "description" : "Software Product development",
     "description_en" : "Software Product development",
     "coversElement" : {
@@ -68,13 +66,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "c1210562-64ce-462d-ba46-100adb7654ac",
+    "id" : "91cb1c02-66b0-414f-9a1b-02eb0fd818ef",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
@@ -98,8 +96,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
