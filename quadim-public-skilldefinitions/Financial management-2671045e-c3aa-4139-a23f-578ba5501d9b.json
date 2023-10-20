@@ -1,0 +1,31 @@
+{
+  "name" : "Financial management",
+  "name_en" : null,
+  "id" : "2671045e-c3aa-4139-a23f-578ba5501d9b",
+  "description" : "Financial management",
+  "description_en" : "Financial management",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 4, 27, 10, 26, 1, 553949000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 26, 1, 553946000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
