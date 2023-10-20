@@ -1,0 +1,35 @@
+{
+  "name" : "Human Resource Management",
+  "name_en" : null,
+  "id" : "699e9579-56de-478f-8a5b-2607cdf04abc",
+  "description" : "Human resource management is the strategic and coherent approach to the effective and efficient management of people in a company or organization such that they help their business gain a competitive advantage. It is designed to maximize employee performance in service of an employer's strategic objectives. ",
+  "description_en" : "Human Resource Management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 11, 29, 14, 50, 58, 547418000 ],
+  "lastEdited" : [ 2022, 11, 29, 14, 50, 58, 547412000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
