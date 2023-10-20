@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "Content management system (CMS)",
     "name_en" : null,
-    "id" : "305a1bf6-9f19-492c-8a6b-186af361c5c3",
+    "id" : "ed92a78d-606e-4327-b137-3aa961ad2101",
+    "description" : "Content management system (CMS)",
+    "description_en" : "Content management system (CMS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Content management system (CMS)",
+    "name_en" : null,
+    "id" : "ed92a78d-606e-4327-b137-3aa961ad2101",
     "description" : "Content management system (CMS)",
     "description_en" : "Content management system (CMS)",
     "coversElement" : {
