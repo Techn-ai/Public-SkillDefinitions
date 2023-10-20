@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 8, 15, 165790000 ],
   "lastEdited" : [ 2022, 8, 26, 10, 58, 35, 897540000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Rational unified process (RUP) ",
     "name_en" : null,
-    "id" : "d86d6376-eabe-44a5-8983-4a58247f106c",
+    "id" : "685f459a-19be-4479-8b4d-f38af5abfc97",
     "description" : "Rational unified process (RUP) ",
     "description_en" : "Rational unified process (RUP) ",
     "coversElement" : {
@@ -61,8 +59,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Rational unified process (RUP) ",
+    "name_en" : null,
+    "id" : "685f459a-19be-4479-8b4d-f38af5abfc97",
+    "description" : "Rational unified process (RUP) ",
+    "description_en" : "Rational unified process (RUP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
