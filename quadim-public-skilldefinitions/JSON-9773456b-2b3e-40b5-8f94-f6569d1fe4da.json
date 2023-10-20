@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "HTTP",
     "name_en" : null,
-    "id" : "1c0bf4bb-3b76-4c75-86be-ccef79a4caa1",
+    "id" : "77092d5d-9177-46c7-89ee-be5c0d27024e",
     "description" : "HTTP",
     "description_en" : "HTTP",
     "coversElement" : {
@@ -60,9 +60,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
