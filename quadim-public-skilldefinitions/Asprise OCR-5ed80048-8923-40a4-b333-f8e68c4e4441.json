@@ -1,0 +1,33 @@
+{
+  "name" : "Asprise OCR",
+  "name_en" : null,
+  "id" : "5ed80048-8923-40a4-b333-f8e68c4e4441",
+  "description" : "Asprise OCR is a commercial optical character recognition and barcode recognition SDK library that provides an API to recognize text as well as barcodes from images (in formats like JPEG, PNG, TIFF, PDF, etc.) and output in formats like plain text, xml and searchable PDF.",
+  "description_en" : "apire ocr",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 11, 5, 40, 307585000 ],
+  "lastEdited" : [ 2022, 8, 25, 6, 45, 36, 889035000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
