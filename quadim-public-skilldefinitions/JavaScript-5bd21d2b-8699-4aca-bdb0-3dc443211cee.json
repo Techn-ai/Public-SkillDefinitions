@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 1, 26, 637739000 ],
   "lastEdited" : [ 2022, 8, 30, 9, 49, 3, 202809000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "e953b2bf-fb4a-4719-90e8-9e5647f1e079",
+    "id" : "a9ea1a9a-7eba-4525-8839-77b5d292d2a1",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
@@ -66,13 +64,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "HTTP",
     "name_en" : null,
-    "id" : "97b48714-1ff0-49df-85d1-39f4202f8239",
+    "id" : "1c0bf4bb-3b76-4c75-86be-ccef79a4caa1",
     "description" : "HTTP",
     "description_en" : "HTTP",
     "coversElement" : {
@@ -96,8 +94,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
