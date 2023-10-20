@@ -45,12 +45,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 29, 40, 614369000 ],
   "lastEdited" : [ 2022, 8, 30, 10, 4, 56, 588209000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Business process management (BPM)",
     "name_en" : null,
-    "id" : "c458fbb2-fcb3-48e7-b389-bfa4bb0bf7df",
+    "id" : "7a189b31-ef4e-407d-851e-2beda244bd11",
     "description" : "Business process management (BPM)",
     "description_en" : "Business process management (BPM)",
     "coversElement" : {
@@ -74,13 +72,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Business Process Modeling Notation (BPMN)",
     "name_en" : null,
-    "id" : "04a192a0-1c58-42e9-a227-6c3c33b64beb",
+    "id" : "1fc49e82-1a15-4df5-8914-a851fc34cb41",
     "description" : "Business Process Modeling Notation (BPMN)",
     "description_en" : "Business Process Modeling Notation (BPMN)",
     "coversElement" : {
@@ -104,8 +102,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Business Process Modeling Notation (BPMN)",
+    "name_en" : null,
+    "id" : "1fc49e82-1a15-4df5-8914-a851fc34cb41",
+    "description" : "Business Process Modeling Notation (BPMN)",
+    "description_en" : "Business Process Modeling Notation (BPMN)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
