@@ -55,7 +55,37 @@
   "relatesToSkill" : [ {
     "name" : "java-auto update (jau)",
     "name_en" : null,
-    "id" : "7b9aa1c4-3cd4-4deb-8f40-6d6658a1f7b8",
+    "id" : "3d0206f0-947a-4938-ae72-66446c48732d",
+    "description" : "java-auto update (jau)",
+    "description_en" : "java-auto update (jau)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "java-auto update (jau)",
+    "name_en" : null,
+    "id" : "3d0206f0-947a-4938-ae72-66446c48732d",
     "description" : "java-auto update (jau)",
     "description_en" : "java-auto update (jau)",
     "coversElement" : {
@@ -85,7 +115,7 @@
   }, {
     "name" : "configservice",
     "name_en" : null,
-    "id" : "5e412fd0-4b22-41f6-954d-b169bd8f1d8c",
+    "id" : "b8a62219-2bb3-4ac3-9aa2-1e2ea0e14563",
     "description" : "configservice",
     "description_en" : "configservice",
     "coversElement" : {
@@ -115,7 +145,37 @@
   }, {
     "name" : "Configuration Management (CM)",
     "name_en" : null,
-    "id" : "c7f9189f-c1b8-40d4-ac10-3e0a2c4e1f29",
+    "id" : "4f6495cc-59f1-4abd-9bbf-064d930755ee",
+    "description" : "Configuration Management (CM)",
+    "description_en" : "Configuration Management (CM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Configuration Management (CM)",
+    "name_en" : null,
+    "id" : "4f6495cc-59f1-4abd-9bbf-064d930755ee",
     "description" : "Configuration Management (CM)",
     "description_en" : "Configuration Management (CM)",
     "coversElement" : {
@@ -147,7 +207,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
+    "id" : "a891acb5-7b1f-4933-8b36-20c64a56003b",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -177,7 +237,7 @@
   }, {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
+    "id" : "a891acb5-7b1f-4933-8b36-20c64a56003b",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -207,7 +267,7 @@
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
+    "id" : "8fbf1b29-f777-46fc-95dc-b6cda9f0f34e",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -237,7 +297,7 @@
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
+    "id" : "8fbf1b29-f777-46fc-95dc-b6cda9f0f34e",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
