@@ -33,10 +33,11 @@
   "lastEdited" : [ 2023, 9, 26, 13, 48, 21, 472213000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "virtualization",
     "name_en" : null,
-    "id" : "4845d5fd-1ef8-4af9-9860-2abda796fe0d",
+    "id" : "a56158f8-0ab8-4676-9968-c68ec419a0f4",
     "description" : "virtualization",
     "description_en" : "virtualization",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "virtualization",
     "name_en" : null,
-    "id" : "4845d5fd-1ef8-4af9-9860-2abda796fe0d",
+    "id" : "a56158f8-0ab8-4676-9968-c68ec419a0f4",
     "description" : "virtualization",
     "description_en" : "virtualization",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
