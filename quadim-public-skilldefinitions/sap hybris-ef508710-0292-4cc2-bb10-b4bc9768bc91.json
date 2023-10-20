@@ -34,12 +34,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 53, 55, 167155000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 57, 27, 343878000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "E-commerce",
     "name_en" : null,
-    "id" : "0699bbed-26b1-4325-87ef-2d674fe050f9",
+    "id" : "db12c5e8-b271-4105-84e7-6015d6a3ed24",
     "description" : "E-commerce",
     "description_en" : "E-commerce",
     "coversElement" : {
@@ -63,8 +61,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "E-commerce",
+    "name_en" : null,
+    "id" : "db12c5e8-b271-4105-84e7-6015d6a3ed24",
+    "description" : "E-commerce",
+    "description_en" : "E-commerce",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
