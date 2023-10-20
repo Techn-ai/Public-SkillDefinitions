@@ -1,0 +1,33 @@
+{
+  "name" : "chillidyrking",
+  "name_en" : null,
+  "id" : "19bf0a13-00d4-442c-925d-dc8a9790c188",
+  "description" : "Dyrke selv\nDet er ikke vanskelig å dyrke chili selv. Den største utfordringen er at den har en lang vekstsesong og krever mye lys og bra med varme for å kunne utvikle frukt.  I Norge er det derfor mest optimalt å dyrke chili i drivhus eller innendørs. Skal en rekke å få fram bra avling av frukt i løpet av en vekstsesong, må en forkultivere inne og helst så i løpet av månedene januar og februar.  Dette medfører også behov for kunstig lys.  Hvilken lyskilde du bør bruke er avhengig av hvor mange planter du skal dyrke og hvor mye penger en vil bruke. Det billigste vil ofte være å bruke lysarmatur med såkalt T5 lysrør. Disse finnes i mange forskjellige størrelser og utforminger som kan tilpasses ditt be",
+  "description_en" : "chillidyrking",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 2, 1, 13, 37, 41, 739091000 ],
+  "lastEdited" : [ 2023, 2, 17, 8, 22, 21, 101049000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
