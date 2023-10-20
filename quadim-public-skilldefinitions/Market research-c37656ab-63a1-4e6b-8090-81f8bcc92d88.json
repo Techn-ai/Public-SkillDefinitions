@@ -1,0 +1,44 @@
+{
+  "name" : "Market research",
+  "name_en" : null,
+  "id" : "c37656ab-63a1-4e6b-8090-81f8bcc92d88",
+  "description" : "Market research is an organized effort to gather information about target markets and customers: know about them, starting with who they are.[1] It is an important component of business strategy[2] and a major factor in maintaining competitiveness. Market research helps to identify and analyze the needs of the market, the market size and the competition. Its techniques encompass both qualitative techniques such as focus groups, in-depth interviews, and ethnography, as well as quantitative techniques such as customer surveys, and analysis of secondary data",
+  "description_en" : "Market research",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Market_research",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 2, 1, 13, 0, 42, 81781000 ],
+  "lastEdited" : [ 2023, 2, 1, 13, 1, 26, 101701000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
