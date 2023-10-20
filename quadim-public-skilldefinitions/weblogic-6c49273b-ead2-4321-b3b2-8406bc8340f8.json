@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
+    "id" : "41c50030-591d-4727-a671-611cf751f36b",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -70,12 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "rest",
     "name_en" : null,
-    "id" : "8d08756e-dddc-47f5-83e3-d01936f4f9b5",
+    "id" : "0e81120d-3255-4cd1-851a-908a277a3a49",
     "description" : "rest",
     "description_en" : "rest",
     "coversElement" : {
@@ -100,12 +100,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "web services",
     "name_en" : null,
-    "id" : "5832fd1d-8f1e-456f-8a31-af1870650524",
+    "id" : "883c85a6-1285-42f3-a405-f3275213f6fa",
     "description" : "web services",
     "description_en" : "web services",
     "coversElement" : {
@@ -130,39 +130,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "web services",
-    "name_en" : null,
-    "id" : "5832fd1d-8f1e-456f-8a31-af1870650524",
-    "description" : "web services",
-    "description_en" : "web services",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
