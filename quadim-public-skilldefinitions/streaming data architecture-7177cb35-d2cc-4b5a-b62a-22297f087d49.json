@@ -1,0 +1,33 @@
+{
+  "name" : "streaming data architecture",
+  "name_en" : null,
+  "id" : "7177cb35-d2cc-4b5a-b62a-22297f087d49",
+  "description" : "Streaming data characteristic includes high volume of continuously generated data, at high velocity. In short, certain events generate data continuously and these form a data stream. The simplest examples of such events could be an IoT device sensor measuring pressure or a person clicking a link on a website or mobile application. The streaming data may have unstructured or semi-structured form, usually key-value pairs in JSON or XML. \n\n",
+  "description_en" : "streaming architecture",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 50, 9, 38509000 ],
+  "lastEdited" : [ 2022, 8, 28, 11, 24, 8, 878045000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
