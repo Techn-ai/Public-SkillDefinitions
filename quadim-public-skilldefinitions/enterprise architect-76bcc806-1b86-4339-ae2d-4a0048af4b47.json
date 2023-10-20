@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "6d64b364-9814-445a-aa88-19615baa6e5b",
+    "id" : "22445d4f-c123-4ab0-a85b-83cbd5dca39b",
+    "description" : "Enterprise architecture (EA)",
+    "description_en" : "Enterprise architecture (EA)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Enterprise architecture (EA)",
+    "name_en" : null,
+    "id" : "22445d4f-c123-4ab0-a85b-83cbd5dca39b",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
