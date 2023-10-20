@@ -45,7 +45,37 @@
   "relatesToSkill" : [ {
     "name" : "Cascading Style Sheets (CSS)",
     "name_en" : null,
-    "id" : "16d39e6f-60f6-4184-b518-f2d84d33b164",
+    "id" : "153f1924-c731-4981-81a0-eaf8cf96483f",
+    "description" : "Cascading Style Sheets (CSS)",
+    "description_en" : "Cascading Style Sheets (CSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Cascading Style Sheets (CSS)",
+    "name_en" : null,
+    "id" : "153f1924-c731-4981-81a0-eaf8cf96483f",
     "description" : "Cascading Style Sheets (CSS)",
     "description_en" : "Cascading Style Sheets (CSS)",
     "coversElement" : {
@@ -75,7 +105,7 @@
   }, {
     "name" : "JavaScript",
     "name_en" : null,
-    "id" : "019c8a03-5da4-4a38-a4ba-eca206546b16",
+    "id" : "025aa0f6-093c-4667-9516-456a1e7fd857",
     "description" : "JavaScript",
     "description_en" : "JavaScript",
     "coversElement" : {
@@ -105,7 +135,7 @@
   }, {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "168281fb-fca1-42f0-ac28-412e77cfc5ed",
+    "id" : "edb2a70a-50e2-4f71-8a34-ac2f030f9e01",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
