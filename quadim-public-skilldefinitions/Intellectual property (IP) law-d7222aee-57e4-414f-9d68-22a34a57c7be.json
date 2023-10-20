@@ -1,0 +1,73 @@
+{
+  "name" : "Intellectual property (IP) law",
+  "name_en" : null,
+  "id" : "d7222aee-57e4-414f-9d68-22a34a57c7be",
+  "description" : "Intellectual property (IP) lawyers protect and enforce the rights and creations of inventors, authors, artists, and businesses. IP law encompasses copyrighting, trademarking, patenting, and protecting trade secrets for tangible products like inventions, and intangible ones like brand names, slogans, or symbols. Lawyers in this field have three main responsibilities: the first is to counsel their clients on the best way to protect their intellectual property; the second is to protect their intellectual property by registering a trademark, copyright, or patent; and the third is to enforce intellectual property rights against infringement.\n\nBoth law schools and state bars may offer either specialty programs or certificates to specialize in the field.",
+  "description_en" : "Intellectual property (IP) law",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://onlinemasteroflegalstudies.com/career-guides/become-a-lawyer/types-of-lawyers/",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "cf74cdc2-5ed1-4a29-a3f3-317c04b57c1f",
+    "name" : "Trademark law",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "7fb00c91-1bb1-4b66-9878-0a73fdb502fe",
+    "name" : "Patent law",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "871563be-800b-4f96-a2ac-36e50f646640",
+    "name" : "Licensing and contract law",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f95fc000-31df-4f31-acc5-984271f7d2bd",
+    "name" : "Antitrust law",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "03b0b7eb-7cb2-457f-b872-82d16762d628",
+    "name" : "International IP treaties and conventions",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "1be35fe6-86f7-4faf-889b-8c07a00e46fe",
+    "name" : "Trade secret law",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8f7d5932-734c-4baf-903c-fa693e76e3a8",
+    "name" : "Copyright law",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 5, 12, 12, 10, 40, 330244000 ],
+  "lastEdited" : [ 2023, 5, 12, 12, 10, 40, 330240000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null, null, null, null, null, null ],
+  "relatesToSkill" : [ ]
+}
