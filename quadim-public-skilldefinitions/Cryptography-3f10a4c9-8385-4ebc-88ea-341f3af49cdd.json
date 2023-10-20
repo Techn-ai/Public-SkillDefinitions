@@ -1,0 +1,35 @@
+{
+  "name" : "Cryptography",
+  "name_en" : null,
+  "id" : "3f10a4c9-8385-4ebc-88ea-341f3af49cdd",
+  "description" : "Cryptography is associated with the process of converting ordinary plain text into unintelligible text and vice-versa. It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it. Cryptography not only protects data from theft or alteration, but can also be used for user authentication.",
+  "description_en" : "kryptografi",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 38, 55, 494767000 ],
+  "lastEdited" : [ 2022, 8, 30, 11, 25, 38, 235103000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
