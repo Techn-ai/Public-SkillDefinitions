@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 59, 38, 366713000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 32, 52, 460459000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "ldap",
     "name_en" : null,
-    "id" : "9a4c65e2-4016-4167-b9ff-ec5670177924",
+    "id" : "9b63cfe7-de54-4640-8f37-d09d4a0f5023",
     "description" : "ldap",
     "description_en" : "ldap",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "ldap",
     "name_en" : null,
-    "id" : "9a4c65e2-4016-4167-b9ff-ec5670177924",
+    "id" : "9b63cfe7-de54-4640-8f37-d09d4a0f5023",
     "description" : "ldap",
     "description_en" : "ldap",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
