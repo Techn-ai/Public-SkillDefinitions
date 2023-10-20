@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "a581fd06-db7e-4b50-b48e-dbae01f67404",
+    "id" : "6567fa15-7f61-4cd0-8582-b456ce2ecdfd",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "a581fd06-db7e-4b50-b48e-dbae01f67404",
+    "id" : "6567fa15-7f61-4cd0-8582-b456ce2ecdfd",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
