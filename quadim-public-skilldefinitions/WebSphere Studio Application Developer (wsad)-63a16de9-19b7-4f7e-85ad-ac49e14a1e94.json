@@ -42,7 +42,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "847a2c3d-eef8-4410-a80e-0697b88178c1",
+    "id" : "a07f28d3-f107-41be-8573-781ba2c635d5",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -72,7 +72,7 @@
   }, {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "847a2c3d-eef8-4410-a80e-0697b88178c1",
+    "id" : "a07f28d3-f107-41be-8573-781ba2c635d5",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -102,7 +102,7 @@
   }, {
     "name" : "Java EE",
     "name_en" : null,
-    "id" : "0ffb823e-3c91-4c01-bb84-c1b6437f3230",
+    "id" : "553016e3-c260-4a73-a48a-f7a72f96156b",
     "description" : "Java EE",
     "description_en" : "Java EE",
     "coversElement" : {
@@ -132,7 +132,7 @@
   }, {
     "name" : "Java EE",
     "name_en" : null,
-    "id" : "0ffb823e-3c91-4c01-bb84-c1b6437f3230",
+    "id" : "553016e3-c260-4a73-a48a-f7a72f96156b",
     "description" : "Java EE",
     "description_en" : "Java EE",
     "coversElement" : {
