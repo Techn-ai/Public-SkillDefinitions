@@ -42,12 +42,10 @@
   "createdAt" : [ 2023, 2, 1, 13, 7, 41, 502489000 ],
   "lastEdited" : [ 2023, 2, 17, 8, 34, 29, 997221000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Advertising",
     "name_en" : null,
-    "id" : "62acca98-d932-46d4-9caf-83ae7b76b18d",
+    "id" : "f717de74-e256-4b33-9f7a-d548b9f257ee",
     "description" : "Advertising",
     "description_en" : "Advertising",
     "coversElement" : {
@@ -71,13 +69,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Advertising",
+    "name_en" : null,
+    "id" : "f717de74-e256-4b33-9f7a-d548b9f257ee",
+    "description" : "Advertising",
+    "description_en" : "Advertising",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "digital marketing",
     "name_en" : null,
-    "id" : "2cb4c9bb-d167-463a-ad6a-ac44971c7d35",
+    "id" : "900d7ef2-a8a9-4272-8aee-6d529d7c8659",
     "description" : "digital marketing",
     "description_en" : "digital marketing",
     "coversElement" : {
@@ -101,8 +129,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "digital marketing",
+    "name_en" : null,
+    "id" : "900d7ef2-a8a9-4272-8aee-6d529d7c8659",
+    "description" : "digital marketing",
+    "description_en" : "digital marketing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
