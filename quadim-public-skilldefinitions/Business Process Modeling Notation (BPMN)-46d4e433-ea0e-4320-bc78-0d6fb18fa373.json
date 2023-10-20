@@ -36,10 +36,12 @@
   "createdAt" : [ 2022, 5, 23, 10, 41, 23, 158417000 ],
   "lastEdited" : [ 2022, 8, 30, 9, 26, 9, 724908000 ],
   "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Business process management (BPM)",
     "name_en" : null,
-    "id" : "0a433001-a673-48f8-9ddd-277915fda3c5",
+    "id" : "c458fbb2-fcb3-48e7-b389-bfa4bb0bf7df",
     "description" : "Business process management (BPM)",
     "description_en" : "Business process management (BPM)",
     "coversElement" : {
@@ -63,10 +65,8 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ]
+    "relatesToSkill" : [ ]
+  } ]
 }
