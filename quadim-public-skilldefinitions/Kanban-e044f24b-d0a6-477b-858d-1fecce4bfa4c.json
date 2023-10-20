@@ -1,0 +1,100 @@
+{
+  "name" : "Kanban",
+  "name_en" : null,
+  "id" : "e044f24b-d0a6-477b-858d-1fecce4bfa4c",
+  "description" : "Kanban (Japanese for sign) is an inventory control system used in just-in-time (JIT) manufacturing to track production and order new shipments of parts and materials. Kanban was developed by Taiichi Ohno, an industrial engineer at Toyota, and uses visual cues to prompt the action needed to keep a process flowing.",
+  "description_en" : "kanban",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "6349b810-9231-49fc-b85a-70413f0aa707",
+    "name" : "Agile Software Development",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 48, 58, 395593000 ],
+  "lastEdited" : [ 2023, 8, 29, 10, 59, 13, 36861000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Agile Software Development",
+    "name_en" : null,
+    "id" : "7ceefdaa-d0e6-4529-addc-542a02fba222",
+    "description" : "Agile Software Development",
+    "description_en" : "Agile Software Development",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Agile Software Development",
+    "name_en" : null,
+    "id" : "7ceefdaa-d0e6-4529-addc-542a02fba222",
+    "description" : "Agile Software Development",
+    "description_en" : "Agile Software Development",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
