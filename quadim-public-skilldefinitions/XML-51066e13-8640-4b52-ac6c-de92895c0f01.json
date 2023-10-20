@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "name_en" : null,
-    "id" : "4d85c356-0f49-4a98-8aa4-2e1fab72a49d",
+    "id" : "2560ae20-11c5-45ab-9240-b2e451291db7",
     "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "coversElement" : {
@@ -65,42 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
-    "name_en" : null,
-    "id" : "4d85c356-0f49-4a98-8aa4-2e1fab72a49d",
-    "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
-    "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "XML Schema Definition (XSD)",
     "name_en" : null,
-    "id" : "9d1f35ea-62b4-437c-abf4-b5cf98c6aafe",
+    "id" : "ec114420-445a-496d-9fe1-3c8ac63a8fcb",
     "description" : "XML Schema Definition (XSD)",
     "description_en" : "XML Schema Definition (XSD)",
     "coversElement" : {
@@ -125,39 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "XML Schema Definition (XSD)",
-    "name_en" : null,
-    "id" : "9d1f35ea-62b4-437c-abf4-b5cf98c6aafe",
-    "description" : "XML Schema Definition (XSD)",
-    "description_en" : "XML Schema Definition (XSD)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
