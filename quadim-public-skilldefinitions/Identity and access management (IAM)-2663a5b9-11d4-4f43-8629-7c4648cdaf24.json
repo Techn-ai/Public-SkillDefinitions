@@ -34,6 +34,6 @@
   "lastEdited" : [ 2022, 8, 25, 7, 12, 33, 228345000 ],
   "public" : true,
   "relatesToSkill" : [ ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
