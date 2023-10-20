@@ -1,0 +1,44 @@
+{
+  "name" : "Media Strategy",
+  "name_en" : null,
+  "id" : "f34f2702-7e0b-4706-9e4f-baba4614f608",
+  "description" : "Media strategy, as used in the advertising or content delivery (online broadcasting) industries, is concerned with how messages will be delivered to consumers or niche markets. It involves: identifying the characteristics of the target audience or market, who should receive messages and defining the characteristics of the media that will be used for the delivery of the messages, with the intent being to influence the behavior of the target audience or market pertinent to the initial brief. Examples of such strategies today have revolved around an Integrated Marketing Communications approach whereby multiple channels of media are used i.e. advertising, public relations, events, direct response media, etc.",
+  "description_en" : "Media Strategy",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Media_strategy",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 1, 12, 57, 45, 442873000 ],
+  "lastEdited" : [ 2023, 2, 1, 12, 57, 45, 442866000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
