@@ -35,10 +35,11 @@
   "lastEdited" : [ 2023, 8, 29, 10, 59, 13, 36861000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "c958046d-50e2-4513-92aa-3fed03b58421",
+    "id" : "3edd1bfe-7726-4694-9e13-afa9bb4ad30f",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
@@ -63,12 +64,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "c958046d-50e2-4513-92aa-3fed03b58421",
+    "id" : "3edd1bfe-7726-4694-9e13-afa9bb4ad30f",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
@@ -93,8 +94,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
