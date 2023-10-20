@@ -35,7 +35,37 @@
   "relatesToSkill" : [ {
     "name" : "configservice",
     "name_en" : null,
-    "id" : "5e412fd0-4b22-41f6-954d-b169bd8f1d8c",
+    "id" : "b8a62219-2bb3-4ac3-9aa2-1e2ea0e14563",
+    "description" : "configservice",
+    "description_en" : "configservice",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "configservice",
+    "name_en" : null,
+    "id" : "b8a62219-2bb3-4ac3-9aa2-1e2ea0e14563",
     "description" : "configservice",
     "description_en" : "configservice",
     "coversElement" : {
