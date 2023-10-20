@@ -1,0 +1,39 @@
+{
+  "name" : "TM Forum Information Framework (SID) ",
+  "name_en" : null,
+  "id" : "3238ba7a-bffb-4d92-a2b6-332522c844d5",
+  "description" : "The Information Framework (SID) provides an information/data reference model along with a common vocabulary for implementing business processes. This business model is independent of platform, language or protocol and can help identify business entities that are important to the Communications Service Provider.",
+  "description_en" : "telemanagement forum's shared information data model (tmf sid)",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 35, 48, 342866000 ],
+  "lastEdited" : [ 2022, 8, 26, 7, 8, 4, 987804000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
