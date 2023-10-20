@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "Infrastructure Architecture",
     "name_en" : null,
-    "id" : "16d92e8f-8f93-4015-b966-0dc73c994278",
+    "id" : "6052fd48-74d7-43c7-9894-1005381af4ee",
     "description" : "Infrastructure Architecture",
     "description_en" : "Infrastructure Architecture",
     "coversElement" : {
@@ -75,7 +75,7 @@
   }, {
     "name" : "Infrastructure Architecture",
     "name_en" : null,
-    "id" : "16d92e8f-8f93-4015-b966-0dc73c994278",
+    "id" : "6052fd48-74d7-43c7-9894-1005381af4ee",
     "description" : "Infrastructure Architecture",
     "description_en" : "Infrastructure Architecture",
     "coversElement" : {
@@ -105,7 +105,7 @@
   }, {
     "name" : "Information security",
     "name_en" : null,
-    "id" : "19022a34-a52d-47d4-b082-2b31d42c3eb3",
+    "id" : "3227c79f-c3a5-4073-9cb6-54d2ed334d9b",
     "description" : "Information security",
     "description_en" : "Information security",
     "coversElement" : {
@@ -135,7 +135,7 @@
   }, {
     "name" : "Information security",
     "name_en" : null,
-    "id" : "19022a34-a52d-47d4-b082-2b31d42c3eb3",
+    "id" : "3227c79f-c3a5-4073-9cb6-54d2ed334d9b",
     "description" : "Information security",
     "description_en" : "Information security",
     "coversElement" : {
@@ -165,7 +165,7 @@
   }, {
     "name" : "Cryptography",
     "name_en" : null,
-    "id" : "764c3a35-9057-4161-b0f0-759a498a20b0",
+    "id" : "f258cac0-160d-45b8-b517-00c73b52d5c6",
     "description" : "Cryptography",
     "description_en" : "Cryptography",
     "coversElement" : {
@@ -195,7 +195,7 @@
   }, {
     "name" : "Cryptography",
     "name_en" : null,
-    "id" : "764c3a35-9057-4161-b0f0-759a498a20b0",
+    "id" : "f258cac0-160d-45b8-b517-00c73b52d5c6",
     "description" : "Cryptography",
     "description_en" : "Cryptography",
     "coversElement" : {
