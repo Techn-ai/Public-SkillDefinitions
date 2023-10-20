@@ -1,0 +1,37 @@
+{
+  "name" : "Organizational design",
+  "name_en" : null,
+  "id" : "2b7fdac6-bc63-4b21-8717-903afd78796c",
+  "description" : "Organizational design, also known as organizational architecture, is a field concerned with the creation of roles, processes, and formal reporting relationships in an organization. It refers to architecture metaphorically, as a structure which fleshes out the organizations. The various features of a business's organizational architecture has to be internally consistent in strategy, architecture and competitive environment.",
+  "description_en" : "Organizational design",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 57, 37, 581194000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 57, 37, 581186000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
