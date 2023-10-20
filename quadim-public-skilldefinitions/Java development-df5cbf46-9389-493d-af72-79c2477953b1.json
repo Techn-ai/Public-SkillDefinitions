@@ -1,0 +1,553 @@
+{
+  "name" : "Java development",
+  "name_en" : null,
+  "id" : "df5cbf46-9389-493d-af72-79c2477953b1",
+  "description" : "Java is an object-oriented programming language that produces software for multiple platforms. When a programmer writes a Java application, the compiled code (known as bytecode) runs on most operating systems (OS), including Windows, Linux and Mac OS. Java derives much of its syntax from the C and C++ programming languages.",
+  "description_en" : "Java development",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d9a85e03-ade7-4865-ae0f-fabf1f1fe50e",
+    "name" : "J2EE",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "77ff4575-ec3c-4947-ba0c-ae786b249e08",
+    "name" : "Java EE",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3971e83f-1832-46f2-b28f-e4a8da8a30a0",
+    "name" : "java servlet",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "77f71760-b590-43fe-9205-2adf0249f0bb",
+    "name" : "java agent",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f9558707-d01b-4931-bbce-c36a5c6bb4cd",
+    "name" : "javaspaces",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "569d3580-1645-4631-b8d0-432980e07d84",
+    "name" : " Systems development ",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "9656761d-c588-427b-9afa-2dc2dfa73110",
+    "name" : "Functional Architecture",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "60894fe0-261b-498c-8287-3eccb6b793ec",
+    "name" : "design",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "37048824-6619-4c2a-b321-39b2dacb74a2",
+    "name" : "Service design",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "8cfad734-32eb-4ed9-bae8-2e7b03a37922",
+    "name" : "Spring MVC",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5e1cb6f2-3fe5-45a5-8011-7723e6f05a95",
+    "name" : "struts",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "472ab6ae-2536-4a76-a300-f153d7ab0436",
+    "name" : "rest",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "98336947-bd09-4979-9389-b418fe4808ae",
+    "name" : "SOAP",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "453479e8-86d6-4d56-96a0-27a2ffbe0cb1",
+    "name" : "maven",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 7, 9, 21, 7, 93027000 ],
+  "lastEdited" : [ 2023, 2, 7, 9, 21, 7, 93017000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Spring MVC",
+    "name_en" : null,
+    "id" : "0f120270-b6e8-4f6f-9e75-af1309212560",
+    "description" : "Spring MVC",
+    "description_en" : "Spring MVC",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Spring MVC",
+    "name_en" : null,
+    "id" : "0f120270-b6e8-4f6f-9e75-af1309212560",
+    "description" : "Spring MVC",
+    "description_en" : "Spring MVC",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "struts",
+    "name_en" : null,
+    "id" : "49f99b87-f146-4d81-9bdd-a54750e472e6",
+    "description" : "struts",
+    "description_en" : "struts",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "struts",
+    "name_en" : null,
+    "id" : "49f99b87-f146-4d81-9bdd-a54750e472e6",
+    "description" : "struts",
+    "description_en" : "struts",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "rest",
+    "name_en" : null,
+    "id" : "cb86c091-0eec-444d-84c5-56bf29eb3b9e",
+    "description" : "rest",
+    "description_en" : "rest",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "rest",
+    "name_en" : null,
+    "id" : "cb86c091-0eec-444d-84c5-56bf29eb3b9e",
+    "description" : "rest",
+    "description_en" : "rest",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "SOAP",
+    "name_en" : null,
+    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "description" : "SOAP",
+    "description_en" : "SOAP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "SOAP",
+    "name_en" : null,
+    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "description" : "SOAP",
+    "description_en" : "SOAP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "maven",
+    "name_en" : null,
+    "id" : "6459f657-9fe6-409b-af11-418e03a327f3",
+    "description" : "maven",
+    "description_en" : "maven",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "maven",
+    "name_en" : null,
+    "id" : "6459f657-9fe6-409b-af11-418e03a327f3",
+    "description" : "maven",
+    "description_en" : "maven",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null, null, null, null ],
+  "relatesToSkill" : [ {
+    "name" : "J2EE",
+    "name_en" : null,
+    "id" : "8c0e5794-d07d-40b9-b800-1d72d0d4c6bf",
+    "description" : "J2EE",
+    "description_en" : "J2EE",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Java EE",
+    "name_en" : null,
+    "id" : "6c42dc5b-776b-43c2-a507-b9d13878e813",
+    "description" : "Java EE",
+    "description_en" : "Java EE",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "java servlet",
+    "name_en" : null,
+    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
+    "description" : "java servlet",
+    "description_en" : "java servlet",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "java agent",
+    "name_en" : null,
+    "id" : "2644c927-c96b-4837-90c0-ed8805edd5d1",
+    "description" : "java agent",
+    "description_en" : "java agent",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "javaspaces",
+    "name_en" : null,
+    "id" : "82f5e607-c72a-4c18-a129-563ec650460d",
+    "description" : "javaspaces",
+    "description_en" : "javaspaces",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
