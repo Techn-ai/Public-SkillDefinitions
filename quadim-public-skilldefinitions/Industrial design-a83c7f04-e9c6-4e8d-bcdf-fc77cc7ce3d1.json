@@ -1,0 +1,42 @@
+{
+  "name" : "Industrial design",
+  "name_en" : null,
+  "id" : "a83c7f04-e9c6-4e8d-bcdf-fc77cc7ce3d1",
+  "description" : "Industrial design is a process of design applied to physical products that are to be manufactured by mass production.[1][2] It is the creative act of determining and defining a product's form and features, which takes place in advance of the manufacture or production of the product. It consists purely of repeated, often automated, replication,[3][4] while craft-based design is a process or approach in which the form of the product is determined by the product's creator largely concurrent with the act of its production",
+  "description_en" : "Industrial design",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Industrial_design",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 19, 11, 36, 620753000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 11, 36, 620746000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
