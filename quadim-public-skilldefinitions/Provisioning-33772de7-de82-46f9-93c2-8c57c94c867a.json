@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
+    "id" : "a891acb5-7b1f-4933-8b36-20c64a56003b",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -70,7 +70,7 @@
   }, {
     "name" : "Continuous Integration (CI)",
     "name_en" : null,
-    "id" : "5a44b1a9-d116-45b6-84fe-65841c8547c7",
+    "id" : "25f93edf-37b4-4c0c-9ff8-66f7b42416d1",
     "description" : "Continuous Integration (CI)",
     "description_en" : "Continuous Integration (CI)",
     "coversElement" : {
