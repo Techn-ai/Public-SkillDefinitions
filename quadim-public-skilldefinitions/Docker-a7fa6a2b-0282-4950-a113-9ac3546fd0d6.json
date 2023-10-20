@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
+    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -70,12 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Containers",
     "name_en" : null,
-    "id" : "47910565-76be-4025-bdce-c8d315e939c4",
+    "id" : "baf35b43-01a1-45dd-aad9-e1f07bfc9475",
     "description" : "Containers",
     "description_en" : "Containers",
     "coversElement" : {
@@ -100,12 +100,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "d88322d3-56bb-4f4a-8ec2-5d43a9426fa2",
+    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -130,9 +130,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
