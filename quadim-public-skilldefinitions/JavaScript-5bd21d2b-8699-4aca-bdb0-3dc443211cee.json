@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "168281fb-fca1-42f0-ac28-412e77cfc5ed",
+    "id" : "edb2a70a-50e2-4f71-8a34-ac2f030f9e01",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
@@ -70,7 +70,7 @@
   }, {
     "name" : "HTTP",
     "name_en" : null,
-    "id" : "53da70f9-9505-486c-a286-86b07540795e",
+    "id" : "77092d5d-9177-46c7-89ee-be5c0d27024e",
     "description" : "HTTP",
     "description_en" : "HTTP",
     "coversElement" : {
