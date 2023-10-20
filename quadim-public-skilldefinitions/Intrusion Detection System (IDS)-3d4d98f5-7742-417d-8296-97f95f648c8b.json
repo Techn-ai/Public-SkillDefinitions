@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "intrusion prevention system (ips)",
     "name_en" : null,
-    "id" : "ee81f967-ccd1-4927-bc4f-e6329e506450",
+    "id" : "18a0d15f-6181-4a83-af26-4b03951a75fa",
     "description" : "intrusion prevention system (ips)",
     "description_en" : "intrusion prevention system (ips)",
     "coversElement" : {
@@ -60,9 +60,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
