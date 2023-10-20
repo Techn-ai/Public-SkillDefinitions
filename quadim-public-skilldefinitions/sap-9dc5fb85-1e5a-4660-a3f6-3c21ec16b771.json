@@ -1,0 +1,33 @@
+{
+  "name" : "sap",
+  "name_en" : null,
+  "id" : "9dc5fb85-1e5a-4660-a3f6-3c21ec16b771",
+  "description" : "SAP, or Systems Applications and Products, is a widely-used enterprise resource planning (ERP) software SAP creates a centralized system for businesses that enables every department to access and share common data to create a better work environment for every employee in the company.",
+  "description_en" : "sap",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 54, 58, 485886000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 52, 10, 746816000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
