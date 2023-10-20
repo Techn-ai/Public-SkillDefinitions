@@ -1,0 +1,103 @@
+{
+  "name" : "Amazon Relational Database Service (RDS)",
+  "name_en" : null,
+  "id" : "0c3facfd-e46f-48c3-be3a-31decad35453",
+  "description" : "Amazon Relational Database Service (RDS) is a managed SQL database service provided by Amazon Web Services (AWS). Amazon RDS supports an array of database engines to store and organize data. It also helps with relational database management tasks, such as data migration, backup, recovery and patching.\n\nAmazon RDS facilitates the deployment and maintenance of relational databases in the cloud. A cloud administrator uses Amazon RDS to set up, operate, manage and scale a relational instance of a cloud database. Amazon RDS is not itself a database; it is a service used to manage relational databases.",
+  "description_en" : "amazon rds",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "7901e7ad-8cfb-4348-96c6-cf58ea7a9375",
+    "name" : "postgresql",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c0e4c39d-e6fb-40bd-8fdd-4046f3b63329",
+    "name" : "AWS (Amazon Web Services)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 3,
+  "createdAt" : [ 2022, 5, 23, 10, 46, 29, 374841000 ],
+  "lastEdited" : [ 2023, 8, 17, 13, 18, 44, 227472000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "postgresql",
+    "name_en" : null,
+    "id" : "72f0ccb9-491b-4f5e-a0a7-09d52abb9e9a",
+    "description" : "postgresql",
+    "description_en" : "postgresql",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "AWS (Amazon Web Services)",
+    "name_en" : null,
+    "id" : "567589b4-8d55-4184-b1c4-692069494749",
+    "description" : "AWS (Amazon Web Services)",
+    "description_en" : "AWS (Amazon Web Services)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
