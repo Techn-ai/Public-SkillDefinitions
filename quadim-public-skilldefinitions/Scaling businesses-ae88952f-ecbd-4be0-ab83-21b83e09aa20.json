@@ -85,372 +85,10 @@
   "createdAt" : [ 2023, 4, 27, 10, 30, 21, 31728000 ],
   "lastEdited" : [ 2023, 4, 27, 10, 30, 21, 31724000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ {
-    "name" : "Operations management",
-    "name_en" : null,
-    "id" : "75f797ed-5f30-4e52-b240-43a70cb8ec2d",
-    "description" : "Operations management",
-    "description_en" : "Operations management",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Operations management",
-    "name_en" : null,
-    "id" : "75f797ed-5f30-4e52-b240-43a70cb8ec2d",
-    "description" : "Operations management",
-    "description_en" : "Operations management",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Data analysis",
-    "name_en" : null,
-    "id" : "550286d1-8ee1-45e6-9d2b-35d44ff732b3",
-    "description" : "Data analysis",
-    "description_en" : "Data analysis",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Data analysis",
-    "name_en" : null,
-    "id" : "550286d1-8ee1-45e6-9d2b-35d44ff732b3",
-    "description" : "Data analysis",
-    "description_en" : "Data analysis",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Risk management",
-    "name_en" : null,
-    "id" : "f27e0579-9d5d-4fc8-a7f7-72e0d0ef62bf",
-    "description" : "Risk management",
-    "description_en" : "Risk management",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Risk management",
-    "name_en" : null,
-    "id" : "f27e0579-9d5d-4fc8-a7f7-72e0d0ef62bf",
-    "description" : "Risk management",
-    "description_en" : "Risk management",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Customer focus",
-    "name_en" : null,
-    "id" : "ca440baf-d715-4769-9c1f-9e4fe0612564",
-    "description" : "Customer focus",
-    "description_en" : "Customer focus",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Customer focus",
-    "name_en" : null,
-    "id" : "ca440baf-d715-4769-9c1f-9e4fe0612564",
-    "description" : "Customer focus",
-    "description_en" : "Customer focus",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Communication",
-    "name_en" : null,
-    "id" : "900056a5-6f6f-457f-a34c-c387b7745349",
-    "description" : "Communication",
-    "description_en" : "Communication",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "Communication",
-    "name_en" : null,
-    "id" : "900056a5-6f6f-457f-a34c-c387b7745349",
-    "description" : "Communication",
-    "description_en" : "Communication",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "innovation",
-    "name_en" : null,
-    "id" : "01351789-2927-4aeb-9328-da9027e29bbd",
-    "description" : "innovation",
-    "description_en" : "innovation",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  }, {
-    "name" : "innovation",
-    "name_en" : null,
-    "id" : "01351789-2927-4aeb-9328-da9027e29bbd",
-    "description" : "innovation",
-    "description_en" : "innovation",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Strategic Leadership",
     "name_en" : null,
-    "id" : "59083486-1812-4740-b448-34c2adff83da",
+    "id" : "b5f28cef-3560-4e01-866a-7ff32cb4c9ab",
     "description" : "Strategic Leadership",
     "description_en" : "Strategic Leadership",
     "coversElement" : {
@@ -474,13 +112,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Strategic Leadership",
+    "name_en" : null,
+    "id" : "b5f28cef-3560-4e01-866a-7ff32cb4c9ab",
+    "description" : "Strategic Leadership",
+    "description_en" : "Strategic Leadership",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Leadership",
     "name_en" : null,
-    "id" : "610be2c4-c70a-43be-9350-ac1223071952",
+    "id" : "fff9e4a1-5715-43a4-84de-4740c39983e9",
     "description" : "Leadership",
     "description_en" : "Leadership",
     "coversElement" : {
@@ -504,13 +172,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Sales and marketing",
     "name_en" : null,
-    "id" : "0e046aad-b385-4e5b-a27e-acb034cc441b",
+    "id" : "1d4a9621-e148-4f5e-a457-fc08929b5e3c",
     "description" : "Sales and marketing",
     "description_en" : "Sales and marketing",
     "coversElement" : {
@@ -534,13 +202,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "strategic planning",
     "name_en" : null,
-    "id" : "d1379e1c-8a2d-4f87-a730-beb4add7fdc4",
+    "id" : "24f300fe-91db-4d20-aa2f-c5bfd09a2e6c",
     "description" : "strategic planning",
     "description_en" : "strategic planning",
     "coversElement" : {
@@ -564,8 +232,400 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "strategic planning",
+    "name_en" : null,
+    "id" : "24f300fe-91db-4d20-aa2f-c5bfd09a2e6c",
+    "description" : "strategic planning",
+    "description_en" : "strategic planning",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Operations management",
+    "name_en" : null,
+    "id" : "c9188e21-0bd0-4900-9afc-41a86a0ad5e5",
+    "description" : "Operations management",
+    "description_en" : "Operations management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Operations management",
+    "name_en" : null,
+    "id" : "c9188e21-0bd0-4900-9afc-41a86a0ad5e5",
+    "description" : "Operations management",
+    "description_en" : "Operations management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Data analysis",
+    "name_en" : null,
+    "id" : "2a49368b-a378-463e-b8e3-fdd6c1757557",
+    "description" : "Data analysis",
+    "description_en" : "Data analysis",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Data analysis",
+    "name_en" : null,
+    "id" : "2a49368b-a378-463e-b8e3-fdd6c1757557",
+    "description" : "Data analysis",
+    "description_en" : "Data analysis",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Risk management",
+    "name_en" : null,
+    "id" : "4d6f2a3d-d8bf-4d3b-9c1d-8234740a13da",
+    "description" : "Risk management",
+    "description_en" : "Risk management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Risk management",
+    "name_en" : null,
+    "id" : "4d6f2a3d-d8bf-4d3b-9c1d-8234740a13da",
+    "description" : "Risk management",
+    "description_en" : "Risk management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Customer focus",
+    "name_en" : null,
+    "id" : "3e02dbc4-2f4a-46b8-996d-59e2290ec7b4",
+    "description" : "Customer focus",
+    "description_en" : "Customer focus",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Customer focus",
+    "name_en" : null,
+    "id" : "3e02dbc4-2f4a-46b8-996d-59e2290ec7b4",
+    "description" : "Customer focus",
+    "description_en" : "Customer focus",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Communication",
+    "name_en" : null,
+    "id" : "82dbd026-c255-40a1-809d-1a947ddd4f80",
+    "description" : "Communication",
+    "description_en" : "Communication",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Communication",
+    "name_en" : null,
+    "id" : "82dbd026-c255-40a1-809d-1a947ddd4f80",
+    "description" : "Communication",
+    "description_en" : "Communication",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "innovation",
+    "name_en" : null,
+    "id" : "d88b2368-0b0a-4991-a87e-036796ecbd55",
+    "description" : "innovation",
+    "description_en" : "innovation",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "innovation",
+    "name_en" : null,
+    "id" : "d88b2368-0b0a-4991-a87e-036796ecbd55",
+    "description" : "innovation",
+    "description_en" : "innovation",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ]
 }
