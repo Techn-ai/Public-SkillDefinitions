@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 44, 15, 648802000 ],
   "lastEdited" : [ 2022, 8, 28, 11, 27, 33, 142589000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "fc1476ac-1aae-4088-94be-f25cb2910dcf",
+    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
