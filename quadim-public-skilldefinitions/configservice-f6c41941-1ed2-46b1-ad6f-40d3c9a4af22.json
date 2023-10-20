@@ -1,0 +1,68 @@
+{
+  "name" : "configservice",
+  "name_en" : null,
+  "id" : "f6c41941-1ed2-46b1-ad6f-40d3c9a4af22",
+  "description" : "The goal of Java-Auto-Update and ConfigService is to provide the server-component of a controlled application instance regime, where both software upgrades and corresponding configurations of home-built java applications and services are managed. This should solve the update and configuration pain-point in micro-service architectures and for client installs of homegrown applications.",
+  "description_en" : "configservice",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "456e7fff-c1c9-4e71-8b29-c4f832b864e8",
+    "name" : "Configuration Management (CM)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 56, 31, 185227000 ],
+  "lastEdited" : [ 2022, 8, 25, 7, 23, 58, 587426000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Configuration Management (CM)",
+    "name_en" : null,
+    "id" : "26b24a3b-9822-42f9-a9bb-8d6de151ca91",
+    "description" : "Configuration Management (CM)",
+    "description_en" : "Configuration Management (CM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
