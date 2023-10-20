@@ -1,0 +1,35 @@
+{
+  "name" : "Vendor Management Strategies",
+  "name_en" : null,
+  "id" : "7e28f803-83f6-4706-8a21-a6112f5f7898",
+  "description" : "The following strategies enable an approach to working with partners:\n\n    Collaborate closely with the actual people you procure for. Very often the team that requires a product or service to be procured for them will have a very good understanding of good options, and sometimes the best option, available. Listen to them, trust them, and better yet explicitly involve them up-front in the procurement process.\n    Work with the right vendors. Many organizations make the mistake of working with a limited number of vendors, often to simplify procurement. But, if you want the best fit, then you really need to work with a range of vendors. Larger companies tend to offer commodity services and products and are often willing to work with you to gain the specific expertise they are currently missing (this is called “learning on your dime”). Smaller companies are more leading edge but may not have the capacity for larger service engagements or large product orders. Independent contractors are often experts in a specific topic, providing the expert advice or service you require but not at the scale that you may need. \n    Build partnerships. When it comes to procured services, vendor staff will often be a critical part of your value stream. So treat them as such and embed them as closely as you can. Ideally, the integration of full-time employees (FTEs) and contractors should be so good that it’s impossible to identify which company directly employs a given person on a team. Note that some countries, particularly the US, have specific laws that limit how you are able to treat contractors and consultants and may even put an upper limit on how long they may work for you. With respect to purchased products, you may choose to co-develop and even co-produce the offerings with one or more partner firms, sharing the resulting risks and revenues of doing so.\n\nThe following strategies lead to more effective contracting: \n\n    Prefer context-sensitive contracts. The point is that a multimillion-dollar services contract will be a bit more detailed than a contract for two-day workshop. A contract for Agile services should reflect how an agile team works whereas a contract for traditional services should reflect how a traditional team works. Use the right contract for what you are trying to procure – Context counts.\n    Beware the extremes. When it comes to comparing vendors based on cost, which is a questionable strategy at best, our advice is that the vendors in the middle are often your best option. Our experience is that lowest bidder will likely produce low quality or will nickle-and-dime you via their change management strategy whereas the highest bidder either doesn’t want your business to begin with, aren’t streamlined in the way that they work and are thus higher cost, or in some cases really are the very best and know what they’re worth.\n    Prefer flexible funding contracts over fixed-bid contracts. Fixed-bid tends to focus on initial price, thus promoting a lowest-bid mindset which leads to trouble. Systems thinking tells us to end the practice of awarding business based on price tag and instead minimize the total cost (or better yet maximize the net value received). Fixed price contracts tend to be a worst case scenario for all parties involved.\n    Prefer incremental delivery contracts over big-bang contracts. The larger the contract, the greater the risk. To remove that risk, when it's possible, organize a large contract into small incremental deliverables. You reduce the cost of delay by doing so, introduce opportunities for learning and adjusting your strategy, and increase overall transparency (hence improving your ability to govern the contract).\n    Prefer outcome-based contracts over feature-based contracts. Just like your internal metrics should be outcome-focused so should your contracts. There is no guarantee that the features you defined up front will be what customers want, an unfortunate outcome of the traditional “big requirements up front (BRUF)﻿\n\n” strategy. Instead define contracts in terms of outcomes – increased sales, increased customer retention, customer growth, and so on. Effective contracts define a set of outcomes to achieve, a set of constraints, and give the team the freedom to work within that sandbox.\nAvoid detailed contractual processes. Large amounts of up-front planning tend to increase risk in complex situations. Worse yet, detailed contractual processes tend to favor incumbents and large service providers (as opposed to the right vendors), they inhibit transparency (rarely exploring the implications of how a vendor will provide a service), they are inaccurate (everyone tends to be overly optimistic), and they usually ignore outcomes in favor of outputs.\nMonitor fulfillment of contracts. Past performance is critical input into determining whether to award new work to a vendor, which is a significant motivator to act as a good partner right now. Just like regular retrospectives to identify potential improvements works well for solution delivery teams, the same technique can be applied to identify how well a contract is being fulfilled and more importantly how to address any problems you’re currently experiencing. ",
+  "description_en" : "leverandørstrategi",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 33, 7, 536174000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 39, 30, 152048000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
