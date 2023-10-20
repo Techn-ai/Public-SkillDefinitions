@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "microservice architecture",
     "name_en" : null,
-    "id" : "f9b0947a-c7d7-4602-8b9d-c71d810173c8",
+    "id" : "2c1e6a4a-140d-4d6c-ab5d-86b9a74fe934",
     "description" : "microservice architecture",
     "description_en" : "microservice architecture",
     "coversElement" : {
@@ -75,7 +75,7 @@
   }, {
     "name" : "XML",
     "name_en" : null,
-    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
+    "id" : "ea02d204-8d0a-454b-8bfd-3870fece3bf6",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -105,7 +105,37 @@
   }, {
     "name" : "rest",
     "name_en" : null,
-    "id" : "0e81120d-3255-4cd1-851a-908a277a3a49",
+    "id" : "9ebd369d-6de9-4e4c-a785-53039ba62cdd",
+    "description" : "rest",
+    "description_en" : "rest",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "rest",
+    "name_en" : null,
+    "id" : "9ebd369d-6de9-4e4c-a785-53039ba62cdd",
     "description" : "rest",
     "description_en" : "rest",
     "coversElement" : {
