@@ -1,0 +1,70 @@
+{
+  "name" : "sap hybris",
+  "name_en" : null,
+  "id" : "ef508710-0292-4cc2-bb10-b4bc9768bc91",
+  "description" : "SAP Hybris is an enterprise eCommerce platform that enables its consumers to effectively merchandise in both B2B and B2C markets. In recent years, SAP Hybris has evolved significantly with a truly global footprint, positioning itself as “an omnichannel commerce solution which helps in distinct customer engagement”.",
+  "description_en" : "sap hybris",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "e0562751-b98a-4fa2-9672-c2c3c749b7d2",
+    "name" : "E-commerce",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 53, 55, 167155000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 57, 27, 343878000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "E-commerce",
+    "name_en" : null,
+    "id" : "0699bbed-26b1-4325-87ef-2d674fe050f9",
+    "description" : "E-commerce",
+    "description_en" : "E-commerce",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
