@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "ldap",
     "name_en" : null,
-    "id" : "864effac-eeb1-4352-9ea2-066008513218",
+    "id" : "6e0dd06e-c848-4c83-aeb8-718940f990b0",
     "description" : "ldap",
     "description_en" : "ldap",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "ldap",
     "name_en" : null,
-    "id" : "864effac-eeb1-4352-9ea2-066008513218",
+    "id" : "6e0dd06e-c848-4c83-aeb8-718940f990b0",
     "description" : "ldap",
     "description_en" : "ldap",
     "coversElement" : {
