@@ -1,0 +1,100 @@
+{
+  "name" : "FarmaPro",
+  "name_en" : null,
+  "id" : "989ad35f-3abd-4882-9c50-2e263f0c0da1",
+  "description" : "FarmaPro er et komplett datasystem for distribusjon, utlevering og salg av legemidler og apotekvarer. Dette inkluderer all kommunikasjon med myndigheter for e-resept, oppgjør og rapportering, samt butikkfunksjonalitet og økonomistyring.  I tillegg leveres ulike spesialutviklede moduler, deriblant moduler for forsendelse og kampanjer.",
+  "description_en" : "farmapro",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "db1d5fb9-5134-409e-935c-40d43d684579",
+    "name" : "eHealth",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 49, 45, 140548000 ],
+  "lastEdited" : [ 2022, 8, 30, 9, 30, 46, 685201000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "eHealth",
+    "name_en" : null,
+    "id" : "48fe9dbb-3aa4-4c92-9699-c4bfbd04ea93",
+    "description" : "eHealth",
+    "description_en" : "eHealth",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "eHealth",
+    "name_en" : null,
+    "id" : "48fe9dbb-3aa4-4c92-9699-c4bfbd04ea93",
+    "description" : "eHealth",
+    "description_en" : "eHealth",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
