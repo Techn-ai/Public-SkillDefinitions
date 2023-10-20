@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "JVM",
     "name_en" : null,
-    "id" : "bdfc76b5-d787-4587-b579-6b4b977c90ee",
+    "id" : "3e7df36d-a14c-45b2-89af-e6284a9bd232",
     "description" : "JVM",
     "description_en" : "JVM",
     "coversElement" : {
@@ -60,12 +60,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "JVM",
     "name_en" : null,
-    "id" : "bdfc76b5-d787-4587-b579-6b4b977c90ee",
+    "id" : "3e7df36d-a14c-45b2-89af-e6284a9bd232",
     "description" : "JVM",
     "description_en" : "JVM",
     "coversElement" : {
@@ -90,9 +90,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
