@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 30, 48, 80290000 ],
   "lastEdited" : [ 2022, 8, 25, 6, 48, 2, 783954000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Event-driven architecture (EDA)",
     "name_en" : null,
-    "id" : "80506ee5-04cb-460d-b65d-1721d02b1b57",
+    "id" : "f959be70-80b2-4fc1-9005-5f4831188039",
     "description" : "Event-driven architecture (EDA)",
     "description_en" : "Event-driven architecture (EDA)",
     "coversElement" : {
@@ -66,13 +64,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Event-driven architecture (EDA)",
+    "name_en" : null,
+    "id" : "f959be70-80b2-4fc1-9005-5f4831188039",
+    "description" : "Event-driven architecture (EDA)",
+    "description_en" : "Event-driven architecture (EDA)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "drillo-arkitektur",
     "name_en" : null,
-    "id" : "16b573af-c472-4bda-871e-afc3bc518c4a",
+    "id" : "3a6a15cb-5f98-4051-937d-02e1ba1481ef",
     "description" : "drillo-arkitektur",
     "description_en" : "drillo-arkitektur",
     "coversElement" : {
@@ -96,8 +124,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "drillo-arkitektur",
+    "name_en" : null,
+    "id" : "3a6a15cb-5f98-4051-937d-02e1ba1481ef",
+    "description" : "drillo-arkitektur",
+    "description_en" : "drillo-arkitektur",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
