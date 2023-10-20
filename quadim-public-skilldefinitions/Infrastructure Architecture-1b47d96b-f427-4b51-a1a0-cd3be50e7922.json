@@ -1,0 +1,33 @@
+{
+  "name" : "Infrastructure Architecture",
+  "name_en" : null,
+  "id" : "1b47d96b-f427-4b51-a1a0-cd3be50e7922",
+  "description" : "Infrastructure Architecture is a structured and modern approach for supporting an organization and facilitating innovation within an enterprise. It concerns modeling the hardware elements across an enterprise and the relationship between them.",
+  "description_en" : "infrastrukturarkitektur",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 20, 12, 572787000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 5, 56, 219880000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
