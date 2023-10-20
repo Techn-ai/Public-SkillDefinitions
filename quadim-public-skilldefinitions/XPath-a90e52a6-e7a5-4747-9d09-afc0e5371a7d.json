@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "name_en" : null,
-    "id" : "4d85c356-0f49-4a98-8aa4-2e1fab72a49d",
+    "id" : "2560ae20-11c5-45ab-9240-b2e451291db7",
     "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "coversElement" : {
@@ -70,12 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "XML Schema Definition (XSD)",
     "name_en" : null,
-    "id" : "9d1f35ea-62b4-437c-abf4-b5cf98c6aafe",
+    "id" : "ec114420-445a-496d-9fe1-3c8ac63a8fcb",
     "description" : "XML Schema Definition (XSD)",
     "description_en" : "XML Schema Definition (XSD)",
     "coversElement" : {
@@ -100,13 +100,14 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "XML",
     "name_en" : null,
-    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
+    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -131,12 +132,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "XML",
     "name_en" : null,
-    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
+    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -161,8 +162,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
