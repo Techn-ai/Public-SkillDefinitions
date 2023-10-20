@@ -1,9 +1,9 @@
 {
-  "name" : "intershop enfinity",
+  "name" : "windows",
   "name_en" : null,
-  "id" : "7bca077b-6c42-4754-a00d-d24d5424fcdc",
-  "description" : "Intershop's Enfinity is high-performance packaged software for internet sales, complemented by all necessary services as well as comprehensive online marketing consulting. Intershop also acts as a business process outsourcing provider, covering all aspects of online retailing, including fulfillment.",
-  "description_en" : "intershop enfinity",
+  "id" : "8b9cffa6-9f6b-4885-a08a-939001ce72d3",
+  "description" : "Microsoft Windows (also referred to as Windows or Win) is a graphical operating system developed and published by Microsoft. It provides a way to store files, run software, play games, watch videos, and connect to the Internet.\n\nMicrosoft Windows was first introduced with version 1.0 on November 10, 1983.",
+  "description_en" : "windows",
   "coversElement" : {
     "classification" : "Technical"
   },
@@ -24,8 +24,8 @@
   "editedByUsername" : "Thor Henning Hetland",
   "networkReference" : null,
   "currentVersion" : 0,
-  "createdAt" : [ 2022, 5, 23, 10, 12, 17, 322124000 ],
-  "lastEdited" : [ 2022, 8, 30, 10, 21, 59, 933709000 ],
+  "createdAt" : [ 2022, 5, 23, 10, 11, 58, 675747000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 5, 14, 915215000 ],
   "public" : true,
   "relatesToSkill" : [ ],
   "isCompositeOfSkill" : [ ],
