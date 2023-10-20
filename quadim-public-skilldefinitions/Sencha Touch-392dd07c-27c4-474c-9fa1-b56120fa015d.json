@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 44, 34, 988411000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 29, 10, 805992000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "ExtJS",
     "name_en" : null,
-    "id" : "d3b8b1f6-3dec-4bab-aca5-cf4cf1b80e76",
+    "id" : "f66ea2d4-ca28-489c-afc0-c165af3d51d9",
     "description" : "ExtJS",
     "description_en" : "ExtJS",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "ExtJS",
     "name_en" : null,
-    "id" : "d3b8b1f6-3dec-4bab-aca5-cf4cf1b80e76",
+    "id" : "f66ea2d4-ca28-489c-afc0-c165af3d51d9",
     "description" : "ExtJS",
     "description_en" : "ExtJS",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
