@@ -1,0 +1,33 @@
+{
+  "name" : "sap process integration (pi)",
+  "name_en" : null,
+  "id" : "6f46c3a4-c667-4dde-a73a-b48d838c833c",
+  "description" : "SAP PI (Process Integration) is an enterprise integration platform that provides seamless integration between SAP and non-SAP applications within the organization A2A (Application to Application) or even outside the organization B2B (Business to Business).",
+  "description_en" : "sap process integration (pi)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 51, 54, 393352000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 56, 31, 82753000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
