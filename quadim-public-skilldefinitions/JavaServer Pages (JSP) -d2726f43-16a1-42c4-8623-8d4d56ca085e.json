@@ -38,10 +38,11 @@
   "lastEdited" : [ 2022, 8, 25, 11, 39, 5, 287956000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -66,12 +67,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -96,12 +97,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "servlet",
     "name_en" : null,
-    "id" : "9c09a91d-de09-4a04-a4bc-0275edfa9638",
+    "id" : "1223f7b6-8987-4682-8103-ada042ac9197",
     "description" : "servlet",
     "description_en" : "servlet",
     "coversElement" : {
@@ -126,12 +127,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "servlet",
     "name_en" : null,
-    "id" : "9c09a91d-de09-4a04-a4bc-0275edfa9638",
+    "id" : "1223f7b6-8987-4682-8103-ada042ac9197",
     "description" : "servlet",
     "description_en" : "servlet",
     "coversElement" : {
@@ -156,8 +157,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
