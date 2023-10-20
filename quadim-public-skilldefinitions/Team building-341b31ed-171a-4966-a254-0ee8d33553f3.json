@@ -1,0 +1,33 @@
+{
+  "name" : "Team building",
+  "name_en" : null,
+  "id" : "341b31ed-171a-4966-a254-0ee8d33553f3",
+  "description" : "Team building is the process of turning a group of individual contributing employees into a cohesive team—a group of people organized to work together to meet the needs of their customers by accomplishing their purpose and goals. ",
+  "description_en" : "Team building",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 11, 54, 37, 28688000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 54, 37, 28671000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
