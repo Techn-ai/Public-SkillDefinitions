@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "Content management system (CMS)",
     "name_en" : null,
-    "id" : "ed92a78d-606e-4327-b137-3aa961ad2101",
+    "id" : "82afd55e-a7c1-494f-92ad-55e718b0b542",
     "description" : "Content management system (CMS)",
     "description_en" : "Content management system (CMS)",
     "coversElement" : {
@@ -65,7 +65,7 @@
   }, {
     "name" : "Content management system (CMS)",
     "name_en" : null,
-    "id" : "ed92a78d-606e-4327-b137-3aa961ad2101",
+    "id" : "82afd55e-a7c1-494f-92ad-55e718b0b542",
     "description" : "Content management system (CMS)",
     "description_en" : "Content management system (CMS)",
     "coversElement" : {
