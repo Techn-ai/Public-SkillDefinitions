@@ -88,7 +88,7 @@
   "relatesToSkill" : [ {
     "name" : "Data analysis",
     "name_en" : null,
-    "id" : "2a49368b-a378-463e-b8e3-fdd6c1757557",
+    "id" : "a43a8658-48c8-4940-a1d0-306bc0a93c02",
     "description" : "Data analysis",
     "description_en" : "Data analysis",
     "coversElement" : {
@@ -113,42 +113,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Data analysis",
-    "name_en" : null,
-    "id" : "2a49368b-a378-463e-b8e3-fdd6c1757557",
-    "description" : "Data analysis",
-    "description_en" : "Data analysis",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Financial management",
     "name_en" : null,
-    "id" : "caa5a028-1534-4237-8ace-02c04d5ac0e7",
+    "id" : "eaec77b2-3020-4b15-b513-d810d92cd281",
     "description" : "Financial management",
     "description_en" : "Financial management",
     "coversElement" : {
@@ -173,42 +143,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Financial management",
-    "name_en" : null,
-    "id" : "caa5a028-1534-4237-8ace-02c04d5ac0e7",
-    "description" : "Financial management",
-    "description_en" : "Financial management",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Communication",
     "name_en" : null,
-    "id" : "82dbd026-c255-40a1-809d-1a947ddd4f80",
+    "id" : "ee71a369-bfb0-48eb-9a8f-129d7d560105",
     "description" : "Communication",
     "description_en" : "Communication",
     "coversElement" : {
@@ -233,43 +173,14 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Communication",
-    "name_en" : null,
-    "id" : "82dbd026-c255-40a1-809d-1a947ddd4f80",
-    "description" : "Communication",
-    "description_en" : "Communication",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
+  "isCompositeOfSkill" : [ null ],
   "isExtensionOfSkill" : [ {
     "name" : "Leadership",
     "name_en" : null,
-    "id" : "fff9e4a1-5715-43a4-84de-4740c39983e9",
+    "id" : "7acf1241-f851-466b-945a-6f49e565eb80",
     "description" : "Leadership",
     "description_en" : "Leadership",
     "coversElement" : {
@@ -294,12 +205,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Leadership",
     "name_en" : null,
-    "id" : "fff9e4a1-5715-43a4-84de-4740c39983e9",
+    "id" : "7acf1241-f851-466b-945a-6f49e565eb80",
     "description" : "Leadership",
     "description_en" : "Leadership",
     "coversElement" : {
@@ -324,12 +235,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Technical expertise",
     "name_en" : null,
-    "id" : "71fdb6bd-5dbb-4b6b-b6a8-bfc81c268cae",
+    "id" : "8b384816-130c-4677-9c90-541969854cd9",
     "description" : "Technical expertise",
     "description_en" : "Technical expertise",
     "coversElement" : {
@@ -354,12 +265,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Technical expertise",
     "name_en" : null,
-    "id" : "71fdb6bd-5dbb-4b6b-b6a8-bfc81c268cae",
+    "id" : "8b384816-130c-4677-9c90-541969854cd9",
     "description" : "Technical expertise",
     "description_en" : "Technical expertise",
     "coversElement" : {
@@ -384,12 +295,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Product management",
     "name_en" : null,
-    "id" : "6551533c-cdef-4079-b6be-9699feba0e52",
+    "id" : "311031a5-943a-417e-aa02-738eaa6bb790",
     "description" : "Product management",
     "description_en" : "Product management",
     "coversElement" : {
@@ -414,12 +325,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Product management",
     "name_en" : null,
-    "id" : "6551533c-cdef-4079-b6be-9699feba0e52",
+    "id" : "311031a5-943a-417e-aa02-738eaa6bb790",
     "description" : "Product management",
     "description_en" : "Product management",
     "coversElement" : {
@@ -444,12 +355,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Customer focus",
     "name_en" : null,
-    "id" : "3e02dbc4-2f4a-46b8-996d-59e2290ec7b4",
+    "id" : "5cd681c4-607d-4a3b-aa3c-69cdc0efa823",
     "description" : "Customer focus",
     "description_en" : "Customer focus",
     "coversElement" : {
@@ -474,12 +385,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Customer focus",
     "name_en" : null,
-    "id" : "3e02dbc4-2f4a-46b8-996d-59e2290ec7b4",
+    "id" : "5cd681c4-607d-4a3b-aa3c-69cdc0efa823",
     "description" : "Customer focus",
     "description_en" : "Customer focus",
     "coversElement" : {
@@ -504,12 +415,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Sales and marketing",
     "name_en" : null,
-    "id" : "1d4a9621-e148-4f5e-a457-fc08929b5e3c",
+    "id" : "f085eeac-b6e7-4650-a3be-867264d93b34",
     "description" : "Sales and marketing",
     "description_en" : "Sales and marketing",
     "coversElement" : {
@@ -534,12 +445,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Sales and marketing",
     "name_en" : null,
-    "id" : "1d4a9621-e148-4f5e-a457-fc08929b5e3c",
+    "id" : "f085eeac-b6e7-4650-a3be-867264d93b34",
     "description" : "Sales and marketing",
     "description_en" : "Sales and marketing",
     "coversElement" : {
@@ -564,12 +475,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Business acumen",
     "name_en" : null,
-    "id" : "687ee7ca-0218-4b10-a596-83d4f54c09f5",
+    "id" : "9e7584b1-e2a5-4e77-accb-4b166a75fadc",
     "description" : "Business acumen",
     "description_en" : "Business acumen",
     "coversElement" : {
@@ -594,12 +505,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Business acumen",
     "name_en" : null,
-    "id" : "687ee7ca-0218-4b10-a596-83d4f54c09f5",
+    "id" : "9e7584b1-e2a5-4e77-accb-4b166a75fadc",
     "description" : "Business acumen",
     "description_en" : "Business acumen",
     "coversElement" : {
@@ -624,8 +535,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ null ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
