@@ -1,0 +1,31 @@
+{
+  "name" : "soa",
+  "name_en" : null,
+  "id" : "cc0f7253-90f0-436c-89a1-a8e0d4742b42",
+  "description" : " ",
+  "description_en" : "soa",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "1a865d80-554c-4d82-ab2d-91c50e5dbbd7",
+  "skillOwnerUsername" : "Kim Christian Gaarder",
+  "editedBy" : "1a865d80-554c-4d82-ab2d-91c50e5dbbd7",
+  "editedByUsername" : "Kim Christian Gaarder",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 24, 8, 42, 40, 215000000 ],
+  "lastEdited" : [ 2022, 5, 24, 8, 42, 40, 214996000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
