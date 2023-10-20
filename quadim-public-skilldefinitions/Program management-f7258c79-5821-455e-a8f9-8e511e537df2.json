@@ -1,0 +1,44 @@
+{
+  "name" : "Program management",
+  "name_en" : null,
+  "id" : "f7258c79-5821-455e-a8f9-8e511e537df2",
+  "description" : "Program management is the process of managing several related projects, often with the intention of improving an organization's performance. It is distinct from project management.\n\nIn practice and in its aims, program management is often closely related to systems engineering, industrial engineering, change management, and business transformation. In the defense sector, it is the dominant approach to managing large projects. Because major defense programs entail working with contractors, it is also called acquisition management, indicating that the government buyer acquires goods and services by means of contractors.\n\nThe program manager has oversight of the purpose and status of the projects in a program and can use this oversight to support project-level activity to ensure the program goals are met by providing a decision-making capacity that cannot be achieved at project level or by providing the project manager with a program perspective when required, or as a sounding board for ideas and approaches to solving project issues that have program impacts. The program manager may be well-placed to provide this insight by actively seeking out such information from the project managers, although in large and/or complex projects, a specific role may be required. However this insight arises, the program manager needs this in order to be comfortable that the overall program goals are achievable.",
+  "description_en" : "Program management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Program_management",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 59, 46, 446659000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 59, 46, 446626000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
