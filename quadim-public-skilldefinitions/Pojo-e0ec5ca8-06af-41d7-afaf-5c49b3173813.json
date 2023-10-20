@@ -35,7 +35,7 @@
   "relatesToSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
+    "id" : "41c50030-591d-4727-a671-611cf751f36b",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -60,9 +60,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
