@@ -32,7 +32,7 @@
   "createdAt" : [ 2023, 2, 1, 13, 2, 39, 223564000 ],
   "lastEdited" : [ 2023, 2, 1, 13, 2, 39, 223559000 ],
   "public" : true,
-  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
   "isCompositeOfSkill" : [ ],
-  "isExtensionOfSkill" : [ ]
+  "relatesToSkill" : [ ]
 }
