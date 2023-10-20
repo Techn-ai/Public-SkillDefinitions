@@ -37,10 +37,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 16, 23, 845061000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 0, 20, 801319000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "8c0e5794-d07d-40b9-b800-1d72d0d4c6bf",
+    "id" : "2493c278-5f6f-4f83-982a-525f696e71bc",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -64,13 +65,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "8c0e5794-d07d-40b9-b800-1d72d0d4c6bf",
+    "id" : "2493c278-5f6f-4f83-982a-525f696e71bc",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -94,13 +95,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Java EE",
     "name_en" : null,
-    "id" : "6c42dc5b-776b-43c2-a507-b9d13878e813",
+    "id" : "a5a470a2-1bf0-4f1c-9a16-0a79fd5dec3b",
     "description" : "Java EE",
     "description_en" : "Java EE",
     "coversElement" : {
@@ -124,13 +125,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Java EE",
     "name_en" : null,
-    "id" : "6c42dc5b-776b-43c2-a507-b9d13878e813",
+    "id" : "a5a470a2-1bf0-4f1c-9a16-0a79fd5dec3b",
     "description" : "Java EE",
     "description_en" : "Java EE",
     "coversElement" : {
@@ -154,10 +155,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
