@@ -1,0 +1,43 @@
+{
+  "name" : "JBoss application serve",
+  "name_en" : null,
+  "id" : "3e307f23-ab69-464f-a52e-06c557ae08e8",
+  "description" : "JBoss application server is an open-source platform, developed by Red Hat, used for implementing Java applications and a wide variety of other software applications. You can build and deploy Java services to be scaled to fit the size of your business. When you integrate a JBoss application server with WildFly 10 you can unlock several cool features, like messaging, high-availability clustering, and distributed caching.",
+  "description_en" : "jboss application server",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "349efc41-8fea-45b1-afc0-880836efe281",
+    "name" : "HTML",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "2258790d-47d8-4658-a2c8-d0e5d8ca144a",
+    "name" : "HTTP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 18, 54, 957681000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 25, 11, 137024000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null ],
+  "relatesToSkill" : [ ]
+}
