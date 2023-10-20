@@ -1,0 +1,98 @@
+{
+  "name" : "Check Point Intrusion Prevention System (IPS) ",
+  "name_en" : null,
+  "id" : "a168d5b8-64de-49a5-8ad4-4d4e38fb8bf1",
+  "description" : "Check Point Intrusion Prevention System (IPS) provides complete, integrated, next generation firewall intrusion prevention capabilities at multi-gigabit speeds with high security effectiveness and a low false positive rate. IPS protections in our Next Generation Firewall are updated automatically.",
+  "description_en" : "checkpoint ips",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "9fa97358-54ed-4d5d-b74d-513abcafd281",
+    "name" : "intrusion prevention system (ips)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 50, 51, 94050000 ],
+  "lastEdited" : [ 2022, 8, 30, 9, 36, 1, 840727000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "intrusion prevention system (ips)",
+    "name_en" : null,
+    "id" : "2768636a-653b-4be2-9a31-5c14d3b84ff5",
+    "description" : "intrusion prevention system (ips)",
+    "description_en" : "intrusion prevention system (ips)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "intrusion prevention system (ips)",
+    "name_en" : null,
+    "id" : "2768636a-653b-4be2-9a31-5c14d3b84ff5",
+    "description" : "intrusion prevention system (ips)",
+    "description_en" : "intrusion prevention system (ips)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
