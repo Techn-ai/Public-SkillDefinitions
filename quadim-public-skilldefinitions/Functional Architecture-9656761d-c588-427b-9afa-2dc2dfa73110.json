@@ -1,0 +1,111 @@
+{
+  "name" : "Functional Architecture",
+  "name_en" : null,
+  "id" : "9656761d-c588-427b-9afa-2dc2dfa73110",
+  "description" : "Functional Architecture is a term that originates out of enterprise architecture. It deals with how systems function to carry out end-to-end processes in order to maximize efficiency. Like most topics involving ERP systems, there are a few schools of thought when it comes to systems design.",
+  "description_en" : "funksjonell arkitektur",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "b54c920f-697a-487f-8f60-b3cc74b2f4c7",
+    "name" : "Business process management (BPM)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "46d4e433-ea0e-4320-bc78-0d6fb18fa373",
+    "name" : "Business Process Modeling Notation (BPMN)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 29, 40, 614369000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 4, 56, 588209000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Business process management (BPM)",
+    "name_en" : null,
+    "id" : "c458fbb2-fcb3-48e7-b389-bfa4bb0bf7df",
+    "description" : "Business process management (BPM)",
+    "description_en" : "Business process management (BPM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business Process Modeling Notation (BPMN)",
+    "name_en" : null,
+    "id" : "04a192a0-1c58-42e9-a227-6c3c33b64beb",
+    "description" : "Business Process Modeling Notation (BPMN)",
+    "description_en" : "Business Process Modeling Notation (BPMN)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
