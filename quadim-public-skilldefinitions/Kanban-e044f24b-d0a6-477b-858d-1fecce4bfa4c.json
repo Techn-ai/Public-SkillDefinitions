@@ -39,7 +39,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "3edd1bfe-7726-4694-9e13-afa9bb4ad30f",
+    "id" : "2b883f1c-91a0-4653-be62-78e803958048",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
@@ -69,7 +69,7 @@
   }, {
     "name" : "Agile Software Development",
     "name_en" : null,
-    "id" : "3edd1bfe-7726-4694-9e13-afa9bb4ad30f",
+    "id" : "2b883f1c-91a0-4653-be62-78e803958048",
     "description" : "Agile Software Development",
     "description_en" : "Agile Software Development",
     "coversElement" : {
