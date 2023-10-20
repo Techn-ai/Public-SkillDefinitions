@@ -1,0 +1,37 @@
+{
+  "name" : "Artistic ability",
+  "name_en" : null,
+  "id" : "5d5ae9f4-1259-495b-b71c-1040d2987a0d",
+  "description" : "By definition, artistry and artistic ability is the cultivation of skills and talents honed toward creating fine works of art: painting, drawing, sculpting, musical composition",
+  "description_en" : "artistic ability",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 4, 27, 10, 19, 51, 829874000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 40, 4, 251315000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
