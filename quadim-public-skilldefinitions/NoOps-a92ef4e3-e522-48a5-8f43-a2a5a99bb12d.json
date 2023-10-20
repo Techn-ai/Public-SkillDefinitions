@@ -55,7 +55,7 @@
   "relatesToSkill" : [ {
     "name" : "java-auto update (jau)",
     "name_en" : null,
-    "id" : "4d11f466-b9c5-4b3e-961d-343e9239f683",
+    "id" : "7b9aa1c4-3cd4-4deb-8f40-6d6658a1f7b8",
     "description" : "java-auto update (jau)",
     "description_en" : "java-auto update (jau)",
     "coversElement" : {
@@ -80,42 +80,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "java-auto update (jau)",
-    "name_en" : null,
-    "id" : "4d11f466-b9c5-4b3e-961d-343e9239f683",
-    "description" : "java-auto update (jau)",
-    "description_en" : "java-auto update (jau)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "configservice",
     "name_en" : null,
-    "id" : "0a25c7ed-f454-4cac-b3ef-615231be1103",
+    "id" : "5e412fd0-4b22-41f6-954d-b169bd8f1d8c",
     "description" : "configservice",
     "description_en" : "configservice",
     "coversElement" : {
@@ -140,12 +110,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Configuration Management (CM)",
     "name_en" : null,
-    "id" : "7b578f91-cc85-43cb-b641-309ab40db2fa",
+    "id" : "c7f9189f-c1b8-40d4-ac10-3e0a2c4e1f29",
     "description" : "Configuration Management (CM)",
     "description_en" : "Configuration Management (CM)",
     "coversElement" : {
@@ -170,43 +140,14 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Configuration Management (CM)",
-    "name_en" : null,
-    "id" : "7b578f91-cc85-43cb-b641-309ab40db2fa",
-    "description" : "Configuration Management (CM)",
-    "description_en" : "Configuration Management (CM)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
+    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -231,12 +172,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
+    "id" : "ef5a1f9a-217d-46a4-8fdf-a92b6c779f9a",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -261,12 +202,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "d88322d3-56bb-4f4a-8ec2-5d43a9426fa2",
+    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -291,12 +232,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "d88322d3-56bb-4f4a-8ec2-5d43a9426fa2",
+    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -321,8 +262,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
