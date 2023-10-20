@@ -40,7 +40,7 @@
   "relatesToSkill" : [ {
     "name" : "jackson",
     "name_en" : null,
-    "id" : "64346dc3-a838-494e-a340-0557ae5f22d1",
+    "id" : "a3e98c1d-9f2e-48ce-b7b9-114a1d4bec0a",
     "description" : "jackson",
     "description_en" : "jackson",
     "coversElement" : {
@@ -65,42 +65,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "jackson",
-    "name_en" : null,
-    "id" : "64346dc3-a838-494e-a340-0557ae5f22d1",
-    "description" : "jackson",
-    "description_en" : "jackson",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "2a84ea96-b94c-4c3e-935f-226e25420c8a",
+    "id" : "ff31d164-fcdd-4976-b9cf-f31ad5f4b753",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
@@ -125,9 +95,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
