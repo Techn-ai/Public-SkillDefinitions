@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 28, 11, 27, 33, 142589000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "java servlet",
     "name_en" : null,
-    "id" : "3f92e93a-8426-442a-acb7-b0c86288d99f",
+    "id" : "169474ab-1ef8-47ab-95a3-820681555786",
     "description" : "java servlet",
     "description_en" : "java servlet",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
