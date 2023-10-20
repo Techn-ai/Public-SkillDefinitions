@@ -1,0 +1,33 @@
+{
+  "name" : "ip telefoni (VoIP)",
+  "name_en" : null,
+  "id" : "d40c3a54-48ae-446e-af8c-c9f1b8960080",
+  "description" : "A telephone that is used with voice over IP (VoIP) telephone services. The IP phone plugs directly into the Internet and converts voice into IP packets and vice versa. It has built-in SIP signaling and is used in conjunction with an IP PBX in an enterprise or a hosted VoIP service.",
+  "description_en" : "ip telefoni",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 11, 35, 691567000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 23, 14, 423945000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
