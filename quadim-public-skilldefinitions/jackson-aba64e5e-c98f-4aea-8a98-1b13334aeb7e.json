@@ -40,7 +40,37 @@
   "relatesToSkill" : [ {
     "name" : "XML",
     "name_en" : null,
-    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
+    "id" : "ea02d204-8d0a-454b-8bfd-3870fece3bf6",
+    "description" : "XML",
+    "description_en" : "XML",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "XML",
+    "name_en" : null,
+    "id" : "ea02d204-8d0a-454b-8bfd-3870fece3bf6",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -70,7 +100,37 @@
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "ff31d164-fcdd-4976-b9cf-f31ad5f4b753",
+    "id" : "871e8d79-c06a-4184-8d5a-30854cdf0bc3",
+    "description" : "JSON",
+    "description_en" : "JSON",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "JSON",
+    "name_en" : null,
+    "id" : "871e8d79-c06a-4184-8d5a-30854cdf0bc3",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
