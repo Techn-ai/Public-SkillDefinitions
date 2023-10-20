@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "2493c278-5f6f-4f83-982a-525f696e71bc",
+    "id" : "847a2c3d-eef8-4410-a80e-0697b88178c1",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -70,12 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Java EE",
     "name_en" : null,
-    "id" : "a5a470a2-1bf0-4f1c-9a16-0a79fd5dec3b",
+    "id" : "0ffb823e-3c91-4c01-bb84-c1b6437f3230",
     "description" : "Java EE",
     "description_en" : "Java EE",
     "coversElement" : {
@@ -100,12 +100,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "Pojo",
     "name_en" : null,
-    "id" : "51b2258d-4153-473a-9a0c-047076754a5b",
+    "id" : "de90723f-ecbf-4de3-befa-8ce60fd8ac9a",
     "description" : "Pojo",
     "description_en" : "Pojo",
     "coversElement" : {
@@ -130,39 +130,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "Pojo",
-    "name_en" : null,
-    "id" : "51b2258d-4153-473a-9a0c-047076754a5b",
-    "description" : "Pojo",
-    "description_en" : "Pojo",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
