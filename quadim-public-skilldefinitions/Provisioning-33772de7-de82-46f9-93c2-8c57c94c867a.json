@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 17, 59, 873432000 ],
   "lastEdited" : [ 2022, 8, 25, 7, 33, 21, 344896000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "dd0d6bd3-d4c9-479d-a009-49c7159bf282",
+    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -66,13 +64,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Continuous Integration (CI)",
     "name_en" : null,
-    "id" : "c8a17c13-0334-498c-87e6-f81efe7b9980",
+    "id" : "d58062bd-e71f-4539-8305-918739bafa93",
     "description" : "Continuous Integration (CI)",
     "description_en" : "Continuous Integration (CI)",
     "coversElement" : {
@@ -96,8 +94,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
