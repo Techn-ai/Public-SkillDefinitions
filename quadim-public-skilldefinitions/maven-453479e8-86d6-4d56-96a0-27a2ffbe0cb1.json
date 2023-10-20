@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 15, 52, 777099000 ],
   "lastEdited" : [ 2022, 8, 30, 9, 59, 49, 126671000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "maven 3",
     "name_en" : null,
-    "id" : "ec28abe4-7abe-4fd5-9aae-eb3fcc5347e5",
+    "id" : "667638f8-dc00-43d7-9ccb-d36163cc83ac",
     "description" : "maven 3",
     "description_en" : "maven 3",
     "coversElement" : {
@@ -61,8 +59,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
-    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
     "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "maven 3",
+    "name_en" : null,
+    "id" : "667638f8-dc00-43d7-9ccb-d36163cc83ac",
+    "description" : "maven 3",
+    "description_en" : "maven 3",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
