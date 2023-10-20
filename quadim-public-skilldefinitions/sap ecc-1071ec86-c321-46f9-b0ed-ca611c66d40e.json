@@ -1,0 +1,33 @@
+{
+  "name" : "sap ecc",
+  "name_en" : null,
+  "id" : "1071ec86-c321-46f9-b0ed-ca611c66d40e",
+  "description" : "SAP ECC stands for SAP enterprise resource planning (ERP) central component. This central component integrates digital information from all of the various areas of an organization in real-time, so decision-makers can get a holistic view of the entire organization’s operations and make decisions based on this information. \n\nFor example, suppose a sale is made in one business area. In that case, SAP ECC updates the data in all other affected areas of the business, such as inventory and materials. SAP ERP central component is the base layer of the SAP Business Suite. Business Suite also includes SAP CRM (Customer Relationship Management) and SCM (Supply Chain Management) software. \n\nGenerally, SAP ECC is used by large or medium-sized organizations. SAP ECC includes various components that can be implemented to handle specific business processes. ",
+  "description_en" : "sap ecc",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 50, 42, 255477000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 54, 39, 594583000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
