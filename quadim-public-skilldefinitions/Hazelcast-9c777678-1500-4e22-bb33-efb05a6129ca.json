@@ -1,0 +1,33 @@
+{
+  "name" : "Hazelcast",
+  "name_en" : null,
+  "id" : "9c777678-1500-4e22-bb33-efb05a6129ca",
+  "description" : "Hazelcast is a distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. It allows you to quickly build resource-efficient, real-time applications. You can deploy it at any scale from small edge devices to a large cluster of cloud instances.\n\nHazelcast can process data on a set of networked and clustered computers that pool together their random access memories (RAM) to let applications share data with other applications running in the cluster. When data is stored in RAM, applications run a lot faster since it does not need to be retrieved from disk and put into RAM prior to processing. Using Hazelcast, you can store and process your data in RAM, spread and replicate it across a cluster of machines; replication gives you resilience to failures of cluster members.\n\nHazelcast is implemented in Java language and has clients for Java, C++, .NET, REST, Python, Go and Node.js. Hazelcast also speaks Memcached and REST protocols.\n\nYour cloud-native applications can easily use Hazelcast. It is flexible enough to use as a data and computing platform out-of-the-box or as a framework for your own cloud-native applications and microservices.\n\nHazelcast is designed to be lightweight and easy to use. Since it is delivered as a compact library, it easily plugs into your software solution.\n\nIt is designed to scale up to hundreds of members and thousands of clients. When you add new members, they automatically discover the cluster and linearly increase both the memory and processing capacity. The members maintain a TCP connection between each other and all communication is performed through this layer. Each cluster member is configured to be the same in terms of functionality. The oldest member (the first member created in the cluster) automatically performs the stored and streaming data assignment to cluster members. If the oldest member dies, the second oldest member takes over.\n\nHazelcast offers simple scalability, partitioning (sharding), and re-balancing out-of-the-box. It does not require any extra coordination processes. NoSQL and traditional databases are difficult to scale out and manage. They require additional processes for coordination and high availability. With Hazelcast, when you start another process to add more capacity, data and backups are automatically and evenly balanced.\n",
+  "description_en" : "hazelcast",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 11, 2, 15, 914291000 ],
+  "lastEdited" : [ 2022, 8, 26, 8, 43, 56, 546157000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
