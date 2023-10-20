@@ -1,0 +1,31 @@
+{
+  "name" : "Shareholder agreements",
+  "name_en" : null,
+  "id" : "73fe9e80-d2e8-4fe4-8faa-06099d600554",
+  "description" : "The skill of setting up shareholderagreements for a group of owners/shareholders in a business. ",
+  "description_en" : "Shareholder agreements",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 21, 9, 39, 38, 26494000 ],
+  "lastEdited" : [ 2023, 3, 21, 9, 39, 38, 26491000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
