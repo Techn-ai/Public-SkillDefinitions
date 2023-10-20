@@ -1,0 +1,42 @@
+{
+  "name" : "Foregin policy",
+  "name_en" : null,
+  "id" : "337b8e80-f8d5-449d-9eab-27162cc58db6",
+  "description" : "A state's foreign policy or external policy (as opposed to internal or domestic policy) is its objectives and activities in relation to its interactions with other states, unions, and other political entities, whether bilaterally or through multilateral platforms. The Encyclopedia Britannica notes that a government's foreign policy may be influenced by \"domestic considerations, the policies or behaviour of other states, or plans to advance specific geopolitical designs",
+  "description_en" : "Foregin policy",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Foreign_policy",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 19, 2, 7, 458851000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 2, 7, 458843000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
