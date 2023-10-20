@@ -1,0 +1,105 @@
+{
+  "name" : "Business ownership",
+  "name_en" : null,
+  "id" : "05a10e1e-0866-415e-9200-6fc2a121e5cd",
+  "description" : "Business ownership is in it's simplest form to own shares in a company, but it needs to be managed and nurtured and followed up to make the investment grow.",
+  "description_en" : "Business ownership",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "73fe9e80-d2e8-4fe4-8faa-06099d600554",
+    "name" : "Shareholder agreements",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "ad961bb2-fa32-4e90-8742-99a8c5be643f",
+    "name" : "Business analysis",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 21, 9, 38, 50, 857654000 ],
+  "lastEdited" : [ 2023, 3, 21, 9, 45, 11, 704855000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Shareholder agreements",
+    "name_en" : null,
+    "id" : "bcac6297-681d-449c-a91d-77d79202d414",
+    "description" : "Shareholder agreements",
+    "description_en" : "Shareholder agreements",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business analysis",
+    "name_en" : null,
+    "id" : "78c7602d-4631-4a04-894e-b78f5b6b7cdf",
+    "description" : "Business analysis",
+    "description_en" : "Business analysis",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
