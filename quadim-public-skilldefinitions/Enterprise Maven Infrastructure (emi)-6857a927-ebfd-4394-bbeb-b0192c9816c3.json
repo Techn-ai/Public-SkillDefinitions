@@ -60,7 +60,7 @@
   "relatesToSkill" : [ {
     "name" : "GitHub",
     "name_en" : null,
-    "id" : "0aef244b-49ac-441f-aeea-27b8458f1893",
+    "id" : "538def9b-fb1e-46d0-87e5-b8dc90325e15",
     "description" : "GitHub",
     "description_en" : "GitHub",
     "coversElement" : {
@@ -92,7 +92,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "CI/CD ",
     "name_en" : null,
-    "id" : "b32e7511-afae-4a26-b7fb-bb6f1b5d651d",
+    "id" : "684ece58-9cb0-4400-a075-8d89f03cb2dc",
     "description" : "CI/CD ",
     "description_en" : "CI/CD ",
     "coversElement" : {
@@ -122,7 +122,7 @@
   }, {
     "name" : "CI/CD ",
     "name_en" : null,
-    "id" : "b32e7511-afae-4a26-b7fb-bb6f1b5d651d",
+    "id" : "684ece58-9cb0-4400-a075-8d89f03cb2dc",
     "description" : "CI/CD ",
     "description_en" : "CI/CD ",
     "coversElement" : {
@@ -152,7 +152,7 @@
   }, {
     "name" : "maven 3",
     "name_en" : null,
-    "id" : "eb7f27fc-c148-4a14-aef7-70c8bf4e2412",
+    "id" : "667638f8-dc00-43d7-9ccb-d36163cc83ac",
     "description" : "maven 3",
     "description_en" : "maven 3",
     "coversElement" : {
@@ -182,7 +182,7 @@
   }, {
     "name" : "maven 3",
     "name_en" : null,
-    "id" : "eb7f27fc-c148-4a14-aef7-70c8bf4e2412",
+    "id" : "667638f8-dc00-43d7-9ccb-d36163cc83ac",
     "description" : "maven 3",
     "description_en" : "maven 3",
     "coversElement" : {
@@ -212,7 +212,7 @@
   }, {
     "name" : "Continuous Integration (CI)",
     "name_en" : null,
-    "id" : "5a44b1a9-d116-45b6-84fe-65841c8547c7",
+    "id" : "25f93edf-37b4-4c0c-9ff8-66f7b42416d1",
     "description" : "Continuous Integration (CI)",
     "description_en" : "Continuous Integration (CI)",
     "coversElement" : {
@@ -242,7 +242,7 @@
   }, {
     "name" : "Continuous Integration (CI)",
     "name_en" : null,
-    "id" : "5a44b1a9-d116-45b6-84fe-65841c8547c7",
+    "id" : "25f93edf-37b4-4c0c-9ff8-66f7b42416d1",
     "description" : "Continuous Integration (CI)",
     "description_en" : "Continuous Integration (CI)",
     "coversElement" : {
@@ -272,7 +272,7 @@
   }, {
     "name" : "maven",
     "name_en" : null,
-    "id" : "b9e1b9a7-c90e-4d41-ab77-d11f3b8a525c",
+    "id" : "4bd97e98-e4d7-46ae-9c1c-d9400bc4ff31",
     "description" : "maven",
     "description_en" : "maven",
     "coversElement" : {
@@ -302,7 +302,7 @@
   }, {
     "name" : "maven",
     "name_en" : null,
-    "id" : "b9e1b9a7-c90e-4d41-ab77-d11f3b8a525c",
+    "id" : "4bd97e98-e4d7-46ae-9c1c-d9400bc4ff31",
     "description" : "maven",
     "description_en" : "maven",
     "coversElement" : {
@@ -332,7 +332,7 @@
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
+    "id" : "8fbf1b29-f777-46fc-95dc-b6cda9f0f34e",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
@@ -362,7 +362,7 @@
   }, {
     "name" : "Continuous Delivery",
     "name_en" : null,
-    "id" : "cca0f42d-5528-4368-8b0e-92e92e327216",
+    "id" : "8fbf1b29-f777-46fc-95dc-b6cda9f0f34e",
     "description" : "Continuous Delivery",
     "description_en" : "Continuous Delivery",
     "coversElement" : {
