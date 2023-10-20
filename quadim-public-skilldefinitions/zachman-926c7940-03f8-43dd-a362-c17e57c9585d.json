@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 19, 53, 11745000 ],
   "lastEdited" : [ 2022, 8, 25, 7, 49, 43, 474131000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "sparx enterprise architect",
     "name_en" : null,
-    "id" : "daaf394d-aa8a-4496-903e-e8abee774180",
+    "id" : "d1bc5911-997b-4498-a940-9c3aad7f4394",
     "description" : "sparx enterprise architect",
     "description_en" : "sparx enterprise architect",
     "coversElement" : {
@@ -71,13 +69,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "sparx enterprise architect",
+    "name_en" : null,
+    "id" : "d1bc5911-997b-4498-a940-9c3aad7f4394",
+    "description" : "sparx enterprise architect",
+    "description_en" : "sparx enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "enterprise architect",
     "name_en" : null,
-    "id" : "9b1ea494-3ccc-47b6-a1ac-b50839c6a84c",
+    "id" : "609cea81-3499-4ba1-b642-97dcf80051df",
     "description" : "enterprise architect",
     "description_en" : "enterprise architect",
     "coversElement" : {
@@ -101,13 +129,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "enterprise architect",
+    "name_en" : null,
+    "id" : "609cea81-3499-4ba1-b642-97dcf80051df",
+    "description" : "enterprise architect",
+    "description_en" : "enterprise architect",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "system architecture",
     "name_en" : null,
-    "id" : "0358e5b9-1f56-4b66-90cb-ad90b722482e",
+    "id" : "4d78366f-ea2a-4b4e-a6ae-cf8509a1616d",
     "description" : "system architecture",
     "description_en" : "system architecture",
     "coversElement" : {
@@ -131,8 +189,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "system architecture",
+    "name_en" : null,
+    "id" : "4d78366f-ea2a-4b4e-a6ae-cf8509a1616d",
+    "description" : "system architecture",
+    "description_en" : "system architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
