@@ -1,0 +1,33 @@
+{
+  "name" : "sharepoint",
+  "name_en" : null,
+  "id" : "b839de43-2c16-421b-8a3e-faa732923887",
+  "description" : "SharePoint is a web-based collaborative platform that integrates natively with Microsoft Office. Launched in 2001,SharePoint is primarily sold as a document management and storage system, but the product is highly configurable and its usage varies substantially among organizations. ",
+  "description_en" : "sharepoint",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 33, 18, 337654000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 4, 13, 742378000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
