@@ -47,12 +47,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 49, 22, 570770000 ],
   "lastEdited" : [ 2022, 8, 25, 10, 14, 13, 401572000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Microsoft Azure",
     "name_en" : null,
-    "id" : "c8f68fdb-ed2c-4ae2-bdcc-1a9cd7bf7e78",
+    "id" : "4ed80697-58ff-4899-8d2a-c36844eb0dbd",
     "description" : "Microsoft Azure",
     "description_en" : "Microsoft Azure",
     "coversElement" : {
@@ -76,13 +74,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Microsoft Azure",
+    "name_en" : null,
+    "id" : "4ed80697-58ff-4899-8d2a-c36844eb0dbd",
+    "description" : "Microsoft Azure",
+    "description_en" : "Microsoft Azure",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Oracle Cloud",
     "name_en" : null,
-    "id" : "ffdc9b5e-6cb9-4e29-b360-e96eaf06136a",
+    "id" : "ba56a17f-fa71-4316-ab4d-e0a06935ac10",
     "description" : "Oracle Cloud",
     "description_en" : "Oracle Cloud",
     "coversElement" : {
@@ -106,13 +134,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Oracle Cloud",
+    "name_en" : null,
+    "id" : "ba56a17f-fa71-4316-ab4d-e0a06935ac10",
+    "description" : "Oracle Cloud",
+    "description_en" : "Oracle Cloud",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Google Cloud",
     "name_en" : null,
-    "id" : "d0cd030c-0baf-40d8-aa42-85583d9bca9b",
+    "id" : "3c53c34c-707b-4e39-b67c-e0e4142d8265",
     "description" : "Google Cloud",
     "description_en" : "Google Cloud",
     "coversElement" : {
@@ -136,13 +194,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Google Cloud",
+    "name_en" : null,
+    "id" : "3c53c34c-707b-4e39-b67c-e0e4142d8265",
+    "description" : "Google Cloud",
+    "description_en" : "Google Cloud",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "AWS (Amazon Web Services)",
     "name_en" : null,
-    "id" : "567589b4-8d55-4184-b1c4-692069494749",
+    "id" : "98ee6077-3165-4819-9e24-8fde32658c23",
     "description" : "AWS (Amazon Web Services)",
     "description_en" : "AWS (Amazon Web Services)",
     "coversElement" : {
@@ -166,8 +254,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "AWS (Amazon Web Services)",
+    "name_en" : null,
+    "id" : "98ee6077-3165-4819-9e24-8fde32658c23",
+    "description" : "AWS (Amazon Web Services)",
+    "description_en" : "AWS (Amazon Web Services)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
