@@ -45,7 +45,37 @@
   "relatesToSkill" : [ {
     "name" : "apache lucene",
     "name_en" : null,
-    "id" : "f0081230-c762-43dc-afbf-3b0c6533d951",
+    "id" : "965883a1-284c-4bc6-bb35-238461d6add8",
+    "description" : "apache lucene",
+    "description_en" : "apache lucene",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "apache lucene",
+    "name_en" : null,
+    "id" : "965883a1-284c-4bc6-bb35-238461d6add8",
     "description" : "apache lucene",
     "description_en" : "apache lucene",
     "coversElement" : {
@@ -75,7 +105,37 @@
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "368cfa01-5815-4785-8afc-739763adebbd",
+    "id" : "52b79e77-0c11-416e-bf7b-9a3de86c1949",
+    "description" : "solr",
+    "description_en" : "solr",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "solr",
+    "name_en" : null,
+    "id" : "52b79e77-0c11-416e-bf7b-9a3de86c1949",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -105,7 +165,37 @@
   }, {
     "name" : "Hazelcast",
     "name_en" : null,
-    "id" : "86c553a9-795b-4c5d-947a-1938a722bf33",
+    "id" : "685f50ba-8996-49ad-a105-09f54e7855aa",
+    "description" : "Hazelcast",
+    "description_en" : "Hazelcast",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Hazelcast",
+    "name_en" : null,
+    "id" : "685f50ba-8996-49ad-a105-09f54e7855aa",
     "description" : "Hazelcast",
     "description_en" : "Hazelcast",
     "coversElement" : {
