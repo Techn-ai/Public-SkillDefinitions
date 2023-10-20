@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 20, 56, 704645000 ],
   "lastEdited" : [ 2022, 8, 25, 11, 52, 22, 443736000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "id" : "dc96a7fc-7104-4ce7-8732-03514915add1",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "SOAP",
     "name_en" : null,
-    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "id" : "dc96a7fc-7104-4ce7-8732-03514915add1",
     "description" : "SOAP",
     "description_en" : "SOAP",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
