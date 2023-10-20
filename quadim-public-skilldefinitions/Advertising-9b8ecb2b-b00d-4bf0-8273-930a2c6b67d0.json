@@ -1,0 +1,38 @@
+{
+  "name" : "Advertising",
+  "name_en" : null,
+  "id" : "9b8ecb2b-b00d-4bf0-8273-930a2c6b67d0",
+  "description" : "Advertising is the practice and techniques employed to bring attention to a product or service. Advertising aims to put a product or service in the spotlight in hopes of drawing it attention from consumers. It is typically used to promote a specific good or service, but there are wide range of uses, the most common being the commercial advertisement.",
+  "description_en" : "Advertising",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Advertising",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 1, 13, 3, 32, 254168000 ],
+  "lastEdited" : [ 2023, 2, 1, 13, 3, 32, 254163000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
