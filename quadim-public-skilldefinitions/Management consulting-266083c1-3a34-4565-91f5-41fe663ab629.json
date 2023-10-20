@@ -1,0 +1,42 @@
+{
+  "name" : "Management consulting",
+  "name_en" : null,
+  "id" : "266083c1-3a34-4565-91f5-41fe663ab629",
+  "description" : "Management consulting is the practice of providing consulting services to organizations to improve their performance or in any way to assist in achieving organizational objectives.[1] Organizations may draw upon the services of management consultants for a number of reasons, including gaining external (and presumably objective) advice and accessing consultants' specialized expertise regarding concerns that call for additional oversight",
+  "description_en" : "Management consulting",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Management_consulting",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 49, 35, 300520000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 49, 35, 300512000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
