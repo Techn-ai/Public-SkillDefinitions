@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 45, 46, 555408000 ],
   "lastEdited" : [ 2022, 8, 25, 6, 41, 3, 119576000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "91a39f07-8f00-4127-a4f6-bb8b22b72ed6",
+    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -66,13 +64,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Mobile solutions",
     "name_en" : null,
-    "id" : "1bb89f9a-bd00-4b2e-825b-ad63f362fec2",
+    "id" : "e9487d4e-3891-437c-9cef-67ef0b56e096",
     "description" : "Mobile solutions",
     "description_en" : "Mobile solutions",
     "coversElement" : {
@@ -96,8 +94,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Mobile solutions",
+    "name_en" : null,
+    "id" : "e9487d4e-3891-437c-9cef-67ef0b56e096",
+    "description" : "Mobile solutions",
+    "description_en" : "Mobile solutions",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
