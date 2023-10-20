@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 11, 0, 1, 657136000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 49, 43, 744361000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "netty",
     "name_en" : null,
-    "id" : "59cb0b4e-5e17-4bec-b961-78948036d8cd",
+    "id" : "52e789f4-8d4f-4a34-a0aa-15b11ce4c69d",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "netty",
     "name_en" : null,
-    "id" : "59cb0b4e-5e17-4bec-b961-78948036d8cd",
+    "id" : "52e789f4-8d4f-4a34-a0aa-15b11ce4c69d",
     "description" : "netty",
     "description_en" : "netty",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
