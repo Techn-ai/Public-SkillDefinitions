@@ -1,0 +1,370 @@
+{
+  "name" : "Board management",
+  "name_en" : null,
+  "id" : "2de454cd-e145-4301-86b5-660fa7f679e7",
+  "description" : "Manage board of experts/stakeholders for a organisation or company.",
+  "description_en" : "Board management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ {
+    "id" : "0da3ed49-28ca-43a6-a43e-9466c9ad2c0a",
+    "name" : "Business strategy",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "266083c1-3a34-4565-91f5-41fe663ab629",
+    "name" : "Management consulting",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "65fdb2d9-74d5-463e-875a-bd78aaac8ad5",
+    "name" : "Chairman/manager of the board",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "63cff106-c2b4-4ad4-b043-fbb90a047e76",
+    "name" : "Business management",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "73fe9e80-d2e8-4fe4-8faa-06099d600554",
+    "name" : "Shareholder agreements",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "bc0461d7-aa2a-42a7-b785-d6a563689c35",
+    "name" : "Business development",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "05a10e1e-0866-415e-9200-6fc2a121e5cd",
+    "name" : "Business ownership",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "7ae9369e-7781-496d-b0c5-eaa22b9959d0",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 16, 12, 30, 11, 419116000 ],
+  "lastEdited" : [ 2023, 3, 21, 9, 40, 36, 313594000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Business management",
+    "name_en" : null,
+    "id" : "dcdb7372-3569-4c8b-b0a0-6cc32cfbc6c6",
+    "description" : "Business management",
+    "description_en" : "Business management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business management",
+    "name_en" : null,
+    "id" : "dcdb7372-3569-4c8b-b0a0-6cc32cfbc6c6",
+    "description" : "Business management",
+    "description_en" : "Business management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Shareholder agreements",
+    "name_en" : null,
+    "id" : "bcac6297-681d-449c-a91d-77d79202d414",
+    "description" : "Shareholder agreements",
+    "description_en" : "Shareholder agreements",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Shareholder agreements",
+    "name_en" : null,
+    "id" : "bcac6297-681d-449c-a91d-77d79202d414",
+    "description" : "Shareholder agreements",
+    "description_en" : "Shareholder agreements",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business development",
+    "name_en" : null,
+    "id" : "98895723-d96c-48ca-9123-2051d3a7f597",
+    "description" : "Business development",
+    "description_en" : "Business development",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business development",
+    "name_en" : null,
+    "id" : "98895723-d96c-48ca-9123-2051d3a7f597",
+    "description" : "Business development",
+    "description_en" : "Business development",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business ownership",
+    "name_en" : null,
+    "id" : "8ade4764-a7e7-4869-a764-e1b9f8afeb50",
+    "description" : "Business ownership",
+    "description_en" : "Business ownership",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Business ownership",
+    "name_en" : null,
+    "id" : "8ade4764-a7e7-4869-a764-e1b9f8afeb50",
+    "description" : "Business ownership",
+    "description_en" : "Business ownership",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "relatesToSkill" : [ {
+    "name" : "Business strategy",
+    "name_en" : null,
+    "id" : "7deb82f1-3f37-4d7f-9477-aeaafafdb288",
+    "description" : "Business strategy",
+    "description_en" : "Business strategy",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Management consulting",
+    "name_en" : null,
+    "id" : "39cba503-68e0-4ae5-a964-7a8986795e5f",
+    "description" : "Management consulting",
+    "description_en" : "Management consulting",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
