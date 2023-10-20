@@ -1,0 +1,33 @@
+{
+  "name" : "Typescript",
+  "name_en" : null,
+  "id" : "f7504711-81eb-47f0-8bdf-fd3a58032f15",
+  "description" : "TypeScript is a free and open-source programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript.",
+  "description_en" : "Typescript",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 5, 2, 18, 24, 35, 918391000 ],
+  "lastEdited" : [ 2023, 5, 2, 18, 24, 35, 918383000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
