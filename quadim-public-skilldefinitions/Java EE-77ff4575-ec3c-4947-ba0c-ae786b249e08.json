@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "ac4c486e-ef30-42d8-99a4-d895cc2c9357",
+    "id" : "ee4b070a-b262-4724-99c1-5228e11ee296",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "J2EE",
     "name_en" : null,
-    "id" : "ac4c486e-ef30-42d8-99a4-d895cc2c9357",
+    "id" : "ee4b070a-b262-4724-99c1-5228e11ee296",
     "description" : "J2EE",
     "description_en" : "J2EE",
     "coversElement" : {
