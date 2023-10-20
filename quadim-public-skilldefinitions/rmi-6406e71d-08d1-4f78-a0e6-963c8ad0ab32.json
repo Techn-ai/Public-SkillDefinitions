@@ -1,0 +1,68 @@
+{
+  "name" : "rmi",
+  "name_en" : null,
+  "id" : "6406e71d-08d1-4f78-a0e6-963c8ad0ab32",
+  "description" : " RMI stands for Remote Method Invocation. It is an API provided by java that allows an object residing in one JVM (Java Virtual Machine) to access or invoke an object running on another JVM. The other JVM could be on the same machine or remote machine. This is an interesting feature because, in real-time applications, it becomes very easy for Java applications to communicate directly with each other without any external communication mechanism. Also, it is always a need for secure communication between applications based on distributed application architecture.",
+  "description_en" : "rmi",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "07e13092-95ac-4c17-91bb-63e7c7308373",
+    "name" : "JVM",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 23, 10, 8, 52, 509568000 ],
+  "lastEdited" : [ 2022, 8, 28, 11, 17, 34, 612755000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "JVM",
+    "name_en" : null,
+    "id" : "8d91f435-b174-4c02-8527-3428c87c2269",
+    "description" : "JVM",
+    "description_en" : "JVM",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
