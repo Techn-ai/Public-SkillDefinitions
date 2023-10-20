@@ -41,7 +41,7 @@
   "relatesToSkill" : [ {
     "name" : "XML",
     "name_en" : null,
-    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
+    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -66,9 +66,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
