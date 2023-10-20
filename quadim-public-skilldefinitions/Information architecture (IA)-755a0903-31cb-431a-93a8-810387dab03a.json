@@ -1,0 +1,35 @@
+{
+  "name" : "Information architecture (IA)",
+  "name_en" : null,
+  "id" : "755a0903-31cb-431a-93a8-810387dab03a",
+  "description" : "Information architecture (IA) focuses on organizing, structuring, and labeling content in an effective and sustainable way. The goal is to help users find information and complete tasks.",
+  "description_en" : "information architecture",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 25, 51, 248316000 ],
+  "lastEdited" : [ 2022, 8, 30, 10, 7, 20, 88267000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
