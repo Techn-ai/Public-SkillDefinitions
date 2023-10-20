@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 6, 1, 354131000 ],
   "lastEdited" : [ 2022, 8, 30, 10, 2, 53, 261307000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "jackson",
     "name_en" : null,
-    "id" : "957a186f-9f62-4fce-ac91-bb5012bfa2df",
+    "id" : "64346dc3-a838-494e-a340-0557ae5f22d1",
     "description" : "jackson",
     "description_en" : "jackson",
     "coversElement" : {
@@ -66,13 +64,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "jackson",
+    "name_en" : null,
+    "id" : "64346dc3-a838-494e-a340-0557ae5f22d1",
+    "description" : "jackson",
+    "description_en" : "jackson",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "JSON",
     "name_en" : null,
-    "id" : "12e301a5-5d74-4e93-94b8-373c9a5d2ce9",
+    "id" : "2a84ea96-b94c-4c3e-935f-226e25420c8a",
     "description" : "JSON",
     "description_en" : "JSON",
     "coversElement" : {
@@ -96,8 +124,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
