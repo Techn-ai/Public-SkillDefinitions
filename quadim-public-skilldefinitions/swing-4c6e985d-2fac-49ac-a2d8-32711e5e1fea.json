@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 43, 35, 154135000 ],
   "lastEdited" : [ 2022, 8, 30, 12, 28, 42, 705887000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "java",
     "name_en" : null,
-    "id" : "91a39f07-8f00-4127-a4f6-bb8b22b72ed6",
+    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "java",
     "name_en" : null,
-    "id" : "91a39f07-8f00-4127-a4f6-bb8b22b72ed6",
+    "id" : "440f70a9-01d2-4e53-a267-a3db1031bb20",
     "description" : "java",
     "description_en" : "java",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
