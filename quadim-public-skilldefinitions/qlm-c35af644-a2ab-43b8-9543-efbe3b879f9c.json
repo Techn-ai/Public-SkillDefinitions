@@ -48,7 +48,7 @@
   "relatesToSkill" : [ {
     "name" : "Information architecture (IA)",
     "name_en" : null,
-    "id" : "b1c1d533-cae2-4d5e-9055-c32e41978d48",
+    "id" : "ba70aaf6-dfbf-439b-af42-5e1d4b6b4391",
     "description" : "Information architecture (IA)",
     "description_en" : "Information architecture (IA)",
     "coversElement" : {
@@ -78,7 +78,7 @@
   }, {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "6d64b364-9814-445a-aa88-19615baa6e5b",
+    "id" : "4ffc626d-bf7f-43d7-8b6d-f59bc11d07aa",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
