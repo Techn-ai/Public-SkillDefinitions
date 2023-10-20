@@ -1,0 +1,98 @@
+{
+  "name" : "SOA",
+  "name_en" : null,
+  "id" : "cfc418fb-e30e-444d-9b23-f6516fe2bb85",
+  "description" : " In software engineering, service-oriented architecture (SOA) is an architectural style that focuses on discrete services instead of a monolithic design.[1] By consequence, it is as well applied in the field of software design where services are provided to the other components by application components, through a communication protocol over a network. A service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently, such as retrieving a credit card statement online. SOA is also intended to be independent of vendors, products and technologies.[2]\n\nService orientation is a way of thinking in terms of services and service-based development and the outcomes of services.[1]\n\nA service has four properties according to one of many definitions of SOA:[3]\n\n    It logically represents a repeatable business activity with a specified outcome.\n    It is self-contained.\n    It is a black box for its consumers, meaning the consumer does not have to be aware of the service's inner workings.\n    It may be composed of other services.[4]\n\nDifferent services can be used in conjunction as a service mesh to provide the functionality of a large software application,[5] a principle SOA shares with modular programming. Service-oriented architecture integrates distributed, separately maintained and deployed software components. It is enabled by technologies and standards that facilitate components' communication and cooperation over a network, especially over an IP network.\n\nSOA is related to the idea of an API (application programming interface), an interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API can be thought of as the service, and the SOA the architecture that allows the service to operate. ",
+  "description_en" : "soa",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "98336947-bd09-4979-9389-b418fe4808ae",
+    "name" : "SOAP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "7bd03303-db11-4958-8cd0-dca5ad8971e1",
+  "editedByUsername" : "User Admin",
+  "networkReference" : null,
+  "currentVersion" : 4,
+  "createdAt" : [ 2022, 5, 23, 10, 20, 56, 704645000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 52, 22, 443736000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "SOAP",
+    "name_en" : null,
+    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "description" : "SOAP",
+    "description_en" : "SOAP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "SOAP",
+    "name_en" : null,
+    "id" : "41d364ae-0618-42ed-950b-44e8faf2de04",
+    "description" : "SOAP",
+    "description_en" : "SOAP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
