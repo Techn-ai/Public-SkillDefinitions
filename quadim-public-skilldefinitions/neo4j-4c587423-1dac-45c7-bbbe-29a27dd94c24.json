@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 44, 10, 577995000 ],
   "lastEdited" : [ 2022, 8, 30, 10, 45, 5, 738774000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "nosql",
     "name_en" : null,
-    "id" : "19723c9a-464c-45ed-8696-f076235f0282",
+    "id" : "3ea7bc22-f9aa-4d34-ac26-b27417601eea",
     "description" : "nosql",
     "description_en" : "nosql",
     "coversElement" : {
@@ -66,13 +64,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "polyglot persistence",
     "name_en" : null,
-    "id" : "bb4dd553-20f7-4161-9267-3836c6cc13f8",
+    "id" : "fcfa1f73-72fe-48c0-9a96-8487a79219c6",
     "description" : "polyglot persistence",
     "description_en" : "polyglot persistence",
     "coversElement" : {
@@ -96,8 +94,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "polyglot persistence",
+    "name_en" : null,
+    "id" : "fcfa1f73-72fe-48c0-9a96-8487a79219c6",
+    "description" : "polyglot persistence",
+    "description_en" : "polyglot persistence",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
