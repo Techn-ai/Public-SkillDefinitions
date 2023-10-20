@@ -1,0 +1,235 @@
+{
+  "name" : "Creativity",
+  "name_en" : null,
+  "id" : "035b5971-2926-463b-af10-5b73e14d874d",
+  "description" : "Creativity is defined as the tendency to generate or recognize ideas, alternatives, or possibilities that may be useful in solving problems, communicating with others, and entertaining ourselves and others.",
+  "description_en" : "Creativity",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ {
+    "tagName" : "http://www.csun.edu/~vcpsy00h/creativity/define.htm#:~:text=Creativity%20is%20defined%20as%20the,and%20entertaining%20ourselves%20and%20others.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ {
+    "id" : "1ab196cd-7dd1-4b4b-9f66-9b8e39af1ce9",
+    "name" : "writing",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "89668651-2d3a-45a4-ae84-610263b213f9",
+    "name" : "imagination",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5d5ae9f4-1259-495b-b71c-1040d2987a0d",
+    "name" : "Artistic ability",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3e94509a-6890-4374-b17a-9f08c4188ff9",
+    "name" : "Adaptability",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "450871f1-0ae6-4e84-b313-f2bdf76dd15a",
+    "name" : "innovation",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "c4872cf0-70a0-4c67-9483-5f55438f13c9",
+    "name" : "Curiosity",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f675bf33-3955-4a68-bd11-c454f388313e",
+    "name" : "Design",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8394000f-602a-4390-a106-d334d9be792b",
+    "name" : "problem-solving",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5f1b5772-47c8-4cde-b851-dbd33a59d73e",
+    "name" : "idea generation",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 4, 27, 10, 15, 25, 883885000 ],
+  "lastEdited" : [ 2023, 4, 27, 10, 20, 49, 389433000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null, null, null ],
+  "relatesToSkill" : [ {
+    "name" : "writing",
+    "name_en" : null,
+    "id" : "1fcf074f-e204-4cd7-b6b4-3254d09f09d8",
+    "description" : "writing",
+    "description_en" : "writing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "imagination",
+    "name_en" : null,
+    "id" : "aebc36ae-9bb6-4df6-bca6-a3cf1976732a",
+    "description" : "imagination",
+    "description_en" : "imagination",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Artistic ability",
+    "name_en" : null,
+    "id" : "9dbf0675-1d59-4bca-b573-544e3bd82e48",
+    "description" : "Artistic ability",
+    "description_en" : "Artistic ability",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Adaptability",
+    "name_en" : null,
+    "id" : "5427a07e-46ee-439e-9d78-f5910e88cc3b",
+    "description" : "Adaptability",
+    "description_en" : "Adaptability",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "innovation",
+    "name_en" : null,
+    "id" : "01351789-2927-4aeb-9328-da9027e29bbd",
+    "description" : "innovation",
+    "description_en" : "innovation",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
