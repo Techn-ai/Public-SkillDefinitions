@@ -1,0 +1,39 @@
+{
+  "name" : "sap replenishment",
+  "name_en" : null,
+  "id" : "bbe3a7cb-96e5-4934-a69d-451cbaf79d0c",
+  "description" : "SAP Replenishment Planning supports replenishment planners in meeting replenishment targets while minimizing overall costs.\n\nSAP Replenishment Planning is a highly automated solution that significantly speeds up replenishment planning for retail and makes ordering more cost effective. SAP Replenishment Planning has a focus on replenishment of fresh products for stores. Its comprehensive capabilities, which support replenishment configuration, planning, simulation, and alert management, allow you to apply intelligent replenishment strategies and quickly adapt them in response to changing replenishment requirements.\n\nIn addition to considering current stock, demand plans, scheduling information, and open goods movements, SAP Replenishment Planning can be configured to propose order quantities that take into account KPIs related to service level, stock levels, shelf capacity, sales, and spoilage.\n",
+  "description_en" : "sap replenishment",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 51, 21, 230988000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 58, 35, 954640000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
