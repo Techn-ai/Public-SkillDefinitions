@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Jini",
     "name_en" : null,
-    "id" : "1f556f0f-900b-4c80-9348-0ecc0264c7c4",
+    "id" : "0ddc016e-15c1-4900-9e55-8212a914cf35",
     "description" : "Jini",
     "description_en" : "Jini",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "Jini",
     "name_en" : null,
-    "id" : "1f556f0f-900b-4c80-9348-0ecc0264c7c4",
+    "id" : "0ddc016e-15c1-4900-9e55-8212a914cf35",
     "description" : "Jini",
     "description_en" : "Jini",
     "coversElement" : {
