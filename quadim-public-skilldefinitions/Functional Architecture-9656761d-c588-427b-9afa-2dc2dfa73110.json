@@ -48,7 +48,7 @@
   "relatesToSkill" : [ {
     "name" : "Business process management (BPM)",
     "name_en" : null,
-    "id" : "0a433001-a673-48f8-9ddd-277915fda3c5",
+    "id" : "23d65ac3-ce81-498f-a2e1-c0a259c09600",
     "description" : "Business process management (BPM)",
     "description_en" : "Business process management (BPM)",
     "coversElement" : {
@@ -78,7 +78,37 @@
   }, {
     "name" : "Business Process Modeling Notation (BPMN)",
     "name_en" : null,
-    "id" : "49837175-95a5-4096-9940-464f4b8329bf",
+    "id" : "060afccb-81e0-445d-901d-6890f03b4c5b",
+    "description" : "Business Process Modeling Notation (BPMN)",
+    "description_en" : "Business Process Modeling Notation (BPMN)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Business Process Modeling Notation (BPMN)",
+    "name_en" : null,
+    "id" : "060afccb-81e0-445d-901d-6890f03b4c5b",
     "description" : "Business Process Modeling Notation (BPMN)",
     "description_en" : "Business Process Modeling Notation (BPMN)",
     "coversElement" : {
