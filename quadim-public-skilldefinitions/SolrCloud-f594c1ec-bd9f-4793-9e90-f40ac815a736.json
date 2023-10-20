@@ -32,10 +32,11 @@
   "createdAt" : [ 2022, 5, 23, 10, 47, 13, 96336000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 54, 16, 404772000 ],
   "public" : true,
+  "relatesToSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "solr",
     "name_en" : null,
-    "id" : "1541fb2f-f0fb-42ad-9d52-30251020c9ce",
+    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -59,13 +60,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "solr",
     "name_en" : null,
-    "id" : "1541fb2f-f0fb-42ad-9d52-30251020c9ce",
+    "id" : "fec6f285-863b-4d52-b0bd-4bb32db12531",
     "description" : "solr",
     "description_en" : "solr",
     "coversElement" : {
@@ -89,10 +90,9 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   } ],
-  "isCompositeOfSkill" : [ ],
-  "relatesToSkill" : [ ]
+  "isCompositeOfSkill" : [ ]
 }
