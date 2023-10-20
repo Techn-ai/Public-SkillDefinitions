@@ -48,37 +48,7 @@
   "relatesToSkill" : [ {
     "name" : "Information architecture (IA)",
     "name_en" : null,
-    "id" : "12268c89-de92-4e87-a4ff-f46866a775c7",
-    "description" : "Information architecture (IA)",
-    "description_en" : "Information architecture (IA)",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "isExtensionOfSkill" : [ ]
-  }, {
-    "name" : "Information architecture (IA)",
-    "name_en" : null,
-    "id" : "12268c89-de92-4e87-a4ff-f46866a775c7",
+    "id" : "b1c1d533-cae2-4d5e-9055-c32e41978d48",
     "description" : "Information architecture (IA)",
     "description_en" : "Information architecture (IA)",
     "coversElement" : {
@@ -108,7 +78,7 @@
   }, {
     "name" : "Enterprise architecture (EA)",
     "name_en" : null,
-    "id" : "a983bba5-c676-4ed8-bbe0-43e9aaa82df9",
+    "id" : "6d64b364-9814-445a-aa88-19615baa6e5b",
     "description" : "Enterprise architecture (EA)",
     "description_en" : "Enterprise architecture (EA)",
     "coversElement" : {
