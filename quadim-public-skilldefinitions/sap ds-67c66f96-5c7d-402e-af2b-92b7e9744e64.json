@@ -1,0 +1,33 @@
+{
+  "name" : "sap ds",
+  "name_en" : null,
+  "id" : "67c66f96-5c7d-402e-af2b-92b7e9744e64",
+  "description" : "SAP Data Services is a data integration and transformation software application. It allows users to develop and execute workflows that take data from predefined sources called data stores (applications, Web services, flat-files, databases, etc.)",
+  "description_en" : "sap ds",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 50, 25, 539811000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 53, 41, 54519000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
