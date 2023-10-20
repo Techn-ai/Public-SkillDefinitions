@@ -32,12 +32,10 @@
   "createdAt" : [ 2022, 8, 26, 10, 51, 4, 813150000 ],
   "lastEdited" : [ 2022, 8, 26, 10, 52, 14, 531524000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "HTTP",
     "name_en" : null,
-    "id" : "97b48714-1ff0-49df-85d1-39f4202f8239",
+    "id" : "1c0bf4bb-3b76-4c75-86be-ccef79a4caa1",
     "description" : "HTTP",
     "description_en" : "HTTP",
     "coversElement" : {
@@ -61,8 +59,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
