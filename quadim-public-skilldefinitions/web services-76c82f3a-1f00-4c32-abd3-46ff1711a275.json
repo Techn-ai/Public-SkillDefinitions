@@ -45,7 +45,7 @@
   "relatesToSkill" : [ {
     "name" : "microservice architecture",
     "name_en" : null,
-    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
+    "id" : "f9b0947a-c7d7-4602-8b9d-c71d810173c8",
     "description" : "microservice architecture",
     "description_en" : "microservice architecture",
     "coversElement" : {
@@ -70,12 +70,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "XML",
     "name_en" : null,
-    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
+    "id" : "b0bbc7f7-9ea8-4095-a813-4303f91b5249",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -100,12 +100,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "rest",
     "name_en" : null,
-    "id" : "8d08756e-dddc-47f5-83e3-d01936f4f9b5",
+    "id" : "0e81120d-3255-4cd1-851a-908a277a3a49",
     "description" : "rest",
     "description_en" : "rest",
     "coversElement" : {
@@ -130,39 +130,9 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  }, {
-    "name" : "rest",
-    "name_en" : null,
-    "id" : "8d08756e-dddc-47f5-83e3-d01936f4f9b5",
-    "description" : "rest",
-    "description_en" : "rest",
-    "coversElement" : {
-      "classification" : "NotSet"
-    },
-    "taggedWith" : [ ],
-    "matchesArea" : [ ],
-    "skillType" : {
-      "skillTypeClassification" : "NotSet"
-    },
-    "relatesTo" : [ ],
-    "isCompositeOf" : [ ],
-    "isExtensionOf" : [ ],
-    "additionaljsonproperties" : null,
-    "skillOwner" : null,
-    "skillOwnerUsername" : null,
-    "editedBy" : null,
-    "editedByUsername" : null,
-    "networkReference" : null,
-    "currentVersion" : 0,
-    "createdAt" : null,
-    "lastEdited" : null,
-    "public" : false,
-    "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   } ],
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ]
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
 }
