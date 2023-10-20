@@ -33,10 +33,11 @@
   "lastEdited" : [ 2022, 8, 30, 11, 29, 10, 805992000 ],
   "public" : true,
   "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
   "isExtensionOfSkill" : [ {
     "name" : "ExtJS",
     "name_en" : null,
-    "id" : "f66ea2d4-ca28-489c-afc0-c165af3d51d9",
+    "id" : "7e5fdc5c-5749-4c70-81a5-e215d9261dde",
     "description" : "ExtJS",
     "description_en" : "ExtJS",
     "coversElement" : {
@@ -61,12 +62,12 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
   }, {
     "name" : "ExtJS",
     "name_en" : null,
-    "id" : "f66ea2d4-ca28-489c-afc0-c165af3d51d9",
+    "id" : "7e5fdc5c-5749-4c70-81a5-e215d9261dde",
     "description" : "ExtJS",
     "description_en" : "ExtJS",
     "coversElement" : {
@@ -91,8 +92,7 @@
     "lastEdited" : null,
     "public" : false,
     "relatesToSkill" : [ ],
-    "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ]
-  } ],
-  "isCompositeOfSkill" : [ ]
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
 }
