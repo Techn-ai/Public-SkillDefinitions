@@ -1,0 +1,33 @@
+{
+  "name" : "Technical Infrastructure",
+  "name_en" : null,
+  "id" : "39dabe08-5dc7-4ea3-aee4-1aced1f07212",
+  "description" : "Technical Infrastructure means the combined set of hardware, software, networks and other facilities needed to develop, test, deliver, monitor, control or support the relevant IT services necessary for the application of the uniform system; Sample 1. Technical Infrastructure .",
+  "description_en" : "teknisk infrastruktur",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 31, 24, 576978000 ],
+  "lastEdited" : [ 2022, 8, 30, 12, 47, 53, 157015000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
