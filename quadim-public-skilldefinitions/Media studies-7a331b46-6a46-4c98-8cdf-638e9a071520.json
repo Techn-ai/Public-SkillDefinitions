@@ -1,0 +1,41 @@
+{
+  "name" : "Media studies",
+  "name_en" : null,
+  "id" : "7a331b46-6a46-4c98-8cdf-638e9a071520",
+  "description" : "Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media Studies may draw on traditions from both the social sciences and the humanities, but mostly from its core disciplines of mass communication, communication, communication sciences, and communication studies.",
+  "description_en" : "Media studies",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "skillOwnerUsername" : "Regine Severinsen",
+  "editedBy" : "ec803239-9864-4d78-906f-91971f4b3a6c",
+  "editedByUsername" : "Regine Severinsen",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 1, 12, 59, 38, 314818000 ],
+  "lastEdited" : [ 2023, 2, 1, 12, 59, 38, 314804000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
