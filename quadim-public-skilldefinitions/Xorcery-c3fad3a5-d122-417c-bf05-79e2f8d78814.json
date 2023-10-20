@@ -1,0 +1,108 @@
+{
+  "name" : "Xorcery",
+  "name_en" : null,
+  "id" : "c3fad3a5-d122-417c-bf05-79e2f8d78814",
+  "description" : "Xorcery is a solution for Java developers to be able to grow their solutions organically from the simplified monolithic architecture to high-performance microservice architecture as the needs arises while handling the heavy-lifting like The fallacies of distributed computing for the developers for \"free\". ",
+  "description_en" : "xorcery",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "46850d6b-7918-4759-ac28-d8ac9c1cb2b9",
+    "name" : "microservice architecture",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "22b9d1e9-511e-462c-ad7d-c8833f5b74da",
+    "name" : "Fallacies of distributed computing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "b8166bbd-b1e0-4905-b8b8-bb4e557e526d",
+    "name" : "Event Sourcing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 3,
+  "createdAt" : [ 2022, 8, 25, 6, 51, 47, 863672000 ],
+  "lastEdited" : [ 2022, 8, 26, 9, 27, 23, 138630000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "relatesToSkill" : [ {
+    "name" : "microservice architecture",
+    "name_en" : null,
+    "id" : "1437c32c-ff96-4ee3-bd74-c223c00e6736",
+    "description" : "microservice architecture",
+    "description_en" : "microservice architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Fallacies of distributed computing",
+    "name_en" : null,
+    "id" : "0a2e33e6-972f-45f4-b7ff-afd3bcdf2728",
+    "description" : "Fallacies of distributed computing",
+    "description_en" : "Fallacies of distributed computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
