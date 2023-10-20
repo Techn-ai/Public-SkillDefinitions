@@ -1,0 +1,42 @@
+{
+  "name" : "Coaching",
+  "name_en" : null,
+  "id" : "dc6f6248-5ed8-489c-843b-80113d8710a5",
+  "description" : "Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance.[1] The learner is sometimes called a coachee. Occasionally, coaching may mean an informal relationship between two people, of whom one has more experience and expertise than the other and offers advice and guidance as the latter learns; but coaching differs from mentoring by focusing on specific tasks or objectives, as opposed to more general goals or overall developmen",
+  "description_en" : "Coaching",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Coaching",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 18, 54, 21, 628935000 ],
+  "lastEdited" : [ 2023, 2, 3, 18, 54, 21, 628928000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
