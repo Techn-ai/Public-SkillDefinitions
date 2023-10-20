@@ -1,0 +1,37 @@
+{
+  "name" : "candidate qualifying",
+  "name_en" : null,
+  "id" : "804dfb85-0d35-49df-b098-9eaeafe9bdd2",
+  "description" : "The Five Pillars to Effectively and Screening & Qualifying Candidates\n\n    Qualifying The Candidate’s Current Situation\n    Qualifying the Candidate's Skills & Experience\n    Qualifying The Candidate’s Pay Rate and/or Salary History\n    Qualifying the Candidate's Compelling Event, Motivators\n    Qualifying the Candidate's Decision-Making Process",
+  "description_en" : "candidate qualifying",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : "{\"referenceId\":\"804dfb85-0d35-49df-b098-9eaeafe9bdd2\"}",
+  "skillOwner" : "da528574-5756-4e0b-8440-702517de2dd4",
+  "skillOwnerUsername" : "Selina Stenberg",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2022, 5, 31, 8, 49, 48, 861558000 ],
+  "lastEdited" : [ 2023, 8, 14, 12, 36, 20, 427747000 ],
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
