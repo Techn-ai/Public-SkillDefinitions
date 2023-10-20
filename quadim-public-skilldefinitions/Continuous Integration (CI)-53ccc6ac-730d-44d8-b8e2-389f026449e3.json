@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 27, 4, 381382000 ],
   "lastEdited" : [ 2023, 9, 7, 14, 45, 28, 581330000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "Continuous deployment",
     "name_en" : null,
-    "id" : "dd0d6bd3-d4c9-479d-a009-49c7159bf282",
+    "id" : "c67f5646-59bd-47ca-a562-127e0d9b2963",
     "description" : "Continuous deployment",
     "description_en" : "Continuous deployment",
     "coversElement" : {
@@ -66,13 +64,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "Jenkins",
     "name_en" : null,
-    "id" : "2bb620ec-9afb-4d8c-a846-cfb8f1e81728",
+    "id" : "52eec862-ff8b-4c03-b819-3c708611bda9",
     "description" : "Jenkins",
     "description_en" : "Jenkins",
     "coversElement" : {
@@ -96,8 +94,10 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
