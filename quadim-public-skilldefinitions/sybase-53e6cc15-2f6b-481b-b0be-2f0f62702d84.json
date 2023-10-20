@@ -37,7 +37,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "RDBMS",
     "name_en" : null,
-    "id" : "97a2c4e1-3b4c-4ba0-ab9f-31a68bdbc4b2",
+    "id" : "a9b77692-f7a9-4088-96b3-a4a394b7bab4",
     "description" : "RDBMS",
     "description_en" : "RDBMS",
     "coversElement" : {
@@ -67,7 +67,7 @@
   }, {
     "name" : "RDBMS",
     "name_en" : null,
-    "id" : "97a2c4e1-3b4c-4ba0-ab9f-31a68bdbc4b2",
+    "id" : "a9b77692-f7a9-4088-96b3-a4a394b7bab4",
     "description" : "RDBMS",
     "description_en" : "RDBMS",
     "coversElement" : {
