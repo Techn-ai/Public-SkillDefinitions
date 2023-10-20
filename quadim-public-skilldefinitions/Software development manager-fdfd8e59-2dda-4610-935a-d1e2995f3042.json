@@ -50,7 +50,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Software Product development",
     "name_en" : null,
-    "id" : "c249320c-7c55-4938-9306-c37b5185d18e",
+    "id" : "f0be3e63-e2b0-4e6c-904c-036df0a4765b",
     "description" : "Software Product development",
     "description_en" : "Software Product development",
     "coversElement" : {
@@ -80,7 +80,7 @@
   }, {
     "name" : "Software Product development",
     "name_en" : null,
-    "id" : "c249320c-7c55-4938-9306-c37b5185d18e",
+    "id" : "f0be3e63-e2b0-4e6c-904c-036df0a4765b",
     "description" : "Software Product development",
     "description_en" : "Software Product development",
     "coversElement" : {
@@ -110,7 +110,7 @@
   }, {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "9a78a4c3-9862-4133-8c03-95c23030c544",
+    "id" : "bbeb7dd1-4e9c-4d30-a7f5-f76ff4d195ad",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
@@ -140,7 +140,7 @@
   }, {
     "name" : "Software Process",
     "name_en" : null,
-    "id" : "9a78a4c3-9862-4133-8c03-95c23030c544",
+    "id" : "bbeb7dd1-4e9c-4d30-a7f5-f76ff4d195ad",
     "description" : "Software Process",
     "description_en" : "Software Process",
     "coversElement" : {
