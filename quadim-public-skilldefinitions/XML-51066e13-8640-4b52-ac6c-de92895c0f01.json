@@ -37,12 +37,10 @@
   "createdAt" : [ 2022, 5, 23, 10, 13, 57, 451777000 ],
   "lastEdited" : [ 2022, 8, 26, 10, 44, 1, 80863000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "name_en" : null,
-    "id" : "76823380-8575-4ab1-b484-1d512e7649c1",
+    "id" : "4d85c356-0f49-4a98-8aa4-2e1fab72a49d",
     "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
     "coversElement" : {
@@ -66,13 +64,43 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "XSLT (Extensible Stylesheet Language Transformations) ",
+    "name_en" : null,
+    "id" : "4d85c356-0f49-4a98-8aa4-2e1fab72a49d",
+    "description" : "XSLT (Extensible Stylesheet Language Transformations) ",
+    "description_en" : "XSLT (Extensible Stylesheet Language Transformations) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "XML Schema Definition (XSD)",
     "name_en" : null,
-    "id" : "45d93583-30d0-4e91-a3b7-82adb09ccc3a",
+    "id" : "9d1f35ea-62b4-437c-abf4-b5cf98c6aafe",
     "description" : "XML Schema Definition (XSD)",
     "description_en" : "XML Schema Definition (XSD)",
     "coversElement" : {
@@ -96,8 +124,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "XML Schema Definition (XSD)",
+    "name_en" : null,
+    "id" : "9d1f35ea-62b4-437c-abf4-b5cf98c6aafe",
+    "description" : "XML Schema Definition (XSD)",
+    "description_en" : "XML Schema Definition (XSD)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
