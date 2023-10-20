@@ -42,12 +42,10 @@
   "createdAt" : [ 2022, 5, 23, 11, 1, 19, 847675000 ],
   "lastEdited" : [ 2022, 8, 30, 11, 56, 44, 409124000 ],
   "public" : true,
-  "isExtensionOfSkill" : [ ],
-  "isCompositeOfSkill" : [ ],
   "relatesToSkill" : [ {
     "name" : "microservice architecture",
     "name_en" : null,
-    "id" : "1437c32c-ff96-4ee3-bd74-c223c00e6736",
+    "id" : "fbc80960-7ae0-4a80-81eb-e7f56eead3ca",
     "description" : "microservice architecture",
     "description_en" : "microservice architecture",
     "coversElement" : {
@@ -71,13 +69,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "XML",
     "name_en" : null,
-    "id" : "3bc95634-00ee-4861-b911-c2262864185c",
+    "id" : "e00e7b66-92f4-4c72-b4c5-4850d6d7eecf",
     "description" : "XML",
     "description_en" : "XML",
     "coversElement" : {
@@ -101,13 +99,13 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
+    "isCompositeOfSkill" : [ ]
   }, {
     "name" : "rest",
     "name_en" : null,
-    "id" : "cb86c091-0eec-444d-84c5-56bf29eb3b9e",
+    "id" : "8d08756e-dddc-47f5-83e3-d01936f4f9b5",
     "description" : "rest",
     "description_en" : "rest",
     "coversElement" : {
@@ -131,8 +129,40 @@
     "createdAt" : null,
     "lastEdited" : null,
     "public" : false,
+    "relatesToSkill" : [ ],
     "isExtensionOfSkill" : [ ],
-    "isCompositeOfSkill" : [ ],
-    "relatesToSkill" : [ ]
-  } ]
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "rest",
+    "name_en" : null,
+    "id" : "8d08756e-dddc-47f5-83e3-d01936f4f9b5",
+    "description" : "rest",
+    "description_en" : "rest",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
 }
