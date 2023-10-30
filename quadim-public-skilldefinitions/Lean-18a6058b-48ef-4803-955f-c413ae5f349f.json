@@ -1,0 +1,33 @@
+{
+  "name" : "Lean",
+  "name_en" : null,
+  "id" : "18a6058b-48ef-4803-955f-c413ae5f349f",
+  "description" : "Initially coined by Toyota and later also referred to as Toyota Production system, Lean is a series of methods, techniques and procedures that an organisation can use in order to make a more effective flow of value creating objects from start to end. It exists a lot of different flavours such as lean startup, lean manufactoring and lean production. It also exists certifications such as Lean Six Sigma.",
+  "description_en" : "Lean",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : "d0e4cd0e-bbf4-4df2-ba1e-9ecba0debe36",
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 10, 30, 8, 35, 22, 423360000 ],
+  "lastEdited" : [ 2023, 10, 30, 8, 35, 22, 423354000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
