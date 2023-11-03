@@ -1,0 +1,31 @@
+{
+  "name" : "Accounting",
+  "name_en" : null,
+  "id" : "799ea433-3a9d-4ebd-8245-13995d09d260",
+  "description" : "Accounting is the process of recording, classifying, and summarizing financial transactions of a business or organization. It involves the systematic and comprehensive recording of financial transactions, as well as the analysis, interpretation, and communication of financial information. Accounting provides a clear picture of the financial health of an organization and its performance, which can serve as a catalyst for resource management and strategic growth. Accounting can be broken down into several categories, including financial accounting, managerial accounting, tax accounting, and auditing. The main purpose of accounting is to provide accurate and timely financial information to help businesses make informed decisions. ",
+  "description_en" : "Accounting",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 11, 3, 12, 53, 46, 730531000 ],
+  "lastEdited" : [ 2023, 11, 3, 12, 53, 46, 730528000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
