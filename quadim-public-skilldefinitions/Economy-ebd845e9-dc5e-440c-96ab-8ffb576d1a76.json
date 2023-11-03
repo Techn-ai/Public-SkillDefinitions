@@ -1,0 +1,143 @@
+{
+  "name" : "Economy",
+  "name_en" : null,
+  "id" : "ebd845e9-dc5e-440c-96ab-8ffb576d1a76",
+  "description" : "A discipline that deals with the study of the production, distribution, and consumption of goods and services in a society. Economy can be either private, business or public. It can be micro or macro. It can be money in and money out as in bookkeeping or it can be more financial reporting and financial instruments.",
+  "description_en" : "Economy",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "b41ca470-9db0-403d-b290-90c4cfa24a35",
+    "name" : "Financial goods",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "63cff106-c2b4-4ad4-b043-fbb90a047e76",
+    "name" : "Business management",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5f6f78f4-53a4-4868-8646-f4cb05d51159",
+    "name" : "Financial services",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "799ea433-3a9d-4ebd-8245-13995d09d260",
+    "name" : "Accounting",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 11, 3, 12, 48, 10, 260442000 ],
+  "lastEdited" : [ 2023, 11, 3, 12, 54, 24, 560865000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Financial goods",
+    "name_en" : null,
+    "id" : "886c61e2-ca55-43c6-95e1-10e5ae9f9986",
+    "description" : "Financial goods",
+    "description_en" : "Financial goods",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Business management",
+    "name_en" : null,
+    "id" : "06ca137c-766e-4a49-b13a-955b431f9202",
+    "description" : "Business management",
+    "description_en" : "Business management",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Financial services",
+    "name_en" : null,
+    "id" : "275f8004-1828-438f-8bd7-eacd9cc06d04",
+    "description" : "Financial services",
+    "description_en" : "Financial services",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
