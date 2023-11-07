@@ -1,0 +1,31 @@
+{
+  "name" : "Influencer Marketing",
+  "name_en" : null,
+  "id" : "17dc42f3-020c-43a6-9703-adb5867cf08d",
+  "description" : "Collaborating with industry or social media influencers to promote your products or services to their followers. ",
+  "description_en" : "Influencer Marketing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 40, 30, 485044000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 40, 30, 485038000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
