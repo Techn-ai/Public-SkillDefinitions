@@ -1,0 +1,31 @@
+{
+  "name" : "Mobile marketing",
+  "name_en" : null,
+  "id" : "6407b684-3797-4977-bf5b-028e645e8f42",
+  "description" : "Optimizing marketing for mobile users, including mobile apps, responsive web design, and SMS marketing. ",
+  "description_en" : "Mobile marketing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 40, 52, 257313000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 40, 52, 257307000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
