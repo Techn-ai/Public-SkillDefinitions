@@ -1,0 +1,31 @@
+{
+  "name" : "Affiliate Marketing",
+  "name_en" : null,
+  "id" : "5fee1925-d3f0-4727-8130-fd70ead377e9",
+  "description" : "Partnering with affiliates who promote your products or services and earn a commission for each sale they generate. ",
+  "description_en" : "Affiliate Marketing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 40, 15, 705751000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 40, 15, 705744000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
