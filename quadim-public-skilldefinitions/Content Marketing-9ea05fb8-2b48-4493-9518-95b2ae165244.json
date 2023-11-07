@@ -1,0 +1,31 @@
+{
+  "name" : "Content Marketing",
+  "name_en" : null,
+  "id" : "9ea05fb8-2b48-4493-9518-95b2ae165244",
+  "description" : "Creating and distributing quality content, such as blogs, articles, videos, and infographics, to attract and engage the audience. ",
+  "description_en" : "Content Marketing",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 38, 42, 200684000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 38, 42, 200637000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
