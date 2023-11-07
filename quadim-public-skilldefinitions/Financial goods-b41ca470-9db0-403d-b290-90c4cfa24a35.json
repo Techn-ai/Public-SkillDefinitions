@@ -1,0 +1,31 @@
+{
+  "name" : "Financial goods",
+  "name_en" : null,
+  "id" : "b41ca470-9db0-403d-b290-90c4cfa24a35",
+  "description" : "Financial goods are products such as mortgages, stocks, bonds, and insurance policies. ",
+  "description_en" : "Financial goods",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 11, 3, 12, 43, 34, 620984000 ],
+  "lastEdited" : [ 2023, 11, 3, 12, 43, 34, 620981000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
