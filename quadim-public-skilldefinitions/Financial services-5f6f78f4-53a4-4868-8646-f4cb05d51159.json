@@ -1,0 +1,31 @@
+{
+  "name" : "Financial services",
+  "name_en" : null,
+  "id" : "5f6f78f4-53a4-4868-8646-f4cb05d51159",
+  "description" : "Financial services refer to the services provided by the finance industry, which includes a wide range of businesses that manage money, such as banks, credit card providers, insurers, investment funds, and consumer finance firms. Financial services are not the same as financial goods, which are products such as mortgages, stocks, bonds, and insurance policies. Financial services are services offered by financial entities. ",
+  "description_en" : "Financial services",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 11, 3, 12, 43, 3, 451836000 ],
+  "lastEdited" : [ 2023, 11, 3, 12, 43, 3, 451832000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
