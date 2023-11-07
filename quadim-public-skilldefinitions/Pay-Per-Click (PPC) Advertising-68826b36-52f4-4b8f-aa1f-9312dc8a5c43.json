@@ -1,0 +1,31 @@
+{
+  "name" : "Pay-Per-Click (PPC) Advertising",
+  "name_en" : null,
+  "id" : "68826b36-52f4-4b8f-aa1f-9312dc8a5c43",
+  "description" : "Creating and distributing ads that appear in search results or on websites, where you pay for the advertising based on clicks. ",
+  "description_en" : "Pay-Per-Click (PPC) Advertising",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 39, 52, 15602000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 39, 52, 15595000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
