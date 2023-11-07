@@ -1,0 +1,31 @@
+{
+  "name" : "Search Engine Optimization (SEO)",
+  "name_en" : null,
+  "id" : "e6abe91a-9b8e-4c7d-8a1a-1ae7312ce720",
+  "description" : "This involves optimizing your website for search engines to improve visibility in search results and attract organic traffic. ",
+  "description_en" : "Search Engine Optimization (SEO)",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "5903860e-14d1-4379-9799-030a13b90609",
+  "skillOwnerUsername" : "Jan Helge Maurtvedt",
+  "editedBy" : "5903860e-14d1-4379-9799-030a13b90609",
+  "editedByUsername" : "Jan Helge Maurtvedt",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2023, 10, 30, 10, 37, 52, 466935000 ],
+  "lastEdited" : [ 2023, 10, 30, 10, 37, 52, 466927000 ],
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
