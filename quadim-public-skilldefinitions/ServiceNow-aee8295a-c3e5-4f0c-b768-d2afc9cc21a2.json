@@ -1,0 +1,33 @@
+{
+  "name" : "ServiceNow",
+  "name_en" : null,
+  "id" : "aee8295a-c3e5-4f0c-b768-d2afc9cc21a2",
+  "description" : "Established in 2003, ServiceNow is a cloud-based workflow automation platform for enterprise organisations. What does that mean? Well, think of it as a single platform to connect every element of your IT network, marry it up with business and employee requirements, and manage it all in one place",
+  "description_en" : "ServiceNow",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "fd86ceb3-1adf-49a7-b23a-d257b0289ab2",
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 11, 8, 20, 1, 7, 431967000 ],
+  "lastEdited" : [ 2023, 11, 8, 20, 1, 7, 431965000 ],
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
