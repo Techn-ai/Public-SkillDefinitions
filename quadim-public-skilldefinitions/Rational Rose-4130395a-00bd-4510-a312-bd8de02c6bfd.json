@@ -1,0 +1,103 @@
+{
+  "name" : "Rational Rose",
+  "name_en" : null,
+  "id" : "4130395a-00bd-4510-a312-bd8de02c6bfd",
+  "description" : "The Rational Rose family of products is a set of UML modeling tools for software design. The Unified Modeling Language (UML) is the industry-standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems. It simplifies the complex process of software design, creating a \"blueprint\" for construction of software systems.",
+  "description_en" : "Rational Rose",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "bd3f5631-529d-4748-8749-23adc7a755ff",
+    "name" : "Rational unified process (RUP) ",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "fa2250d3-b4ff-4876-acde-0e1dda832a9d",
+    "name" : "UML",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2023, 5, 16, 12, 28, 27, 987731000 ],
+  "lastEdited" : [ 2023, 11, 21, 10, 34, 44, 493508000 ],
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Rational unified process (RUP) ",
+    "name_en" : null,
+    "id" : "8050a159-0216-4523-b092-3b3bd09d59b2",
+    "description" : "Rational unified process (RUP) ",
+    "description_en" : "Rational unified process (RUP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "UML",
+    "name_en" : null,
+    "id" : "b9613f00-5f74-4192-96e4-d4c0f6613cbb",
+    "description" : "UML",
+    "description_en" : "UML",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
