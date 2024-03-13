@@ -1,0 +1,103 @@
+{
+  "name" : "Prompt engineering",
+  "name_en" : null,
+  "id" : "d1a24047-5b9e-4505-b959-2eabcd3dc8b9",
+  "description" : "Prompt engineering is the process of structuring text that can be interpreted and understood by a generative AI model. A prompt is natural language text describing the task that an AI should perform.\n\nA prompt for a text-to-text language model can be a query such as \"what is Fermat's little theorem?\", a command such as \"write a poem about leaves falling\", or a longer statement including context, instructions, and conversation history. Prompt engineering may involve phrasing a query, specifying a style, providing relevant context or assigning a role to the AI such as \"Act as a native French speaker\". A prompt may include a few examples for a model to learn from, such as asking the model to complete \"maison → house, chat → cat, chien →\" (the expected response being dog), an approach called few-shot learning.  Ref: wikipedia",
+  "description_en" : "Prompt engineering",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "9a1608f9-0488-4477-8ded-cf7b7ed8b9bb",
+    "name" : "Large Language Model (LLM)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 3,
+  "createdAt" : [ 2024, 3, 13, 10, 10, 27, 143603000 ],
+  "lastEdited" : [ 2024, 3, 13, 10, 12, 1, 771601000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "b443e450-d0d7-4806-9292-f48bf3712581",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "b443e450-d0d7-4806-9292-f48bf3712581",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
