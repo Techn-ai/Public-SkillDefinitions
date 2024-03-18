@@ -1,0 +1,101 @@
+{
+  "name" : "Devin",
+  "name_en" : null,
+  "id" : "d602f7be-e4af-447a-ac23-e81e919c88ca",
+  "description" : "Devin is not just a program; it's a groundbreaking AI that acts as a software engineer, capable of coding, debugging, and even developing apps and websites. Created by Cognition and led by Scott Wu, Devin represents a significant leap in AI's role in software development. It's designed to work alongside humans, enhancing productivity rather than replacing jobs. With abilities to learn and adapt, Devin is reshaping how software engineering tasks are approached, promising a future where AI and humans collaborate more closely.",
+  "description_en" : "Devin",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "9a1608f9-0488-4477-8ded-cf7b7ed8b9bb",
+    "name" : "Large Language Model (LLM)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 3, 18, 12, 29, 54, 811660000 ],
+  "lastEdited" : [ 2024, 3, 18, 12, 30, 57, 412184000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "690e4676-a9bc-400a-88f9-e1a82cc2b285",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "690e4676-a9bc-400a-88f9-e1a82cc2b285",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
