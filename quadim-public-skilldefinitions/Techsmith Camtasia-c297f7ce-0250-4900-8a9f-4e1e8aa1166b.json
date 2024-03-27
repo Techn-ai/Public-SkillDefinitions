@@ -1,0 +1,34 @@
+{
+  "name" : "Techsmith Camtasia",
+  "name_en" : null,
+  "id" : "c297f7ce-0250-4900-8a9f-4e1e8aa1166b",
+  "description" : "Camtasia is a software suite, created and published by TechSmith, for creating and recording video tutorials and presentations via screencast, or via a direct recording plug-in to Microsoft PowerPoint. Other multimedia recordings may be recorded at the same time or added separately.",
+  "description_en" : "Techsmith Camtasia",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "skillOwnerUsername" : "Sirianna Sevilhaug",
+  "editedBy" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "editedByUsername" : "Sirianna Sevilhaug",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 3, 27, 7, 59, 29, 221954000 ],
+  "lastEdited" : [ 2024, 3, 27, 7, 59, 29, 221951000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
