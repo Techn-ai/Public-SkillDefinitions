@@ -1,0 +1,38 @@
+{
+  "name" : "Hubspot",
+  "name_en" : null,
+  "id" : "f9043017-9bbb-4f84-bede-be0b0bb02d96",
+  "description" : "Hubspot products and services aim to provide tools for customer relationship management, social media marketing, content management, lead generation, web analytics, search engine optimization, live chat, and customer support.",
+  "description_en" : "Hubspot",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "skillOwnerUsername" : "Sirianna Sevilhaug",
+  "editedBy" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "editedByUsername" : "Sirianna Sevilhaug",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 3, 27, 7, 58, 36, 112028000 ],
+  "lastEdited" : [ 2024, 3, 27, 7, 58, 36, 112026000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
