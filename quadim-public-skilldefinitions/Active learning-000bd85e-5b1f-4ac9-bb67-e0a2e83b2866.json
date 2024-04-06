@@ -1,0 +1,41 @@
+{
+  "name" : "Active learning",
+  "name_en" : null,
+  "id" : "000bd85e-5b1f-4ac9-bb67-e0a2e83b2866",
+  "description" : "Active learning is \"a method of learning in which students are actively or experientially involved in the learning process and where there are different levels of active learning, depending on student involvement.\"Bonwell & Eison (1991) states that \"students participate [in active learning] when they are doing something besides passively listening.\"",
+  "description_en" : "Active learning",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "415b5ba0-3d75-41ef-a28e-2d3faa27855d",
+    "name" : "Soft Skills",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 24, 14, 799863000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 25, 39, 709379000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
