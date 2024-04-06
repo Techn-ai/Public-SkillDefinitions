@@ -1,0 +1,34 @@
+{
+  "name" : "Financial modeling",
+  "name_en" : null,
+  "id" : "e6fe1cb3-f340-4f29-917b-50887ca9ea07",
+  "description" : "Financial modeling is the task of building an abstract representation of a real world financial situation. This is a mathematical model designed to represent the performance of a financial asset or portfolio of a business, project, or any other investment",
+  "description_en" : "Financial modeling",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 41, 1, 208549000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 41, 1, 208543000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
