@@ -1,0 +1,37 @@
+{
+  "name" : "Meeting facilitation",
+  "name_en" : null,
+  "id" : "83ad07a3-67e7-4f46-a4a0-a540ca9fd2ea",
+  "description" : "Meeting Facilitation is the conscious act of guiding the meeting process so that it stays on course, to make sure everyone participates, and to reach the agreed-upon meeting goals.",
+  "description_en" : "Meeting facilitation",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://hr.mit.edu/learning-topics/meetings/articles/basics#:~:text=Meeting%20Facilitation%20is%20the%20conscious,the%20agreed%2Dupon%20meeting%20goals.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 32, 31, 263050000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 32, 31, 263047000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
