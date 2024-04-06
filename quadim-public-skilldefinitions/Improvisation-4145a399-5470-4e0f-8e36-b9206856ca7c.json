@@ -1,0 +1,34 @@
+{
+  "name" : "Improvisation",
+  "name_en" : null,
+  "id" : "4145a399-5470-4e0f-8e36-b9206856ca7c",
+  "description" : "Improvisation, often shortened to improv, is the activity of making or doing something not planned beforehand, using whatever can be found.",
+  "description_en" : "Improvisation",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 29, 33, 209554000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 29, 33, 209552000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
