@@ -1,0 +1,34 @@
+{
+  "name" : "Linkedin Campaign Manager",
+  "name_en" : null,
+  "id" : "0b1043be-d523-42e0-8cca-afbccbc793cd",
+  "description" : "Campaign Manager is LinkedIn's ad management tool that empowers anyone to create, launch, and evaluate the performance of their LinkedIn ad campaigns. Our self-service, online tool guides advertisers to launch campaigns in 23 languages and reach the world's largest professional network.",
+  "description_en" : "Linkedin Campaign Manager",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "skillOwnerUsername" : "Sirianna Sevilhaug",
+  "editedBy" : "98ba3f93-fd4a-4459-99fd-c6896fd4383c",
+  "editedByUsername" : "Sirianna Sevilhaug",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 3, 27, 8, 20, 44, 882453000 ],
+  "lastEdited" : [ 2024, 3, 27, 8, 20, 44, 882449000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
