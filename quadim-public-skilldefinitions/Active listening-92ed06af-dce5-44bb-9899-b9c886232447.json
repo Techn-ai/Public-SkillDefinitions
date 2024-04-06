@@ -1,0 +1,42 @@
+{
+  "name" : "Active listening",
+  "name_en" : null,
+  "id" : "92ed06af-dce5-44bb-9899-b9c886232447",
+  "description" : "Active listening is the practice of preparing to listen, observing what verbal and non-verbal messages are being sent, and then providing appropriate feedback for the sake of showing attentiveness to the message being presented. Active listening is listening on purpose.",
+  "description_en" : "Active listening",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Active_listening",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "415b5ba0-3d75-41ef-a28e-2d3faa27855d",
+    "name" : "Soft Skills",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 27, 20, 644728000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 27, 20, 644724000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
