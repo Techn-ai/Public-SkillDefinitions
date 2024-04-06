@@ -1,0 +1,39 @@
+{
+  "name" : "Financial ethics",
+  "name_en" : null,
+  "id" : "40e8b1b4-eb15-4b77-a300-99d8d8250d3f",
+  "description" : "Ethics in finance is a prevailing topic of discussion and observation within the industry. It is the set of standards that professionals must hold themselves to as they conduct their business in order to maintain a sense of trust and confidence with their clients, colleagues, and the public.",
+  "description_en" : "Financial ethics",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://study.com/academy/lesson/how-ethics-play-a-role-in-financial-regulations.html#:~:text=Lesson%20Summary-,What%20is%20Ethics%20in%20Finance%3F,%2C%20colleagues%2C%20and%20the%20public.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 36, 53, 559560000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 36, 53, 559556000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
