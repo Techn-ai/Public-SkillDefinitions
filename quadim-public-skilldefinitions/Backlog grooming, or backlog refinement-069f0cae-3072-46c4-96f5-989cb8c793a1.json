@@ -1,0 +1,43 @@
+{
+  "name" : "Backlog grooming, or backlog refinement",
+  "name_en" : null,
+  "id" : "069f0cae-3072-46c4-96f5-989cb8c793a1",
+  "description" : "Backlog grooming, or backlog refinement, is the regular updation of the product backlog. The key goal is to keep the backlog current and prep backlog items for future sprints",
+  "description_en" : "Backlog grooming, or backlog refinement",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.atlassian.com/agile/project-management/backlog-grooming#:~:text=Backlog%20grooming%2C%20or%20backlog%20refinement,backlog%20items%20for%20future%20sprints.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 46, 50, 731346000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 46, 50, 731343000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
