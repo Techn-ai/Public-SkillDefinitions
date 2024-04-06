@@ -1,0 +1,38 @@
+{
+  "name" : "Business valuation",
+  "name_en" : null,
+  "id" : "d5989d89-13f1-42c0-9f16-cc1a09bb8892",
+  "description" : "A business valuation, also known as a company valuation, is the process of determining the economic value of a business. During the valuation process, all areas of a business are analyzed to determine its worth and the worth of its departments or units.",
+  "description_en" : "Business valuation",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 58, 30, 347916000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 58, 30, 347912000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
