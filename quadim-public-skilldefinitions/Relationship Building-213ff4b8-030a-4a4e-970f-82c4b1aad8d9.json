@@ -1,0 +1,36 @@
+{
+  "name" : "Relationship Building",
+  "name_en" : null,
+  "id" : "213ff4b8-030a-4a4e-970f-82c4b1aad8d9",
+  "description" : "Relationship Building is working to build or maintain ethical relationships or networks or contacts with people who are, or may be, potentially helpful in achieving work-related goals and establishing advantages. This could be people inside or outside the organization, stakeholders, clients, colleagues or others.",
+  "description_en" : "Relationship Building",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 0, 33, 785914000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 0, 33, 785910000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
