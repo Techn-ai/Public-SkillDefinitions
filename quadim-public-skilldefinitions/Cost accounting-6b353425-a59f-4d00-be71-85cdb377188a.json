@@ -1,0 +1,36 @@
+{
+  "name" : "Cost accounting",
+  "name_en" : null,
+  "id" : "6b353425-a59f-4d00-be71-85cdb377188a",
+  "description" : "Cost accounting is defined by the Institute of Management Accountants as \"a systematic set of procedures for recording and reporting measurements of the cost of manufacturing goods and performing services in the aggregate and in detail.",
+  "description_en" : "Cost accounting",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 5, 23, 78030000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 5, 23, 78027000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
