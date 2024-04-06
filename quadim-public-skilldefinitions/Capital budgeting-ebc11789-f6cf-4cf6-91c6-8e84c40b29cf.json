@@ -1,0 +1,41 @@
+{
+  "name" : "Capital budgeting",
+  "name_en" : null,
+  "id" : "ebc11789-f6cf-4cf6-91c6-8e84c40b29cf",
+  "description" : "Capital budgeting is a process that businesses use to evaluate potential major projects or investments. Building a new plant or taking a large stake in an outside venture are examples of initiatives that typically require capital budgeting before they are approved or rejected by management.",
+  "description_en" : "Capital budgeting",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.investopedia.com/terms/c/capitalbudgeting.asp#:~:text=Error%20Code%3A%20100013)-,What%20Is%20Capital%20Budgeting%3F,approved%20or%20rejected%20by%20management.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 59, 27, 557852000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 59, 27, 557849000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
