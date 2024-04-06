@@ -1,0 +1,34 @@
+{
+  "name" : "User story creation",
+  "name_en" : null,
+  "id" : "2435218e-3620-4c46-80fa-2bf5aaf58348",
+  "description" : "A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.",
+  "description_en" : "User story creation",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 45, 46, 458846000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 45, 46, 458843000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
