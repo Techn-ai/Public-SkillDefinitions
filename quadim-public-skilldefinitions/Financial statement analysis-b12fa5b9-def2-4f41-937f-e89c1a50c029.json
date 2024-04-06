@@ -1,0 +1,34 @@
+{
+  "name" : "Financial statement analysis",
+  "name_en" : null,
+  "id" : "b12fa5b9-def2-4f41-937f-e89c1a50c029",
+  "description" : "Financial statement analysis is the process of reviewing and analyzing a company's financial statements to make better economic decisions to earn income in future. These statements include the income statement, balance sheet, statement of cash flows, notes to accounts and a statement of changes in equity",
+  "description_en" : "Financial statement analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 46, 44, 465847000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 46, 44, 465844000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
