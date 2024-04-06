@@ -1,0 +1,36 @@
+{
+  "name" : "Financial planning",
+  "name_en" : null,
+  "id" : "5c8d7d06-d85d-404a-bd57-280d7b5e1fbb",
+  "description" : "Financial planning is the process of assessing the current financial situation of a business to identify future financial goals and how to achieve them. The financial plan itself is a document that serves as a roadmap for a company's financial growth.",
+  "description_en" : "Financial planning",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 42, 7, 557802000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 42, 7, 557799000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
