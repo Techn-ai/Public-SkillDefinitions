@@ -1,0 +1,34 @@
+{
+  "name" : "Prototyping",
+  "name_en" : null,
+  "id" : "f5e7652d-cc11-4446-b175-b5618867194f",
+  "description" : "Prototyping is the process of designing a mock-up of a product or process ahead of creating a final design.",
+  "description_en" : "Prototyping",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 12, 35, 46, 659747000 ],
+  "lastEdited" : [ 2024, 4, 6, 12, 35, 46, 659744000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
