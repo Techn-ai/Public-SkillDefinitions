@@ -1,0 +1,36 @@
+{
+  "name" : "Financial analysis",
+  "name_en" : null,
+  "id" : "a8dce27a-d5a8-4e44-bbe2-cdaa110042c1",
+  "description" : "Financial analysis refers to an assessment of the viability, stability, and profitability of a business, sub-business or project. It is performed by professionals who prepare reports using ratios and other techniques, that make use of information taken from financial statements and other reports.",
+  "description_en" : "Financial analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 35, 22, 566216000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 35, 22, 566213000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
