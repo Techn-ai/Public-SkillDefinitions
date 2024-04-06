@@ -1,0 +1,36 @@
+{
+  "name" : "Financial software and tools",
+  "name_en" : null,
+  "id" : "85e0ceff-2645-44a6-94d9-6bb201c1d857",
+  "description" : "A broad category of software that deals with accounting and monetary transactions. Financial software includes payroll, accounts receivables and payables, general ledger, spreadsheets, financial planning, check writing and portfolio management.",
+  "description_en" : "Financial software and tools",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 45, 53, 866532000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 45, 53, 866529000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
