@@ -1,0 +1,34 @@
+{
+  "name" : "Working capital management",
+  "name_en" : null,
+  "id" : "d27e141e-7eb7-4ec6-b05d-887b431e7a89",
+  "description" : "Working capital management is a business strategy designed to ensure that a company operates efficiently by monitoring and using its current assets and liabilities to their most effective use.",
+  "description_en" : "Working capital management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 49, 4, 223260000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 49, 4, 223257000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
