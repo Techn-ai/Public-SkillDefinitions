@@ -1,0 +1,34 @@
+{
+  "name" : "Mobile development frameworks",
+  "name_en" : null,
+  "id" : "3ac1f75d-6671-4d4f-bb99-165d941d00d5",
+  "description" : "It acts as a layout to support mobile app development. There are various advantages of Mobile App Development frameworks such as cost-effectiveness, efficiency, and many more. Moreover, mobile application frameworks can be classified majorly into 3 categories: Native Apps, Web Apps & Hybrid Apps.",
+  "description_en" : "Mobile development frameworks",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 52, 6, 668478000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 52, 6, 668473000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
