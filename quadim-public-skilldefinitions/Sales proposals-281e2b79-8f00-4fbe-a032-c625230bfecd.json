@@ -1,0 +1,39 @@
+{
+  "name" : "Sales proposals",
+  "name_en" : null,
+  "id" : "281e2b79-8f00-4fbe-a032-c625230bfecd",
+  "description" : "A sales proposal is a paper or digital document used to pitch services or products to prospective clients and current customers. Different companies and professionals have different names for them, so you might also hear them called “business proposals” or “product proposals”—they're all the same thing.",
+  "description_en" : "Sales proposals",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.zendesk.com/blog/sales-proposal/#:~:text=A%20sales%20proposal%20is%20a,re%20all%20the%20same%20thing.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 32, 21, 423247000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 32, 21, 423241000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
