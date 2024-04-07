@@ -1,0 +1,36 @@
+{
+  "name" : "Surveying and Mapping",
+  "name_en" : null,
+  "id" : "59791ea8-af36-486b-b91c-ac66f1f0c860",
+  "description" : "Surveying and Mapping is a discipline which integrates acquisition, modeling, analysis, andmanagement of geo-spatial reference data. Based on the scientific framework of geodesy, ituses terrestrial, marine, airborne, satellite-based sensors, and measurement systems andtechnologies to acquire spatial and other data.",
+  "description_en" : "Surveying and Mapping",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 37, 41, 788248000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 37, 41, 788242000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
