@@ -1,0 +1,36 @@
+{
+  "name" : "Structural design",
+  "name_en" : null,
+  "id" : "55ed0187-92a0-447a-9f50-decd02d2a69e",
+  "description" : "Structural design or structural building design in civil engineering is a specialised area that includes methods and tools that help determine the safety and economical specifications of a building structure design. This ensures the planned structure is strong enough to hold the intended load.",
+  "description_en" : "Structural design",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 26, 45, 40581000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 26, 45, 40575000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
