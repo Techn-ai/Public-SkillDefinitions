@@ -1,0 +1,37 @@
+{
+  "name" : "Product demonstration",
+  "name_en" : null,
+  "id" : "a20aa7ac-c219-49af-b74b-591b968ee20b",
+  "description" : "A product demo is a demonstration of how a product or software works. It's used by salespeople to introduce a product, its functionalities, and its value to potential customers. The product demo is different from a technical demo. A product demo is used to provide an overview of the product and the value it provides",
+  "description_en" : "Product demonstration",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://blog.hubspot.com/sales/product-demo#:~:text=A%20product%20demo%20is%20a,and%20the%20value%20it%20provides.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 41, 51, 294744000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 41, 51, 294738000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
