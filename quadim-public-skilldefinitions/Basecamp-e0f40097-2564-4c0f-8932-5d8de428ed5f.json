@@ -1,0 +1,34 @@
+{
+  "name" : "Basecamp",
+  "name_en" : null,
+  "id" : "e0f40097-2564-4c0f-8932-5d8de428ed5f",
+  "description" : "Basecamp's tool is a customizable team collaboration and project management platform that helps companies improve communication, improve process speed, and successfully deliver projects.",
+  "description_en" : "Basecamp",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 18, 38, 945416000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 18, 38, 945410000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
