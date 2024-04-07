@@ -1,0 +1,37 @@
+{
+  "name" : "Consultative selling",
+  "name_en" : null,
+  "id" : "cd677484-2d40-48d8-892d-8ec4c6615eb4",
+  "description" : "Consultative selling is a philosophy rooted in building a relationship between you and your prospects, by asking questions, listening to their needs and personalizing your product or service to them.",
+  "description_en" : "Consultative selling",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.pipedrive.com/en/blog/consultative-selling#:~:text=Consultative%20selling%20is%20a%20philosophy,product%20or%20service%20to%20them.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 26, 16, 825025000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 26, 16, 825020000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
