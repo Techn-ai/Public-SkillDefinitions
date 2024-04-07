@@ -1,0 +1,34 @@
+{
+  "name" : "Mobile app architecture",
+  "name_en" : null,
+  "id" : "24797783-7282-4575-b835-4232834fce9a",
+  "description" : "The mobile application architecture is made up of different layers that stack together to form the whole app ecosystem. Dividing the architecture into layers offers numerous benefits including reusability, scalability, flexibility, and maintenance.",
+  "description_en" : "Mobile app architecture",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 50, 58, 789659000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 50, 58, 789653000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
