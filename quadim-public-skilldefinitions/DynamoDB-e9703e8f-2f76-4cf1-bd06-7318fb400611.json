@@ -1,0 +1,37 @@
+{
+  "name" : "DynamoDB",
+  "name_en" : null,
+  "id" : "e9703e8f-2f76-4cf1-bd06-7318fb400611",
+  "description" : "DynamoDB is a key-value store database that uses a documented-oriented JSON data model. Data is indexed using a primary key composed of a partition key and a sort key. There is no set schema to data in the same table; each partition can be very different from others.",
+  "description_en" : "DynamoDB",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.scylladb.com/learn/dynamodb/introduction-to-dynamodb/#:~:text=As%20mentioned%20before%2C%20DynamoDB%20is,be%20very%20different%20from%20others.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 52, 56, 381069000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 52, 56, 381063000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
