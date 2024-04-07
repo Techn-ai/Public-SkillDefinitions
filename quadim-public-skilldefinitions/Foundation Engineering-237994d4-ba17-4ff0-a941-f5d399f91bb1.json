@@ -1,0 +1,40 @@
+{
+  "name" : "Foundation Engineering",
+  "name_en" : null,
+  "id" : "237994d4-ba17-4ff0-a941-f5d399f91bb1",
+  "description" : "It is the engineering field of study devoted to the design of those structures which support other structures, most typically buildings, bridges or transportation infrastructure. It is at the periphery of Civil, Structural and Geotechnical Engineering disciplines and has distinct focus on soil-structure interaction.\n\nIt is also called as ground sill, which transfers loads to the ground. It is generally broken into two categories.\n\nShallow foundation\nDeep foundation",
+  "description_en" : "Foundation Engineering",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 31, 26, 237855000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 31, 34, 741156000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
