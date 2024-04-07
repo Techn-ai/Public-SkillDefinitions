@@ -1,0 +1,40 @@
+{
+  "name" : "Knowledge management",
+  "name_en" : null,
+  "id" : "0ba43f44-ecb4-4963-827f-93db5bd94214",
+  "description" : "Knowledge management (KM) is the process of organizing, creating, using, and sharing collective knowledge within an organization. Successful knowledge management includes maintaining information in a place where it is easy to access, like a wiki or employee intranet.",
+  "description_en" : "Knowledge management",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 8, 0, 3, 241463000 ],
+  "lastEdited" : [ 2024, 4, 7, 8, 0, 3, 241457000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
