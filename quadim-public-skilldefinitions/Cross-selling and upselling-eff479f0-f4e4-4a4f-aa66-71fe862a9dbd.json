@@ -1,0 +1,36 @@
+{
+  "name" : "Cross-selling and upselling",
+  "name_en" : null,
+  "id" : "eff479f0-f4e4-4a4f-aa66-71fe862a9dbd",
+  "description" : "Cross-selling is the process of offering a customer products that are compatible with the ones they're purchasing. What's the difference between cross-selling and upselling? Upselling is the practice of selling a more expensive product to a customer, while cross-selling is offering supplementary products.",
+  "description_en" : "Cross-selling and upselling",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 27, 5, 819809000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 27, 5, 819803000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
