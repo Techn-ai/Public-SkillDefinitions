@@ -1,0 +1,37 @@
+{
+  "name" : "Delegation",
+  "name_en" : null,
+  "id" : "ffdd1b6c-18c6-4dcb-a272-b68ed463ff19",
+  "description" : "Delegation is the process of distributing and entrusting work to another person. In management or leadership within an organisation, it involves a manager aiming to efficiently distribute work, decision-making and responsibility to subordinate workers in an organization.",
+  "description_en" : "Delegation",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Delegation#:~:text=Delegation%20is%20the%20process%20of,subordinate%20workers%20in%20an%20organization.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 19, 21, 551375000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 19, 21, 551369000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
