@@ -1,0 +1,38 @@
+{
+  "name" : "Geotechnical Engineering",
+  "name_en" : null,
+  "id" : "78dc8621-e953-4d56-94af-f8e5a2503c89",
+  "description" : "Geotechnical engineering is the study of the behaviour of soils under the influence of loading forces and soil-water interactions. This knowledge is applied to the design of foundations, retaining walls, earth dams, clay liners, and geosynthetics for waste containment.",
+  "description_en" : "Geotechnical Engineering",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 32, 29, 479050000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 32, 29, 479044000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
