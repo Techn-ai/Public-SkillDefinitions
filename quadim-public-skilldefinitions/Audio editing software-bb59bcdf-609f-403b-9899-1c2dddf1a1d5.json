@@ -1,0 +1,34 @@
+{
+  "name" : "Audio editing software",
+  "name_en" : null,
+  "id" : "bb59bcdf-609f-403b-9899-1c2dddf1a1d5",
+  "description" : "Audio editing software is any software or computer program which allows editing and generating audio data. Audio editing software can be implemented completely or partly as a library, as a computer application, as a web application, or as a loadable kernel module. Wave editors are digital audio editors.",
+  "description_en" : "Audio editing software",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 50, 45, 415697000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 50, 45, 415692000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
