@@ -1,0 +1,39 @@
+{
+  "name" : "Sales presentation skills",
+  "name_en" : null,
+  "id" : "776929b2-e216-4967-9cc1-d93fb41b326d",
+  "description" : "Sales presentation and negotiation skills is the capability to communicate effectively and persuade potential customers to purchase the business's products or services.",
+  "description_en" : "Sales presentation skills",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://acorn.works/capability-directory/sales-presentation-and-negotiation-skills#:~:text=Sales%20presentation%20and%20negotiation%20skills%20is%20the%20capability%20to%20communicate,the%20business's%20products%20or%20services.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 31, 25, 191130000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 31, 25, 191124000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
