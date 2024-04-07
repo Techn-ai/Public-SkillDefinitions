@@ -1,0 +1,41 @@
+{
+  "name" : "Talent management",
+  "name_en" : null,
+  "id" : "95f05d33-c304-44c0-986b-bac31cd0d2ed",
+  "description" : "Talent management is how employers recruit and develop a workforce that is as productive as possible and likely to stay with their organization long term. When implemented strategically, this process can help improve the overall performance of the business and ensure that it remains competitive.",
+  "description_en" : "Talent management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.adp.com/resources/articles-and-insights/articles/w/what-is-talent-management.aspx#:~:text=Talent%20management%20is%20how%20employers,ensure%20that%20it%20remains%20competitive.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 20, 54, 287291000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 20, 54, 287285000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
