@@ -1,0 +1,37 @@
+{
+  "name" : "Referral sales",
+  "name_en" : null,
+  "id" : "08655c48-dc03-4d54-896c-8558774aa96f",
+  "description" : "Referral sales are about getting your existing customers to give your sales team the contact information of their peers, usually with the understanding that you use the existing customer as a referral when you contact the new lead.",
+  "description_en" : "Referral sales",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://blog.close.com/how-to-do-referral-sales/#:~:text=do%20it%20right.-,What%20Are%20Referral%20Sales%3F,you%20contact%20the%20new%20lead.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 34, 5, 607550000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 34, 5, 607544000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
