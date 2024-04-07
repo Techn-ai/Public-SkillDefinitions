@@ -1,0 +1,39 @@
+{
+  "name" : "Crisis Management",
+  "name_en" : null,
+  "id" : "3106aff2-9d3f-4d5b-bbc7-3c407e8dddb3",
+  "description" : "Crisis management is the application of strategies designed to help an organization deal with a sudden and significant negative event, while maintaining business continuity. Crisis management involves implementing policies and procedures to defend, mitigate and prevent a crisis.",
+  "description_en" : "Crisis Management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.techtarget.com/whatis/definition/crisis-management#:~:text=Crisis%20management%20is%20the%20application,mitigate%20and%20prevent%20a%20crisis.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 58, 44, 724572000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 58, 44, 724567000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
