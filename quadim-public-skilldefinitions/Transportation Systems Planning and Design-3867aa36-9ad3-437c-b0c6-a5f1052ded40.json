@@ -1,0 +1,38 @@
+{
+  "name" : "Transportation Systems Planning and Design",
+  "name_en" : null,
+  "id" : "3867aa36-9ad3-437c-b0c6-a5f1052ded40",
+  "description" : "Transportation planning is the process of defining future policies, goals, investments, and spatial planning designs to prepare for future needs to move people and goods to destinations.",
+  "description_en" : "Transportation Systems Planning and Design",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 39, 8, 109904000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 39, 8, 109898000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
