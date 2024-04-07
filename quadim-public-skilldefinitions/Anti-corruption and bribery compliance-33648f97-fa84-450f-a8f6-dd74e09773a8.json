@@ -1,0 +1,36 @@
+{
+  "name" : "Anti-corruption and bribery compliance",
+  "name_en" : null,
+  "id" : "33648f97-fa84-450f-a8f6-dd74e09773a8",
+  "description" : "That makes anti-bribery and corruption equally essential parts of your compliance programs. Anti-bribery guidelines prevent people and organizations from attempting to bribe others, while anti-corruption guidelines prevent public officials from accepting those bribes.",
+  "description_en" : "Anti-corruption and bribery compliance",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 52, 58, 756613000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 52, 58, 756595000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
