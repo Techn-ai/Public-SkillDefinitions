@@ -1,0 +1,34 @@
+{
+  "name" : "Building Information Modeling (BIM)",
+  "name_en" : null,
+  "id" : "efa498ac-b525-4aef-a0fd-dd020619841b",
+  "description" : "BIM is an acronym for Building Information Modeling or Building Information Management. It is a highly collaborative process that allows architects, engineers, real estate developers, contractors, manufacturers, and other construction professionals to plan, design, and construct a structure or building within one 3D model.",
+  "description_en" : "Building Information Modeling (BIM)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 26, 0, 216629000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 26, 0, 216624000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
