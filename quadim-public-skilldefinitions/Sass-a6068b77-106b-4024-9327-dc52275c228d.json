@@ -1,0 +1,37 @@
+{
+  "name" : "Sass",
+  "name_en" : null,
+  "id" : "a6068b77-106b-4024-9327-dc52275c228d",
+  "description" : "Sass is a preprocessor language that's interpreted into CSS. A preprocessor language takes input data and converts it to an output that's used as input by another program. This means when you run Sass code, you're actually converting your code to CSS. That CSS code output is then used directly by a browser.",
+  "description_en" : "Sass",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.codecademy.com/resources/blog/what-is-sass/#:~:text=Sass%20is%20a%20preprocessor%20language,used%20directly%20by%20a%20browser.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 10, 17, 675447000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 10, 17, 675440000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
