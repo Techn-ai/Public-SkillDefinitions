@@ -1,0 +1,37 @@
+{
+  "name" : "Sales reporting and analysis",
+  "name_en" : null,
+  "id" : "5d52d62d-891a-44fc-8568-73f42e9349a0",
+  "description" : "A sales report, also known as a sales analysis report, is a comprehensive record of all the sales activity taking place within a company over a certain period of time. Essentially, it provides sales managers with an overview of all the sales processes and operations carried out by the business.",
+  "description_en" : "Sales reporting and analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://nethunt.com/blog/what-is-sales-reporting/#:~:text=A%20sales%20report%2C%20also%20known,carried%20out%20by%20the%20business.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 40, 49, 893005000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 40, 49, 892999000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
