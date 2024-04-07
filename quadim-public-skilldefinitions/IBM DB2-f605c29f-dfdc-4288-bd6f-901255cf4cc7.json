@@ -1,0 +1,34 @@
+{
+  "name" : "IBM DB2",
+  "name_en" : null,
+  "id" : "f605c29f-dfdc-4288-bd6f-901255cf4cc7",
+  "description" : "Db2 is a family of data management products developed by IBM, including the relational database management system (RDBMS) first introduced in 1983 on its Multiple Virtual Storage (MVS) mainframe.",
+  "description_en" : "IBM DB2",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 53, 39, 24293000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 53, 39, 24288000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
