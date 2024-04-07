@@ -1,0 +1,34 @@
+{
+  "name" : "Cognitive Computing",
+  "name_en" : null,
+  "id" : "ccc9217c-9c31-4b0b-b5bc-739f9dc157a9",
+  "description" : "Cognitive computing is an attempt to have computers mimic the way the human brain works. To accomplish this, cognitive computing uses artificial intelligence (AI) and other underlying technologies, including the following: Expert systems. Neural networks. Machine learning.",
+  "description_en" : "Cognitive Computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 24, 35, 2132000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 24, 35, 2126000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
