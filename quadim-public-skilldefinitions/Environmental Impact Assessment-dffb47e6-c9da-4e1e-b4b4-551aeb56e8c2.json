@@ -1,0 +1,34 @@
+{
+  "name" : "Environmental Impact Assessment",
+  "name_en" : null,
+  "id" : "dffb47e6-c9da-4e1e-b4b4-551aeb56e8c2",
+  "description" : "Environmental Impact Assessment (EIA) is a tool used to assess the significant effects of a project or development proposal on the environment.\n\nEIAs make sure that project decision makers think about the likely effects on the environment at the earliest possible time and aim to avoid, reduce or offset those effects. This ensures that proposals are understood properly before decisions are made.",
+  "description_en" : "Environmental Impact Assessment",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 30, 14, 880060000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 30, 14, 880054000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
