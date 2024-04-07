@@ -1,0 +1,39 @@
+{
+  "name" : "Hydraulic and Hydrological Analysis",
+  "name_en" : null,
+  "id" : "53ce354a-8ca5-4e58-8c27-6189fbc41d5c",
+  "description" : "Hydrologic analyses are performed to quantify the volumetric flow rate of water draining from a watershed (i.e., drainage area) over time. The amount of water that flows from a watershed depends on the characteristics of the watershed (e.g., size, land cover, antecedent moisture, and steepness) and the presence of water (e.g., the intensity and duration of a precipitation event, or regulation from a dam). Hydraulic analyses are performed to determine the depth of flow, flow velocity, and forces from flowing water on a surface or at hydraulic structures. These studies are necessary components in the hydraulic design and analysis of structures.",
+  "description_en" : "Hydraulic and Hydrological Analysis",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://constructionengineer.co/hydraulic-hydrologic-analysis/",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 33, 45, 236774000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 33, 45, 236768000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
