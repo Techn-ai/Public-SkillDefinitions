@@ -1,0 +1,37 @@
+{
+  "name" : "Elixir",
+  "name_en" : null,
+  "id" : "563db143-8b89-41cf-90c8-6210c3318a47",
+  "description" : "Elixir is a dynamic, functional language for building scalable and maintainable applications.\nElixir runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems. These capabilities and Elixir tooling allow developers to be productive in several domains, such as web development, embedded software, machine learning, data pipelines, and multimedia processing, across a wide range of industries.",
+  "description_en" : "Elixir",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://elixir-lang.org/",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 1, 9, 713787000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 1, 9, 713781000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
