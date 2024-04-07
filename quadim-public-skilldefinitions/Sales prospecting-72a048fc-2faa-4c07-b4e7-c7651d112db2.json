@@ -1,0 +1,37 @@
+{
+  "name" : "Sales prospecting",
+  "name_en" : null,
+  "id" : "72a048fc-2faa-4c07-b4e7-c7651d112db2",
+  "description" : "The process of identifying and contacting potential customers in order to generate new business. Prospecting is the way sales reps find and engage with prospects (leads that are qualified) and set the sales process in motion.",
+  "description_en" : "Sales prospecting",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.zendesk.com/blog/sales-prospecting/#:~:text=Tools-,What%20is%20prospecting%3F,the%20sales%20process%20in%20motion.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 45, 14, 617747000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 45, 14, 617735000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
