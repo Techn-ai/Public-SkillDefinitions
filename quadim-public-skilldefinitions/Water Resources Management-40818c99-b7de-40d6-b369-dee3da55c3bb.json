@@ -1,0 +1,38 @@
+{
+  "name" : "Water Resources Management",
+  "name_en" : null,
+  "id" : "40818c99-b7de-40d6-b369-dee3da55c3bb",
+  "description" : "Water management is the control and movement of water resources to minimize damage to life and property and to maximize efficient beneficial use. Good water management of dams and levees reduces the risk of harm due to flooding.",
+  "description_en" : "Water Resources Management",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 39, 46, 936241000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 39, 46, 936235000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
