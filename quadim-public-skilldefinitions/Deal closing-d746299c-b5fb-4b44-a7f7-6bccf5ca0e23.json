@@ -1,0 +1,39 @@
+{
+  "name" : "Deal closing",
+  "name_en" : null,
+  "id" : "d746299c-b5fb-4b44-a7f7-6bccf5ca0e23",
+  "description" : "Closing a deal is a term sales professionals use to describe a situation where they bring negotiations to an end by reaching an agreement with their prospect. It's the very moment when a prospect decides to make the purchase.",
+  "description_en" : "Deal closing",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://salesman.com/close-the-deal/#:~:text=Closing%20a%20deal%20is%20a,decides%20to%20make%20the%20purchase.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 22, 17, 636064000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 22, 17, 636058000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
