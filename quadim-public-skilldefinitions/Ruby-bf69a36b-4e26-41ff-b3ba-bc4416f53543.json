@@ -1,0 +1,34 @@
+{
+  "name" : "Ruby",
+  "name_en" : null,
+  "id" : "bf69a36b-4e26-41ff-b3ba-bc4416f53543",
+  "description" : "Ruby is an open-source object-oriented scripting language invented in the mid-90s by Yukihiro Matsumoto. Unlike languages such as C and C++, a scripting language doesn't talk directly to hardware. It's written to a text file and then parsed by an interpreter and turned into code.",
+  "description_en" : "Ruby",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 7, 53, 804020000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 7, 53, 804014000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
