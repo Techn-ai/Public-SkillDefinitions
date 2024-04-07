@@ -1,0 +1,34 @@
+{
+  "name" : "Compliance investigation",
+  "name_en" : null,
+  "id" : "92f5cf65-5797-4270-9c89-6fcc683329ca",
+  "description" : "A compliance investigation occurs when an organization suspects that someone has violated an applicable law or regulation. It might involve potential fraud, waste, or abuse, or it might relate to regulations such as environmental quality or workplace standards.",
+  "description_en" : "Compliance investigation",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 54, 23, 933370000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 54, 23, 933364000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
