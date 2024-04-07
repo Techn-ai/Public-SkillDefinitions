@@ -1,0 +1,37 @@
+{
+  "name" : "Objective-C",
+  "name_en" : null,
+  "id" : "32b139dd-cdd7-4e42-ba88-a84c02ba1e95",
+  "description" : "Objective-C is an object-oriented programming language developers use to create applications for Apple's macOS, iOS, and iPad operating systems. Among computer programming languages, Objective-C is easy to understand, and is known for its dynamic binding and reflection capabilities.",
+  "description_en" : "Objective-C",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.computerscience.org/resources/computer-programming-languages/objective-c/#:~:text=Objective%2DC%20is%20an%20object,dynamic%20binding%20and%20reflection%20capabilities.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 8, 34, 208278000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 8, 34, 208271000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
