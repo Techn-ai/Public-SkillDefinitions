@@ -1,0 +1,34 @@
+{
+  "name" : "Prospect needs analysis",
+  "name_en" : null,
+  "id" : "40231a6a-745e-4d33-9a79-302eb0e6e94c",
+  "description" : "A needs assessment, also referred to as a needs analysis, is the process of determining what exactly a sales prospect needs to achieve their business goals and objectives.",
+  "description_en" : "Prospect needs analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 44, 25, 190156000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 44, 25, 190150000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
