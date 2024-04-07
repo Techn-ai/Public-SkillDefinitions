@@ -1,0 +1,34 @@
+{
+  "name" : "Firmware development",
+  "name_en" : null,
+  "id" : "fb885900-34a7-4696-af36-1f73b3ffcb87",
+  "description" : "Firmware development is the process of programming and maintaining the firmware embedded into IoT devices (hardware). Firmware is designed to access and control the device resources (input/output interfaces, memory, timers, controller, etc.).",
+  "description_en" : "Firmware development",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 48, 25, 372570000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 48, 25, 372565000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
