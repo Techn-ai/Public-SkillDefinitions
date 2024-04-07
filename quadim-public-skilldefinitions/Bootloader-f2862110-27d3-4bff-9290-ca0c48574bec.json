@@ -1,0 +1,34 @@
+{
+  "name" : "Bootloader",
+  "name_en" : null,
+  "id" : "f2862110-27d3-4bff-9290-ca0c48574bec",
+  "description" : "Bootloader is a computer program that ensures an operating system's data is loaded into the main memory during the start-up of a device. Modern automotive cybersecurity through secure communication, strong authentication and flexible firewalls. Embedded Software Implementation.",
+  "description_en" : "Bootloader",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 46, 36, 226077000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 46, 36, 226070000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
