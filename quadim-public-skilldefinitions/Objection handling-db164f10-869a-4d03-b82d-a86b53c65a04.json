@@ -1,0 +1,39 @@
+{
+  "name" : "Objection handling",
+  "name_en" : null,
+  "id" : "db164f10-869a-4d03-b82d-a86b53c65a04",
+  "description" : "Objection handling is when a prospect presents a concern about the product/service a salesperson is selling, and the salesperson responds in a way that alleviates those concerns and allows the deal to move forward. Objections are generally around price, product fit, or competitors.",
+  "description_en" : "Objection handling",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://blog.hubspot.com/sales/handling-common-sales-objections#:~:text=What%20is%20objection%20handling%3F,%2C%20product%20fit%2C%20or%20competitors.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 28, 2, 737693000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 28, 2, 737688000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
