@@ -1,0 +1,34 @@
+{
+  "name" : "Deal management",
+  "name_en" : null,
+  "id" : "f3732037-93b5-4ed8-a87b-6cdf1459ea1b",
+  "description" : "Deal management is the sales operations process of overseeing and coordinating all aspects of a deal, from start to finish. This includes identifying and pursuing opportunities, negotiating terms, and ensuring that all parties involved are satisfied with the outcome.",
+  "description_en" : "Deal management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 25, 30, 384618000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 25, 30, 384613000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
