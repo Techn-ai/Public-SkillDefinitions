@@ -1,0 +1,36 @@
+{
+  "name" : "Technical documentation",
+  "name_en" : null,
+  "id" : "68e3c2f1-832a-468f-bec2-528619f2d81b",
+  "description" : "Technical documentation is documentation that describes how a product or service works. It is more developer-focused focused and created to describe (in technical language) the use, functionality, or architecture of a product, system, or service",
+  "description_en" : "Technical documentation",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 12, 42, 250929000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 12, 42, 250923000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
