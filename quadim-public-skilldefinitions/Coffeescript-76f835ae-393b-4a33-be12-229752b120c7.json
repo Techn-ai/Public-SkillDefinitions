@@ -1,0 +1,39 @@
+{
+  "name" : "Coffeescript",
+  "name_en" : null,
+  "id" : "76f835ae-393b-4a33-be12-229752b120c7",
+  "description" : "CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.\n\nThe golden rule of CoffeeScript is: “It’s just JavaScript.” The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime.",
+  "description_en" : "Coffeescript",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "5bd21d2b-8699-4aca-bdb0-3dc443211cee",
+    "name" : "JavaScript",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 0, 21, 644192000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 0, 21, 644186000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
