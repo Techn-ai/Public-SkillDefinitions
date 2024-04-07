@@ -1,0 +1,34 @@
+{
+  "name" : "Storytelling",
+  "name_en" : null,
+  "id" : "7e75982b-3e50-4965-9ab5-27d5a3b3bcb6",
+  "description" : "Storytelling is a process used by product marketers to communicate a message to their audience, via the combination of fact and narrative. While many orgs use stories based on fact, others combine fiction and improvisation to drive home the key components of their brand's core message.",
+  "description_en" : "Storytelling",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 35, 12, 110874000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 35, 12, 110867000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
