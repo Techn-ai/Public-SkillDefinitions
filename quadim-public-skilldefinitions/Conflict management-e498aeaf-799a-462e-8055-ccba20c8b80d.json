@@ -1,0 +1,41 @@
+{
+  "name" : "Conflict management",
+  "name_en" : null,
+  "id" : "e498aeaf-799a-462e-8055-ccba20c8b80d",
+  "description" : "Conflict Management is the use of processes, tools, and skills to find creative and respectful ways to manage disagreements and disputes. It includes the ability to resolve conflict collaboratively through effective communication skills, such as active listening and assertive speaking.",
+  "description_en" : "Conflict management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.bidenschool.udel.edu/ipa/serving-delaware/crp/conflict-management#:~:text=Conflict%20Management%20is%20the%20use,active%20listening%20and%20assertive%20speaking.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 6, 18, 21, 394882000 ],
+  "lastEdited" : [ 2024, 4, 7, 6, 18, 21, 394876000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
