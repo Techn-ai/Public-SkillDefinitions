@@ -1,0 +1,38 @@
+{
+  "name" : "Coastal Engineering",
+  "name_en" : null,
+  "id" : "7b7bfeb5-609c-4d50-8a5d-b0347deb62e9",
+  "description" : "Coastal engineering involves the practice of civil engineering, as well as the sciences of oceanography and coastal geology, to control erosion; place, construct, and monitor coastal structures; nourish beaches; and develop and maintain ports, harbors, and related navigation facilities.",
+  "description_en" : "Coastal Engineering",
+  "coversElement" : {
+    "classification" : "Physical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 27, 21, 797570000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 27, 21, 797565000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
