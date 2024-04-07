@@ -1,0 +1,37 @@
+{
+  "name" : "Adobe Illustrator",
+  "name_en" : null,
+  "id" : "36d7a769-1cc8-4a1b-b227-bad368bd262c",
+  "description" : "Adobe Illustrator is a software application for creating drawings, illustrations, and artwork using a Windows or MacOS computer. Illustrator was initially released in 1987 and it continues to be updated at regular intervals, and is now included as part of the Adobe Creative Cloud. Illustrator is widely used by graphic designers, web designers, visual artists, and professional illustrators throughout the world to create high quality artwork. Illustrator includes many sophisticated drawing tools that can reduce the time need to create illustrations.",
+  "description_en" : "Adobe Illustrator",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.agitraining.com/adobe/illustrator/classes/what-is-adobe-illustrator",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 50, 11, 989484000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 50, 11, 989479000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
