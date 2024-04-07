@@ -1,0 +1,34 @@
+{
+  "name" : "Risk Assessment",
+  "name_en" : null,
+  "id" : "eb446a60-2d43-4302-b511-f1e6ab911728",
+  "description" : "Risk assessment determines possible mishaps, their likelihood and consequences, and the tolerances for such events. The results of this process may be expressed in a quantitative or qualitative fashion.",
+  "description_en" : "Risk Assessment",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 7, 7, 34, 59, 923476000 ],
+  "lastEdited" : [ 2024, 4, 7, 7, 34, 59, 923470000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
