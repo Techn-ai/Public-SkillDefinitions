@@ -1,0 +1,34 @@
+{
+  "name" : "F#",
+  "name_en" : null,
+  "id" : "eb1d6176-9edb-4102-8bf8-71632981b781",
+  "description" : "F# gives you simplicity and succinctness like Python with correctness, robustness and performance beyond C# or Java.\n\nF# is open source, cross-platform and free to use with professional tooling.\n\nF# is a JavaScript and .NET language for web, cloud, data-science, apps and more.  Ref:  https://fsharp.org/",
+  "description_en" : "F#",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 8, 12, 29, 48, 918843000 ],
+  "lastEdited" : [ 2024, 4, 8, 12, 46, 57, 554237000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
