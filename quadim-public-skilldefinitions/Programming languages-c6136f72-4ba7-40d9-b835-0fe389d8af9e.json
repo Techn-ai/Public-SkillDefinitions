@@ -1,0 +1,84 @@
+{
+  "name" : "Programming languages",
+  "name_en" : null,
+  "id" : "c6136f72-4ba7-40d9-b835-0fe389d8af9e",
+  "description" : "This is a skill area aggregating the set of programming language skills",
+  "description_en" : "Programming languages",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "8a1a2a96-3337-4502-8800-b587ed9e2b67",
+    "name" : "R language",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5bd21d2b-8699-4aca-bdb0-3dc443211cee",
+    "name" : "JavaScript",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "be151f97-96bd-4d63-b97a-6620a04e70c7",
+    "name" : "c#",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "2a715a47-14e4-4b58-8578-dfa1fea493c0",
+    "name" : "java",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f635de75-5379-499a-86b1-d486ae495356",
+    "name" : "Kotlin",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "aa8826cb-6261-4c70-a11b-dfc914bfb1cf",
+    "name" : "c++",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "dd8b73b6-f534-48dd-be78-2aac27281d4f",
+    "name" : "Rust",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8e49ff46-754c-4f7e-9cb0-b692d0db9772",
+    "name" : "Pascal",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "32b139dd-cdd7-4e42-ba88-a84c02ba1e95",
+    "name" : "Objective-C",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "88c63fe3-029d-4df6-96e3-e82c3098d102",
+    "name" : "Microsoft Transact-SQL (T-SQL)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 8, 11, 6, 15, 162882000 ],
+  "lastEdited" : [ 2024, 4, 8, 11, 6, 15, 162879000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null, null, null, null, null, null, null, null, null, null ],
+  "isExtensionOfSkill" : [ ]
+}
