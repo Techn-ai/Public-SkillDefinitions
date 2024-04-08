@@ -1,0 +1,34 @@
+{
+  "name" : "Forth",
+  "name_en" : null,
+  "id" : "b9285ede-ea50-4c1a-a9fa-2f55137c2a4c",
+  "description" : "Forth is a procedural, concatenative, stack-oriented programming language and interactive development environment designed by Charles H. \"Chuck\" Moore and first used by other programmers in 1970. Although not an acronym, the language's name in its early years was often spelled in all capital letters as FORTH. The FORTH-79 and FORTH-83 implementations, which were not written by Moore, became de facto standards, and an official standardization of the language was published in 1994 as ANS Forth. A wide range of Forth derivatives existed before and after ANS Forth. The free software Gforth implementation is actively maintained, as are several commercially supported systems.  Ref: https://en.wikipedia.org/wiki/Forth_(programming_language)",
+  "description_en" : "Forth",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 8, 12, 30, 51, 458787000 ],
+  "lastEdited" : [ 2024, 4, 8, 12, 45, 48, 397032000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
