@@ -1,0 +1,34 @@
+{
+  "name" : "Erlang",
+  "name_en" : null,
+  "id" : "8f8cc9cb-31ae-42c2-adad-7f4c5819184a",
+  "description" : "Erlang is a general purpose, concurrency-oriented functional programming language suited for fault-tolerant, distributed, soft real-time systems. It features strong dynamic typing, lightweight concurrency, eager evaluation and prolog like pattern matching. Erlang was developed in the 1980s at the Ericsson Computer Science Laboratory to address a then-unfulfilled need for telecommunications programming: a high-level, expressive language suitable for rapid development that offered the error recovery, concurrency, distribution and performance features required by telecommunications equipment.\n\nAlthough its roots are in telecommunications, Erlang's unique features and extensive library make it suitable as a general-purpose programming language and well-suited to programming projects such as network servers, control systems and web development.\n\nThe Erlang language, together with an extensive library of applications and modules, a virtual machine and operating system, and a set of design principles establishing standard behaviors, comprise Erlang/OTP (OTP stands for Open Telecommunications Platform). Erlang/OTP is distributed as free software (under the Apache Public License) as well as a commercially supported version from Ericsson. Both distributions run on Microsoft Windows, VxWorks by Wind River, and many varieties of Unix.  Ref: https://en.wikibooks.org/wiki/Erlang_Programming",
+  "description_en" : "Erlang",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 8, 12, 28, 54, 764516000 ],
+  "lastEdited" : [ 2024, 4, 8, 12, 47, 46, 611666000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
