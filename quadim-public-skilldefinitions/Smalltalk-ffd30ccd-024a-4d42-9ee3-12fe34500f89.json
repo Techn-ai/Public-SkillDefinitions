@@ -1,0 +1,34 @@
+{
+  "name" : "Smalltalk",
+  "name_en" : null,
+  "id" : "ffd30ccd-024a-4d42-9ee3-12fe34500f89",
+  "description" : "Smalltalk is a purely object oriented programming language (OOP) that was originally created in the 1970s for educational use, specifically for constructionist learning, but later found use in business. It was created at Xerox PARC by Learning Research Group (LRG) scientists, including Alan Kay, Dan Ingalls, Adele Goldberg, Ted Kaehler, Diana Merry, and Scott Wallace.\n\nIn Smalltalk, executing programs are built of opaque, atomic, so-called objects, which are instances of template code stored in classes. These objects intercommunicate by passing of messages, via an intermediary virtual machine environment (VM). A relatively small number of objects, called primitives, are not amenable to live redefinition, sometimes being defined independently of the Smalltalk programming environment.  Ref: https://en.wikipedia.org/wiki/Smalltalk",
+  "description_en" : "Smalltalk",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 8, 12, 5, 16, 102137000 ],
+  "lastEdited" : [ 2024, 4, 8, 12, 6, 37, 127423000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
