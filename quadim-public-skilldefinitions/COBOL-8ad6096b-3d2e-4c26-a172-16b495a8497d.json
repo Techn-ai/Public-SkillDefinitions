@@ -1,0 +1,34 @@
+{
+  "name" : "COBOL",
+  "name_en" : null,
+  "id" : "8ad6096b-3d2e-4c26-a172-16b495a8497d",
+  "description" : "COBOL (/ˈkoʊbɒl, -bɔːl/; an acronym for \"common business-oriented language\") is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments. COBOL is still widely used in applications deployed on mainframe computers, such as large-scale batch and transaction processing jobs. Many large financial institutions were developing new systems in the language as late as 2006, but most programming in COBOL today is purely to maintain existing applications. Programs are being moved to new platforms, rewritten in modern languages or replaced with other software.  Ref: https://en.wikipedia.org/wiki/COBOL",
+  "description_en" : "COBOL",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 8, 11, 51, 53, 37048000 ],
+  "lastEdited" : [ 2024, 4, 8, 11, 55, 19, 719823000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
