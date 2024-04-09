@@ -1,0 +1,131 @@
+{
+  "name" : "Social Coding",
+  "name_en" : null,
+  "id" : "2d65d7b7-8e65-4406-8b1e-9772d7b62d90",
+  "description" : "Social coding empowers knowledge exchange. Software engineers have ideas all day long. Through social coding, they can discover and reuse code or solutions that they might otherwise unnecessarily duplicate. With social coding, you can discover, share, and implement new ideas with friends, and even with strangers!\n\nSocial coding can also increase the quality of your software. All developers can see and comment on the code changes. When you know that your code is going to be viewed by a wide audience, you have an added incentive to get it right. As the size of the audience increases, so does the likelihood that someone in the group knows the answer to a problem.\n\nNot only can you learn from social coding, but it can be fun. Social coding fosters a fun work environment, encourages peer recognition, and promotes meritocracy, all of which are important to the DevOps culture.  Ref: https://github.com/Cantara/maven-infrastructure/blob/107ecff0adbbbb91069e8fb9bf871d7335a33d10/social%20coding.adoc#L26",
+  "description_en" : "Social Coding",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "b016a8ee-988b-4ab6-b3c4-02ba52505d29",
+    "name" : "Software Process",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e044f24b-d0a6-477b-858d-1fecce4bfa4c",
+    "name" : "Kanban",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "3c854aa5-ad7f-4cd7-8e82-22b23ed102ac",
+    "name" : "Continuous deployment",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "db4fdf72-0d34-40a8-9a68-db1f39c9e4c7",
+    "name" : "Trunk Based Development",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "a92ef4e3-e522-48a5-8f43-a2a5a99bb12d",
+    "name" : "NoOps",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "53ccc6ac-730d-44d8-b8e2-389f026449e3",
+    "name" : "Continuous Integration (CI)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "23b0c47a-d3d8-4eaf-8ccc-1ecf0fe1aff4",
+    "name" : "Continuous Delivery",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 9, 10, 34, 13, 240226000 ],
+  "lastEdited" : [ 2024, 4, 9, 10, 34, 13, 240223000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Software Process",
+    "name_en" : null,
+    "id" : "2ad408d1-f15c-4bfc-a844-1972a3f65684",
+    "description" : "Software Process",
+    "description_en" : "Software Process",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Kanban",
+    "name_en" : null,
+    "id" : "af554daa-3b9a-4617-b5b2-6ef2d7d04e32",
+    "description" : "Kanban",
+    "description_en" : "Kanban",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null, null, null, null, null ],
+  "isExtensionOfSkill" : [ ]
+}
