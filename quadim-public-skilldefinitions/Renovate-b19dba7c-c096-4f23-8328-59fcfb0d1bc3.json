@@ -1,0 +1,142 @@
+{
+  "name" : "Renovate",
+  "name_en" : null,
+  "id" : "b19dba7c-c096-4f23-8328-59fcfb0d1bc3",
+  "description" : "Automatically monitoring and updating dependencies as part of the software build process has become standard practice across the industry. It takes the guesswork out of staying current with security updates to open-source packages as they're released. For many years, Dependabot has been the standard tool for this practice, but Renovate has become the preferred tool for many of our teams. They find that Renovate is more suitable to the modern software development environment where a deployable system relies not just on code and libraries but encompasses run-time tools, infrastructure and third-party services. Renovate covers dependencies on these ancillary artifacts in addition to code. Our teams also found that Renovate offers more flexibility through configuration and customization options. Although Dependabot remains a safe default choice and is conveniently integrated with GitHub, we'd recommend evaluating Renovate to see if it can further reduce the manual burden on developers to keep their application ecosystems safe and secure.",
+  "description_en" : "Renovate",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "60783f86-f6da-48e5-8767-c8f948cdc51b",
+    "name" : "Dependabot",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "1fa33fb4-295c-4a80-868d-dc8a35d2f25b",
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e7da2cf2-5942-4ace-8095-614ca26feca3",
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 12, 7, 16, 21, 758987000 ],
+  "lastEdited" : [ 2024, 4, 12, 7, 16, 21, 758984000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Dependabot",
+    "name_en" : null,
+    "id" : "3791a284-fec7-4d2b-b328-83eebddc7290",
+    "description" : "Dependabot",
+    "description_en" : "Dependabot",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "name_en" : null,
+    "id" : "9c933f20-807f-4b83-9470-bfb2253b53bf",
+    "description" : "Common Vulnerability Scoring System (CVSS)",
+    "description_en" : "Common Vulnerability Scoring System (CVSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "4f16d72f-cc21-46d8-bf38-1d76692ad0d2",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
