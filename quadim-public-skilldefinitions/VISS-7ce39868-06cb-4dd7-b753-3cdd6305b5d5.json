@@ -1,0 +1,142 @@
+{
+  "name" : "VISS",
+  "name_en" : null,
+  "id" : "7ce39868-06cb-4dd7-b753-3cdd6305b5d5",
+  "description" : "Zoom recently open-sourced its Vulnerability Impact Scoring System, or VISS. This system is mainly focused on vulnerability scoring that prioritizes actual demonstrated security measures. VISS differs from the Common Vulnerability Scoring System (CVSS) by not focusing on worst-case scenarios and attempting to more objectively measure the impact of vulnerabilities from a defender's perspective. To this aim, VISS provides a web-based UI to calculate the vulnerability score based on several parameters — categorized into platform, infrastructure and data groups — including the impact on the platform, the number of tenants impacted, data impact and more. Although we don't have too much practical experience with this specific tool yet, we think this kind of priority-tailored assessment approach based on industry and context is worth practicing.",
+  "description_en" : "VISS",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "55f76657-f3b1-431b-af4f-eed577ce1961",
+    "name" : "Information security",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "1fa33fb4-295c-4a80-868d-dc8a35d2f25b",
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e7da2cf2-5942-4ace-8095-614ca26feca3",
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 12, 7, 8, 30, 113340000 ],
+  "lastEdited" : [ 2024, 4, 12, 7, 8, 30, 113331000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Information security",
+    "name_en" : null,
+    "id" : "9d3bee4c-852f-48fa-b2fa-f53c63861f9e",
+    "description" : "Information security",
+    "description_en" : "Information security",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "name_en" : null,
+    "id" : "3709e53e-4e6c-4e04-b3f0-011c5fcbb156",
+    "description" : "Common Vulnerability Scoring System (CVSS)",
+    "description_en" : "Common Vulnerability Scoring System (CVSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "882fe640-a03e-4ded-883c-04dc7a2013fb",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
