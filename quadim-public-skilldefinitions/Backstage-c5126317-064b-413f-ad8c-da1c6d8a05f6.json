@@ -1,0 +1,70 @@
+{
+  "name" : "Backstage",
+  "name_en" : null,
+  "id" : "c5126317-064b-413f-ad8c-da1c6d8a05f6",
+  "description" : "Powered by a centralized software catalog, Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.  Ref:  https://backstage.io/",
+  "description_en" : "Backstage",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "0889eabd-021f-412f-b48c-10d750e0d5cc",
+    "name" : "Developer Portal",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 12, 6, 59, 24, 126600000 ],
+  "lastEdited" : [ 2024, 4, 12, 6, 59, 24, 126594000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Developer Portal",
+    "name_en" : null,
+    "id" : "d741f738-62ea-454e-a98c-cd39a34970a1",
+    "description" : "Developer Portal",
+    "description_en" : "Developer Portal",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
