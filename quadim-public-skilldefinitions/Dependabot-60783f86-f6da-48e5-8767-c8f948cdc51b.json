@@ -1,0 +1,34 @@
+{
+  "name" : "Dependabot",
+  "name_en" : null,
+  "id" : "60783f86-f6da-48e5-8767-c8f948cdc51b",
+  "description" : "Monitor vulnerabilities in dependencies used in your project and keep your dependencies up-to-date with Dependabot.  Ref: https://docs.github.com/en/code-security/dependabot",
+  "description_en" : "Dependabot",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 12, 7, 15, 53, 226812000 ],
+  "lastEdited" : [ 2024, 4, 12, 7, 17, 35, 318150000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
