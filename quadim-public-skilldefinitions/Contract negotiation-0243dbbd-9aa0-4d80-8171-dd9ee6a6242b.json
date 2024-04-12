@@ -1,0 +1,32 @@
+{
+  "name" : "Contract negotiation",
+  "name_en" : null,
+  "id" : "0243dbbd-9aa0-4d80-8171-dd9ee6a6242b",
+  "description" : "Contract negotiation is the process of coming to an agreement on a set of legally binding terms (here, we'll focus on negotiation between two companies). When two companies negotiate, both parties seek to obtain favorable terms and minimize financial, legal and operational risk. ",
+  "description_en" : "Contract negotiation",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 8, 25, 11, 25, 36, 615746000 ],
+  "lastEdited" : [ 2022, 8, 25, 11, 25, 36, 615742000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
