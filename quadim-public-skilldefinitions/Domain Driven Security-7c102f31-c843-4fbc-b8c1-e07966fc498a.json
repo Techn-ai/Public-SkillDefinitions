@@ -1,0 +1,101 @@
+{
+  "name" : "Domain Driven Security",
+  "name_en" : null,
+  "id" : "7c102f31-c843-4fbc-b8c1-e07966fc498a",
+  "description" : "We all know we have people like Anonymous, LulzSec, and NSA around. With this in mind, shouldn’t we start thinking about the security of our systems? Well, of course. But, could you turn your knowledge of DDD into an advantage for understanding and counteracting security vulnerabilities? Yes, you could. This session is about exactly that.\n\n“Business” and “technical” attacks are two kinds of attacks, where the latter is the most famous, e g SQL Injection and Cross-Site Scripting. But this doesn’t mean business attacks are less harmful. On the contrary, attacks on the business tend to be extremely sophisticated and powerful as they often leave the infrastructure intact and trigger no alarms.\n\nDomain Driven Security is the field that counteracts both types of attacks by using tools and mindsets from DDD in a clever way by whitelisting value ranges of the types.",
+  "description_en" : "Domain Driven Security",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "c28b345b-76a6-4a80-8018-ffc385ab1474",
+    "name" : "Domain-driven design (DDD)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 10, 30, 35, 199748000 ],
+  "lastEdited" : [ 2024, 4, 15, 10, 30, 35, 199741000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Domain-driven design (DDD)",
+    "name_en" : null,
+    "id" : "ba914624-0fea-4339-a6ca-cc101a7dda9e",
+    "description" : "Domain-driven design (DDD)",
+    "description_en" : "Domain-driven design (DDD)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Domain-driven design (DDD)",
+    "name_en" : null,
+    "id" : "ba914624-0fea-4339-a6ca-cc101a7dda9e",
+    "description" : "Domain-driven design (DDD)",
+    "description_en" : "Domain-driven design (DDD)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
