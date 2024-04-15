@@ -1,0 +1,106 @@
+{
+  "name" : "Jakarta Faces, formerly Jakarta Server Faces and JavaServer Faces (JSF)",
+  "name_en" : null,
+  "id" : "b6c69089-bb48-48e7-b87b-237bd74788ef",
+  "description" : "Jakarta Faces, formerly Jakarta Server Faces and JavaServer Faces (JSF) is a Java specification for building component-based user interfaces for web applications.[2] It was formalized as a standard through the Java Community Process as part of the Java Platform, Enterprise Edition. It is an MVC web framework that simplifies the construction of user interfaces (UI) for server-based applications by using reusable UI components in a page.[3]\n\nJSF 2.x uses Facelets as its default templating system. Users of the software may also use XUL or Java.[4] JSF 1.x uses JavaServer Pages (JSP) as its default templating system.  Ref:  https://en.wikipedia.org/wiki/Jakarta_Faces",
+  "description_en" : "Jakarta Faces, formerly Jakarta Server Faces and JavaServer Faces (JSF)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d2726f43-16a1-42c4-8623-8d4d56ca085e",
+    "name" : "JavaServer Pages (JSP) ",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "d9edb24d-52c2-4d4a-a978-7a1023e32f52",
+    "name" : "Jakarta Servlet, formerly Java Servlet",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 18, 1, 11, 280130000 ],
+  "lastEdited" : [ 2024, 4, 15, 18, 8, 27, 586487000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "JavaServer Pages (JSP) ",
+    "name_en" : null,
+    "id" : "bdec28ad-5c5f-43c5-b57c-c75e51072411",
+    "description" : "JavaServer Pages (JSP) ",
+    "description_en" : "JavaServer Pages (JSP) ",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Jakarta Servlet, formerly Java Servlet",
+    "name_en" : null,
+    "id" : "462756d6-f921-4aff-962c-3bd4c11ab792",
+    "description" : "Jakarta Servlet, formerly Java Servlet",
+    "description_en" : "Jakarta Servlet, formerly Java Servlet",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
