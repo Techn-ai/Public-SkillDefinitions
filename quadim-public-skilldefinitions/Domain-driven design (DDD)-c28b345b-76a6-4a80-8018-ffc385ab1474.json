@@ -1,0 +1,106 @@
+{
+  "name" : "Domain-driven design (DDD)",
+  "name_en" : null,
+  "id" : "c28b345b-76a6-4a80-8018-ffc385ab1474",
+  "description" : "Domain-driven design (DDD) is a major software design approach, focusing on modeling software to match a domain according to input from that domain's experts.\n\nUnder domain-driven design, the structure and language of software code (class names, class methods, class variables) should match the business domain. For example: if software processes loan applications, it might have classes like \"loan application\", \"customers\", and methods such as \"accept offer\" and \"withdraw\".\n\nDomain-driven design is predicated on the following goals:\n\nplacing the project's primary focus on the core domain and domain logic;\nbasing complex designs on a model of the domain;\ninitiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.\nCritics of domain-driven design argue that developers must typically implement a great deal of isolation and encapsulation to maintain the model as a pure and helpful construct. While domain-driven design provides benefits such as maintainability, Microsoft recommends it only for complex domains where the model provides clear benefits in formulating a common understanding of the domain.\n\nThe term was coined by Eric Evans in his book of the same title published in 2003.  Ref: https://en.wikipedia.org/wiki/Domain-driven_design",
+  "description_en" : "Domain-driven design (DDD)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "6349b810-9231-49fc-b85a-70413f0aa707",
+    "name" : "Agile Software Development",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "b016a8ee-988b-4ab6-b3c4-02ba52505d29",
+    "name" : "Software Process",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 10, 13, 43, 988175000 ],
+  "lastEdited" : [ 2024, 4, 15, 10, 13, 43, 988168000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Agile Software Development",
+    "name_en" : null,
+    "id" : "be25cd6c-dae6-4346-87f1-d11d5e6fd0ae",
+    "description" : "Agile Software Development",
+    "description_en" : "Agile Software Development",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Software Process",
+    "name_en" : null,
+    "id" : "e8956aeb-2d97-481a-a035-c17ac250c552",
+    "description" : "Software Process",
+    "description_en" : "Software Process",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
