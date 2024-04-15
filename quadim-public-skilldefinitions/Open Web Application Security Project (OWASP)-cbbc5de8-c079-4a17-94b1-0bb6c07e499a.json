@@ -1,0 +1,34 @@
+{
+  "name" : "Open Web Application Security Project (OWASP)",
+  "name_en" : null,
+  "id" : "cbbc5de8-c079-4a17-94b1-0bb6c07e499a",
+  "description" : "The Open Web Application Security Project [7] (OWASP) is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security.[8][9][10] The OWASP provides free and open resources. It is led by a non-profit called The OWASP Foundation. The OWASP Top 10 - 2021 is the published result of recent research based on comprehensive data compiled from over 40 partner organizations.  Ref: https://en.wikipedia.org/wiki/OWASP",
+  "description_en" : "Open Web Application Security Project (OWASP)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "c6b780e0-0a6a-4e1a-a1e5-2fc6f832ae2f",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 10, 34, 59, 802278000 ],
+  "lastEdited" : [ 2024, 4, 15, 10, 37, 51, 998629000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
