@@ -1,0 +1,142 @@
+{
+  "name" : "Secure Coding",
+  "name_en" : null,
+  "id" : "ccb2af8e-0a25-4ad4-8075-d0fcd7f296de",
+  "description" : "Secure coding is the practice of developing computer software in such a way that guards against the accidental introduction of security vulnerabilities. Defects, bugs and logic flaws are consistently the primary cause of commonly exploited software vulnerabilities. Through the analysis of thousands of reported vulnerabilities, security professionals have discovered that most vulnerabilities stem from a relatively small number of common software programming errors. By identifying the insecure coding practices that lead to these errors and educating developers on secure alternatives, organizations can take proactive steps to help significantly reduce or eliminate vulnerabilities in software before deployment.\n\nSome scholars have suggested that in order to effectively confront threats related to cybersecurity, proper security should be coded or “baked in” to the systems. With security being designed into the software, this ensures that there will be protection against insider attacks and reduces the threat to application security. Ref: https://en.wikipedia.org/wiki/Secure_coding",
+  "description_en" : "Secure Coding",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "7c102f31-c843-4fbc-b8c1-e07966fc498a",
+    "name" : "Domain Driven Security",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "cbbc5de8-c079-4a17-94b1-0bb6c07e499a",
+    "name" : "Open Web Application Security Project (OWASP)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e7da2cf2-5942-4ace-8095-614ca26feca3",
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 11, 13, 39, 719510000 ],
+  "lastEdited" : [ 2024, 4, 15, 11, 13, 39, 719503000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Domain Driven Security",
+    "name_en" : null,
+    "id" : "e8f8f710-4209-477c-9f0c-139894ed6610",
+    "description" : "Domain Driven Security",
+    "description_en" : "Domain Driven Security",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Open Web Application Security Project (OWASP)",
+    "name_en" : null,
+    "id" : "f5fdf5e1-18a9-450d-8095-e0169cd5315e",
+    "description" : "Open Web Application Security Project (OWASP)",
+    "description_en" : "Open Web Application Security Project (OWASP)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "8eaad94c-6231-4010-869b-d1c32cf54ff8",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
