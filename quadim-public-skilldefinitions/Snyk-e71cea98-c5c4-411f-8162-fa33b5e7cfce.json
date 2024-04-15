@@ -1,0 +1,106 @@
+{
+  "name" : "Snyk",
+  "name_en" : null,
+  "id" : "e71cea98-c5c4-411f-8162-fa33b5e7cfce",
+  "description" : "Snyk is a developer-first cloud-native security tool that finds and automatically fixes vulnerabilities in your code, open-source dependencies, containers, and infrastructure as code.",
+  "description_en" : "Snyk",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "e7da2cf2-5942-4ace-8095-614ca26feca3",
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f00b836f-8e3e-401f-a8d1-361bd9647695",
+    "name" : "Vulnerabilities scanner",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 15, 11, 3, 42, 502128000 ],
+  "lastEdited" : [ 2024, 4, 15, 11, 3, 42, 502123000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "e6074bdf-846a-4afa-95fa-923c3fa33585",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Vulnerabilities scanner",
+    "name_en" : null,
+    "id" : "583ef804-fecc-427e-9524-cb852de7fb58",
+    "description" : "Vulnerabilities scanner",
+    "description_en" : "Vulnerabilities scanner",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
