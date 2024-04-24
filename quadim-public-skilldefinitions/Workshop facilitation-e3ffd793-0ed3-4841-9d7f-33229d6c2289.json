@@ -1,0 +1,34 @@
+{
+  "name" : "Workshop facilitation",
+  "name_en" : null,
+  "id" : "e3ffd793-0ed3-4841-9d7f-33229d6c2289",
+  "description" : "Workshop facilitation is the act of providing unobtrusive, objective guidance to a group in order to collaboratively progress towards a goal.\n\nThe role of the facilitator is to plan and lead activities and instruction in order to help the group do their best thinking together. Facilitation does not mean taking charge and dictating the outcome, but rather allowing each participant to contribute fully and equally and enabling a shared, collaborative outcome that the group buys into. Objectivity is key; facilitators must come from a neutral place — stepping back from contributing to focus purely on the group’s process.\n\nYour job as facilitator is not to personally generate a superbly creative idea, nor it is to make the correct decisions. Your job is to have the workshop participants create the best ideas they can and end up with the best possible decisions.\n\nRef: https://www.nngroup.com/articles/workshop-facilitation-101/",
+  "description_en" : "Workshop facilitation",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 24, 12, 32, 37, 245097000 ],
+  "lastEdited" : [ 2024, 4, 24, 12, 32, 37, 245093000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
