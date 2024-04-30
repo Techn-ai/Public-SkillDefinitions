@@ -1,0 +1,34 @@
+{
+  "name" : "Neuromorphic computing",
+  "name_en" : null,
+  "id" : "e0a5cac7-45bd-4765-867b-612ccb1e6f37",
+  "description" : "Neuromorphic computing is an engineering approach in which components of a computer are designed to mimic the functions of systems in the human brain and nervous system.",
+  "description_en" : "Neuromorphic computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 7, 18, 22, 124256000 ],
+  "lastEdited" : [ 2024, 4, 30, 7, 18, 22, 124220000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
