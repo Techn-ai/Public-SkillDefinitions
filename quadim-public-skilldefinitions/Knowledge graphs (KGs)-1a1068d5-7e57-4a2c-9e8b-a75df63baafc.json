@@ -1,0 +1,34 @@
+{
+  "name" : "Knowledge graphs (KGs)",
+  "name_en" : null,
+  "id" : "1a1068d5-7e57-4a2c-9e8b-a75df63baafc",
+  "description" : "Knowledge graphs (KGs) are machine-readable data structures that describe the relationship between heterogeneous data via a network of nodes and links.",
+  "description_en" : "Knowledge graphs (KGs)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 6, 42, 55, 983925000 ],
+  "lastEdited" : [ 2024, 4, 30, 6, 42, 55, 983919000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
