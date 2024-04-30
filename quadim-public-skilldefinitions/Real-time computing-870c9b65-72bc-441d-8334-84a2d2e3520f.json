@@ -1,0 +1,70 @@
+{
+  "name" : "Real-time computing",
+  "name_en" : null,
+  "id" : "870c9b65-72bc-441d-8334-84a2d2e3520f",
+  "description" : "Real-time computing (RTC) is the computer science term for hardware and software systems subject to a \"real-time constraint\", for example from event to system response.[1] Real-time programs must guarantee response within specified time constraints, often referred to as \"deadlines\".[2]\n\nThe term \"real-time\" is also used in simulation to mean that the simulation's clock runs at the same speed as a real clock.\n\nReal-time responses are often understood to be in the order of milliseconds, and sometimes microseconds. A system not specified as operating in real time cannot usually guarantee a response within any timeframe, although typical or expected response times may be given. Real-time processing fails if not completed within a specified deadline relative to an event; deadlines must always be met, regardless of system load.\n\nA real-time system has been described as one which \"controls an environment by receiving data, processing them, and returning the results sufficiently quickly to affect the environment at that time\".[3] The term \"real-time\" is used in process control and enterprise systems to mean \"without significant delay\".\n\nReal-time software may use one or more of the following: synchronous programming languages, real-time operating systems (RTOSes), and real-time networks, each of which provide essential frameworks on which to build a real-time software application.  Ref:  https://en.wikipedia.org/wiki/Real-time_computing",
+  "description_en" : "Real-time computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "19c82f60-6e85-4c10-a43f-ae7229fdd110",
+    "name" : "Real-time operating systems (RTOS)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 30, 7, 2, 38, 538132000 ],
+  "lastEdited" : [ 2024, 4, 30, 7, 5, 22, 35950000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Real-time operating systems (RTOS)",
+    "name_en" : null,
+    "id" : "eef40e65-f83d-40ce-a176-0ac066198020",
+    "description" : "Real-time operating systems (RTOS)",
+    "description_en" : "Real-time operating systems (RTOS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
