@@ -1,0 +1,34 @@
+{
+  "name" : "Low-code development platform",
+  "name_en" : null,
+  "id" : "bdce758d-a889-483b-a13b-5c4b4817921a",
+  "description" : "A low-code development platform (LCDP) provides a development environment used to create application software, generally through a graphical user interface (as opposed to only writing code, though some coding is possible and may be required). A low-coded platform may produce entirely operational applications, or require additional coding for specific situations. Low-code development platforms are typically on a high abstraction level, and can reduce the amount of traditional time spent, enabling accelerated delivery of business applications. A common benefit is that a wider range of people can contribute to the application's development, not only those with coding skills, but good governance is needed to be able to adhere to common rules and regulations. LCDPs can also lower the initial cost of setup, training, deployment, and maintenance.\n\nLow-code development platforms trace their roots back to fourth-generation programming language and the rapid application development tools of the 1990s and early 2000s. Similar to these predecessor development environments, LCDPs are based on the principles of model-driven architecture, automatic code generation, and visual programming. The concept of end-user development also existed previously, although LCDPs brought some new ways of approaching this development. The low-code development platform market traces its origins back to 2011. The specific name \"low-code\" was not put forward until 9 June, 2014, when it was used by the industry analyst Forrester Research. Along with no-code development platforms, low-code was described as \"extraordinarily disruptive\" in Forbes magazine in 2017.    Ref: https://en.wikipedia.org/wiki/Low-code_development_platform",
+  "description_en" : "Low-code development platform",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 8, 45, 23, 243695000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 45, 23, 243692000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
