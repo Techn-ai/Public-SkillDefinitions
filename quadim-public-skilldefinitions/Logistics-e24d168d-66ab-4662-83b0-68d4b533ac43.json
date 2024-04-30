@@ -1,0 +1,34 @@
+{
+  "name" : "Logistics",
+  "name_en" : null,
+  "id" : "e24d168d-66ab-4662-83b0-68d4b533ac43",
+  "description" : "Logistics is the part of supply chain management that deals with the efficient forward and reverse flow of goods, services, and related information from the point of origin to the point of consumption according to the needs of customers. Logistics management is a component that holds the supply chain together. The resources managed in logistics may include tangible goods such as materials, equipment, and supplies, as well as food and other consumable items.\n\nIn military logistics, it is concerned with maintaining army supply lines with food, armaments, ammunition, and spare parts apart from the transportation of troops themselves. Meanwhile, civil logistics deals with acquiring, moving, and storing raw materials, semi-finished goods, and finished goods. For organisations that provide garbage collection, mail deliveries, public utilities, and after-sales services, logistical problems must be addressed.\n\nLogistics deals with the movements of materials or products from one facility to another; it does not include material flow within the production or assembly plants, such as production planning or single-machine scheduling.[2] Logistics occupies a significant amount of the operational cost of an organisation or country. Logistical costs of organizations in the United States incurred about 11% of United States national gross domestic product (GDP) as of 1997. In the European Union, logistics costs were 8.8% to 11.5% of GDP as of 1993.\n\nDedicated simulation software can model, analyze, visualize, and optimize logistics' complexity. Minimizing resource use is a common motivation in all logistics fields. A professional working in logistics management is called a logistician.  Ref: https://en.wikipedia.org/wiki/Logistics",
+  "description_en" : "Logistics",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 8, 57, 59, 485048000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 57, 59, 485044000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
