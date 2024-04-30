@@ -1,0 +1,70 @@
+{
+  "name" : "Digital twins",
+  "name_en" : null,
+  "id" : "cb0a7464-09d2-415b-8913-a1a59d356a14",
+  "description" : "A digital twin is a digital model of an intended or actual real-world physical product, system, or process (a physical twin) that serves as the effectively indistinguishable digital counterpart of it for practical purposes, such as simulation, integration, testing, monitoring, and maintenance. The digital twin is the underlying premise for Product Lifecycle Management and exists throughout the entire lifecycle of the physical entity it represents. Since information is detailed, the digital twin representation is determined by the value-based use cases it is created to implement. The digital twin can exist before the physical entity, as for example with virtual prototyping. The use of a digital twin in the creation phase allows the intended entity's entire lifecycle to be modeled and simulated. A digital twin of an existing entity may be used in real time and regularly synchronized with the corresponding physical system.  Ref:  https://en.wikipedia.org/wiki/Digital_twin",
+  "description_en" : "Digital twins",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "c3d9a3a3-f96d-4905-930d-dc499a36a33a",
+    "name" : "Internet of things (IoT)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 6, 53, 19, 759849000 ],
+  "lastEdited" : [ 2024, 4, 30, 6, 53, 19, 759844000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Internet of things (IoT)",
+    "name_en" : null,
+    "id" : "832fbae0-4647-45b3-87e0-22c3ea0a0d04",
+    "description" : "Internet of things (IoT)",
+    "description_en" : "Internet of things (IoT)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
