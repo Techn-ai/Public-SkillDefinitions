@@ -1,0 +1,34 @@
+{
+  "name" : "Non-functional requirement",
+  "name_en" : null,
+  "id" : "64cb521c-c8a2-444e-a923-cb182e40ca6d",
+  "description" : "In systems engineering and requirements engineering, a non-functional requirement (NFR) is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours. They are contrasted with functional requirements that define specific behavior or functions. The plan for implementing functional requirements is detailed in the system design. The plan for implementing non-functional requirements is detailed in the system architecture, because they are usually architecturally significant requirements.\n\nDefinition\nBroadly, functional requirements define what a system is supposed to do and non-functional requirements define how a system is supposed to be. Functional requirements are usually in the form of \"system shall do <requirement>\", an individual action or part of the system, perhaps explicitly in the sense of a mathematical function, a black box description input, output, process and control functional model or IPO Model. In contrast, non-functional requirements are in the form of \"system shall be <requirement>\", an overall property of the system as a whole or of a particular aspect and not a specific function. The system's overall properties commonly mark the difference between whether the development project has succeeded or failed.\n\nNon-functional requirements are often called the \"quality attributes\" of a system. Other terms for non-functional requirements are \"qualities\", \"quality goals\", \"quality of service requirements\", \"constraints\", \"non-behavioral requirements\", or \"technical requirements\". Informally these are sometimes called the \"ilities\", from attributes like stability and portability. Qualities—that is non-functional requirements—can be divided into two main categories:\n\nExecution qualities, such as safety, security and usability, which are observable during operation (at run time).\nEvolution qualities, such as testability, maintainability, extensibility and scalability, which are embodied in the static structure of the system.\nIt is important to specify non-functional requirements in a specific and measurable way.  Ref:  https://en.wikipedia.org/wiki/Non-functional_requirement",
+  "description_en" : "Non-functional requirement",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 8, 52, 39, 411704000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 52, 39, 411700000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
