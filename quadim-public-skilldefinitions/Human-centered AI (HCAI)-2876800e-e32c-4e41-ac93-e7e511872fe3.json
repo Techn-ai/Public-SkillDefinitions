@@ -1,0 +1,34 @@
+{
+  "name" : "Human-centered AI (HCAI)",
+  "name_en" : null,
+  "id" : "2876800e-e32c-4e41-ac93-e7e511872fe3",
+  "description" : "Human-centered AI (HCAI) is a common AI design principle that calls for AI to continuously benefit from human input.",
+  "description_en" : "Human-centered AI (HCAI)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 7, 15, 34, 977589000 ],
+  "lastEdited" : [ 2024, 4, 30, 7, 15, 34, 977583000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
