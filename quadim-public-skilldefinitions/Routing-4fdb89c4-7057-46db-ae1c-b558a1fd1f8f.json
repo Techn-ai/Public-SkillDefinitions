@@ -1,0 +1,101 @@
+{
+  "name" : "Routing",
+  "name_en" : null,
+  "id" : "4fdb89c4-7057-46db-ae1c-b558a1fd1f8f",
+  "description" : "Routing is the process of selecting a path for traffic in a network or between or across multiple networks. Broadly, routing is performed in many types of networks, including circuit-switched networks, such as the public switched telephone network (PSTN), and computer networks, such as the Internet.\n\nIn packet switching networks, routing is the higher-level decision making that directs network packets from their source toward their destination through intermediate network nodes by specific packet forwarding mechanisms. Packet forwarding is the transit of network packets from one network interface to another. Intermediate nodes are typically network hardware devices such as routers, gateways, firewalls, or switches. General-purpose computers also forward packets and perform routing, although they have no specially optimized hardware for the task.\n\nThe routing process usually directs forwarding on the basis of routing tables. Routing tables maintain a record of the routes to various network destinations. Routing tables may be specified by an administrator, learned by observing network traffic or built with the assistance of routing protocols.",
+  "description_en" : "Routing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "91b21c5d-5462-464c-810b-88661cade4e9",
+    "name" : "tcp/ip",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 7, 56, 17, 620170000 ],
+  "lastEdited" : [ 2024, 4, 30, 7, 56, 17, 620167000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "tcp/ip",
+    "name_en" : null,
+    "id" : "6e329196-7c6e-4caf-abe4-b4b60abbfb79",
+    "description" : "tcp/ip",
+    "description_en" : "tcp/ip",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "tcp/ip",
+    "name_en" : null,
+    "id" : "6e329196-7c6e-4caf-abe4-b4b60abbfb79",
+    "description" : "tcp/ip",
+    "description_en" : "tcp/ip",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
