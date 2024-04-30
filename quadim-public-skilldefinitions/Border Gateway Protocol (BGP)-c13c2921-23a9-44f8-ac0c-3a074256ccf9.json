@@ -1,0 +1,34 @@
+{
+  "name" : "Border Gateway Protocol (BGP)",
+  "name_en" : null,
+  "id" : "c13c2921-23a9-44f8-ac0c-3a074256ccf9",
+  "description" : "Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[2] BGP is classified as a path-vector routing protocol,[3] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.\n\nBGP used for routing within an autonomous system is called Interior Border Gateway Protocol (IBGP). In contrast, the Internet application of the protocol is called Exterior Border Gateway Protocol (EBGP).",
+  "description_en" : "Border Gateway Protocol (BGP)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 7, 52, 55, 89292000 ],
+  "lastEdited" : [ 2024, 4, 30, 7, 52, 55, 89285000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
