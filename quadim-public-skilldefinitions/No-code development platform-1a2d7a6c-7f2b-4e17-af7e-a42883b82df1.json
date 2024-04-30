@@ -1,0 +1,34 @@
+{
+  "name" : "No-code development platform",
+  "name_en" : null,
+  "id" : "1a2d7a6c-7f2b-4e17-af7e-a42883b82df1",
+  "description" : "No-code development platforms (NCDPs) allow creating application software through graphical user interfaces and configuration instead of traditional computer programming based on writing code.\n\nNo-code development platforms are closely related to low-code development platforms as both are designed to expedite the application development process. However, unlike low-code, no-code development platforms require no code writing at all, generally offering prebuilt templates that businesses can build apps with. In the 2010s, these platforms have both increased in popularity as companies deal with a limited supply of competent software developers.\n\nNo-code development platforms are closely related to visual programming languages.  Ref:  https://en.wikipedia.org/wiki/No-code_development_platform",
+  "description_en" : "No-code development platform",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 30, 8, 47, 0, 602413000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 47, 0, 602410000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
