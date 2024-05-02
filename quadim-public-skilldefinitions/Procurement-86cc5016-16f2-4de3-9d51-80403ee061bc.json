@@ -1,0 +1,34 @@
+{
+  "name" : "Procurement",
+  "name_en" : null,
+  "id" : "86cc5016-16f2-4de3-9d51-80403ee061bc",
+  "description" : "Procurement is the process of locating and agreeing to terms and purchasing goods, services, or other works from an external source, often with the use of a tendering or competitive bidding process. The term may also refer to a contractual obligation to \"procure\", i.e. to \"ensure\" that something is done. When a government agency buys goods or services through this practice, it is referred to as government procurement or public procurement.\n\nProcurement as an organizational process is intended to ensure that the buyer receives goods, services, or works at the best possible price when aspects such as quality, quantity, time, and location are compared. Corporations and public bodies often define processes intended to promote fair and open competition for their business while minimizing risks such as exposure to fraud and collusion.\n\nAlmost all purchasing decisions include factors such as delivery and handling, marginal benefit, and fluctuations in the prices of goods. Organisations which have adopted a corporate social responsibility perspective are also likely to require their purchasing activity to take wider societal and ethical considerations into account. On the other hand, the introduction of external regulations concerning accounting practices can affect ongoing buyer-supplier relations in unforeseen manners.  Ref: https://en.wikipedia.org/wiki/Procurement",
+  "description_en" : "Procurement",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 2, 7, 20, 21, 468271000 ],
+  "lastEdited" : [ 2024, 5, 2, 7, 20, 21, 468267000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
