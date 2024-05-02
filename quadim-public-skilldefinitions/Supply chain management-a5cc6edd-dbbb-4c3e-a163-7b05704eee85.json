@@ -1,0 +1,70 @@
+{
+  "name" : "Supply chain management",
+  "name_en" : null,
+  "id" : "a5cc6edd-dbbb-4c3e-a163-7b05704eee85",
+  "description" : "In commerce, supply chain management (SCM) deals with a system of procurement (purchasing raw materials/components), operations management, logistics and marketing channels, through which raw materials can be developed into finished products and delivered to their end customers. A more narrow definition of supply chain management is the \"design, planning, execution, control, and monitoring of supply chain activities with the objective of creating net value, building a competitive infrastructure, leveraging worldwide logistics, synchronising supply with demand and measuring performance globally\". This can include the movement and storage of raw materials, work-in-process inventory, finished goods, and end to end order fulfilment from the point of origin to the point of consumption. Interconnected, interrelated or interlinked networks, channels and node businesses combine in the provision of products and services required by end customers in a supply chain.\n\nSCM is the broad range of activities required to plan, control and execute a product's flow from materials to production to distribution in the most economical way possible. SCM encompasses the integrated planning and execution of processes required to optimize the flow of materials, information and capital in functions that broadly include demand planning, sourcing, production, inventory management and logistics—or storage and transportation.\n\nSupply chain management strives for an integrated, multidisciplinary, multimethod approach. Current [when?] research in supply chain management is concerned with topics related to resilience, sustainability, and risk management, among others. Some suggest that the \"people dimension\" of SCM, ethical issues, internal integration, transparency/visibility, and human capital/talent management are topics that have, so far, been underrepresented on the research agenda.  Ref: https://en.wikipedia.org/wiki/Supply_chain_management",
+  "description_en" : "Supply chain management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "e24d168d-66ab-4662-83b0-68d4b533ac43",
+    "name" : "Logistics",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 2, 7, 18, 8, 434360000 ],
+  "lastEdited" : [ 2024, 5, 2, 7, 18, 8, 434357000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Logistics",
+    "name_en" : null,
+    "id" : "a185a72d-0010-415f-b121-5314f170e2a6",
+    "description" : "Logistics",
+    "description_en" : "Logistics",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
