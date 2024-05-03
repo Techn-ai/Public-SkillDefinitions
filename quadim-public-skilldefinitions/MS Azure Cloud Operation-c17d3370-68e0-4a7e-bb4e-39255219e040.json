@@ -1,0 +1,34 @@
+{
+  "name" : "MS Azure Cloud Operation",
+  "name_en" : null,
+  "id" : "c17d3370-68e0-4a7e-bb4e-39255219e040",
+  "description" : "“A cloud operating model is the collection of processes and procedures that define how you want to operate technology in the cloud“.\n\nThis definition is under the context that Azure tries to describe the differences between the cloud based operating model and traditional on-prem based operating model. From on-prem to cloud, some key factors have changed (e.g. physical hardware management changed to cloud resource management, CAPEX changed to OPEX, etc), while the other factors remain the same (e.g. business strategy alignment, people, security and compliance, etc). The detail-level information are available at How’s a cloud operating model different?",
+  "description_en" : "MS Azure Cloud Operation",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 12, 34, 36, 156693000 ],
+  "lastEdited" : [ 2024, 5, 3, 12, 34, 36, 156686000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
