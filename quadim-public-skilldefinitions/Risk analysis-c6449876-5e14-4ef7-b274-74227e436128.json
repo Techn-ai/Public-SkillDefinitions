@@ -1,0 +1,34 @@
+{
+  "name" : "Risk analysis",
+  "name_en" : null,
+  "id" : "c6449876-5e14-4ef7-b274-74227e436128",
+  "description" : "Risk analysis is a technique used to identify and assess factors that may jeopardize the success of a project or achieving a goal.\n\nThis technique also helps to define preventive measures to reduce the probability of these factors from occurring and identify countermeasures to successfully deal with these constraints when they develop to avert possible negative effects on the competitiveness of the company.\n\nOne of the more popular methods to perform a risk analysis in the computer field is called facilitated risk analysis process (FRAP).  Ref: https://en.wikipedia.org/wiki/Risk_analysis_(business)",
+  "description_en" : "Risk analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 11, 8, 57, 351441000 ],
+  "lastEdited" : [ 2024, 5, 3, 11, 8, 57, 351435000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
