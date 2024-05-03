@@ -1,0 +1,34 @@
+{
+  "name" : "Critical thinking",
+  "name_en" : null,
+  "id" : "0edd805d-b10f-4bd9-b8ca-38c54b49d6e9",
+  "description" : "Critical thinking is the analysis of available facts, evidence, observations, and arguments in order to form a judgement by the application of rational, skeptical, and unbiased analyses and evaluation. The application of critical thinking includes self-directed, self-disciplined, self-monitored, and self-corrective habits of the mind, thus a critical thinker is a person who practices the skills of critical thinking or has been trained and educated in its disciplines. Philosopher Richard W. Paul said that the mind of a critical thinker engages the person's intellectual abilities and personality traits. Critical thinking presupposes assent to rigorous standards of excellence and mindful command of their use in effective communication and problem solving, and a commitment to overcome egocentrism and sociocentrism.  Ref: https://en.wikipedia.org/wiki/Critical_thinking",
+  "description_en" : "Critical thinking",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 9, 48, 36, 150890000 ],
+  "lastEdited" : [ 2024, 5, 3, 9, 48, 36, 150881000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
