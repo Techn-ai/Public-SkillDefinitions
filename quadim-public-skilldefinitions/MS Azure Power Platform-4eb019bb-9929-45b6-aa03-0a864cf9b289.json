@@ -1,0 +1,49 @@
+{
+  "name" : "MS Azure Power Platform",
+  "name_en" : null,
+  "id" : "4eb019bb-9929-45b6-aa03-0a864cf9b289",
+  "description" : "The Azure Power Platform offers several key features and benefits, including low-code development, integration with other systems, AI capabilities, real-time data visualization and analysis, and cost-effectiveness. It also integrates with other Microsoft Azure services, such as Azure Functions, Azure Logic Apps, and Azure Event Grid, allowing for more complex workflows and customizations.\n\n1. Introduction\n\nThe Azure Power Platform is a suite of tools and services provided by Microsoft that enables businesses to build, deploy, and manage custom applications and workflows without requiring extensive programming knowledge. The platform provides low-code development tools that allow users to create custom solutions quickly and efficiently.\n\n2. What is the Azure Power Platform?\n\nThe Azure Power Platform is a collection of three core services: Power BI, Power Apps, and Power Automate.\n\nPower BI: A business intelligence tool that allows users to create interactive reports and dashboards that can be shared with others. It provides real-time data visualization and analysis capabilities that help businesses make informed decisions based on data insights.\n\nPower Apps: A low-code development platform that allows users to create custom business applications quickly and efficiently. It provides pre-built templates and drag-and-drop components that simplify the development process.\n\nPower Automate: A workflow automation tool that allows users to automate repetitive tasks and processes. It provides pre-built connectors to popular services such as SharePoint, OneDrive, and Dynamics 365 and custom connectors that can be built using the Power Platform's API.  Ref: https://www.c-sharpcorner.com/article/an-overview-of-the-azure-power-platform-tools-benefits-and-getting-started/",
+  "description_en" : "MS Azure Power Platform",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "a88998df-2f1a-482f-be60-b19a370122f9",
+    "name" : "Microsoft Power Apps",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e2e1b0ee-df42-4485-9a4d-6b86e0a34a30",
+    "name" : "Microsoft Power BI",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "003c1712-7893-4d9a-a0bb-af7011af7bb9",
+    "name" : "Microsoft Power Automate",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 12, 28, 37, 494640000 ],
+  "lastEdited" : [ 2024, 5, 3, 12, 28, 37, 494634000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ null, null, null ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
