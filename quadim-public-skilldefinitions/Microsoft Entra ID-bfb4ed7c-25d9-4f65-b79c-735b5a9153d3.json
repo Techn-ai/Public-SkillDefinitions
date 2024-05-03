@@ -1,0 +1,34 @@
+{
+  "name" : "Microsoft Entra ID",
+  "name_en" : null,
+  "id" : "bfb4ed7c-25d9-4f65-b79c-735b5a9153d3",
+  "description" : "Microsoft Entra ID is an integrated cloud identity and access solution, and a leader in the market for managing directories, enabling access to applications, and protecting identities.   Ref: https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id",
+  "description_en" : "Microsoft Entra ID",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 12, 38, 50, 367777000 ],
+  "lastEdited" : [ 2024, 5, 3, 12, 38, 50, 367771000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
