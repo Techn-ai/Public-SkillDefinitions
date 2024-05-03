@@ -1,0 +1,34 @@
+{
+  "name" : "MS Azure Cloud Architecture",
+  "name_en" : null,
+  "id" : "3af9abb0-167e-492d-a5ac-8b27adeccd71",
+  "description" : "Azure Architecture is a new way of building cloud apps and services. Azure Architecture helps you design the right cloud solution for your business. It does this by having you think about how your solution will operate throughout its lifecycle. This article gives you an overview of what Azure Architecture is, how it differs from classic service-based architecture and how to adopt it in your projects.",
+  "description_en" : "MS Azure Cloud Architecture",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 12, 37, 13, 355449000 ],
+  "lastEdited" : [ 2024, 5, 3, 12, 37, 13, 355443000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
