@@ -1,0 +1,34 @@
+{
+  "name" : "Information graphics (Infographic)",
+  "name_en" : null,
+  "id" : "ed20fbd1-dcf7-4bca-a103-fc39acb0585f",
+  "description" : "Infographics (a clipped compound of \"information\" and \"graphics\") are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. They can improve cognition by using graphics to enhance the human visual system's ability to see patterns and trends. Similar pursuits are information visualization, data visualization, statistical graphics, information design, or information architecture. Infographics have evolved in recent years to be for mass communication, and thus are designed with fewer assumptions about the readers' knowledge base than other types of visualizations. Isotypes are an early example of infographics conveying information quickly and easily to the masses.[6]\n\nRef: https://en.wikipedia.org/wiki/Infographic",
+  "description_en" : "Information graphics (Infographic)",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 5, 3, 10, 43, 51, 698775000 ],
+  "lastEdited" : [ 2024, 5, 3, 10, 45, 8, 168440000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
