@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Project",
+  "name_en" : null,
+  "id" : "614492bb-10ad-403f-be4d-8f17e2fa96f9",
+  "description" : "Microsoft Project is project management software product, developed and sold by Microsoft. It is designed to assist a project manager in developing a schedule, assigning resources to tasks, tracking progress, managing the budget, and analyzing workloads.\n\nMicrosoft Project was the company's third Microsoft Windows-based application. Within a few years after its launch, it became the dominant PC-based project management software.[citation needed] From 2015 to 2020 it was the most popular application for project management according to Project Management Zone.[6]\n\nIt is part of the Microsoft 365 family but has never been included in any of the suites of Microsoft Office or Microsoft 365. It is available currently as a cloud-based solution with three price levels (Plan 1, Plan 3, or Plan 5): or as a on-premises solution with three editions (Standard, Professional, and Server). Microsoft Project's proprietary file format is .mpp.\n\nMicrosoft Project and Microsoft Project Server are the cornerstones of the Microsoft Office enterprise project management (EPM) product. Ref: https://en.wikipedia.org/wiki/Microsoft_Project",
+  "description_en" : "Microsoft Project",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 14, 19, 21, 304606000 ],
+  "lastEdited" : [ 2024, 5, 3, 14, 19, 21, 304602000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
