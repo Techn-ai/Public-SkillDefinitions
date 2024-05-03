@@ -1,0 +1,36 @@
+{
+  "name" : "IFS Applications",
+  "name_en" : null,
+  "id" : "6b27d2d0-c08b-44d8-b553-4af9fab2ef9d",
+  "description" : "IFS is a leading global enterprise software vendor to industries where asset management, manufacturing, field service management, supply chain management, or project management are core disciplines. More than 2,100 companies in over 60 countries rely on IFS Applications, a component-based suite for product & asset lifecycle management that can be configured for ERP, EAM, project-based ERP, field service management, or a combination of all four. IFS Applications has been evolving to meet changing customer needs since 1983 and is configured for agility, usability, and low total cost of ownership in its targeted industries.",
+  "description_en" : "IFS Applications",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 3, 14, 23, 7, 595416000 ],
+  "lastEdited" : [ 2024, 5, 3, 14, 23, 7, 595414000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
