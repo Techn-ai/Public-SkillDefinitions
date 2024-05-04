@@ -1,0 +1,36 @@
+{
+  "name" : "Organizational storytelling",
+  "name_en" : null,
+  "id" : "cbf75e73-aec8-4d36-a7aa-ab510cb7c829",
+  "description" : "Organizational storytelling (also known as business storytelling) is a concept in management and organization studies. It recognises the special place of narration in human communication, making narration \"the foundation of discursive thought and the possibility of acting in common.[1]\" This follows the narrative paradigm, a view of human communication based on the conception of persons as homo narrans.[2]\n\nBusiness organisations explicitly value \"hard\" knowledge that can be classified, categorized, calculated, analyzed, etc., practical know-how (explicit and tacit) and know-who (social connections). In contrast, storytelling employs ancient means of passing wisdom and culture through informal stories and anecdotes. The narrative is said to be more \"synthetic\" than \"analytic\", and help to: share norms and values, develop trust and commitment, share tacit knowledge, facilitate unlearning, and generate emotional connections.[3] Storytelling is an ingredient to make an idea \"stick\".[4]\n\nWhile storytelling is a key ingredient in great advertising, organizational storytelling caters to a very different audience. It deals with human beings in organizations connecting, engaging and inspiring other stakeholders using stories and story structures in their communication.\nRef: https://en.wikipedia.org/wiki/Organizational_storytelling",
+  "description_en" : "Organizational storytelling",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 4, 15, 29, 25, 875502000 ],
+  "lastEdited" : [ 2024, 5, 4, 15, 29, 25, 875499000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
