@@ -1,0 +1,172 @@
+{
+  "name" : "Langchain4j",
+  "name_en" : null,
+  "id" : "57964a33-af39-45c5-81df-c626e5ab6e73",
+  "description" : "The goal of LangChain4j is to simplify integrating AI/LLM capabilities into Java applications.\n\nHere's how:\n\nUnified APIs: LLM providers (like OpenAI or Google Vertex AI) and embedding (vector) stores (such as Pinecone or Vespa) use proprietary APIs. LangChain4j offers a unified API to avoid the need for learning and implementing specific APIs for each of them. To experiment with a different LLM or embedding store, you can easily switch between them without the need to rewrite your code. LangChain4j currently supports over 10 popular LLM providers and more than 15 embedding stores. Think of it as a Hibernate, but for LLMs and embedding stores.\nComprehensive Toolbox: During the past year, the community has been building numerous LLM-powered applications, identifying common patterns, abstractions, and techniques. LangChain4j has refined these into practical code. Our toolbox includes tools ranging from low-level prompt templating, memory management, and output parsing to high-level patterns like Agents and RAGs. For each pattern and abstraction, we provide an interface along with multiple ready-to-use implementations based on proven techniques. Whether you're building a chatbot or developing a RAG with a complete pipeline from data ingestion to retrieval, LangChain4j offers a wide variety of options.\nNumerous Examples: These examples showcase how to begin creating various LLM-powered applications, providing inspiration and enabling you to start building quickly.\nLangChain4j began development in early 2023 amid the ChatGPT hype. We noticed a lack of Java counterparts to the numerous Python and JavaScript LLM libraries and frameworks, and we had to fix that! Although \"LangChain\" is in our name, the project is a fusion of ideas and concepts from LangChain, Haystack, LlamaIndex, and the broader community, spiced up with a touch of our own innovation.\n\nWe actively monitor community developments, aiming to quickly incorporate new techniques and integrations, ensuring you stay up-to-date. The library is under active development. While some features from the Python version of LangChain are still being worked on, the core functionality is in place, allowing you to start building LLM-powered apps now!\n\nRef: https://github.com/langchain4j/langchain4j",
+  "description_en" : "Langchain4j",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "9a1608f9-0488-4477-8ded-cf7b7ed8b9bb",
+    "name" : "Large Language Model (LLM)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "57a85563-d942-49cb-8867-a294e58e3d9f",
+    "name" : "Generative artificial intelligence - GenAI",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 21, 10, 53, 7, 289083000 ],
+  "lastEdited" : [ 2024, 5, 21, 10, 53, 7, 289082000 ],
+  "hide" : false,
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "d6effbf2-5933-4b7b-8ed5-b0afdeec39f6",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "d6effbf2-5933-4b7b-8ed5-b0afdeec39f6",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Generative artificial intelligence - GenAI",
+    "name_en" : null,
+    "id" : "16807c0b-6ab6-4860-97f1-c8f8e6827307",
+    "description" : "Generative artificial intelligence - GenAI",
+    "description_en" : "Generative artificial intelligence - GenAI",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Generative artificial intelligence - GenAI",
+    "name_en" : null,
+    "id" : "16807c0b-6ab6-4860-97f1-c8f8e6827307",
+    "description" : "Generative artificial intelligence - GenAI",
+    "description_en" : "Generative artificial intelligence - GenAI",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
