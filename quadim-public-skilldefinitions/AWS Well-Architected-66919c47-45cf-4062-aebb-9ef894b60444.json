@@ -1,0 +1,358 @@
+{
+  "name" : "AWS Well-Architected",
+  "name_en" : null,
+  "id" : "66919c47-45cf-4062-aebb-9ef894b60444",
+  "description" : "AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability—AWS Well-Architected provides a consistent approach for customers and partners to evaluate architectures and implement scalable designs.\nThe AWS Well-Architected Framework includes domain-specific lenses, hands-on labs, and the AWS Well-Architected Tool. The AWS Well-Architected Tool, available at no cost in the AWS Management Console, provides a mechanism for regularly evaluating workloads, identifying high-risk issues, and recording improvements.\n\nAWS also provides access to an ecosystem of hundreds of members in the AWS Well-Architected Partner Program. Engage a partner in your area to help analyze and review your applications.\n\nRef: https://aws.amazon.com/architecture/well-architected/",
+  "description_en" : "AWS Well-Architected",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "71013ad8-8c48-4f48-8f05-bfce7a9218dd",
+    "name" : "Amazon Simple Notification Service (Amazon SNS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "7073ff69-d538-4844-a55c-ab29aef2b0a5",
+    "name" : "Amazon Elastic Compute Cloud (Amazon EC2)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "0c3facfd-e46f-48c3-be3a-31decad35453",
+    "name" : "Amazon Relational Database Service (RDS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "a2d27c6c-43dc-4368-b969-be6e69d18918",
+    "name" : "Amazon Aurora",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "7ea98ed1-15c0-486a-bf6a-7d6d1d5a6a42",
+    "name" : "Amazon Elastic Container Service (Amazon ECS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c0e4c39d-e6fb-40bd-8fdd-4046f3b63329",
+    "name" : "AWS (Amazon Web Services)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "67b238b5-a661-4299-b737-51b9fa8aee49",
+    "name" : "Cloud computing",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "cc94cbb9-cc20-49bc-aa47-54ef25ba0b5e",
+    "name" : "Amazon CloudWatch",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "d4d8f3af-3231-4ab2-a579-db5b6ed3afc0",
+    "name" : "Amazon Simple Queue Service (SQS)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 21, 11, 12, 41, 593801000 ],
+  "lastEdited" : [ 2024, 5, 21, 11, 12, 41, 593798000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Amazon Simple Notification Service (Amazon SNS)",
+    "name_en" : null,
+    "id" : "d8eb169a-fce3-4f90-829d-d1bf90359ed6",
+    "description" : "Amazon Simple Notification Service (Amazon SNS)",
+    "description_en" : "Amazon Simple Notification Service (Amazon SNS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Elastic Compute Cloud (Amazon EC2)",
+    "name_en" : null,
+    "id" : "3da0a317-94fd-4158-b9f1-ae184d8267df",
+    "description" : "Amazon Elastic Compute Cloud (Amazon EC2)",
+    "description_en" : "Amazon Elastic Compute Cloud (Amazon EC2)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Relational Database Service (RDS)",
+    "name_en" : null,
+    "id" : "1ae1068c-c506-42e6-88b1-67d69bea26d9",
+    "description" : "Amazon Relational Database Service (RDS)",
+    "description_en" : "Amazon Relational Database Service (RDS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Aurora",
+    "name_en" : null,
+    "id" : "96db162f-1247-40d2-b117-aff9a8756539",
+    "description" : "Amazon Aurora",
+    "description_en" : "Amazon Aurora",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Elastic Container Service (Amazon ECS)",
+    "name_en" : null,
+    "id" : "75c92707-c4ba-4e24-972b-1dfd60a46123",
+    "description" : "Amazon Elastic Container Service (Amazon ECS)",
+    "description_en" : "Amazon Elastic Container Service (Amazon ECS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "AWS (Amazon Web Services)",
+    "name_en" : null,
+    "id" : "17f22135-057a-4dd3-a564-989bd5f1c23e",
+    "description" : "AWS (Amazon Web Services)",
+    "description_en" : "AWS (Amazon Web Services)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Cloud computing",
+    "name_en" : null,
+    "id" : "baacab30-da5b-4f3d-a0d2-5f048adb8d2c",
+    "description" : "Cloud computing",
+    "description_en" : "Cloud computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon CloudWatch",
+    "name_en" : null,
+    "id" : "1b005b14-bfb7-4b2c-a3cd-11482d805c68",
+    "description" : "Amazon CloudWatch",
+    "description_en" : "Amazon CloudWatch",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Simple Queue Service (SQS)",
+    "name_en" : null,
+    "id" : "05961179-737d-4347-90c4-b536a0cbfb05",
+    "description" : "Amazon Simple Queue Service (SQS)",
+    "description_en" : "Amazon Simple Queue Service (SQS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
