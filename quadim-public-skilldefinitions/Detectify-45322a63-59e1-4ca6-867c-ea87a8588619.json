@@ -1,0 +1,302 @@
+{
+  "name" : "Detectify",
+  "name_en" : null,
+  "id" : "45322a63-59e1-4ca6-867c-ea87a8588619",
+  "description" : "Detectify is an automated online vulnerability scanner that helps you stay on top of threats. We work closely with the ethical hacking community to turn the latest security findings into vulnerability tests. This way, you can access exclusive security research and test your web application for hundreds of vulnerabilities.\n\nRef: https://detectify.com/lp/online-vulnerability-scanner",
+  "description_en" : "Detectify",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "1fa33fb4-295c-4a80-868d-dc8a35d2f25b",
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "e7da2cf2-5942-4ace-8095-614ca26feca3",
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "f00b836f-8e3e-401f-a8d1-361bd9647695",
+    "name" : "Vulnerabilities scanner",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "7c532fba-9bdc-4f7d-8950-60eb7bcbcc74",
+    "name" : "Pentesting -  penetration testing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 5, 21, 11, 7, 58, 757870000 ],
+  "lastEdited" : [ 2024, 5, 21, 11, 7, 58, 757868000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "name_en" : null,
+    "id" : "da7d9c2d-f529-48fa-8fc9-234926817ab3",
+    "description" : "Common Vulnerability Scoring System (CVSS)",
+    "description_en" : "Common Vulnerability Scoring System (CVSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerability Scoring System (CVSS)",
+    "name_en" : null,
+    "id" : "da7d9c2d-f529-48fa-8fc9-234926817ab3",
+    "description" : "Common Vulnerability Scoring System (CVSS)",
+    "description_en" : "Common Vulnerability Scoring System (CVSS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "68709ef1-4573-42bf-8119-e10289e92b5a",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Common Vulnerabilities and Exposures (CVE)",
+    "name_en" : null,
+    "id" : "68709ef1-4573-42bf-8119-e10289e92b5a",
+    "description" : "Common Vulnerabilities and Exposures (CVE)",
+    "description_en" : "Common Vulnerabilities and Exposures (CVE)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Vulnerabilities scanner",
+    "name_en" : null,
+    "id" : "5823cfb9-aa4f-42a4-b0e6-6dbfded3e198",
+    "description" : "Vulnerabilities scanner",
+    "description_en" : "Vulnerabilities scanner",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Vulnerabilities scanner",
+    "name_en" : null,
+    "id" : "5823cfb9-aa4f-42a4-b0e6-6dbfded3e198",
+    "description" : "Vulnerabilities scanner",
+    "description_en" : "Vulnerabilities scanner",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Pentesting -  penetration testing",
+    "name_en" : null,
+    "id" : "679867aa-316e-4948-ad7f-b3d94b444889",
+    "description" : "Pentesting -  penetration testing",
+    "description_en" : "Pentesting -  penetration testing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Pentesting -  penetration testing",
+    "name_en" : null,
+    "id" : "679867aa-316e-4948-ad7f-b3d94b444889",
+    "description" : "Pentesting -  penetration testing",
+    "description_en" : "Pentesting -  penetration testing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
