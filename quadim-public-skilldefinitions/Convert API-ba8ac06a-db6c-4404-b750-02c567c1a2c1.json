@@ -1,0 +1,106 @@
+{
+  "name" : "Convert API",
+  "name_en" : null,
+  "id" : "ba8ac06a-db6c-4404-b750-02c567c1a2c1",
+  "description" : "ConvertAPI is a High-Performance File Conversion API. You can integrate with it within minutes, and scale without limitations. The extensive enterprise-grade file conversion API, supports for over 200 formats, tailored for Developers and Businesses.",
+  "description_en" : "Convert API",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "5ed80048-8923-40a4-b333-f8e68c4e4441",
+    "name" : "Asprise OCR",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "c03e1e21-3920-46bd-9f99-c3e029a702bb",
+    "name" : "Optical Character Recognition (OCR)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 6, 25, 15, 778414000 ],
+  "lastEdited" : [ 2024, 6, 19, 6, 25, 15, 778408000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Asprise OCR",
+    "name_en" : null,
+    "id" : "f5366dbe-28c2-43f2-a55e-aab706c8b269",
+    "description" : "Asprise OCR",
+    "description_en" : "Asprise OCR",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Optical Character Recognition (OCR)",
+    "name_en" : null,
+    "id" : "3bd06620-f461-496b-a897-7efeb392f9b0",
+    "description" : "Optical Character Recognition (OCR)",
+    "description_en" : "Optical Character Recognition (OCR)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
