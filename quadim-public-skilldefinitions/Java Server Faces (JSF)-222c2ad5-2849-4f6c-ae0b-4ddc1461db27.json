@@ -1,0 +1,32 @@
+{
+  "name" : "Java Server Faces (JSF)",
+  "name_en" : null,
+  "id" : "222c2ad5-2849-4f6c-ae0b-4ddc1461db27",
+  "description" : "Designed to be flexible, JavaServer Faces technology leverages existing, standard UI and web-tier concepts without limiting developers to a particular mark-up language, protocol, or client device. ",
+  "description_en" : "Java Server Faces (JSF)",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 6, 53, 35, 109032000 ],
+  "lastEdited" : [ 2024, 6, 19, 6, 53, 35, 109029000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
