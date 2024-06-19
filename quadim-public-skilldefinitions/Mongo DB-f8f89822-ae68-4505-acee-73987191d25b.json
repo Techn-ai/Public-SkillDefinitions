@@ -1,0 +1,32 @@
+{
+  "name" : "Mongo DB",
+  "name_en" : null,
+  "id" : "f8f89822-ae68-4505-acee-73987191d25b",
+  "description" : "The most advanced cloud database service on the market, with unmatched data distribution and mobility across AWS, Azure, and Google Cloud, built-in automation for resource and workload optimization, and so much more. ",
+  "description_en" : "Mongo DB",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 6, 52, 29, 582860000 ],
+  "lastEdited" : [ 2024, 6, 19, 6, 52, 29, 582853000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
