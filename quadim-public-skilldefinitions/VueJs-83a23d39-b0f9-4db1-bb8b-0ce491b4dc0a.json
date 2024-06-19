@@ -1,0 +1,32 @@
+{
+  "name" : "VueJs",
+  "name_en" : null,
+  "id" : "83a23d39-b0f9-4db1-bb8b-0ce491b4dc0a",
+  "description" : "The Progressive JavaScript Framework · Approachable. Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation. ",
+  "description_en" : "VueJs",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 9, 55, 40, 828520000 ],
+  "lastEdited" : [ 2024, 6, 19, 9, 55, 40, 828517000 ],
+  "hide" : false,
+  "public" : false,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
