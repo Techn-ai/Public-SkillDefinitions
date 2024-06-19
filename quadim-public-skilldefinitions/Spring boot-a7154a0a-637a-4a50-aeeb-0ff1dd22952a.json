@@ -1,0 +1,32 @@
+{
+  "name" : "Spring boot",
+  "name_en" : null,
+  "id" : "a7154a0a-637a-4a50-aeeb-0ff1dd22952a",
+  "description" : "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can \"just run\". ",
+  "description_en" : "Spring boot",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 6, 54, 55, 790783000 ],
+  "lastEdited" : [ 2024, 6, 19, 6, 54, 55, 790779000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
