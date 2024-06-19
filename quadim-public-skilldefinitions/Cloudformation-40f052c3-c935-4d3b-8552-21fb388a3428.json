@@ -1,0 +1,32 @@
+{
+  "name" : "Cloudformation",
+  "name_en" : null,
+  "id" : "40f052c3-c935-4d3b-8552-21fb388a3428",
+  "description" : "AWS CloudFormation lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code. ",
+  "description_en" : "Cloudformation",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 9, 49, 12, 851484000 ],
+  "lastEdited" : [ 2024, 6, 19, 9, 49, 12, 851471000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
