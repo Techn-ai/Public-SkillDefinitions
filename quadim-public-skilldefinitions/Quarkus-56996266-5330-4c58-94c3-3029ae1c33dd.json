@@ -1,0 +1,32 @@
+{
+  "name" : "Quarkus",
+  "name_en" : null,
+  "id" : "56996266-5330-4c58-94c3-3029ae1c33dd",
+  "description" : "Quarkus is a full-stack, Kubernetes-native Java framework made for Java virtual machines (JVMs) and native compilation, optimizing Java specifically for containers and enabling it to become an effective platform for serverless, cloud, and Kubernetes environments.\n\nQuarkus is designed to work with popular Java standards, frameworks, and libraries like Eclipse MicroProfile and Spring, as well as Apache Kafka, RESTEasy (JAX-RS), Hibernate ORM (JPA), Spring, Infinispan, Camel, and many more. ",
+  "description_en" : "Quarkus",
+  "coversElement" : {
+    "classification" : "NotSet"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ ],
+  "skillType" : {
+    "skillTypeClassification" : "NotSet"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "skillOwnerUsername" : "Tom Wigleven",
+  "editedBy" : "3eb12c96-0163-4b24-b292-b9d17119e58d",
+  "editedByUsername" : "Tom Wigleven",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 6, 19, 9, 56, 59, 549202000 ],
+  "lastEdited" : [ 2024, 6, 19, 9, 56, 59, 549198000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
