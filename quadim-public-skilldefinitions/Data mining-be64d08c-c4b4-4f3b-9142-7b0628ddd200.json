@@ -1,0 +1,43 @@
+{
+  "name" : "Data mining",
+  "name_en" : null,
+  "id" : "be64d08c-c4b4-4f3b-9142-7b0628ddd200",
+  "description" : "Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information (with intelligent methods) from a data set and transforming the information into a comprehensible structure for further use.[1][2][3][4] Data mining is the analysis step of the \"knowledge discovery in databases\" process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating",
+  "description_en" : "Data mining",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://en.wikipedia.org/wiki/Data_mining",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 2, 3, 19, 5, 42, 485697000 ],
+  "lastEdited" : [ 2023, 2, 3, 19, 5, 42, 485690000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
