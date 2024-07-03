@@ -1,0 +1,38 @@
+{
+  "name" : "Debt management",
+  "name_en" : null,
+  "id" : "9e1aee5d-7ea5-4148-8a4f-542124bcba66",
+  "description" : "Debt management is a way to get your debt under control through financial planning and budgeting. The goal of a debt management plan is to use these strategies to help you lower your current debt and move toward eliminating it.",
+  "description_en" : "Debt management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 4, 6, 13, 16, 19, 966182000 ],
+  "lastEdited" : [ 2024, 4, 6, 13, 16, 19, 966179000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
