@@ -1,0 +1,109 @@
+{
+  "name" : "Cold calling",
+  "name_en" : null,
+  "id" : "44c212fb-0ecb-4921-8bd7-8ed9c923a930",
+  "description" : "Cold calling is a form of sales solicitation from businesses to customers who've never interacted with the salesperson making the call. It generally refers to phone-based conversations (hence cold calling) but technically covers in-person door-to-door interactions, too.",
+  "description_en" : "Cold calling",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.zendesk.com/blog/cold-calling/#:~:text=Cold%20calling%20definition,to%2Ddoor%20interactions%2C%20too.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "72a048fc-2faa-4c07-b4e7-c7651d112db2",
+    "name" : "Sales prospecting",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "d3bd7da8-3fee-4824-89f0-e4a798f85bfe",
+    "name" : "Telephone sales",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 7, 6, 37, 51, 84352000 ],
+  "lastEdited" : [ 2024, 6, 25, 11, 22, 37, 392696000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Sales prospecting",
+    "name_en" : null,
+    "id" : "dc99da40-4899-4f07-9fb9-0e0821e07531",
+    "description" : "Sales prospecting",
+    "description_en" : "Sales prospecting",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Telephone sales",
+    "name_en" : null,
+    "id" : "e7f4df4a-996f-4488-9f00-6dd101d70f1c",
+    "description" : "Telephone sales",
+    "description_en" : "Telephone sales",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
