@@ -1,0 +1,34 @@
+{
+  "name" : "Market Trend Analysis",
+  "name_en" : null,
+  "id" : "df8e0297-c326-4973-9802-5a10eac0beb8",
+  "description" : "Devise the framework, and manage and conduct the situational analysis process to uncover market trends and industry developments to\nidentify new opportunities.",
+  "description_en" : "Market Trend Analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 2, 12, 10, 42, 47, 468787000 ],
+  "lastEdited" : [ 2024, 2, 12, 10, 42, 47, 468781000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
