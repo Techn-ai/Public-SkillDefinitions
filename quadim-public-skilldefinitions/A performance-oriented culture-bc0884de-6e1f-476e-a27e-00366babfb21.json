@@ -1,0 +1,34 @@
+{
+  "name" : "A performance-oriented culture",
+  "name_en" : null,
+  "id" : "bc0884de-6e1f-476e-a27e-00366babfb21",
+  "description" : "A performance-oriented culture ensures that everyone within the organization is aligned with its goals and objectives. When employees understand how their individual efforts contribute to the organization's success, they are more likely to work together cohesively and efficiently toward common goals.",
+  "description_en" : "A performance-oriented culture",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 7, 3, 6, 42, 10, 898882000 ],
+  "lastEdited" : [ 2024, 7, 3, 6, 42, 10, 898874000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
