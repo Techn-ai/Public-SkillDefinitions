@@ -1,0 +1,36 @@
+{
+  "name" : "PRINCE2",
+  "name_en" : null,
+  "id" : "8b378841-4d16-41ce-a14b-216a7494b83b",
+  "description" : "PRINCE2 is a project management methodology that emphasizes organization and control. The acronym PRINCE stands for \"PRojects IN Controlled Environments.\" This project management framework is linear and process-based, focusing on moving initiatives through predefined stages.",
+  "description_en" : "PRINCE2",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 7, 3, 6, 51, 35, 987535000 ],
+  "lastEdited" : [ 2024, 7, 3, 6, 51, 35, 987530000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
