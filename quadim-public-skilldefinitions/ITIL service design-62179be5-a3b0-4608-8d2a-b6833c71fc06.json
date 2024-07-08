@@ -1,0 +1,41 @@
+{
+  "name" : "ITIL service design",
+  "name_en" : null,
+  "id" : "62179be5-a3b0-4608-8d2a-b6833c71fc06",
+  "description" : "ITIL service design is the second stage of the ITIL service management lifecycle. Service design provides guidelines and best practices for designing new IT processes and services and preparing them for a live environment.",
+  "description_en" : "ITIL service design",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ {
+    "tagName" : "https://www.lucidchart.com/blog/understanding-itil-service-design#:~:text=ITIL%20service%20design%20is%20the,them%20for%20a%20live%20environment.",
+    "tagValue" : "true"
+  } ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 7, 3, 6, 50, 35, 398539000 ],
+  "lastEdited" : [ 2024, 7, 3, 6, 50, 51, 503275000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
