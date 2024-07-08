@@ -1,0 +1,42 @@
+{
+  "name" : "Agile project management",
+  "name_en" : null,
+  "id" : "16a5ea85-1f70-4555-addf-774f0174e971",
+  "description" : "Agile – a project management approach based on delivering requirements iteratively and incrementally throughout the life cycle. Agile development – an umbrella term specifically for iterative software development methodologies. Popular methods include Scrum, Lean, DSDM and eXtreme Programming (XP).",
+  "description_en" : "Agile project management",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 7, 3, 6, 47, 16, 257114000 ],
+  "lastEdited" : [ 2024, 7, 3, 6, 47, 16, 257105000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
