@@ -1,0 +1,36 @@
+{
+  "name" : "Tripletex",
+  "name_en" : null,
+  "id" : "b8afe686-5f5d-400c-bb58-6de83e1161fc",
+  "description" : "Tripletex er modulbasert og passer både for bedrifter med enkle behov til større bedrifter med mer komplekse behov. Du kan ta i bruk nye funksjoner etterhvert som du får behov for det, og dermed er det et system du kan vokse med.",
+  "description_en" : "Tripletex",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "a57439bf-66e4-4a67-a9af-00822ba00cdb",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 8, 14, 19, 22, 4, 76491000 ],
+  "lastEdited" : [ 2024, 8, 14, 19, 22, 4, 76483000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
