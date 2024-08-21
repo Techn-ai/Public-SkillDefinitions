@@ -1,0 +1,38 @@
+{
+  "name" : "Friendliness",
+  "name_en" : null,
+  "id" : "ea1c8115-c8eb-427f-b8ab-0e7a20fe24d4",
+  "description" : "FriendlinessFriendliness refers to the ability to put up a warm personality that makes you approachable, easy to relate with and without any hostility.\n\nAside being warm and devoid of hostility, a friendly person is someone who has a great level of respect for others. He is not snobbish but respects people’s feelings, ideas, and beliefs. Even if they do not respect them, they don’t make it obvious to them.\n\nAt times, to be friendly means putting up a pretense that you love or admire someone even if you don’t. This includes being able to show patience and care, as well as spending enough time with people.\n\nFriendliness is more of a character than a skill. However, it can be learnt and improved upon as well.",
+  "description_en" : "Friendliness",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 8, 21, 8, 21, 8, 318101000 ],
+  "lastEdited" : [ 2024, 8, 21, 12, 21, 26, 507560000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
