@@ -1,0 +1,74 @@
+{
+  "name" : "Quadim Competence Platform",
+  "name_en" : null,
+  "id" : "4731b42b-712c-42ce-880c-357bd589fde2",
+  "description" : "Quadim Competence Platform is an innovative data-driven competence platform aimed at enhancing skill mapping and sharing within organizations. This platform is designed to create mutual value for both employees and the organization by facilitating the documentation and sharing of competencies, thereby ensuring access to high-quality, up-to-date competence data for decision-making.\nKey Features of Quadim\nSkill Mapping and Sharing: Quadim enables organizations to identify skill gaps and strengths within teams, moving beyond traditional methods like Excel spreadsheets, which are often inadequate for handling large amounts of data.\nAI-Assisted Onboarding: The platform incorporates AI to streamline the onboarding process, automatically analyzing CVs and suggesting relevant skills from a public skill library.\nKey Competence Indicators (KCI): Users can create KCIs to visualize skills across the organization, facilitating a clearer understanding of capabilities and areas for improvement.\nFocus on Quality Data: Unlike many existing systems that treat competencies as mere keywords, Quadim approaches competence as a graph, allowing for a more nuanced classification and relationship-building among skills.\nOverall, Quadim aims to empower organizations to leverage their workforce's skills effectively, fostering collaboration and productivity through better data management and skill development.",
+  "description_en" : "Quadim competence platform",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "4fc13022-9e8d-4a68-bed8-35bb18545926",
+    "name" : "Skill Mapping (competency mapping)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "a57439bf-66e4-4a67-a9af-00822ba00cdb",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 8, 20, 18, 52, 25, 892885000 ],
+  "lastEdited" : [ 2024, 8, 21, 8, 2, 7, 287724000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Skill Mapping (competency mapping)",
+    "name_en" : null,
+    "id" : "bdbd92bb-dce2-4990-ac3f-46f616340791",
+    "description" : "Skill Mapping (competency mapping)",
+    "description_en" : "Skill Mapping (competency mapping)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
