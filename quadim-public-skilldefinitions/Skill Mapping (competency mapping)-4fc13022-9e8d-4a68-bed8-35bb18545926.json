@@ -1,0 +1,38 @@
+{
+  "name" : "Skill Mapping (competency mapping)",
+  "name_en" : null,
+  "id" : "4fc13022-9e8d-4a68-bed8-35bb18545926",
+  "description" : "Skills mapping is a visual representation of all the skills employees have within a department or organization. It involves analyzing each employee's competency related to a particular skill, especially abilities that relate to specific projects, roles and tasks. This technique allows you to understand the abilities of employees and the value that each of them provides. It can reveal the strengths and weaknesses of each employee.\nSome people may also refer to skills mapping as competency mapping. Note that skills and competencies differ slightly from each other. While a skill is a single ability to perform a task successfully, a competency is a combination of attitudes, knowledge, skills and traits necessary to perform a task.  Ref: https://www.indeed.com/career-advice/career-development/skills-mapping",
+  "description_en" : "Skill Mapping (competency mapping)",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 8, 21, 7, 12, 22, 756857000 ],
+  "lastEdited" : [ 2024, 8, 21, 7, 12, 58, 641233000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
