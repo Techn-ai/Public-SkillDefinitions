@@ -1,0 +1,38 @@
+{
+  "name" : "Persuasion",
+  "name_en" : null,
+  "id" : "d40951c4-2003-4b20-9778-b0e29d9e2a63",
+  "description" : "Persuasion is the ability to influence other people's thoughts and opinions using convincing arguments and facts. Persuasion skills are necessary to help individuals consider alternative points of view in professional situations. The ability to persuade may prove beneficial in many job roles and business environments.",
+  "description_en" : "Ability to persuade or convince others",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 8, 21, 8, 21, 25, 841411000 ],
+  "lastEdited" : [ 2024, 8, 21, 12, 23, 4, 893777000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
