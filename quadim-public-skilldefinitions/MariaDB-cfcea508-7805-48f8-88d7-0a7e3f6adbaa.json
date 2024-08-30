@@ -1,0 +1,209 @@
+{
+  "name" : "MariaDB",
+  "name_en" : null,
+  "id" : "cfcea508-7805-48f8-88d7-0a7e3f6adbaa",
+  "description" : "MariaDB Server is a general purpose open source relational database management system. It’s one of the most popular database servers in the world, with notable users including Wikipedia, WordPress.com and Google. MariaDB Server is released under the GPLv2 open source licence and is guaranteed to remain open source.\n\nIt can be used for high-availability transaction data, analytics, as an embedded server, and a wide range of tooling and applications support MariaDB Server.",
+  "description_en" : "MariaDB",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "7901e7ad-8cfb-4348-96c6-cf58ea7a9375",
+    "name" : "PostgreSQL",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "0c3facfd-e46f-48c3-be3a-31decad35453",
+    "name" : "Amazon Relational Database Service (RDS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "a2d27c6c-43dc-4368-b969-be6e69d18918",
+    "name" : "Amazon Aurora",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "c37ec53c-05fd-4cd5-803f-3bbd848c19c7",
+    "name" : "MySQL",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 8, 30, 11, 47, 59, 131522000 ],
+  "lastEdited" : [ 2024, 8, 30, 11, 54, 56, 937557000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "PostgreSQL",
+    "name_en" : null,
+    "id" : "0f7efbb1-8f1d-4b6c-b46d-5d4dd3e39112",
+    "description" : "PostgreSQL",
+    "description_en" : "PostgreSQL",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Relational Database Service (RDS)",
+    "name_en" : null,
+    "id" : "a4912572-1c75-4a65-a48e-7e36a6619f03",
+    "description" : "Amazon Relational Database Service (RDS)",
+    "description_en" : "Amazon Relational Database Service (RDS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Amazon Aurora",
+    "name_en" : null,
+    "id" : "b01ccf67-0b95-44a3-933a-b61859350db3",
+    "description" : "Amazon Aurora",
+    "description_en" : "Amazon Aurora",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "MySQL",
+    "name_en" : null,
+    "id" : "83e5f1c9-edca-4824-851c-256c34b0ab14",
+    "description" : "MySQL",
+    "description_en" : "MySQL",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "MySQL",
+    "name_en" : null,
+    "id" : "83e5f1c9-edca-4824-851c-256c34b0ab14",
+    "description" : "MySQL",
+    "description_en" : "MySQL",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
