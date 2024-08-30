@@ -1,0 +1,240 @@
+{
+  "name" : "Git",
+  "name_en" : null,
+  "id" : "77bab918-87cb-45e2-9a65-8229c5161ebc",
+  "description" : "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.\n\nGit is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.",
+  "description_en" : "Git",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "8c7da164-ff12-4516-a0f1-6dd2dfa18274",
+    "name" : "GitLab",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "318e6402-7a66-402b-9b91-8c635da80a55",
+    "name" : "GitHub",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "3c854aa5-ad7f-4cd7-8e82-22b23ed102ac",
+    "name" : "Continuous deployment",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "9a3a3aa0-1c98-447d-a0d0-09632587eba5",
+    "name" : "Code review",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "e1e891b2-19a9-4b39-b3b3-1d4616f7c06e",
+  "skillOwnerUsername" : "Alfredd Ryvarden",
+  "editedBy" : "e1e891b2-19a9-4b39-b3b3-1d4616f7c06e",
+  "editedByUsername" : "Alfredd Ryvarden",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 8, 21, 13, 35, 14, 864086000 ],
+  "lastEdited" : [ 2024, 8, 21, 13, 35, 14, 864077000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Continuous deployment",
+    "name_en" : null,
+    "id" : "cee93197-aece-4851-a40e-893529dba1df",
+    "description" : "Continuous deployment",
+    "description_en" : "Continuous deployment",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Continuous deployment",
+    "name_en" : null,
+    "id" : "cee93197-aece-4851-a40e-893529dba1df",
+    "description" : "Continuous deployment",
+    "description_en" : "Continuous deployment",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Code review",
+    "name_en" : null,
+    "id" : "b083a640-878c-4ea9-b77b-fcf9a8a19eb1",
+    "description" : "Code review",
+    "description_en" : "Code review",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "Code review",
+    "name_en" : null,
+    "id" : "b083a640-878c-4ea9-b77b-fcf9a8a19eb1",
+    "description" : "Code review",
+    "description_en" : "Code review",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ],
+  "relatesToSkill" : [ {
+    "name" : "GitLab",
+    "name_en" : null,
+    "id" : "624b6e4d-b058-41f1-9450-f0fe6a6998c2",
+    "description" : "GitLab",
+    "description_en" : "GitLab",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  }, {
+    "name" : "GitHub",
+    "name_en" : null,
+    "id" : "6ee8f613-d349-4458-b006-c5c19a2d3ecc",
+    "description" : "GitHub",
+    "description_en" : "GitHub",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : null,
+    "lastEdited" : null,
+    "hide" : false,
+    "public" : false,
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ]
+  } ]
+}
