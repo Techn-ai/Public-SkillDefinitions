@@ -1,0 +1,36 @@
+{
+  "name" : "Cross Cultural Communication",
+  "name_en" : null,
+  "id" : "767c961e-48d6-4527-b9cc-93eaa5b93df7",
+  "description" : "Cross-cultural communication, also known as intercultural communication, is the study of how verbal and nonverbal communication occurs among individuals from different backgrounds, geographies, and cultures.",
+  "description_en" : "Cross Cultural Communication",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 8, 29, 15, 22, 49, 596522000 ],
+  "lastEdited" : [ 2024, 9, 3, 17, 30, 44, 963672000 ],
+  "hide" : false,
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
