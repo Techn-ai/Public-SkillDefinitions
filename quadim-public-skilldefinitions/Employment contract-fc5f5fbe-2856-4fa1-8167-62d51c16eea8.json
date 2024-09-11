@@ -1,0 +1,42 @@
+{
+  "name" : "Employment contract",
+  "name_en" : null,
+  "id" : "fc5f5fbe-2856-4fa1-8167-62d51c16eea8",
+  "description" : "All employees have an employment contract with their employer. A contract is an agreement that sets out an employee’s:\n\nemployment conditions\nrights\nresponsibilities\nduties\nThese are called the ‘terms’ of the contract.\n\nEmployees and employers must stick to a contract until it ends (for example, by an employer or employee giving notice or an employee being dismissed) or until the terms are changed (usually by agreement between the employee and employer).",
+  "description_en" : "Employment contract",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 11, 6, 47, 52, 576878000 ],
+  "lastEdited" : [ 2024, 9, 11, 6, 47, 52, 576873000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
