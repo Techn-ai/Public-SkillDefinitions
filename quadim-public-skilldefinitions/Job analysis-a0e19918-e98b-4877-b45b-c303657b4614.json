@@ -1,0 +1,42 @@
+{
+  "name" : "Job analysis",
+  "name_en" : null,
+  "id" : "a0e19918-e98b-4877-b45b-c303657b4614",
+  "description" : "Job analysis refers to a systematic process of collecting all information about a specific job, including skill requirements, roles, responsibilities and processes in order to create a valid job description. Job analysis also gives an overview of the physical, emotional & related human qualities required to execute the job successfully.\n\nJob analysis is an important step in ensuring that the right candidate is selected. Job analysis helps the employer in recruitment and selection, performance management, choosing compensation and benefits, etc. It helps the employees to have a clear picture of what is actually required of them",
+  "description_en" : "Job analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 11, 6, 49, 2, 708944000 ],
+  "lastEdited" : [ 2024, 9, 11, 6, 49, 2, 708940000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
