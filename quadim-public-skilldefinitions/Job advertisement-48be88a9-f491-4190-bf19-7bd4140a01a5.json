@@ -1,0 +1,42 @@
+{
+  "name" : "Job advertisement",
+  "name_en" : null,
+  "id" : "48be88a9-f491-4190-bf19-7bd4140a01a5",
+  "description" : "Job advertisement is an announcement that informs people that a certain job position is available. It is written in an engaging tone and it contains information not only about the job position, but also about your company and the benefits you offer.",
+  "description_en" : "Job advertisement",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 11, 6, 49, 55, 59217000 ],
+  "lastEdited" : [ 2024, 9, 11, 6, 49, 55, 59207000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
