@@ -1,0 +1,44 @@
+{
+  "name" : "Change facilitator",
+  "name_en" : null,
+  "id" : "9438b64d-ddbe-40db-a219-e485256d26d1",
+  "description" : "A change facilitator is someone who helps employees adapt to new conditions by ensuring that employees understand the reasons for change, the benefits that result, and the steps required to transition or transform to the new state. They help managers identify options, communicate clearly, and resolve conflicts. Facilitation is the key to ensuring people understand the change, participate successfully to create the desired future, and accept that the real change requires changes in their own thoughts, attitudes, and behaviors.",
+  "description_en" : "Change facilitator",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 53, 34, 625297000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 53, 34, 625294000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
