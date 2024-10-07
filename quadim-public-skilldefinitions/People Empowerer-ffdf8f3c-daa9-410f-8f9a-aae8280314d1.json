@@ -1,0 +1,44 @@
+{
+  "name" : "People Empowerer",
+  "name_en" : null,
+  "id" : "ffdf8f3c-daa9-410f-8f9a-aae8280314d1",
+  "description" : "To empower someone means to give them the means to achieve something, for example to become stronger or more successfull.",
+  "description_en" : "People Empowerer",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 58, 52, 3575000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 58, 52, 3571000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
