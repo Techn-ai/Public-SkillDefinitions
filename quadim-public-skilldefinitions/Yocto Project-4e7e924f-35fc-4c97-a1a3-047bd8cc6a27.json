@@ -1,0 +1,36 @@
+{
+  "name" : "Yocto Project",
+  "name_en" : null,
+  "id" : "4e7e924f-35fc-4c97-a1a3-047bd8cc6a27",
+  "description" : "The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture.\n\nThe project provides a flexible set of tools and a space where embedded developers worldwide can share technologies, software stacks, configurations, and best practices that can be used to create tailored Linux images for embedded and IOT devices, or anywhere a customized Linux OS is needed.",
+  "description_en" : "Yocto Project",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "e1e891b2-19a9-4b39-b3b3-1d4616f7c06e",
+  "skillOwnerUsername" : "Alfredd Ryvarden",
+  "editedBy" : "e1e891b2-19a9-4b39-b3b3-1d4616f7c06e",
+  "editedByUsername" : "Alfredd Ryvarden",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 23, 11, 7, 34, 104079000 ],
+  "lastEdited" : [ 2024, 9, 23, 11, 7, 34, 104076000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
