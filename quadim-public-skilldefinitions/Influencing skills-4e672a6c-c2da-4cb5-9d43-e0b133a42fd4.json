@@ -1,0 +1,44 @@
+{
+  "name" : "Influencing skills",
+  "name_en" : null,
+  "id" : "4e672a6c-c2da-4cb5-9d43-e0b133a42fd4",
+  "description" : "Influencing skills IS about behaving in ways that offers others the invitation to change (their behaviour, attitudes, thoughts, and ways) and/or accommodate your own wishes whilst accepting that they may be unable to or unwilling to, or are unprepared to meet our request to be influenced.",
+  "description_en" : "Influencing skills",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 15, 44, 672232000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 15, 44, 672226000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
