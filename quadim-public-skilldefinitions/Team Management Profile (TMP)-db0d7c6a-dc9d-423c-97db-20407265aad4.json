@@ -1,0 +1,40 @@
+{
+  "name" : "Team Management Profile (TMP)",
+  "name_en" : null,
+  "id" : "db0d7c6a-dc9d-423c-97db-20407265aad4",
+  "description" : "The Team Management Profile (TMP) is a science-based feedback tool used for personal, team and leadership development. It forms one of the cornerstones of the Team Management Systems (TMS) suite of psychometric profiles, specifically designed to create lasting positive change for individuals, teams and organisations.",
+  "description_en" : "Team Management Profile (TMP)",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 38, 3, 528100000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 38, 3, 528096000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
