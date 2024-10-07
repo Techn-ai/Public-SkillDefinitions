@@ -1,0 +1,42 @@
+{
+  "name" : "Employee Relations",
+  "name_en" : null,
+  "id" : "cbd6e95a-e314-4c76-84ab-53894c1238d6",
+  "description" : "Employee relations refers to efforts made by organizations to:\nBuild positive relationships and interactions between employers and employees.\nFoster a sense of community within the organization.\nMaintain constructive working relationships between management and employees.\nAddress employee problems and improve overall morale",
+  "description_en" : "Employee Relations",
+  "coversElement" : {
+    "classification" : "Relationship"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 8, 29, 15, 19, 51, 278740000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 25, 2, 548512000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
