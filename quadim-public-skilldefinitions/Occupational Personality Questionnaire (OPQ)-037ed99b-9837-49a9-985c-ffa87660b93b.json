@@ -1,0 +1,36 @@
+{
+  "name" : "Occupational Personality Questionnaire (OPQ)",
+  "name_en" : null,
+  "id" : "037ed99b-9837-49a9-985c-ffa87660b93b",
+  "description" : "The Occupational Personality Questionnaire (OPQ), also known as the SHL Personality Test or OPQ32, is a psychometric evaluation used to assess workplace characteristics and behavior. It is a widely used personality assessment tool designed to measure an individual's workplace-related personality traits and behavioral preferences. The OPQ test is used to assess all levels of employees, from graduate positions to top management. It provides detailed information on  specific personality characteristics proven to influence performance.",
+  "description_en" : "Occupational Personality Questionnaire (OPQ)",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 35, 58, 260769000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 35, 58, 260765000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
