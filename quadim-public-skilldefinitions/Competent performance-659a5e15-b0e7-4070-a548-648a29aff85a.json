@@ -1,0 +1,44 @@
+{
+  "name" : "Competent performance",
+  "name_en" : null,
+  "id" : "659a5e15-b0e7-4070-a548-648a29aff85a",
+  "description" : "Competent performance refers to the ability to perform a required task at a targeted level of proficiency. To be competent, you must be able to react to a situation and follow behaviors you have found to succeed in the past. Competency is a set of demonstrable characteristics and skills that enable and improve the efficiency or performance of a job. It is a series of knowledge, abilities, skills, experiences and behaviors, which leads to effective performance in an individual's activities",
+  "description_en" : "Competent performance",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "skillOwnerUsername" : "Rachel Wilson Rugelsjøen",
+  "editedBy" : "dfe6b0dd-c504-4c45-86e4-66f9bb5117cb",
+  "editedByUsername" : "Rachel Wilson Rugelsjøen",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 9, 20, 13, 52, 1, 16762000 ],
+  "lastEdited" : [ 2024, 9, 20, 13, 52, 1, 16760000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
