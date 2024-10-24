@@ -1,0 +1,74 @@
+{
+  "name" : "ClickHouse",
+  "name_en" : null,
+  "id" : "945f12cc-a8ef-4eba-a47f-1db7544c44ce",
+  "description" : "ClickHouse is an open-source, columnar online analytical processing (OLAP) database for real-time analytics. It started as an experimental project in 2009 and has since matured into a highly performant and linearly scalable analytical database. Its efficient query processing engine together with data compression makes it suitable to run interactive queries without pre-aggregation. ClickHouse is also a great storage choice for OpenTelemetry data. Its integration with Jaeger allows you to store massive volumes of traces and analyze them efficiently.  Ref: https://www.thoughtworks.com/radar/tools/summary/clickhouse",
+  "description_en" : "ClickHouse",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "929304e1-6388-444d-a769-d935c137cc89",
+    "name" : "Data warehousing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 10, 24, 13, 22, 40, 821731000 ],
+  "lastEdited" : [ 2024, 10, 24, 13, 22, 40, 821726000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Data warehousing",
+    "name_en" : null,
+    "id" : "9ded2db2-7712-49a5-8e7d-72a0a6f2e53e",
+    "description" : "Data warehousing",
+    "description_en" : "Data warehousing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 13, 22, 41, 358445000 ],
+    "lastEdited" : [ 2024, 10, 24, 13, 22, 41, 358446000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
