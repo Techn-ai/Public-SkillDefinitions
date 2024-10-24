@@ -1,0 +1,107 @@
+{
+  "name" : "Structured output from LLMs",
+  "name_en" : null,
+  "id" : "45b3bdcb-43ab-45a6-a5c6-1b31c0d08697",
+  "description" : "Structured output from LLMs refers to the practice of constraining a language model's response into a defined schema. This can be achieved either through instructing a generalized model to respond in a particular format or by fine-tuning a model so it \"natively\" outputs, for example, JSON. OpenAI now supports structured output, allowing developers to supply a JSON Schema, pydantic or Zod object to constrain model responses. This capability is particularly valuable for enabling function calling, API interactions and external integrations, where accuracy and adherence to a format are critical. Structured output not only enhances the way LLMs can interface with code but also supports broader use cases like generating markup for rendering charts. Additionally, structured output has been shown to reduce the chance of hallucinations within model output.  Ref:  https://www.thoughtworks.com/radar/techniques/summary/structured-output-from-llms",
+  "description_en" : "Structured output from LLMs",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "9a1608f9-0488-4477-8ded-cf7b7ed8b9bb",
+    "name" : "Large Language Model (LLM)",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 10, 24, 13, 58, 6, 629676000 ],
+  "lastEdited" : [ 2024, 10, 24, 13, 58, 6, 629670000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "b31e92af-4b26-4d15-b765-668a46df8c41",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 12, 57, 52, 201955000 ],
+    "lastEdited" : [ 2024, 10, 24, 12, 57, 52, 201956000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "b31e92af-4b26-4d15-b765-668a46df8c41",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 12, 57, 52, 201955000 ],
+    "lastEdited" : [ 2024, 10, 24, 12, 57, 52, 201956000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
