@@ -1,0 +1,74 @@
+{
+  "name" : "Pkl",
+  "name_en" : null,
+  "id" : "42a154bb-6a1a-4f4c-8045-60684bfaa8eb",
+  "description" : "Pkl is an open-source configuration language and tooling initially created for use internally at Apple. Its key feature is its type and validation system, allowing configuration errors to be caught prior to deployment. Pkl has enabled our teams to reduce code duplication (for cases such as environment overrides) and perform validation before configuration changes are applied to live environments. It generates JSON, PLIST, YAML and .properties files and has extensive IDE and language integration, including code generation. Ref: https://www.thoughtworks.com/radar/languages-and-frameworks/summary/pkl",
+  "description_en" : "Pkl",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "561db88c-efa6-4ee9-ace3-3de46e20cc71",
+    "name" : "YAML",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 10, 24, 14, 2, 39, 756863000 ],
+  "lastEdited" : [ 2024, 10, 24, 14, 2, 39, 756861000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "YAML",
+    "name_en" : null,
+    "id" : "4143a29a-8c54-455a-bfc0-caad2a99cd59",
+    "description" : "YAML",
+    "description_en" : "YAML",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 14, 2, 42, 211830000 ],
+    "lastEdited" : [ 2024, 10, 24, 14, 2, 42, 211830000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
