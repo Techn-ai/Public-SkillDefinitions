@@ -1,0 +1,188 @@
+{
+  "name" : "Wiz",
+  "name_en" : null,
+  "id" : "8fac41bc-4897-4780-8977-a27819c75408",
+  "description" : "Wiz has emerged as the cloud security platform of choice on many of our projects. Our teams appreciate that it enables them to detect risks and threats sooner than similar tools as it continuously scans for changes. Wiz can detect and alert on misconfigurations, vulnerabilities and leaked secrets both in artifacts that have yet to be deployed to live environments (container images, infrastructure code) as well as live workloads (containers, VMs and cloud services). We also appreciate the powerful reporting capability for both development teams and leadership. This analysis helps us understand how a vulnerability can affect a given service so that we can resolve issues in that context.  Ref:  https://www.thoughtworks.com/radar/tools/summary/wiz",
+  "description_en" : "Wiz",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "60783f86-f6da-48e5-8767-c8f948cdc51b",
+    "name" : "Dependabot",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "ccb2af8e-0a25-4ad4-8075-d0fcd7f296de",
+    "name" : "Secure Coding",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3d4d98f5-7742-417d-8296-97f95f648c8b",
+    "name" : "Intrusion Detection System (IDS)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "626c7f77-7373-4fad-8c4d-c08d63271ef4",
+    "name" : "Security architecture",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 10, 24, 13, 24, 42, 949725000 ],
+  "lastEdited" : [ 2024, 10, 24, 13, 24, 42, 949721000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Dependabot",
+    "name_en" : null,
+    "id" : "dc617799-1fca-431b-89a7-23768648f9e2",
+    "description" : "Dependabot",
+    "description_en" : "Dependabot",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 12, 58, 2, 616197000 ],
+    "lastEdited" : [ 2024, 10, 24, 12, 58, 2, 616197000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Secure Coding",
+    "name_en" : null,
+    "id" : "d5bb8d4c-fbc1-4b9d-b9ae-f3ffb21e6e1b",
+    "description" : "Secure Coding",
+    "description_en" : "Secure Coding",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 12, 57, 55, 612867000 ],
+    "lastEdited" : [ 2024, 10, 24, 12, 57, 55, 612867000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Intrusion Detection System (IDS)",
+    "name_en" : null,
+    "id" : "423a87e6-27e0-47f8-88fa-0c23b1cc4631",
+    "description" : "Intrusion Detection System (IDS)",
+    "description_en" : "Intrusion Detection System (IDS)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 13, 24, 43, 92734000 ],
+    "lastEdited" : [ 2024, 10, 24, 13, 24, 43, 92734000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Security architecture",
+    "name_en" : null,
+    "id" : "64234e50-7ee5-4843-81f1-c875ec9a785a",
+    "description" : "Security architecture",
+    "description_en" : "Security architecture",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2024, 10, 24, 13, 24, 43, 96169000 ],
+    "lastEdited" : [ 2024, 10, 24, 13, 24, 43, 96169000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
