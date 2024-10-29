@@ -1,0 +1,38 @@
+{
+  "name" : "Joy of Creation",
+  "name_en" : null,
+  "id" : "51afabfe-6ba2-4f7e-884d-ed8da060c14b",
+  "description" : "Joy of Creation is the ability to find deep satisfaction, enthusiasm, and fulfillment in the process of bringing new ideas, objects, or experiences into existence. This skill involves a strong appreciation for creativity, an intrinsic motivation to explore and experiment, and a positive engagement with the challenges and rewards of creating something original. Individuals with a high \"Joy of Creation\" can harness their imagination, maintain focus, and sustain energy throughout creative projects, resulting in both personal satisfaction and, often, inspiring outcomes for others.",
+  "description_en" : "Joy of Creation",
+  "coversElement" : {
+    "classification" : "Creative"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 10, 29, 9, 43, 45, 65395000 ],
+  "lastEdited" : [ 2024, 10, 29, 9, 43, 45, 65389000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
