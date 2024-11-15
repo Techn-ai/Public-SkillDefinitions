@@ -1,0 +1,36 @@
+{
+  "name" : "Elasticsearch",
+  "name_en" : null,
+  "id" : "8a72dfea-6c2a-43ac-ab41-5fce968a2533",
+  "description" : "Elasticsearch is a highly scalable, open-source full-text search and analytics engine based on Apache Lucene. Proficiency in Elasticsearch involves the ability to deploy, configure, and manage Elasticsearch clusters to store, search, and analyze large volumes of data in real-time. This skill is essential for building efficient search functionalities, log analysis, and big data analytics applications.\n\nA key aspect of working with Elasticsearch is understanding its core concepts such as indices, documents, shards, and replicas. Skilled users can design optimal index mappings and settings to suit specific data models and search requirements. This includes defining appropriate data types, analyzers, tokenizers, and filters to enable advanced text analysis and querying capabilities.\n\nExpertise in Elasticsearch also encompasses the ability to construct complex search queries using the Elasticsearch Query DSL (Domain Specific Language). This involves performing full-text searches, aggregations, filtering, and sorting to extract meaningful insights from the data. Knowledge of performance optimization techniques—such as tuning cluster configurations, managing resources, and scaling clusters—is crucial for maintaining efficient and reliable search operations.\n\nAdvanced Elasticsearch skills may include integrating Elasticsearch with other components of the Elastic Stack, such as Logstash for data ingestion and Kibana for data visualization. Understanding security features like role-based access control, TLS encryption, and secure communication is important for deploying Elasticsearch in production environments. Mastery of Elasticsearch empowers individuals and organizations to harness the power of search and analytics, enabling faster decision-making and enhancing the capabilities of applications and services.",
+  "description_en" : "Elasticsearch",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 11, 15, 12, 50, 0, 448331000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 51, 6, 535137000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
