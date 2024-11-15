@@ -1,0 +1,36 @@
+{
+  "name" : "Kibana",
+  "name_en" : null,
+  "id" : "586dfa7a-4a87-4e4f-ac8f-46806a2e2d17",
+  "description" : "Kibana is an open-source data visualization and exploration tool designed to work with Elasticsearch, forming a crucial part of the Elastic Stack (formerly known as the ELK Stack, which includes Elasticsearch, Logstash, and Kibana). Proficiency in Kibana involves the ability to transform large volumes of complex data into interactive visualizations and dashboards. This skill enables users to perform real-time analytics, monitor applications, and gain operational insights by presenting data in a comprehensible and actionable format.\n\nA key aspect of working with Kibana is understanding how to effectively query and analyze data stored in Elasticsearch. This includes crafting searches, utilizing filters, and employing Kibana's Query Language (KQL) to retrieve and manipulate relevant datasets. Users skilled in Kibana can create a variety of visualizations—such as line graphs, bar charts, pie charts, heat maps, and geo-maps—that help in identifying patterns, trends, and anomalies within the data.\n\nAdditionally, expertise in Kibana encompasses the ability to design and manage comprehensive dashboards. This involves aggregating multiple visualizations to provide an overarching view of system metrics, logs, or other critical data points. Skilled users can customize dashboards for different stakeholders, set up real-time data feeds, and implement interactive features like drill-downs and time filters to enhance data exploration and analysis.\n\nAdvanced Kibana skills may also include leveraging features like Machine Learning for anomaly detection and predictive analytics, using Canvas for creating dynamic, infographic-style presentations, and utilizing Timelion for complex time-series data analysis. Knowledge of security features—such as role-based access control and encrypted communications—is essential for managing Kibana in enterprise environments. Mastery of Kibana empowers individuals and organizations to harness their data effectively, facilitating informed decision-making and optimizing operational performance.",
+  "description_en" : "Kibana",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 11, 15, 12, 49, 1, 620449000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 51, 40, 407039000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
