@@ -1,0 +1,79 @@
+{
+  "name" : "Apache JMeter",
+  "name_en" : null,
+  "id" : "e70660f7-e97e-49ae-9ad7-a8242dc5cf5e",
+  "description" : "Apache JMeter is a testing tool used for analyzing and measuring the performance of different software services and products. It is a pure Java open source software used for testing Web Application or FTP application. It is used to execute performance testing, load testing and functional testing of web applications.",
+  "description_en" : "Apache JMeter",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "6891b4b5-0dcc-46e6-89e2-e8b996153e53",
+    "name" : "Load Testing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "074aa5e7-d2f8-4fcf-8da7-c499a64d62cc",
+    "name" : "Performance testing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 11, 15, 11, 42, 37, 327024000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 31, 10, 103353000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Load Testing",
+    "name_en" : null,
+    "id" : "ffc16bf2-552c-48e3-9f9d-be0ae7bd83a6",
+    "description" : "Load Testing",
+    "description_en" : "Load Testing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 18, 17, 31, 44, 65334000 ],
+    "lastEdited" : [ 2025, 2, 18, 17, 31, 44, 65334000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
