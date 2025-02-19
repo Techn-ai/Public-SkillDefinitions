@@ -1,0 +1,38 @@
+{
+  "name" : "Value propositions",
+  "name_en" : null,
+  "id" : "bd2b15e5-b41b-4ec5-911f-f8437d25cd95",
+  "description" : "A value proposition is a concise statement that communicates the unique benefits and value a product or service offers to its target audience. It highlights the specific problem it solves, the advantages it provides, and why it is superior to its competitors.",
+  "description_en" : "value propositions",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2023, 3, 16, 16, 24, 29, 122148000 ],
+  "lastEdited" : [ 2025, 2, 19, 8, 6, 47, 133226000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
