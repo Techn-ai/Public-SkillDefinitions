@@ -1,0 +1,36 @@
+{
+  "name" : "Active directory",
+  "name_en" : null,
+  "id" : "87bc4863-a3d3-4517-aa7b-6455b284707e",
+  "description" : "Active Directory (AD) is Microsoft's proprietary directory service. It runs on Windows Server and enables administrators to manage permissions and access to network resources.",
+  "description_en" : "Active directory",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 59, 47, 211800000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 59, 47, 211798000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
