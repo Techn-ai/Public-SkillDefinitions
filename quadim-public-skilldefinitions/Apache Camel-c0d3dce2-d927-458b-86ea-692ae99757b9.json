@@ -1,0 +1,36 @@
+{
+  "name" : "Apache Camel",
+  "name_en" : null,
+  "id" : "c0d3dce2-d927-458b-86ea-692ae99757b9",
+  "description" : "Apache Camel is an open-source framework for building enterprise integration patterns (EIPs) and routing messages between different software systems. It provides a rule-based routing and mediation engine that allows you to define routing and processing rules in domain-specific languages, such as Java, XML, or Groovy.",
+  "description_en" : "Apache Camel",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 13, 19, 54, 915364000 ],
+  "lastEdited" : [ 2024, 12, 4, 13, 19, 54, 915361000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
