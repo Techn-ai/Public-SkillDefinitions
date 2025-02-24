@@ -50,7 +50,7 @@
   "isExtensionOfSkill" : [ {
     "name" : "Elasticsearch",
     "name_en" : null,
-    "id" : "0460cb85-7ff6-4eb4-be36-527bd9f2da46",
+    "id" : "7986d7c9-7193-461d-b59d-354b5fe0e1fa",
     "description" : "Elasticsearch",
     "description_en" : "Elasticsearch",
     "coversElement" : {
@@ -73,8 +73,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 754156000 ],
-    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 754157000 ],
+    "createdAt" : [ 2025, 2, 18, 17, 31, 40, 87460000 ],
+    "lastEdited" : [ 2025, 2, 18, 17, 31, 40, 87461000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
@@ -83,7 +83,7 @@
   }, {
     "name" : "Elasticsearch",
     "name_en" : null,
-    "id" : "0460cb85-7ff6-4eb4-be36-527bd9f2da46",
+    "id" : "7986d7c9-7193-461d-b59d-354b5fe0e1fa",
     "description" : "Elasticsearch",
     "description_en" : "Elasticsearch",
     "coversElement" : {
@@ -106,8 +106,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 754156000 ],
-    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 754157000 ],
+    "createdAt" : [ 2025, 2, 18, 17, 31, 40, 87460000 ],
+    "lastEdited" : [ 2025, 2, 18, 17, 31, 40, 87461000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
@@ -116,7 +116,7 @@
   }, {
     "name" : "Kibana",
     "name_en" : null,
-    "id" : "1d65422f-26ae-4698-b377-bb3f0f88e1ed",
+    "id" : "be892e4c-110b-433c-b79c-6723d2055f70",
     "description" : "Kibana",
     "description_en" : "Kibana",
     "coversElement" : {
@@ -139,8 +139,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 761274000 ],
-    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 761275000 ],
+    "createdAt" : [ 2025, 2, 18, 17, 31, 40, 93313000 ],
+    "lastEdited" : [ 2025, 2, 18, 17, 31, 40, 93313000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
@@ -149,7 +149,7 @@
   }, {
     "name" : "Kibana",
     "name_en" : null,
-    "id" : "1d65422f-26ae-4698-b377-bb3f0f88e1ed",
+    "id" : "be892e4c-110b-433c-b79c-6723d2055f70",
     "description" : "Kibana",
     "description_en" : "Kibana",
     "coversElement" : {
@@ -172,8 +172,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 761274000 ],
-    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 761275000 ],
+    "createdAt" : [ 2025, 2, 18, 17, 31, 40, 93313000 ],
+    "lastEdited" : [ 2025, 2, 18, 17, 31, 40, 93313000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
