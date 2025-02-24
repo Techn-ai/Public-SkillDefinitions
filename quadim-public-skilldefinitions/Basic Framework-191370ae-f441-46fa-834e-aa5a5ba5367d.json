@@ -1,0 +1,36 @@
+{
+  "name" : "Basic Framework",
+  "name_en" : null,
+  "id" : "191370ae-f441-46fa-834e-aa5a5ba5367d",
+  "description" : "When it comes to software, a framework is like a blueprint for your application. It not only includes the core structure but also libraries and tools that can handle repetitive tasks, like database connections or user authentication.",
+  "description_en" : "Basic Framework",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 53, 3, 761280000 ],
+  "lastEdited" : [ 2024, 11, 15, 11, 53, 3, 761278000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
