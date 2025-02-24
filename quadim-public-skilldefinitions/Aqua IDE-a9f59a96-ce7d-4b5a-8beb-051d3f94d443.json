@@ -1,0 +1,36 @@
+{
+  "name" : "Aqua IDE",
+  "name_en" : null,
+  "id" : "a9f59a96-ce7d-4b5a-8beb-051d3f94d443",
+  "description" : "Aqua is the first IDE created specifically for test automation. It's an all-in-one workspace that supports Selenium, Cypress, and Playwright. Aqua is a polyglot IDE that understands Java, Python, JavaScript, TypeScript, Kotlin, and SQL.",
+  "description_en" : "Aqua IDE",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 12, 12, 8, 895476000 ],
+  "lastEdited" : [ 2024, 12, 4, 12, 12, 8, 895474000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
