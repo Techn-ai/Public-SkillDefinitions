@@ -1,0 +1,36 @@
+{
+  "name" : "Liquibase",
+  "name_en" : null,
+  "id" : "a4cceddb-73df-48db-9430-d696be16921c",
+  "description" : "Liquibase allows you to specify the database change you want using SQL or several different database-agnostic formats, including XML, YAML, and JSON. Developers can abstract the database code to make it extremely easy to push out changes to different database types.",
+  "description_en" : "Liquibase",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 9, 42, 57, 182454000 ],
+  "lastEdited" : [ 2024, 12, 4, 9, 42, 57, 182452000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
