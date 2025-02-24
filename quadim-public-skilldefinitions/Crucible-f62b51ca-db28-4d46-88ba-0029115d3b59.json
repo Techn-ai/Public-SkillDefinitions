@@ -1,0 +1,36 @@
+{
+  "name" : "Crucible",
+  "name_en" : null,
+  "id" : "f62b51ca-db28-4d46-88ba-0029115d3b59",
+  "description" : "Crucible is a collaborative code review application by Australian software company Atlassian. Like other Atlassian products, Crucible is a Web-based application primarily aimed at enterprise, and certain features that enable peer review of a codebase may be considered enterprise social software.",
+  "description_en" : "Crucible",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 51, 45, 996643000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 51, 45, 996641000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
