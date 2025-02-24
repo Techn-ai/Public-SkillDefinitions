@@ -1,0 +1,41 @@
+{
+  "name" : "Unit testing",
+  "name_en" : null,
+  "id" : "6effb577-896a-45df-8adc-7e14da17c025",
+  "description" : "Unit testing is the process where you test the smallest functional unit of code. Software testing helps ensure code quality, and it's an integral part of software development. It's a software development best practice to write software as small, functional units then write a unit test for each code unit. You can first write unit tests as code. Then, run that test code automatically every time you make changes in the software code.",
+  "description_en" : "Unit testing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "93f88349-788b-46c4-ac11-18fffa9056b1",
+    "name" : "Functional testing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 39, 57, 954449000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 17, 36, 554900000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
