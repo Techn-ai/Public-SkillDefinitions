@@ -1,0 +1,36 @@
+{
+  "name" : "Power Apps",
+  "name_en" : null,
+  "id" : "72f5fda1-f664-4ffa-8660-01f3955c6633",
+  "description" : "The Power Apps design interface enables users to design and develop new apps without code. The Power Apps platform features an intuitive visual design and drag-and-drop functionality. Its user interface (UI) mimics applications such as Microsoft PowerPoint that many users are familiar with and comfortable using.",
+  "description_en" : "Power Apps",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 12, 12, 47, 887848000 ],
+  "lastEdited" : [ 2024, 12, 4, 12, 12, 47, 887846000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
