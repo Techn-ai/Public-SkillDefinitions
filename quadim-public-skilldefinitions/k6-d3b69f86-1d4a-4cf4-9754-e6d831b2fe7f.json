@@ -1,0 +1,41 @@
+{
+  "name" : "k6",
+  "name_en" : null,
+  "id" : "d3b69f86-1d4a-4cf4-9754-e6d831b2fe7f",
+  "description" : "k6 is an open source tool and cloud service that makes load testing easy for developers and QA engineers",
+  "description_en" : "k6",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "074aa5e7-d2f8-4fcf-8da7-c499a64d62cc",
+    "name" : "Performance testing",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 11, 15, 11, 44, 6, 240326000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 31, 35, 522294000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
