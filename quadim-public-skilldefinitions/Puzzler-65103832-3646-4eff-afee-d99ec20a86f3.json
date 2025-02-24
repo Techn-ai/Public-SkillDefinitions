@@ -1,0 +1,36 @@
+{
+  "name" : "Puzzler",
+  "name_en" : null,
+  "id" : "65103832-3646-4eff-afee-d99ec20a86f3",
+  "description" : "Puzzler Business Partnerships provide a range of options, both off-the-shelf and bespoke, that support the simple integration of puzzles into interactive formats, irrespective of content supply source. Those options include the following:\n \n\nSoftware Development Kit (SDK) Interactive Code Package\nGives you or your third-party developers a solution for the simple integration, management and deployment of interactive puzzles into your:\n\nWebsite environments\nDigital edition publishing platforms\nMobile apps",
+  "description_en" : "Puzzler",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 21, 38, 54, 733358000 ],
+  "lastEdited" : [ 2024, 12, 4, 21, 38, 54, 733356000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
