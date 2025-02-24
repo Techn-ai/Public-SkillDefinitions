@@ -1,0 +1,44 @@
+{
+  "name" : "The Scaled Agile Framework (SAFe)",
+  "name_en" : null,
+  "id" : "af34568a-6524-4d77-bd77-5c745b483a83",
+  "description" : "The Scaled Agile Framework (SAFe) is a set of organizational and workflow patterns for implementing agile practices at an enterprise scale.",
+  "description_en" : "The Scaled Agile Framework (SAFe)",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 13, 21, 16, 544173000 ],
+  "lastEdited" : [ 2024, 12, 4, 13, 21, 16, 544168000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
