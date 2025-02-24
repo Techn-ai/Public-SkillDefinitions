@@ -1,0 +1,41 @@
+{
+  "name" : "Oracle RDBMS",
+  "name_en" : null,
+  "id" : "f52b8d3f-f4b3-443e-95d6-e40ed16877b8",
+  "description" : "Oracle database, originally a relational DBMS, has evolved into a converged, multi-model DBMS, e.g. it supports multiple types of workload (OLTP, data warehouse, operational data store, data hub), it can manage and join together multiple types of data (relational, XML, JSON, spatial, property graph, RDF, text, binary) being stored inside or outside the database, it supports numerous deployment types (single instance, clustered shared everything, sharded shared-nothing, reader-farms, on-premises, public cloud, standard hardware, engineered system), and it can be accessed using multiple APIs (SQL, REST APIs, Simple Oracle Document Access, Property Graph Query Language, JDBC/ODBC drivers for multiple languages).",
+  "description_en" : "Oracle RDBMS",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "b84b3ebf-25f8-4bd6-aa21-2ce5c15d4dee",
+    "name" : "Relational Database",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 29, 15, 852807000 ],
+  "lastEdited" : [ 2024, 11, 15, 11, 55, 30, 920856000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
