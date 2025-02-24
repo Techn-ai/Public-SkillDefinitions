@@ -1,0 +1,41 @@
+{
+  "name" : "ebMS en REST API's",
+  "name_en" : null,
+  "id" : "f0c94b8e-a176-4f3b-b887-3c635ed3f1b6",
+  "description" : "The API Gateway allows developers to easily interact with EBMS data from other applications. Quickly read, write, and create EBMS data from applications using a standard API (Application Programming Interface). Valuable CRM, production, scheduling, marketing, reporting, and web tools can interact with back-end EBMS data.",
+  "description_en" : "ebMS en REST API's",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "b84b3ebf-25f8-4bd6-aa21-2ce5c15d4dee",
+    "name" : "Relational Database",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 39, 13, 285527000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 42, 8, 983853000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
