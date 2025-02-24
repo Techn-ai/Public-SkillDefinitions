@@ -1,0 +1,36 @@
+{
+  "name" : "Kali Linux",
+  "name_en" : null,
+  "id" : "a4c1b924-96d3-4741-a2a9-49058bdac9cd",
+  "description" : "Kali Linux is a Debian-based Linux distribution specifically designed for digital forensics and penetration testing. It comes pre-loaded with many tools and programs, making it an indispensable resource for cybersecurity professionals, ethical hackers, and enthusiasts.",
+  "description_en" : "Kali Linux",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 21, 42, 53, 172049000 ],
+  "lastEdited" : [ 2024, 12, 4, 21, 42, 53, 172048000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
