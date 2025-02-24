@@ -1,0 +1,183 @@
+{
+  "name" : "ELK Stack",
+  "name_en" : null,
+  "id" : "e2c8a59f-f70a-427a-9c87-f3d66f38f515",
+  "description" : "The Elastic Stack is a group of Open Source products from elastic designed to help users take data from any type of source and in any format, and search, analyze and visualize that data in real time. The product group was formerly known as the ELK Stack for the core products in the group -- Elasticsearch, Logstash and Kibana -- but has been rebranded as the Elastic Stack. A fourth product, Beats, was subsequently added to the stack. The Elastic Stack can be deployed on premises or made available as software as a service (SaaS). Elasticsearch supports Amazon Web Services (AWS), Google Cloud Platform and Microsoft Azure.",
+  "description_en" : "ELK Stack",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "b201efc7-83f6-42ac-baa4-7129d7715c14",
+    "name" : "Application logging",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ {
+    "id" : "8a72dfea-6c2a-43ac-ab41-5fce968a2533",
+    "name" : "Elasticsearch",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "586dfa7a-4a87-4e4f-ac8f-46806a2e2d17",
+    "name" : "Kibana",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 1,
+  "createdAt" : [ 2024, 11, 15, 11, 30, 12, 606180000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 50, 11, 855805000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ {
+    "name" : "Elasticsearch",
+    "name_en" : null,
+    "id" : "0460cb85-7ff6-4eb4-be36-527bd9f2da46",
+    "description" : "Elasticsearch",
+    "description_en" : "Elasticsearch",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 754156000 ],
+    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 754157000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Elasticsearch",
+    "name_en" : null,
+    "id" : "0460cb85-7ff6-4eb4-be36-527bd9f2da46",
+    "description" : "Elasticsearch",
+    "description_en" : "Elasticsearch",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 754156000 ],
+    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 754157000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Kibana",
+    "name_en" : null,
+    "id" : "1d65422f-26ae-4698-b377-bb3f0f88e1ed",
+    "description" : "Kibana",
+    "description_en" : "Kibana",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 761274000 ],
+    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 761275000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Kibana",
+    "name_en" : null,
+    "id" : "1d65422f-26ae-4698-b377-bb3f0f88e1ed",
+    "description" : "Kibana",
+    "description_en" : "Kibana",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 18, 22, 45, 33, 761274000 ],
+    "lastEdited" : [ 2025, 2, 18, 22, 45, 33, 761275000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
