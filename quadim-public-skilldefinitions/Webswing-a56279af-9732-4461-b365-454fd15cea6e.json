@@ -1,0 +1,36 @@
+{
+  "name" : "Webswing",
+  "name_en" : null,
+  "id" : "a56279af-9732-4461-b365-454fd15cea6e",
+  "description" : "Webswing version 2.7 comes with many changes, featuring step-by-step migration process to native web technology (Webswing MM), Test Tool for integration testing (Webswing TT) or a standalone admin console. The new version has also been updated with new improved SAML2 security module with SLO and SP-metadata support.",
+  "description_en" : "Webswing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 48, 3, 918515000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 48, 3, 918509000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
