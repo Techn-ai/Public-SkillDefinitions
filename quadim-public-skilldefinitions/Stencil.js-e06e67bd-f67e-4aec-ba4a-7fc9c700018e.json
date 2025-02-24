@@ -1,0 +1,36 @@
+{
+  "name" : "Stencil.js",
+  "name_en" : null,
+  "id" : "e06e67bd-f67e-4aec-ba4a-7fc9c700018e",
+  "description" : "Stencil.js is a web component compiler built by the Ionic framework team. It allows developers to create reusable web components.",
+  "description_en" : "Stencil.js",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 54, 56, 141262000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 54, 56, 141261000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
