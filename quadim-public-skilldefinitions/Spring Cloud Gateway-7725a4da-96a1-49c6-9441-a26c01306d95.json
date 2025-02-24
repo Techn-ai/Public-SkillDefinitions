@@ -1,0 +1,36 @@
+{
+  "name" : "Spring Cloud Gateway",
+  "name_en" : null,
+  "id" : "7725a4da-96a1-49c6-9441-a26c01306d95",
+  "description" : "Spring Cloud Gateway is a highly flexible and reactive solution for routing and filtering requests between microservices within a Spring Boot environment. It provides rich features, such as request transformation, filtering, rate limiting, and security.",
+  "description_en" : "Spring Cloud Gateway",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 53, 0, 652088000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 53, 0, 652086000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
