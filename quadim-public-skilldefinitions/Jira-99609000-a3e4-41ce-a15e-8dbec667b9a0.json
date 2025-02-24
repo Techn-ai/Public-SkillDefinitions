@@ -1,0 +1,36 @@
+{
+  "name" : "Jira",
+  "name_en" : null,
+  "id" : "99609000-a3e4-41ce-a15e-8dbec667b9a0",
+  "description" : "Jira is an application lifecycle management (ALM) and Agile project management tool from Atlassian. It is used for bug tracking, issue tracking, test management and project management. Jira is one of the company's main offerings along with Confluence, the company's team collaboration platform.",
+  "description_en" : "Jira",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 10, 39, 57, 144007000 ],
+  "lastEdited" : [ 2024, 12, 4, 10, 39, 57, 144002000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
