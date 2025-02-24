@@ -1,0 +1,36 @@
+{
+  "name" : "Nmap",
+  "name_en" : null,
+  "id" : "f0801d45-854d-4906-9ede-d75f22b0d2ff",
+  "description" : "Nmap, or \"Network Mapper,\" is a free, open-source tool primarily used for network discovery and security, as well as auditing network inventory, managing service upgrade schedules, and monitoring host or service uptime.",
+  "description_en" : "Nmap",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 21, 43, 51, 174104000 ],
+  "lastEdited" : [ 2024, 12, 4, 21, 43, 51, 174102000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
