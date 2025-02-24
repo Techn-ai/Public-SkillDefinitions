@@ -1,0 +1,36 @@
+{
+  "name" : "Sidekiq",
+  "name_en" : null,
+  "id" : "2eda58a0-758e-4152-b8f7-4295c7e06c54",
+  "description" : "Sidekiq is one of the most popular open-source background job libraries for Ruby. As one of ActiveJob's most popular backends, it's often used to run asynchronous jobs in Rails applications. It leans on Redis to manage queues and jobs, which makes it fast.",
+  "description_en" : "Sidekiq",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 57, 55, 233938000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 57, 55, 233936000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
