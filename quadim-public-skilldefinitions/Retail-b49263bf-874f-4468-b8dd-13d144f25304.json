@@ -1,0 +1,36 @@
+{
+  "name" : "Retail",
+  "name_en" : null,
+  "id" : "b49263bf-874f-4468-b8dd-13d144f25304",
+  "description" : "Retail is the sale of goods and services to consumers, in contrast to wholesaling, which is the sale to business or institutional customers. A retailer purchases goods in large quantities from manufacturers, directly or through a wholesaler, and then sells in smaller quantities to consumers for a profit.",
+  "description_en" : "Retail",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 12, 11, 6, 401722000 ],
+  "lastEdited" : [ 2024, 12, 4, 12, 11, 6, 401720000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
