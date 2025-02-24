@@ -1,0 +1,36 @@
+{
+  "name" : "Test Containers",
+  "name_en" : null,
+  "id" : "7a07cc50-4b96-434b-a169-85475a849b09",
+  "description" : "Testcontainers is an open source framework for provisioning throwaway, on-demand containers for development and testing use cases. Testcontainers make it easy to work with databases, message brokers, web browsers, or just about anything that can run in a Docker container",
+  "description_en" : "Test Containers",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 9, 41, 40, 915151000 ],
+  "lastEdited" : [ 2024, 12, 4, 9, 41, 40, 915147000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
