@@ -1,0 +1,41 @@
+{
+  "name" : "SonarQube",
+  "name_en" : null,
+  "id" : "f3038784-7660-45db-ae8c-568d416c52bd",
+  "description" : "End-to-end Code Quality Tool — Consistently deliver code that meets high quality standards, at every step in the workflow. Thousands of automated Static Code Analysis rules protecting your code on multiple fronts.",
+  "description_en" : "SonarQube",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "3f075c02-e7b9-4df1-a87c-f9cf269e6fb6",
+    "name" : "Software Quality Assurance Tools",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 45, 45, 748148000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 39, 24, 353766000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
