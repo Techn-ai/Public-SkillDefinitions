@@ -1,0 +1,41 @@
+{
+  "name" : "Jetbrains All Products Pack",
+  "name_en" : null,
+  "id" : "072e1adb-09c9-4ff4-b608-c21bdefe9f66",
+  "description" : "The \"All Products Pack\" is a subscription-based offering that provides access to all JetBrains desktop tools, including 10 IDEs, 3 extensions, and 2 profilers. 10 IDEs. IntelliJ IDEA for Java, Kotlin, Groovy. Rider for .NET, C#, ASP.NET.",
+  "description_en" : "Jetbrains All Products Pack",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "66d3cb9b-3591-4ca9-b438-c5c95df2ba20",
+    "name" : "IDE",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 30, 48, 919707000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 3, 48, 740053000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
