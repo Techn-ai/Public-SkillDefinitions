@@ -1,0 +1,36 @@
+{
+  "name" : "TMap",
+  "name_en" : null,
+  "id" : "0cdc21cb-2344-4670-a43e-e9b639ff979a",
+  "description" : "TMAP or TMap may refer to: Tactile Map Automated Production, a web application for creating tactile maps for braille embossers. Teenage Magazine Arbitration Panel. Test Management Approach, an approach to the structured testing of software products. Texas Medication Algorithm Project, a decision-tree medical algorithm.",
+  "description_en" : "TMap",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 12, 3, 39, 315024000 ],
+  "lastEdited" : [ 2024, 12, 4, 12, 3, 39, 315022000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
