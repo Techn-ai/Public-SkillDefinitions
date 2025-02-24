@@ -1,0 +1,41 @@
+{
+  "name" : "Sigrid",
+  "name_en" : null,
+  "id" : "cf4c8fd4-2c11-44e2-9e32-d9e8109d67ee",
+  "description" : "Sigrid delivers an in-depth cybersecurity risk assessment at both a portfolio and system level. Its comprehensive dashboards offer a complete overview of your security posture, giving you a detailed analysis of vulnerabilities, changes over time, severity ratings, and other key trends.",
+  "description_en" : "Sigrid",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "3f075c02-e7b9-4df1-a87c-f9cf269e6fb6",
+    "name" : "Software Quality Assurance Tools",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 47, 38, 838435000 ],
+  "lastEdited" : [ 2024, 11, 15, 12, 40, 27, 523007000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
