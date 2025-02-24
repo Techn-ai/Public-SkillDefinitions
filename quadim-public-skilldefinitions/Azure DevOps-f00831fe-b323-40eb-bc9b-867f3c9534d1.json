@@ -1,0 +1,41 @@
+{
+  "name" : "Azure DevOps",
+  "name_en" : null,
+  "id" : "f00831fe-b323-40eb-bc9b-867f3c9534d1",
+  "description" : "Azure DevOps is an end-to-end software development platform that offers an assortment of capabilities intended to organize and accelerate development efforts across the entire application lifecycle: Requirements management. Project management for both Agile software development and waterfall teams.",
+  "description_en" : "Azure DevOps",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ {
+    "id" : "1f193193-02b2-48b7-bb27-ec17f63a7af7",
+    "name" : "Backlog- en Sprint management",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "selina",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "selina",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 11, 15, 11, 49, 12, 155121000 ],
+  "lastEdited" : [ 2024, 11, 15, 11, 50, 26, 325867000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ null ],
+  "isExtensionOfSkill" : [ ]
+}
