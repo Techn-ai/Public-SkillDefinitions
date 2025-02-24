@@ -1,0 +1,36 @@
+{
+  "name" : "Consul",
+  "name_en" : null,
+  "id" : "0e1f0b21-f8d1-48a9-85d9-5338a91dba48",
+  "description" : "Consul is a multi-networking tool that offers a fully-featured service mesh solution. It solves the networking and security challenges of operating microservices and cloud infrastructure in multi-cloud and hybrid cloud environments.",
+  "description_en" : "Consul",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 19, 55, 26, 820300000 ],
+  "lastEdited" : [ 2024, 12, 4, 19, 55, 26, 820298000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
