@@ -1,0 +1,36 @@
+{
+  "name" : "MATLAB",
+  "name_en" : null,
+  "id" : "6eb1db68-cb02-4cd4-b951-b2fd06a3f67c",
+  "description" : "MATLAB is short for “matrix laboratory.” It is a high-level programming language and platform that works with matrices and arrays rather than individual numbers. Designed for scientists and engineers, MATLAB is often used in textbooks as an instructional tool for college-level mathematics, science, and engineering",
+  "description_en" : "MATLAB",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 21, 35, 18, 158259000 ],
+  "lastEdited" : [ 2024, 12, 4, 21, 35, 18, 158255000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
