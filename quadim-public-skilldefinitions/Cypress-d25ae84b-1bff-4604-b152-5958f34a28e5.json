@@ -1,0 +1,36 @@
+{
+  "name" : "Cypress",
+  "name_en" : null,
+  "id" : "d25ae84b-1bff-4604-b152-5958f34a28e5",
+  "description" : "Cypress is a frontend test automation tool for regression testing of web applications. Cypress runs on Windows, Linux, and macOS. Cypress app is open-source software released under the MIT License, while the Cypress Cloud is a web application. Cypress has been compared to Selenium.",
+  "description_en" : "Cypress",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 21, 46, 39, 559494000 ],
+  "lastEdited" : [ 2024, 12, 4, 21, 46, 39, 559492000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
