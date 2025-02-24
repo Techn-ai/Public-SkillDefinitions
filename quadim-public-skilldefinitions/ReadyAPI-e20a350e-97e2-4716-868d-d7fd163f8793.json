@@ -1,0 +1,36 @@
+{
+  "name" : "ReadyAPI",
+  "name_en" : null,
+  "id" : "e20a350e-97e2-4716-868d-d7fd163f8793",
+  "description" : "ReadyAPI is an easy-to-use no-code API Testing platform designed to streamline your testing workflows. Automate and scale your end-to-end tests across multiple API types. Run compatible load tests against your functional tests. Enable virtualization to ensure fast and reliable integrations for your development teams.",
+  "description_en" : "ReadyAPI",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "b3bdb3ea-6d72-4e60-9f63-b4e64cd9907b",
+  "currentVersion" : 0,
+  "createdAt" : [ 2024, 12, 4, 12, 16, 38, 768997000 ],
+  "lastEdited" : [ 2024, 12, 4, 12, 16, 38, 768995000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
