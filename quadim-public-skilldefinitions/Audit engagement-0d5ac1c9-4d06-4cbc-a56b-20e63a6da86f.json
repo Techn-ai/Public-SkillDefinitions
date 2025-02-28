@@ -1,0 +1,36 @@
+{
+  "name" : "Audit engagement",
+  "name_en" : null,
+  "id" : "0d5ac1c9-4d06-4cbc-a56b-20e63a6da86f",
+  "description" : "An audit engagement is an agreement between a client and an independent third-party auditor to perform an audit of some element of the client's business, such as accounting records, financial statements, internal controls, regulatory compliance, information systems, operational processes, etc",
+  "description_en" : "Audit engagement",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 16, 3, 14, 586891000 ],
+  "lastEdited" : [ 2025, 2, 27, 16, 3, 14, 586888000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
