@@ -1,0 +1,36 @@
+{
+  "name" : "ESG - Environment and Social Governance",
+  "name_en" : null,
+  "id" : "fcf41803-5c9d-4c3c-8646-e8270e411c37",
+  "description" : "Environmental, social and governance (ESG) is a framework used to assess an organization's business practices and performance on various sustainability and ethical issues. It also provides a way to measure business risks and opportunities in those areas.",
+  "description_en" : "ESG - Environment and Social Governance",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 28, 8, 51, 10, 683185000 ],
+  "lastEdited" : [ 2025, 2, 28, 8, 51, 10, 683182000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
