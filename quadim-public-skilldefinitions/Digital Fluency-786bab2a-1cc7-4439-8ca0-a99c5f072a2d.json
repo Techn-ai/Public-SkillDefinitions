@@ -1,0 +1,38 @@
+{
+  "name" : "Digital Fluency",
+  "name_en" : null,
+  "id" : "786bab2a-1cc7-4439-8ca0-a99c5f072a2d",
+  "description" : "Digital fluency describes the ability to use digital technologies effectively and efficiently in various aspects of life. In the workplace context, it refers to using available tools to enhance daily workflows and responsibilities.",
+  "description_en" : "Digital Fluency",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 57, 51, 592369000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 57, 51, 592367000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
