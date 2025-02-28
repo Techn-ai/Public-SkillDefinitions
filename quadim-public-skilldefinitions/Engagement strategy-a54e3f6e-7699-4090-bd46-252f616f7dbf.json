@@ -1,0 +1,74 @@
+{
+  "name" : "Engagement strategy",
+  "name_en" : null,
+  "id" : "a54e3f6e-7699-4090-bd46-252f616f7dbf",
+  "description" : "An engagement strategy is a carefully crafted plan that outlines the specific tactics and activities to be implemented in order to effectively engage with the target audience. It involves understanding the needs, preferences, and behaviors of the audience to create tailored experiences that resonate with them.",
+  "description_en" : "Engagement strategy",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d059e4dd-ecfd-4fb3-94dc-1de9404ed772",
+    "name" : "Strategic thinking",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 47, 38, 152491000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 47, 38, 152488000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Strategic thinking",
+    "name_en" : null,
+    "id" : "e7b501ef-4ff3-474e-a094-17af8f3edd95",
+    "description" : "Strategic thinking",
+    "description_en" : "Strategic thinking",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 28, 8, 54, 50, 512550000 ],
+    "lastEdited" : [ 2025, 2, 28, 8, 54, 50, 512550000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
