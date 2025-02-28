@@ -38,7 +38,7 @@
   "relatesToSkill" : [ {
     "name" : "Strategic thinking",
     "name_en" : null,
-    "id" : "e7b501ef-4ff3-474e-a094-17af8f3edd95",
+    "id" : "163f4542-d990-4dc0-b02c-ecb8de58a04f",
     "description" : "Strategic thinking",
     "description_en" : "Strategic thinking",
     "coversElement" : {
@@ -61,8 +61,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 28, 8, 54, 50, 512550000 ],
-    "lastEdited" : [ 2025, 2, 28, 8, 54, 50, 512550000 ],
+    "createdAt" : [ 2025, 2, 28, 8, 54, 53, 431832000 ],
+    "lastEdited" : [ 2025, 2, 28, 8, 54, 53, 431832000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
