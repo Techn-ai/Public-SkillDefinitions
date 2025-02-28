@@ -1,0 +1,36 @@
+{
+  "name" : "Audit Compliance",
+  "name_en" : null,
+  "id" : "de7a8b2e-8f39-417c-8a5e-dd91711a8718",
+  "description" : "The independent assessment of whether a given subject matter is in. compliance with applicable authorities identified as criteria. Compliance audits are carried out. by assessing whether activities, financial transactions and information comply in all material.",
+  "description_en" : "Audit Compliance",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 28, 8, 58, 53, 800838000 ],
+  "lastEdited" : [ 2025, 2, 28, 8, 58, 53, 800833000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
