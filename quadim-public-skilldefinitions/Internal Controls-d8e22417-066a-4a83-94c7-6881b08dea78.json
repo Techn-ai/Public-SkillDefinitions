@@ -1,0 +1,74 @@
+{
+  "name" : "Internal Controls",
+  "name_en" : null,
+  "id" : "d8e22417-066a-4a83-94c7-6881b08dea78",
+  "description" : "Internal control is a process, effected by an entity's board of directors, management and other personnel, designed to provide reasonable assurance: That information is reliable, accurate and timely. Of compliance with applicable laws, regulations, contracts, policies and procedures.",
+  "description_en" : "Internal Controls",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "799ea433-3a9d-4ebd-8245-13995d09d260",
+    "name" : "Accounting",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 50, 57, 969203000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 50, 57, 969201000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Accounting",
+    "name_en" : null,
+    "id" : "099b22b1-bd2c-422e-9922-ebb49b13ae24",
+    "description" : "Accounting",
+    "description_en" : "Accounting",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
+    "lastEdited" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
