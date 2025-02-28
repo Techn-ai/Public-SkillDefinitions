@@ -1,0 +1,36 @@
+{
+  "name" : "Sensemaking",
+  "name_en" : null,
+  "id" : "232f75dd-0cb6-455c-822f-7ed79f2dd70a",
+  "description" : "Sensemaking is a term that refers to reacting to, making sense of, and acting upon the environment and events around us, especially new and unknown stimuli. In business organizations, this helps people prepare for the future, or react to events for which there are no established rules or policies.",
+  "description_en" : "Sensemaking",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Personal_Trait_or_Attitude"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 16, 5, 47, 452629000 ],
+  "lastEdited" : [ 2025, 2, 27, 16, 5, 47, 452627000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
