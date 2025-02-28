@@ -38,7 +38,7 @@
   "relatesToSkill" : [ {
     "name" : "Accounting",
     "name_en" : null,
-    "id" : "099b22b1-bd2c-422e-9922-ebb49b13ae24",
+    "id" : "24aee25b-c5be-4901-9414-9bf7d0b13ab0",
     "description" : "Accounting",
     "description_en" : "Accounting",
     "coversElement" : {
@@ -61,8 +61,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
-    "lastEdited" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
+    "createdAt" : [ 2025, 2, 28, 8, 54, 46, 538545000 ],
+    "lastEdited" : [ 2025, 2, 28, 8, 54, 46, 538545000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
