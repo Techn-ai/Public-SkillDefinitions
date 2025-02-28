@@ -1,0 +1,44 @@
+{
+  "name" : "Valuation Approaches and Methodologies",
+  "name_en" : null,
+  "id" : "170bdbc2-f234-4b7f-ab9d-6b466270f1be",
+  "description" : "Understanding how to calculate the value of a business can be essential. A method of valuation is an approach to determine the fair market value of a company. The three widely used valuation methods used in business valuation include the Asset Approach, the Market Approach, and the Income Approach. The three approaches vary in the way they conclude to value, but the goal of each approach is still the same: to assess the value of the operating entity (i.e., the business).",
+  "description_en" : "Valuation Approaches and Methodologies",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 16, 7, 55, 689962000 ],
+  "lastEdited" : [ 2025, 2, 27, 16, 7, 55, 689952000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
