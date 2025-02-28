@@ -1,0 +1,74 @@
+{
+  "name" : "Auditing and Assurance Standards",
+  "name_en" : null,
+  "id" : "2bf35c0b-7c64-43a2-85c5-f285c54526aa",
+  "description" : "Auditing standards are authoritative standards that help auditors perform high-quality work with close attention to consistency and transparency. Auditing standards support the credibility of auditors and the auditing process – as well as the reliability of financial statements.",
+  "description_en" : "Auditing and Assurance Standards",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "799ea433-3a9d-4ebd-8245-13995d09d260",
+    "name" : "Accounting",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 44, 49, 709752000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 44, 49, 709747000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Accounting",
+    "name_en" : null,
+    "id" : "099b22b1-bd2c-422e-9922-ebb49b13ae24",
+    "description" : "Accounting",
+    "description_en" : "Accounting",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
+    "lastEdited" : [ 2025, 2, 28, 8, 54, 42, 585828000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
