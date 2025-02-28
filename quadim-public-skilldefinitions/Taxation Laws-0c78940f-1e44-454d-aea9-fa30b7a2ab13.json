@@ -1,0 +1,36 @@
+{
+  "name" : "Taxation Laws",
+  "name_en" : null,
+  "id" : "0c78940f-1e44-454d-aea9-fa30b7a2ab13",
+  "description" : "Tax legislation refers to the set of laws and regulations established by Acts of Parliament to govern the imposition, collection, and administration of taxes. It includes primary legislation such as the Income Tax Act and Value Added Tax Act, as well as secondary legislation like regulations and orders issued by HM Revenue and Customs.",
+  "description_en" : "Taxation Laws",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 55, 39, 925607000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 55, 39, 925603000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
