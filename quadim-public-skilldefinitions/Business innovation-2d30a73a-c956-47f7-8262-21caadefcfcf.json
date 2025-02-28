@@ -1,0 +1,44 @@
+{
+  "name" : "Business innovation",
+  "name_en" : null,
+  "id" : "2d30a73a-c956-47f7-8262-21caadefcfcf",
+  "description" : "Business innovation refers to the process of introducing new ideas, methods, products, or services that result in significant improvements or advancements within an organization.",
+  "description_en" : "Business innovation",
+  "coversElement" : {
+    "classification" : "Management_Leadership"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 59, 19, 121113000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 59, 19, 121111000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
