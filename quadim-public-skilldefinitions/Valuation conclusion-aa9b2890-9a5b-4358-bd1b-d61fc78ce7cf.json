@@ -1,0 +1,38 @@
+{
+  "name" : "Valuation conclusion",
+  "name_en" : null,
+  "id" : "aa9b2890-9a5b-4358-bd1b-d61fc78ce7cf",
+  "description" : "The valuation conclusion may be expressed as a single value or a range of values. When expressed as a range of values, the business valuator is indicating the final value of the business or the interest in the business being valued will fall within the range.",
+  "description_en" : "Valuation conclusion",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 16, 8, 49, 518565000 ],
+  "lastEdited" : [ 2025, 2, 27, 16, 8, 49, 518563000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
