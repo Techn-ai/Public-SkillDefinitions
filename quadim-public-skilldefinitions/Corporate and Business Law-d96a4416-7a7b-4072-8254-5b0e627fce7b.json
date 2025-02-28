@@ -1,0 +1,42 @@
+{
+  "name" : "Corporate and Business Law",
+  "name_en" : null,
+  "id" : "d96a4416-7a7b-4072-8254-5b0e627fce7b",
+  "description" : "Business and Corporate Law Concerns All Aspects of Business Entities. Business and corporate law concerns the formation, day-to-day running, and dissolution of various types of business entities. Business owners, partners, shareholders, and members face many legal issues and inquiries in running a business.",
+  "description_en" : "Corporate and Business Law",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 16, 6, 24, 89479000 ],
+  "lastEdited" : [ 2025, 2, 27, 16, 6, 24, 89477000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
