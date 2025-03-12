@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Compute",
+  "name_en" : null,
+  "id" : "033739ad-d117-46d1-a8b1-7c9f163a9c38",
+  "description" : "Azure Compute is a set of cloud computing services provided by Microsoft Azure that offer scalable and flexible solutions for running applications and workloads in the cloud. It provides services such as virtual machines, containers, serverless computing, and batch processing to meet a wide range of computing demands.",
+  "description_en" : "Azure Compute",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 28, 54, 546874000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 28, 54, 546872000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
