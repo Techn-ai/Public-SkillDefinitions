@@ -1,0 +1,36 @@
+{
+  "name" : "Tax computation",
+  "name_en" : null,
+  "id" : "a08b892f-b517-44be-8b3a-66ecb6238df4",
+  "description" : "A tax computation is a statement showing the tax adjustments to the accounting profit to arrive at the income that is chargeable to tax. Tax adjustments include non-deductible expenses, non-taxable receipts, further deductions and capital allowances.",
+  "description_en" : "Tax computation",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 28, 9, 11, 59, 723116000 ],
+  "lastEdited" : [ 2025, 2, 28, 9, 11, 59, 723114000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
