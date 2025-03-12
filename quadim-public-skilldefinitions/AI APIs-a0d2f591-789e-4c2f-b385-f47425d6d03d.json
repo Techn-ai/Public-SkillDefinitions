@@ -1,0 +1,36 @@
+{
+  "name" : "AI APIs",
+  "name_en" : null,
+  "id" : "a0d2f591-789e-4c2f-b385-f47425d6d03d",
+  "description" : "An AI API is a programming interface that allows developers and enterprises to leverage AI features and services into their applications. While AI can be integrated directly into functionalities and applications, it requires in-depth knowledge of artificial intelligence and machine learning.",
+  "description_en" : "AI APIs",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 19, 1, 33, 73763000 ],
+  "lastEdited" : [ 2025, 3, 4, 19, 1, 33, 73762000 ],
+  "hide" : false,
+  "public" : false,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
