@@ -38,7 +38,7 @@
   "relatesToSkill" : [ {
     "name" : "Xamarin",
     "name_en" : null,
-    "id" : "1d48d1a0-14f3-4b30-ad16-7d475de251bc",
+    "id" : "88f1fdcd-6601-4f68-86f7-6bffb0c5b57e",
     "description" : "Xamarin",
     "description_en" : "Xamarin",
     "coversElement" : {
@@ -61,8 +61,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 3, 12, 15, 16, 26, 77522000 ],
-    "lastEdited" : [ 2025, 3, 12, 15, 16, 26, 77522000 ],
+    "createdAt" : [ 2025, 3, 12, 15, 16, 20, 904091000 ],
+    "lastEdited" : [ 2025, 3, 12, 15, 16, 20, 904091000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
