@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Express Route",
+  "name_en" : null,
+  "id" : "9fc78555-eee8-448a-95a3-69a935c25365",
+  "description" : "Extend your on-premises networks to the Microsoft cloud over a private connection with the help of a connectivity provider. ExpressRoute connections don't route through the public internet, providing users with more reliability, faster speeds, consistent latency, and higher security.",
+  "description_en" : "Azure Express Route",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 41, 54, 289838000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 41, 54, 289836000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
