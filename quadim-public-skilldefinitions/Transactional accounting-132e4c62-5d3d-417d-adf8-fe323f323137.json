@@ -1,0 +1,74 @@
+{
+  "name" : "Transactional accounting",
+  "name_en" : null,
+  "id" : "132e4c62-5d3d-417d-adf8-fe323f323137",
+  "description" : "Transactional accounting works much the same way. It focuses on the basic tasks - recording financial transactions, ensuring compliance with laws, and producing financial statements. This is great for businesses that just need their day-to-day books kept in order and their taxes filed correctly",
+  "description_en" : "Transactional accounting",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ {
+    "id" : "799ea433-3a9d-4ebd-8245-13995d09d260",
+    "name" : "Accounting",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 28, 9, 13, 45, 253426000 ],
+  "lastEdited" : [ 2025, 2, 28, 9, 13, 45, 253423000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Accounting",
+    "name_en" : null,
+    "id" : "d610556f-e3c2-4b1a-842b-4fb8213d00d6",
+    "description" : "Accounting",
+    "description_en" : "Accounting",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 12, 15, 15, 57, 701464000 ],
+    "lastEdited" : [ 2025, 3, 12, 15, 15, 57, 701465000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
