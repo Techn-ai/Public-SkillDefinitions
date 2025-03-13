@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Machine Learning",
+  "name_en" : null,
+  "id" : "a48681c3-c480-4ed0-beac-7492a03f259e",
+  "description" : "Azure Machine Learning is a comprehensive machine learning platform that supports language model fine-tuning and deployment. Using the Azure Machine Learning model catalog, users can create an endpoint for Azure OpenAI Service and use RESI APIs to integrate models into applications",
+  "description_en" : "Azure Machine Learning",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 18, 59, 43, 900526000 ],
+  "lastEdited" : [ 2025, 3, 4, 18, 59, 43, 900524000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
