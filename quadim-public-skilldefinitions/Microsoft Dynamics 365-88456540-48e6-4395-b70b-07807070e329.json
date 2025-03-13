@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Dynamics 365",
+  "name_en" : null,
+  "id" : "88456540-48e6-4395-b70b-07807070e329",
+  "description" : "Microsoft Dynamics 365 offers a comprehensive suite of applications covering all aspects of a business, from accounting and finance to sales and marketing. Its powerful tools generate insightful reports for data analysis of all departments so businesses can operate smoothly and progressively.",
+  "description_en" : "Microsoft Dynamics 365",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 22, 11, 822219000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 22, 11, 822217000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
