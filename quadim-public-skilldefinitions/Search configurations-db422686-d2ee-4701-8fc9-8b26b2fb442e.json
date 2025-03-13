@@ -1,0 +1,36 @@
+{
+  "name" : "Search configurations",
+  "name_en" : null,
+  "id" : "db422686-d2ee-4701-8fc9-8b26b2fb442e",
+  "description" : "Search configurations are sets of rules that affect the display of search results. When a site visitor issues a search query on the Commerce site, ATG platform components determine which search configuration to associate with the query, based on the visitor's language and the user segments he or she is a member of.",
+  "description_en" : "Search configurations",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 18, 55, 265049000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 18, 55, 265047000 ],
+  "hide" : false,
+  "public" : false,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
