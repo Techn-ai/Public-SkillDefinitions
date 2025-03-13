@@ -1,0 +1,36 @@
+{
+  "name" : "SharePoint Framework (SPFx)",
+  "name_en" : null,
+  "id" : "fd6cdd87-be45-418c-9190-182c96584341",
+  "description" : "SharePoint Framework (SPFx) is a model for building customizations on the SharePoint platform. The Framework is based on the concept of building client-side solutions which integrate with the modern SharePoint UX.",
+  "description_en" : "SharePoint Framework (SPFx)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 20, 1, 650784000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 20, 1, 650782000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
