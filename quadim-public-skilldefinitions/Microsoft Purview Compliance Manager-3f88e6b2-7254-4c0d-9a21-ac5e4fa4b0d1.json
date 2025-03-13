@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Purview Compliance Manager",
+  "name_en" : null,
+  "id" : "3f88e6b2-7254-4c0d-9a21-ac5e4fa4b0d1",
+  "description" : "Microsoft Purview Compliance Manager is a solution that helps you automatically assess and manage compliance across your multicloud environment",
+  "description_en" : "Microsoft Purview Compliance Manager",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 17, 40, 34, 375518000 ],
+  "lastEdited" : [ 2025, 3, 4, 17, 40, 34, 375516000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
