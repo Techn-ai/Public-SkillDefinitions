@@ -1,0 +1,38 @@
+{
+  "name" : "Multdimensional analysis",
+  "name_en" : null,
+  "id" : "535b5447-4ad1-425f-83c4-81bf9c466700",
+  "description" : "Multidimensional analysis is the analysis of dimension objects organized in meaningful hierarchies. Multidimensional analysis allows users to observe data from various viewpoints. This enables them to spot trends or exceptions in the data. A hierarchy is an ordered series of related dimensions.",
+  "description_en" : "Multdimensional analysis",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 18, 22, 41, 739996000 ],
+  "lastEdited" : [ 2025, 3, 4, 18, 22, 41, 739995000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
