@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Bots",
+  "name_en" : null,
+  "id" : "1511843f-c08d-4c65-9989-ba1919f4cc10",
+  "description" : "Bots are software applications that interact with users through text-based conversations. Bots follow predefined rules to answer questions or do specific tasks. AI-powered bots use artificial intelligence to understand natural language, have complex conversations, and handle more tasks.",
+  "description_en" : "Microsoft Bots",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 11, 55, 298250000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 11, 55, 298248000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
