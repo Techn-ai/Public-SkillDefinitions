@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Table storage",
+  "name_en" : null,
+  "id" : "fcf94ad1-3479-4647-b600-b1690f77ee7b",
+  "description" : "Azure Table storage is a service that stores large amounts of structured NoSQL data in the cloud, providing a key/attribute store with a schema-less design. Azure Cosmos DB provides a Table API for applications that are written for Azure Table storage that need premium capabilities like: Turnkey global distribution.",
+  "description_en" : "Azure Table storage",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 36, 26, 642773000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 36, 26, 642771000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
