@@ -1,0 +1,36 @@
+{
+  "name" : "Data integration",
+  "name_en" : null,
+  "id" : "00f47894-6bf7-47ff-8e1d-2a0fc43b52f5",
+  "description" : "Data integration refers to the process of combining, sharing, or synchronizing data from multiple sources to provide users with a unified view. There are a wide range of possible applications for data integration, from commercial to scientific.",
+  "description_en" : "Data integration",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 58, 59, 859963000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 58, 59, 859961000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
