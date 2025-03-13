@@ -1,0 +1,38 @@
+{
+  "name" : "Microsoft Dashboards",
+  "name_en" : null,
+  "id" : "3eeb764c-9a76-44c3-b3aa-8de2f3f1114b",
+  "description" : "Dashboards are collections of charts relating to Microsoft Dataverse tables. There are two types of dashboards, user dashboards and system dashboards. An app user can create a dashboard visible only to them in the app areas where they have privileges",
+  "description_en" : "Microsoft Dashboards",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 25, 39, 810724000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 25, 39, 810721000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
