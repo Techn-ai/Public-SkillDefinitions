@@ -1,0 +1,44 @@
+{
+  "name" : "Microsoft Licensing Models",
+  "name_en" : null,
+  "id" : "05f0e17d-8c38-4031-a7d3-b9201219a10c",
+  "description" : "Microsoft has four main licensing units of measure that determine how customers are charged. These four—Per-User, Per-Device, capacity-based, and consumption-based—are used across Microsoft product types and purchase agreements.",
+  "description_en" : "Microsoft Licensing Models",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 17, 39, 44, 158511000 ],
+  "lastEdited" : [ 2025, 3, 4, 17, 39, 44, 158509000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
