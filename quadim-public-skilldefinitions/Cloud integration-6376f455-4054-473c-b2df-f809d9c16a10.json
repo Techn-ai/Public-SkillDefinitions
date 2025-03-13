@@ -1,0 +1,36 @@
+{
+  "name" : "Cloud integration",
+  "name_en" : null,
+  "id" : "6376f455-4054-473c-b2df-f809d9c16a10",
+  "description" : "At its most basic level, cloud integration means bringing multiple cloud environments together — either in a hybrid deployment or as multiple public clouds — so that they can operate as a single, cohesive IT infrastructure for an enterprise.",
+  "description_en" : "Cloud integration",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 7, 50, 777057000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 7, 50, 777055000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
