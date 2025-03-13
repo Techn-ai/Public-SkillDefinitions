@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Migrate",
+  "name_en" : null,
+  "id" : "fa205aef-c39f-48fc-bff2-3576d9d790ee",
+  "description" : "Azure Migrate is a Microsoft service that helps an enterprise assess how its on-premises workloads will perform, and how much they will cost to host, in the Azure public cloud. While Azure Migrate helps with planning a cloud migration, it does not actually transfer on-premises virtual machines (VMs) to the Azure cloud.",
+  "description_en" : "Azure Migrate",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 17, 50, 140365000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 17, 50, 140363000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
