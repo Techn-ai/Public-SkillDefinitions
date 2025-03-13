@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Dynamics 365 CRM",
+  "name_en" : null,
+  "id" : "5a0929ea-5aae-46d1-ba10-a373bf1e7a91",
+  "description" : "Customer relationship management (CRM) is a set of integrated, data-driven software solutions that allow your company to manage, track, and store information related to your current and potential customers. By keeping this information in a centralized system, business teams have access to the insights they need, the moment they need them.",
+  "description_en" : "Microsoft Dynamics 365 CRM",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 23, 43, 688541000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 23, 43, 688539000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
