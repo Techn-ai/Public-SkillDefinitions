@@ -1,0 +1,36 @@
+{
+  "name" : "Azure Kubernetes Service (AKS)",
+  "name_en" : null,
+  "id" : "ba24e3c9-8ed0-4d4c-9f7b-1c96a0f79ee7",
+  "description" : "Azure Kubernetes Service (AKS) is a fully managed Kubernetes service that simplifies cluster management and reduces operational overhead. It offers autoscaling for seamless application scaling, enterprise-grade security features, and integration with popular development tools and CI/CD pipelines.",
+  "description_en" : "Azure Kubernetes Service (AKS)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 32, 30, 304169000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 32, 30, 304167000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
