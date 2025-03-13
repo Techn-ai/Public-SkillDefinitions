@@ -1,0 +1,36 @@
+{
+  "name" : "SharePoint Designer",
+  "name_en" : null,
+  "id" : "97ca00b7-c922-4d85-8a43-1aaeb02a5d4b",
+  "description" : "SharePoint Designer is Microsoft's home-grown web and application design program. Its goal is to help people build custom, data-rich SharePoint sites and applications without writing code. Its features also allow people to create workflows to automate tasks and processes in any organization.",
+  "description_en" : "SharePoint Designer",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 16, 19, 29, 801749000 ],
+  "lastEdited" : [ 2025, 3, 4, 16, 19, 29, 801747000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
