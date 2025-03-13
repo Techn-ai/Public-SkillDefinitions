@@ -1,0 +1,36 @@
+{
+  "name" : "OLAP cubes",
+  "name_en" : null,
+  "id" : "e66f5ea0-1d1c-4564-a76c-98d2963f6db1",
+  "description" : "In traditional OLAP systems, OLAP cubes serve as multidimensional staging platforms that allow users to combine data into organized structures for more efficient analysis. OLAP cubes are usually grouped by business function, so teams can easily find the data sets relevant to their business questions.",
+  "description_en" : "OLAP cubes",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 18, 21, 56, 197943000 ],
+  "lastEdited" : [ 2025, 3, 4, 18, 21, 56, 197941000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
