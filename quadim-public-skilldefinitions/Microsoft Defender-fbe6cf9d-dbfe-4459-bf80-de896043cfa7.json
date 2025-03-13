@@ -1,0 +1,36 @@
+{
+  "name" : "Microsoft Defender",
+  "name_en" : null,
+  "id" : "fbe6cf9d-dbfe-4459-bf80-de896043cfa7",
+  "description" : "Microsoft Defender for Cloud plays an important part in your governance strategy. It helps you stay on top of security, because it:\n\nProvides a unified view of security across your workloads\nCollects, searches, and analyzes security data from various sources, which includes firewalls and other partner solutions\nProvides actionable security recommendations to fix issues before they can be exploited\nApplies security policies across your hybrid cloud workloads to ensure compliance with security standards\nMany security features, like security policy and recommendations, are available for free. Some of the more advanced features, like just-in-time VM access and hybrid workload support, are available under the Defender for Cloud Standard tier. Just-in-time VM access can help reduce the network attack surface by controlling access to management ports on Azure VMs.",
+  "description_en" : "Microsoft Defender",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 4, 15, 47, 43, 68319000 ],
+  "lastEdited" : [ 2025, 3, 4, 15, 47, 43, 68317000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
