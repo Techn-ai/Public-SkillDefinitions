@@ -1,0 +1,36 @@
+{
+  "name" : "Web Content Accessibility Guidelines (WCAG)",
+  "name_en" : null,
+  "id" : "5949faad-ec6e-4556-8a74-a4a22a83856a",
+  "description" : "The Web Content Accessibility Guidelines (WCAG), developed by the World Wide Web Consortium, are technical standards that help make the digital world accessible to people with disabilities. Numerous stakeholders, including disability advocacy groups, government agencies, and accessibility research organizations, collaborated to create these guidelines, which are considered the universal standard for digital accessibility.",
+  "description_en" : "Web Content Accessibility Guidelines (WCAG)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 9, 31, 35, 312734000 ],
+  "lastEdited" : [ 2025, 3, 13, 9, 31, 35, 312733000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
