@@ -1,0 +1,36 @@
+{
+  "name" : "Salesforce Journey Builder",
+  "name_en" : null,
+  "id" : "3f8a8f58-a846-4047-b190-3c7fa9626997",
+  "description" : "Journey Builder is a Marketing Cloud Engagement application used for creating responsive automated multichannel campaigns. Use Journey Builder to design a communication plan that reaches customers at every stage of their journey with your brand.",
+  "description_en" : "Salesforce Journey Builder",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 12, 50, 9, 498840000 ],
+  "lastEdited" : [ 2025, 3, 13, 12, 50, 9, 498838000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
