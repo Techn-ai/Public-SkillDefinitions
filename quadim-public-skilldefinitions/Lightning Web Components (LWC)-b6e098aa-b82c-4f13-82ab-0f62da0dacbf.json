@@ -1,0 +1,36 @@
+{
+  "name" : "Lightning Web Components (LWC)",
+  "name_en" : null,
+  "id" : "b6e098aa-b82c-4f13-82ab-0f62da0dacbf",
+  "description" : "Lightning Web Components (LWC) are a user interface (UI) framework that Salesforce Developers use to create customized pages and functions on the Salesforce platform. LWCs use a standardized JavaScript framework, HTML, and CSS, without a third-party framework.",
+  "description_en" : "Lightning Web Components (LWC)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 8, 43, 44, 573082000 ],
+  "lastEdited" : [ 2025, 3, 13, 8, 43, 44, 573080000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
