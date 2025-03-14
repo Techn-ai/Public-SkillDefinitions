@@ -1,0 +1,44 @@
+{
+  "name" : "Salesforce",
+  "name_en" : null,
+  "id" : "c17a93eb-319b-4d1f-9700-3cbb7b6f5dd4",
+  "description" : "Salesforce is the world's leading customer relationship management technology (What is CRM?), helping you build and improve your customer relationships. In 1999 we pioneered cloud-based CRM and today we're helping organisations of all sizes re-imagine their business for the world of AI.",
+  "description_en" : "Salesforce",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 11, 1, 23, 264454000 ],
+  "lastEdited" : [ 2025, 3, 13, 11, 1, 23, 264452000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
