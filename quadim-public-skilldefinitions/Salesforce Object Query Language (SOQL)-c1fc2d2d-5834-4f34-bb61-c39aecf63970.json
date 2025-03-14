@@ -1,0 +1,36 @@
+{
+  "name" : "Salesforce Object Query Language (SOQL)",
+  "name_en" : null,
+  "id" : "c1fc2d2d-5834-4f34-bb61-c39aecf63970",
+  "description" : "Salesforce Object Query Language (SOQL) is used to search your Salesforce data for specific records. SOQL is similar to the SELECT statement in the widely used Structured Query Language (SQL) but is designed specifically for Salesforce data.",
+  "description_en" : "Salesforce Object Query Language (SOQL)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 8, 45, 15, 443311000 ],
+  "lastEdited" : [ 2025, 3, 13, 8, 45, 15, 443309000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
