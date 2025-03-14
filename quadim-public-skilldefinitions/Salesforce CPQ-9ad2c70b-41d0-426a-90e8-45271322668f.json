@@ -1,0 +1,36 @@
+{
+  "name" : "Salesforce CPQ",
+  "name_en" : null,
+  "id" : "9ad2c70b-41d0-426a-90e8-45271322668f",
+  "description" : "Salesforce CPQ (Configure, Price, Quote) is a tool that helps sales teams quickly generate accurate quotes for complex products or services by automating the quoting process.",
+  "description_en" : "Salesforce CPQ",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 9, 0, 15, 983485000 ],
+  "lastEdited" : [ 2025, 3, 13, 9, 0, 15, 983483000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
