@@ -1,0 +1,36 @@
+{
+  "name" : "Sonatype Nexus Repository",
+  "name_en" : null,
+  "id" : "77ae92ba-4794-408e-983e-70f50a39e6c2",
+  "description" : "Sonatype Nexus Repository is a software repository manager, available under both an open-source license and a proprietary license. It can combine repositories for various programming languages, so that a single server can be used as a source for building software.",
+  "description_en" : "Sonatype Nexus Repository",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 8, 49, 21, 217101000 ],
+  "lastEdited" : [ 2025, 3, 13, 8, 49, 21, 217099000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
