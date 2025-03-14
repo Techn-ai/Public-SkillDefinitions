@@ -1,0 +1,44 @@
+{
+  "name" : "Requirement Gathering",
+  "name_en" : null,
+  "id" : "3ec13c43-a8e0-41b5-8b23-cbbd99120ebb",
+  "description" : "Requirements gathering is the process of understanding what you are trying to build and why you are building it. Requirements gathering is often regarded as a part of developing software applications or of cyber-physical systems like aircraft, spacecraft, and automobiles (where specifications cover both software and hardware). It can, however, be applied to any product or project, from designing a new sailboat to building a patio deck to remodeling a bathroom.",
+  "description_en" : "Requirement Gathering",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 10, 55, 57, 867693000 ],
+  "lastEdited" : [ 2025, 3, 13, 10, 55, 57, 867691000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
