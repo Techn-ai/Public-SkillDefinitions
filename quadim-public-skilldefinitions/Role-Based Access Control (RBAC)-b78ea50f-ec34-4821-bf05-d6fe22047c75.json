@@ -1,0 +1,36 @@
+{
+  "name" : "Role-Based Access Control (RBAC)",
+  "name_en" : null,
+  "id" : "b78ea50f-ec34-4821-bf05-d6fe22047c75",
+  "description" : "Role-based access control allows organizations to assign one or more roles to each user or assign permissions individually. The goal is to define permissions that allow users to perform their tasks without further changes. Organizations use Identity and Access Management (IAM) systems to implement and monitor RBAC.",
+  "description_en" : "Role-Based Access Control (RBAC)",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 27, 14, 149402000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 27, 14, 149400000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
