@@ -1,0 +1,36 @@
+{
+  "name" : "Cloud security posture management (CSPM)",
+  "name_en" : null,
+  "id" : "9736218d-6c3c-4043-9cd3-265767db9dfe",
+  "description" : "Cloud security posture management (CSPM) is the practice of controlling public cloud infrastructure risk. CSPM tools automate the detection and remediation of misconfigurations across cloud resources (e.g., Amazon EC2 instances).",
+  "description_en" : "Cloud security posture management (CSPM)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 28, 43, 902897000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 28, 43, 902895000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
