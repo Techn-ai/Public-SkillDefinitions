@@ -1,0 +1,36 @@
+{
+  "name" : "OpenVPN",
+  "name_en" : null,
+  "id" : "2ba1f28a-93bb-42cf-8f87-96831f114455",
+  "description" : "OpenVPN, or Open Virtual Private Network, is an open-source system that creates a private and secure tunnel between networks. It refers to multiple different but related things: The open-source OpenVPN protocol used to create encrypted tunnels between networks and establish a VPN connection.",
+  "description_en" : "OpenVPN",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 50, 4, 300127000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 50, 4, 300125000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
