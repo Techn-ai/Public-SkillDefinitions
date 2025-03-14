@@ -1,0 +1,36 @@
+{
+  "name" : "Privileged Access Management (PAM)",
+  "name_en" : null,
+  "id" : "0156c850-56e9-4d8c-996c-9cf96b66bd4a",
+  "description" : "Privileged access management (PAM) has to do with the processes and technologies necessary for securing privileged accounts. It is a subset of IAM that allows you to control and monitor the activity of privileged users (who have access above and beyond standard users) once they are logged into the system.",
+  "description_en" : "Privileged Access Management (PAM)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 27, 55, 635721000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 27, 55, 635719000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
