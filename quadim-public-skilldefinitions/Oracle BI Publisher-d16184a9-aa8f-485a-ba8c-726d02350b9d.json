@@ -1,0 +1,36 @@
+{
+  "name" : "Oracle BI Publisher",
+  "name_en" : null,
+  "id" : "d16184a9-aa8f-485a-ba8c-726d02350b9d",
+  "description" : "Oracle Business Intelligence Publisher (BI Publisher, formerly XML Publisher) is an enterprise reporting solution that streamlines report and form generation. A primary feature of Oracle's BI Publisher product is the separation of the data extraction process from the report layout.",
+  "description_en" : "Oracle BI Publisher",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 1, 11, 506897000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 1, 11, 506895000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
