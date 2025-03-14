@@ -1,0 +1,36 @@
+{
+  "name" : "Oracle Data Integrator",
+  "name_en" : null,
+  "id" : "99b33b49-9fa2-4dd0-8d23-de0f2a082676",
+  "description" : "Oracle Data Integrator is an extract, load, transform tool produced by Oracle that offers a graphical environment to build, manage and maintain data integration processes in business intelligence systems.",
+  "description_en" : "Oracle Data Integrator",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 0, 23, 626071000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 0, 23, 626069000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
