@@ -1,0 +1,36 @@
+{
+  "name" : "PKI & Digital Certificates",
+  "name_en" : null,
+  "id" : "dad3a49d-4942-4e87-b5c9-39ab76fa1e7b",
+  "description" : "Public key infrastructure includes the policies, roles, hardware, software, and procedures required to create, manage, distribute, use, store, and revoke digital certificates. A digital certificate works like a passport or driver's license by proving your identity and providing certain allowances.",
+  "description_en" : "PKI & Digital Certificates",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 34, 44, 19541000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 34, 44, 19539000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
