@@ -1,0 +1,36 @@
+{
+  "name" : "WireGuard",
+  "name_en" : null,
+  "id" : "92e125af-e83b-46ef-aeb5-f9fe5325d74e",
+  "description" : "WireGuard is a secure network tunnel, operating at layer 3, implemented as a kernel virtual network interface for Linux, which aims to replace both IPsec for most use cases, as well as popular user space and/or TLS-based solutions like OpenVPN, while being more secure, more performant, and easier to use.",
+  "description_en" : "WireGuard",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 50, 47, 704370000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 50, 47, 704368000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
