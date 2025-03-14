@@ -1,0 +1,36 @@
+{
+  "name" : "Salesforce Integration Cloud",
+  "name_en" : null,
+  "id" : "bdc733aa-e54d-47d3-9726-d5eb4dc1cfe3",
+  "description" : "Salesforce Integration Cloud allows you to integrate business apps and access data on varied platforms. As you respond to your customers in time and resolve their difficulties, you experience an improved customer experience.",
+  "description_en" : "Salesforce Integration Cloud",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 8, 39, 47, 396180000 ],
+  "lastEdited" : [ 2025, 3, 13, 8, 39, 47, 396178000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
