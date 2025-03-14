@@ -1,0 +1,36 @@
+{
+  "name" : "Oracle Analytics Cloud (OAC)",
+  "name_en" : null,
+  "id" : "c1438c9a-b31e-4b58-bc2d-6a334beb5997",
+  "description" : "Oracle Analytics Cloud (OAC) is a fully managed cloud-based BI and analytics platform from Oracle. It is designed as a single and complete platform that empowers business users and analysts to ask questions about their data — across any environment and from any device.",
+  "description_en" : "Oracle Analytics Cloud (OAC)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 1, 46, 982202000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 1, 46, 982200000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
