@@ -1,0 +1,36 @@
+{
+  "name" : "Cloud security configuration management (CSCM)",
+  "name_en" : null,
+  "id" : "757ffd69-9f2c-44cd-9e73-7f65b7225eb2",
+  "description" : "Cloud security configuration management (CSCM) is the process of managing the security settings of cloud-based resources to ensure they are secure and compliant. The process includes identifying misconfigurations, assessing risk, and remediating vulnerabilities.",
+  "description_en" : "Cloud security configuration management (SCM)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "totto@exoreaction.com",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "totto@exoreaction.com",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 3, 14, 15, 29, 22, 942586000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 37, 4, 594363000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
