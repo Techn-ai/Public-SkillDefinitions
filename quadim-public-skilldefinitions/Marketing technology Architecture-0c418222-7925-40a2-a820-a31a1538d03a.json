@@ -1,0 +1,36 @@
+{
+  "name" : "Marketing technology Architecture",
+  "name_en" : null,
+  "id" : "0c418222-7925-40a2-a820-a31a1538d03a",
+  "description" : "Marketing technology (MarTech) architecture refers to the design, structure, and integration of technology systems and tools that enable businesses to manage and execute their marketing strategies efficiently. A well-designed MarTech architecture provides a framework for how different marketing technologies interact with each other to support a company's marketing goals.\n\nMarTech architecture is a critical component of any successful marketing strategy. It provides a framework for how different marketing technologies work together to support a company's marketing goals, improve efficiency, and drive ROI. By investing in a well-designed MarTech architecture, businesses can stay agile and responsive to changing market conditions, improve collaboration and communication among stakeholders, and create more targeted and personalized marketing campaigns.",
+  "description_en" : "Marketing technology Architecture",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 12, 41, 15, 427669000 ],
+  "lastEdited" : [ 2025, 3, 13, 12, 41, 15, 427666000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
