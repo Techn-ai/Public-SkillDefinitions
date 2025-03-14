@@ -1,0 +1,36 @@
+{
+  "name" : "Oracle E-Business Suite (EBS)",
+  "name_en" : null,
+  "id" : "74e89d85-bfa1-460c-ab12-78bb6fb54d30",
+  "description" : "E-Business Suite is an integrated set of business applications for automating CRM, ERP and SCM processes. Other core functions and features include human capital management, asset lifecycle management, order management, procurement, project portfolio management, and business intelligence and analytics.",
+  "description_en" : "Oracle E-Business Suite (EBS)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 14, 56, 1, 714335000 ],
+  "lastEdited" : [ 2025, 3, 14, 14, 56, 1, 714333000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
