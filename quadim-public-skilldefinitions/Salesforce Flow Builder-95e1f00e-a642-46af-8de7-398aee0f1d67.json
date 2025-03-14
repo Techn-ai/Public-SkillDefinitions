@@ -1,0 +1,36 @@
+{
+  "name" : "Salesforce Flow Builder",
+  "name_en" : null,
+  "id" : "95e1f00e-a642-46af-8de7-398aee0f1d67",
+  "description" : "Flow Builder is a declarative interface used to build individual flows in Salesforce. Flow Builder provides a user-friendly, drag-and-drop interface that allows users to design and construct flows visually.",
+  "description_en" : "Salesforce Flow Builder",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 10, 57, 55, 495754000 ],
+  "lastEdited" : [ 2025, 3, 13, 10, 57, 55, 495753000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
