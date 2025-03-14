@@ -1,0 +1,36 @@
+{
+  "name" : "Oracle GoldenGate",
+  "name_en" : null,
+  "id" : "26f4c60e-71ee-42dd-854c-cf05138026b6",
+  "description" : "Oracle GoldenGate is a software product that allows you to replicate, filter, and transform data from one database to another database. Using Oracle GoldenGate, you can move committed transactions across multiple heterogeneous systems in your enterprise.",
+  "description_en" : "Oracle GoldenGate",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 14, 59, 41, 886377000 ],
+  "lastEdited" : [ 2025, 3, 14, 14, 59, 41, 886375000 ],
+  "hide" : false,
+  "public" : true,
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ ]
+}
