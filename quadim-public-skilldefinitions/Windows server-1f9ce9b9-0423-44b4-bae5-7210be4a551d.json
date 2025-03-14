@@ -1,0 +1,36 @@
+{
+  "name" : "Windows server",
+  "name_en" : null,
+  "id" : "1f9ce9b9-0423-44b4-bae5-7210be4a551d",
+  "description" : "Windows Server is the platform for building an infrastructure of connected applications, networks, and web services, from the workgroup to the data center. Windows Server bridges on-premises environments with Azure, adding additional layers of security while helping you modernize your applications and infrastructure.",
+  "description_en" : "Windows server",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 12, 12, 0, 499241000 ],
+  "lastEdited" : [ 2025, 3, 13, 12, 12, 0, 499239000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
