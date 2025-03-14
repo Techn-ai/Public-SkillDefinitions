@@ -38,7 +38,7 @@
   "relatesToSkill" : [ {
     "name" : "HTML",
     "name_en" : null,
-    "id" : "e3986af5-4fab-4832-9402-eab97af735fc",
+    "id" : "04a942ee-5cd2-4c9f-bcc2-d14e23884653",
     "description" : "HTML",
     "description_en" : "HTML",
     "coversElement" : {
@@ -61,8 +61,8 @@
     "editedByUsername" : null,
     "networkReference" : null,
     "currentVersion" : 0,
-    "createdAt" : [ 2025, 3, 13, 15, 25, 3, 136323000 ],
-    "lastEdited" : [ 2025, 3, 13, 15, 25, 3, 136323000 ],
+    "createdAt" : [ 2025, 3, 13, 15, 24, 54, 801999000 ],
+    "lastEdited" : [ 2025, 3, 13, 15, 24, 54, 802000000 ],
     "hide" : false,
     "public" : false,
     "relatesToSkill" : [ ],
