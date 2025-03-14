@@ -1,0 +1,38 @@
+{
+  "name" : "Salesforce configuration",
+  "name_en" : null,
+  "id" : "ae588307-4302-40a9-901a-3693b92fff33",
+  "description" : "Configuration refers to the process of setting up and modifying Salesforce using its built-in tools and features without altering its underlying code. It involves using point-and-click tools to modify the system behavior. Examples of Configuration: Creating and customizing objects, fields, and page layouts.",
+  "description_en" : "Salesforce configuration",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 8, 37, 39, 735228000 ],
+  "lastEdited" : [ 2025, 3, 13, 8, 37, 39, 735226000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
