@@ -1,0 +1,36 @@
+{
+  "name" : "Network security architecture",
+  "name_en" : null,
+  "id" : "c4b40c0c-cab8-4466-8339-65921ac88a38",
+  "description" : "A network security architecture incorporates various security components and technologies to safeguard the network's data flow, detect intrusions, and mitigate vulnerabilities. To remain effective it should continuously adapt to evolving threats and new technologies.",
+  "description_en" : "Network security architecture",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 12, 8, 315923000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 12, 8, 315921000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
