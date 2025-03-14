@@ -1,0 +1,36 @@
+{
+  "name" : "Infrastructure as Code (IaC)",
+  "name_en" : null,
+  "id" : "42dda0c4-b256-4fc4-bd57-cb92e003d8c7",
+  "description" : "Infrastructure as code (IaC) uses DevOps methodology and versioning with a descriptive model to define and deploy infrastructure, such as networks, virtual machines, load balancers, and connection topologies. Just as the same source code always generates the same binary, an IaC model generates the same environment every time it deploys.",
+  "description_en" : "Infrastructure as Code (IaC)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "707f5975-8970-40d3-8d1b-05b5af22e4f0",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 13, 12, 15, 40, 566056000 ],
+  "lastEdited" : [ 2025, 3, 13, 12, 15, 40, 566054000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
