@@ -1,0 +1,78 @@
+{
+  "name" : "GenAI UX and UI Prototyping",
+  "name_en" : null,
+  "id" : "f6f60a45-0741-49d2-a55d-e68d300106a4",
+  "description" : "GenAI UX/UI Prototyping is the practice of utilizing generative artificial intelligence (GenAI) tools to conceptualize, design, test, and refine user experience (UX) and user interface (UI) designs rapidly. It leverages AI-driven technologies such as natural language prompts, automated design generation, adaptive user experience simulations, and predictive analytics to accelerate design iteration, enhance creativity, and produce user-centric digital products.",
+  "description_en" : "GenAI UX and UI Prototyping",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d1a24047-5b9e-4505-b959-2eabcd3dc8b9",
+    "name" : "Prompt engineering",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 1, 7, 25, 36, 802147000 ],
+  "lastEdited" : [ 2025, 4, 1, 7, 25, 36, 802146000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "0153d978-471c-4cd6-83a9-b6ca57d0e24c",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 9, 931519000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 9, 931519000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
