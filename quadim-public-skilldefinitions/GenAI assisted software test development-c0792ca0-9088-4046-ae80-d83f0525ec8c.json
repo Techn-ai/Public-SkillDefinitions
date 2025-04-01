@@ -1,0 +1,74 @@
+{
+  "name" : "GenAI assisted software test development",
+  "name_en" : null,
+  "id" : "c0792ca0-9088-4046-ae80-d83f0525ec8c",
+  "description" : "GenAI Assisted Software Test Development involves the utilization of generative artificial intelligence (GenAI) technologies to design, generate, automate, and enhance software testing processes. It combines human expertise in software testing methodologies with advanced AI capabilities to accelerate test creation, improve test coverage, predict defect patterns, and optimize quality assurance (QA) workflows.",
+  "description_en" : "GenAI assisted software test development",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "a61f5401-8092-455f-aded-5344f243005f",
+    "name" : "AI-Driven Test Case Generation",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 1, 7, 30, 47, 810873000 ],
+  "lastEdited" : [ 2025, 4, 1, 7, 30, 47, 810871000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "AI-Driven Test Case Generation",
+    "name_en" : null,
+    "id" : "64520480-917c-4f28-89c3-7909331b3331",
+    "description" : "AI-Driven Test Case Generation",
+    "description_en" : "AI-Driven Test Case Generation",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 1, 7, 30, 48, 61751000 ],
+    "lastEdited" : [ 2025, 4, 1, 7, 30, 48, 61751000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
