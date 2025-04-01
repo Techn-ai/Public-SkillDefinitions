@@ -1,0 +1,109 @@
+{
+  "name" : "Prompt-Powered Application Services",
+  "name_en" : null,
+  "id" : "a41b21cd-c66b-4a6e-a1f5-85480cf5db66",
+  "description" : "Prompt-Powered Application Services involve embedding generative AI prompt mechanisms directly within the service layer of software applications to dynamically execute internal functionalities. Developers utilize sophisticated prompt engineering techniques to drive internal application logic, automate decision-making, optimize processes, and enhance responsiveness. This approach empowers applications with adaptive intelligence, enabling them to adjust functionality based on contextual inputs, real-time data, and user interactions.\n\nCore Competencies:\n\nEmbedded Prompt Engineering:\n\nCreating precise, effective prompts tailored to specific internal application services and functionalities.\n\nIteratively refining prompts to optimize AI-driven responses and behaviors.\n\nDynamic Application Logic:\n\nLeveraging generative AI prompts to dynamically manage and execute internal application processes and workflows.\n\nEnsuring seamless integration and performance of prompt-driven services within the broader application architecture.\n\nContext-Aware Adaptability:\n\nDesigning applications capable of understanding and adapting to varying contexts through intelligent prompt management.\n\nEnhancing responsiveness and situational awareness of applications through real-time prompt-driven logic.\n\nAutomated Decision-Making:\n\nEmploying AI prompts to automate complex internal decision-making processes within application services.\n\nReducing manual intervention and increasing efficiency through intelligent prompt-guided automation.\n\nReal-Time Data Processing:\n\nIntegrating prompt-driven logic with real-time data streams to rapidly analyze and respond to changing conditions.\n\nOptimizing data-driven internal services for immediate and accurate processing.\n\nAI-Enhanced User Interaction:\n\nEnhancing user experiences by utilizing prompts to deliver highly customized, contextually relevant functionalities.\n\nEnabling applications to proactively adapt service responses to user behaviors and preferences.\n\nPerformance and Scalability Optimization:\n\nEnsuring the scalability and robustness of prompt-driven services within applications.\n\nContinuously monitoring and fine-tuning prompt mechanisms to maintain optimal performance and resource efficiency.\n\nEthical and Responsible AI Integration:\n\nPromoting transparency, explainability, and accountability in prompt-driven services.\n\nManaging risks related to AI biases, ensuring fair and unbiased application behavior.",
+  "description_en" : "Prompt-Powered Application Services",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "d1a24047-5b9e-4505-b959-2eabcd3dc8b9",
+    "name" : "Prompt engineering",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 1, 7, 36, 50, 383604000 ],
+  "lastEdited" : [ 2025, 4, 1, 7, 36, 50, 383602000 ],
+  "hide" : false,
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "066298b3-9ed1-4541-bf02-6e8e295ac631",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 24, 645779000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 24, 645780000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "066298b3-9ed1-4541-bf02-6e8e295ac631",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 24, 645779000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 24, 645780000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
