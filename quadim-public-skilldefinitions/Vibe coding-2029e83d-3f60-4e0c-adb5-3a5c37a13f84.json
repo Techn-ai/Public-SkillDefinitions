@@ -1,0 +1,112 @@
+{
+  "name" : "Vibe coding",
+  "name_en" : null,
+  "id" : "2029e83d-3f60-4e0c-adb5-3a5c37a13f84",
+  "description" : "Vibe coding (also vibecoding) is an AI-dependent programming technique where a person describes a problem in a few sentences as a prompt to a large language model (LLM) tuned for coding. The LLM generates software, shifting the programmer's role from manual coding to guiding, testing, and refining the AI-generated source code. Vibe coding is claimed by its advocates to allow even amateur programmers to produce software without the extensive training and skills required for software engineering. The term was introduced by Andrej Karpathy in February 2025 and listed in the Merriam-Webster Dictionary the following month as a \"slang & trending\" noun.[Wikipedia]",
+  "description_en" : "Vibe coding",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "9a1608f9-0488-4477-8ded-cf7b7ed8b9bb",
+    "name" : "Large Language Model (LLM)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "57a85563-d942-49cb-8867-a294e58e3d9f",
+    "name" : "Generative artificial intelligence - GenAI",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 1, 8, 7, 32, 948336000 ],
+  "lastEdited" : [ 2025, 4, 1, 8, 7, 32, 948334000 ],
+  "hide" : false,
+  "public" : true,
+  "isExtensionOfSkill" : [ ],
+  "relatesToSkill" : [ {
+    "name" : "Large Language Model (LLM)",
+    "name_en" : null,
+    "id" : "9fac91ba-416f-40cd-b60c-71a1db874560",
+    "description" : "Large Language Model (LLM)",
+    "description_en" : "Large Language Model (LLM)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 13, 390329000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 13, 390330000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Generative artificial intelligence - GenAI",
+    "name_en" : null,
+    "id" : "a0341005-a534-4552-8b3a-90292dd24a75",
+    "description" : "Generative artificial intelligence - GenAI",
+    "description_en" : "Generative artificial intelligence - GenAI",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 13, 392208000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 13, 392209000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ]
+}
