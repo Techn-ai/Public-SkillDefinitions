@@ -1,0 +1,107 @@
+{
+  "name" : "AI-Driven Test Case Generation",
+  "name_en" : null,
+  "id" : "a61f5401-8092-455f-aded-5344f243005f",
+  "description" : "Crafting effective prompts to automatically generate comprehensive and relevant test cases from software requirements and user stories.\n\nValidating and refining AI-generated tests to ensure coverage, clarity, and applicability.",
+  "description_en" : "AI-Driven Test Case Generation",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "d1a24047-5b9e-4505-b959-2eabcd3dc8b9",
+    "name" : "Prompt engineering",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2025, 4, 1, 7, 29, 47, 439116000 ],
+  "lastEdited" : [ 2025, 4, 1, 7, 31, 25, 784306000 ],
+  "hide" : false,
+  "public" : true,
+  "isExtensionOfSkill" : [ {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "066298b3-9ed1-4541-bf02-6e8e295ac631",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 24, 645779000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 24, 645780000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  }, {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "066298b3-9ed1-4541-bf02-6e8e295ac631",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 3, 28, 18, 58, 24, 645779000 ],
+    "lastEdited" : [ 2025, 3, 28, 18, 58, 24, 645780000 ],
+    "hide" : false,
+    "public" : false,
+    "isExtensionOfSkill" : [ ],
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ]
+  } ],
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ]
+}
