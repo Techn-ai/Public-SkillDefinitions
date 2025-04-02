@@ -1,0 +1,116 @@
+{
+  "name" : "AI-Assisted Content Generation",
+  "name_en" : null,
+  "id" : "144aced7-019c-4b19-82ad-a9ae82fc5bb9",
+  "description" : "AI-Assisted Content Generation involves using advanced artificial intelligence, specifically generative AI technologies, to create, optimize, enhance, and personalize digital content across various formats and platforms. Practitioners combine creative writing, strategic content planning, and sophisticated prompt engineering to efficiently generate high-quality content that aligns with audience needs, brand voice, and content objectives.",
+  "description_en" : "AI-Assisted Content Generation",
+  "coversElement" : {
+    "classification" : "Communication"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "d1a24047-5b9e-4505-b959-2eabcd3dc8b9",
+    "name" : "Prompt engineering",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "9ca4b063-b56f-4c03-8ff2-84422bdf679b",
+    "name" : "ChatGPT",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 1, 8, 11, 38, 696210000 ],
+  "lastEdited" : [ 2025, 4, 1, 8, 11, 38, 696208000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Prompt engineering",
+    "name_en" : null,
+    "id" : "a4ac56b7-477f-4ae4-b790-37d968dcfa0a",
+    "description" : "Prompt engineering",
+    "description_en" : "Prompt engineering",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 2, 9, 7, 1, 677341000 ],
+    "lastEdited" : [ 2025, 4, 2, 9, 7, 1, 677342000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "ChatGPT",
+    "name_en" : null,
+    "id" : "598d7095-fdc1-440f-ac3e-1d1e3ecbf799",
+    "description" : "ChatGPT",
+    "description_en" : "ChatGPT",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 2, 9, 6, 49, 526402000 ],
+    "lastEdited" : [ 2025, 4, 2, 9, 6, 49, 526402000 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
