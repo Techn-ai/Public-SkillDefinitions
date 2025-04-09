@@ -1,0 +1,74 @@
+{
+  "name" : "MCP Model Context Protocol",
+  "name_en" : null,
+  "id" : "75bcbb56-98df-4de3-90ed-c2a2592211fa",
+  "description" : "MCP (Model Context Protocol) is a sophisticated communication framework designed to standardize and optimize the interaction between AI models and context providers. This protocol addresses the fundamental challenge of efficiently supplying AI systems with rich, structured contextual information needed for more accurate, relevant, and personalized responses.\nCore Principles\nThe Model Context Protocol is built on several key principles:\nBidirectional Communication: Unlike traditional one-way input systems, MCP establishes a two-way communication channel between AI models and context providers, allowing for dynamic context discovery and refinement during processing.\nContext Separation: MCP clearly separates context information from user queries, enabling more precise context management and preventing context collapse in complex applications.\nStructured Metadata: The protocol enforces a consistent schema for metadata that describes the nature, source, reliability, and temporal aspects of contextual information.\nProgressive Enhancement: Context can be delivered in layers of increasing specificity, allowing models to request additional details only when needed.\nTransactional Context: MCP supports context sessions that persist across multiple interactions, maintaining state while allowing for explicit context switching.\n\nPractical Applications\nMCP is particularly valuable in these scenarios:\nEnterprise AI Systems: Where models need access to organizational knowledge, permissions, and business logic.\nMulti-Modal AI: Systems processing various input types (text, images, voice) that require unified context management.\nAutonomous Systems: Robots or vehicles that must maintain situational awareness across various sensors and information sources.\nPersonal AI Assistants: Applications that personalize responses based on user profiles, preferences, and interaction history.\nDevelopment Environments: IDEs and coding assistants that need to understand project structure, coding standards, and build environments.",
+  "description_en" : "MCP Model Context Protocol",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "5bd21d2b-8699-4aca-bdb0-3dc443211cee",
+    "name" : "JavaScript",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 9, 7, 9, 28, 979942000 ],
+  "lastEdited" : [ 2025, 4, 9, 7, 9, 28, 979934000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "JavaScript",
+    "name_en" : null,
+    "id" : "0f725dd3-b47a-450f-9d91-b2696303bdc8",
+    "description" : "JavaScript",
+    "description_en" : "JavaScript",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 5, 14, 45, 28, 682522480 ],
+    "lastEdited" : [ 2025, 4, 5, 14, 45, 28, 682523514 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
