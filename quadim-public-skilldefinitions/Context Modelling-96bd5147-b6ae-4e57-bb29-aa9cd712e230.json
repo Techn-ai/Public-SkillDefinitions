@@ -1,0 +1,42 @@
+{
+  "name" : "Context Modelling",
+  "name_en" : null,
+  "id" : "96bd5147-b6ae-4e57-bb29-aa9cd712e230",
+  "description" : "Context Modeling is the practice of identifying, defining, and visualizing the environment in which a system, process, or entity operates. It involves analyzing both internal and external elements (such as stakeholders, systems, rules, data, and events) that influence or are influenced by the subject of interest. The goal of context modeling is to provide a clear and shared understanding of the boundaries, interactions, and dependencies that inform design, development, and strategic decisions.",
+  "description_en" : "Context Modelling",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Organizational"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  }, {
+    "skillAreaClassification" : "Domain"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 9, 12, 12, 48, 266502000 ],
+  "lastEdited" : [ 2025, 4, 9, 12, 12, 48, 266498000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
