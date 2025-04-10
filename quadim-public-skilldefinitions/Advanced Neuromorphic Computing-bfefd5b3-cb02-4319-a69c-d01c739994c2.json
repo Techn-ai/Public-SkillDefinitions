@@ -1,0 +1,226 @@
+{
+  "name" : "Advanced Neuromorphic Computing",
+  "name_en" : null,
+  "id" : "bfefd5b3-cb02-4319-a69c-d01c739994c2",
+  "description" : "Neuromorphic computing refers to the use of very large scale integration systems\ncontaining electronic analog circuits to mimic neuro-biological architectures\npresent in the nervous system. It involves the design and development of\nbrain-inspired hardware for improved computational capabilities and energy\nefficiency. This skill requires understanding of neuroscience, electronics,\nnanotechnology, and algorithms. As this technology progresses, it promises to\nsignificantly advance artificial intelligence, machine learning, and robotics.",
+  "description_en" : "Advanced Neuromorphic Computing",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "a8e1a22c-e3e1-40c9-b51d-337896d53aba",
+    "name" : "Neuroscience",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "8674745d-a924-4716-8c19-bb535b1e583c",
+    "name" : "VLSI Design",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "ccc9217c-9c31-4b0b-b5bc-739f9dc157a9",
+    "name" : "Cognitive Computing",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "4989a2e6-f013-4e54-81db-605072deb118",
+    "name" : "Artificial intelligence (AI)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "06452668-0f44-42c5-9a96-a2fa5ebc127a",
+    "name" : "Nanotechnology",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 10, 11, 21, 21, 233706000 ],
+  "lastEdited" : [ 2025, 4, 10, 11, 21, 21, 233693000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Neuroscience",
+    "name_en" : null,
+    "id" : "54b3c00f-c96f-437e-bb4f-3c62264a8bca",
+    "description" : "Neuroscience",
+    "description_en" : "Neuroscience",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 10, 11, 21, 45, 902441256 ],
+    "lastEdited" : [ 2025, 4, 10, 11, 21, 45, 902441404 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "VLSI Design",
+    "name_en" : null,
+    "id" : "b799fa3e-fd56-425a-ae42-0bde67a8a3c8",
+    "description" : "VLSI Design",
+    "description_en" : "VLSI Design",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 10, 11, 21, 45, 906235049 ],
+    "lastEdited" : [ 2025, 4, 10, 11, 21, 45, 906235509 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Cognitive Computing",
+    "name_en" : null,
+    "id" : "96c19e41-abac-4612-a0ed-00d48ca7a726",
+    "description" : "Cognitive Computing",
+    "description_en" : "Cognitive Computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 10, 11, 21, 45, 913122219 ],
+    "lastEdited" : [ 2025, 4, 10, 11, 21, 45, 913122605 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Artificial intelligence (AI)",
+    "name_en" : null,
+    "id" : "a2db9b2f-2f49-4b6a-acf3-6046a793149e",
+    "description" : "Artificial intelligence (AI)",
+    "description_en" : "Artificial intelligence (AI)",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 5, 14, 45, 53, 560229394 ],
+    "lastEdited" : [ 2025, 4, 5, 14, 45, 53, 560229714 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Nanotechnology",
+    "name_en" : null,
+    "id" : "0ac643ed-6724-4aa8-b2f2-9c347e06abdc",
+    "description" : "Nanotechnology",
+    "description_en" : "Nanotechnology",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 10, 11, 21, 45, 920078756 ],
+    "lastEdited" : [ 2025, 4, 10, 11, 21, 45, 920079215 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
