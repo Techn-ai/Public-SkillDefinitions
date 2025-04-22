@@ -1,0 +1,302 @@
+{
+  "name" : "AWS Certificate Manager (ACM)",
+  "name_en" : null,
+  "id" : "32c286fb-12e3-46cc-98b2-7788a2498a77",
+  "description" : "AWS Certificate Manager (ACM) is a managed service provided by Amazon Web Services that streamlines the entire lifecycle of Secure Sockets Layer (SSL) and Transport Layer Security (TLS) certificates. ACM simplifies the complex processes involved in requesting, provisioning, deploying, and managing digital certificates, enabling organizations to secure communications between users and web applications hosted within the AWS ecosystem. By automating certificate renewal and offering seamless integration with other AWS services, ACM significantly reduces operational complexity, enhances security posture, and ensures compliance with industry standards and regulations.",
+  "description_en" : "AWS Certificate Manager (ACM)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "c66d3350-65aa-4a30-b630-7a43d1894efe",
+    "name" : "DNS",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "0574f646-1288-4b51-b055-d654897d74ad",
+    "name" : "Network Security",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "5f2789f5-6bdc-4b6c-85c8-cb9cb3759719",
+    "name" : "SSL/TLS",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "b3d9145b-a5c6-44de-9e09-f06a72ed267f",
+    "name" : "HTTP/3",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "3a2ba2ee-6544-482f-b970-866ecd969ed6",
+    "name" : "HTTP/2",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "67b238b5-a661-4299-b737-51b9fa8aee49",
+    "name" : "Cloud computing",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "2258790d-47d8-4658-a2c8-d0e5d8ca144a",
+    "name" : "HTTP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2025, 4, 4, 12, 53, 46, 742727000 ],
+  "lastEdited" : [ 2025, 4, 4, 12, 54, 11, 702720000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "DNS",
+    "name_en" : null,
+    "id" : "f162708c-70f6-4333-a97d-873a1a2ae5cd",
+    "description" : "DNS",
+    "description_en" : "DNS",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 49, 25, 472042407 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 49, 25, 472042768 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Network Security",
+    "name_en" : null,
+    "id" : "de132ca7-c3b3-4ef6-a7e4-f76c7973e35a",
+    "description" : "Network Security",
+    "description_en" : "Network Security",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 49, 25, 474910035 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 49, 25, 474910585 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "SSL/TLS",
+    "name_en" : null,
+    "id" : "1ca9bd82-9f8d-4b8b-bff1-3b48e392cc6c",
+    "description" : "SSL/TLS",
+    "description_en" : "SSL/TLS",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 49, 22, 361410786 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 49, 22, 361411123 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP/3",
+    "name_en" : null,
+    "id" : "94343042-dce7-4cc0-8f8e-8538edc5ccad",
+    "description" : "HTTP/3",
+    "description_en" : "HTTP/3",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 49, 14, 856256485 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 49, 14, 856256846 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP/2",
+    "name_en" : null,
+    "id" : "178030d1-994e-47ba-a2ca-7f7f07125197",
+    "description" : "HTTP/2",
+    "description_en" : "HTTP/2",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 49, 14, 752620779 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 49, 14, 752621173 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Cloud computing",
+    "name_en" : null,
+    "id" : "70a98602-5e20-45c3-987a-5a62b987ca03",
+    "description" : "Cloud computing",
+    "description_en" : "Cloud computing",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 48, 53, 330863777 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 48, 53, 330864212 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP",
+    "name_en" : null,
+    "id" : "1d946302-6f98-457e-bb9c-5606c844d15f",
+    "description" : "HTTP",
+    "description_en" : "HTTP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 4, 22, 13, 48, 51, 183242768 ],
+    "lastEdited" : [ 2025, 4, 22, 13, 48, 51, 183243515 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
