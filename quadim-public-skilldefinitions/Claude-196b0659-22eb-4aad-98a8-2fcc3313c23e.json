@@ -1,0 +1,40 @@
+{
+  "name" : "Claude",
+  "name_en" : null,
+  "id" : "196b0659-22eb-4aad-98a8-2fcc3313c23e",
+  "description" : "Claude is an AI assistant created by Anthropic, designed to be helpful, harmless, and honest. I'm built using a type of AI technology called a large language model (LLM), which means I've been trained on a diverse range of text data to understand and generate human language.\n\nClaude can: \n\nAnswer questions on a wide variety of topics\nAssist with writing, editing, and brainstorming\nAnalyze data and solve problems\nEngage in thoughtful conversation\nGenerate creative content\n\nThe Claude 3 model family, specifically Claude 3.7 Sonnet, has certain limitations. It doesn't browse the internet, can't access or modify files on a user's device (unless they are uploaded to the conversation), and its knowledge has a cutoff date at the end of October 2024.\nClaude is designed to be a useful thinking partner that can adapt to different needs while maintaining safety guardrails against potentially harmful content. Its goal is to provide assistance that's both useful and aligned with human values.",
+  "description_en" : "Claude",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Experience"
+  }, {
+    "skillAreaClassification" : "Technical"
+  }, {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "668d08a9-810e-440c-a668-531a1624694d",
+  "skillOwnerUsername" : "Frøya Quadim",
+  "editedBy" : "668d08a9-810e-440c-a668-531a1624694d",
+  "editedByUsername" : "Frøya Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 4, 22, 13, 21, 6, 463283000 ],
+  "lastEdited" : [ 2025, 4, 22, 13, 21, 6, 463279000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
