@@ -1,0 +1,36 @@
+{
+  "name" : "Business Ethics",
+  "name_en" : null,
+  "id" : "e81d83e3-e688-4a5a-bf8f-bea2f2612f94",
+  "description" : "Business ethics is the moral principles, policies, and values that govern the way companies and individuals engage in business activity. It goes beyond legal requirements to establish a code of conduct that drives employee behavior at all levels and helps build trust between a business and its customers.",
+  "description_en" : "Business Ethics",
+  "coversElement" : {
+    "classification" : "Analytical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Process"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Knowledge_Based"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2025, 2, 27, 15, 53, 5, 516671000 ],
+  "lastEdited" : [ 2025, 2, 27, 15, 53, 5, 516669000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
