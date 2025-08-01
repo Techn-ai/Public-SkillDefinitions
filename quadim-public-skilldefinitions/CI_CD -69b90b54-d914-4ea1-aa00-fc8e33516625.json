@@ -1,0 +1,122 @@
+{
+  "name" : "CI/CD ",
+  "name_en" : null,
+  "id" : "69b90b54-d914-4ea1-aa00-fc8e33516625",
+  "description" : "CI/CD is a way of developing software in which you're able to release updates at any time in a sustainable way. When changing code is routine, development cycles are more frequent, meaningful and faster. “CI/CD” stands for the combined practices of Continuous Integration (CI) and Continuous Delivery (CD).",
+  "description_en" : "byggesystemer",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "3c854aa5-ad7f-4cd7-8e82-22b23ed102ac",
+    "name" : "Continuous deployment",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "23b0c47a-d3d8-4eaf-8ccc-1ecf0fe1aff4",
+    "name" : "Continuous Delivery",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ {
+    "id" : "53ccc6ac-730d-44d8-b8e2-389f026449e3",
+    "name" : "Continuous Integration (CI)",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "23b0c47a-d3d8-4eaf-8ccc-1ecf0fe1aff4",
+    "name" : "Continuous Delivery",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 0,
+  "createdAt" : [ 2022, 5, 23, 10, 8, 43, 125502000 ],
+  "lastEdited" : [ 2022, 8, 26, 8, 48, 54, 59906000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "Continuous deployment",
+    "name_en" : null,
+    "id" : "ec53cc47-45d5-4d41-8406-13e639a9827b",
+    "description" : "Continuous deployment",
+    "description_en" : "Continuous deployment",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 45, 581506772 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 45, 581507264 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "Continuous Delivery",
+    "name_en" : null,
+    "id" : "bb355f4a-e3bd-46c7-8b64-08aae20d6e43",
+    "description" : "Continuous Delivery",
+    "description_en" : "Continuous Delivery",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 45, 2345761 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 45, 2346590 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ null, null ],
+  "isExtensionOfSkill" : [ ]
+}
