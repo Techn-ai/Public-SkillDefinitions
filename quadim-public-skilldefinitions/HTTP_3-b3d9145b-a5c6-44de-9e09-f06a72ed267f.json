@@ -1,0 +1,178 @@
+{
+  "name" : "HTTP/3",
+  "name_en" : null,
+  "id" : "b3d9145b-a5c6-44de-9e09-f06a72ed267f",
+  "description" : "HTTP/3 is the third major version of the Hypertext Transfer Protocol used to exchange information on the World Wide Web, complementing the widely-deployed HTTP/1.1 and HTTP/2. Unlike previous versions which relied on the well-established TCP (published in 1974), HTTP/3 uses QUIC, a multiplexed transport protocol built on UDP. On 6 June 2022, IETF published HTTP/3 as a Proposed Standard in RFC 9114.\n\nHTTP/3 uses similar semantics compared to earlier revisions of the protocol, including the same request methods, status codes, and message fields, but encodes them and maintains session state differently. However, partially due to the protocol's adoption of QUIC, HTTP/3 has lower latency and loads more quickly in real-world usage when compared with previous versions: in some cases over four times as fast than with HTTP/1.1 (which, for many websites, is the only HTTP version deployed).\n\nAs of April 2024, HTTP/3 is at least partially supported by 97% of all web browser installations and 98% of mobile web browser installations tracked by \"Can I Use\", a website that tracks and provides information on web technologies compatibility with different web browsers. HTTP/3 is supported by 29% of the top 10 million websites. It has been supported by Chromium (and derived projects including Google Chrome, Microsoft Edge, Samsung Internet, and Opera) since April 2020 and by Mozilla Firefox since May 2021. Safari 14 implemented the protocol but it remains disabled by default.  Ref:  https://en.wikipedia.org/wiki/HTTP/3",
+  "description_en" : "HTTP/3",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "3a2ba2ee-6544-482f-b970-866ecd969ed6",
+    "name" : "HTTP/2",
+    "description" : null,
+    "description_en" : null
+  }, {
+    "id" : "2258790d-47d8-4658-a2c8-d0e5d8ca144a",
+    "name" : "HTTP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 30, 8, 11, 20, 131955000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 16, 12, 904342000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "HTTP/2",
+    "name_en" : null,
+    "id" : "da37fb6d-9130-46c8-bc64-b44de0cebe5e",
+    "description" : "HTTP/2",
+    "description_en" : "HTTP/2",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 55, 6, 818890057 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 55, 6, 818890385 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP/2",
+    "name_en" : null,
+    "id" : "da37fb6d-9130-46c8-bc64-b44de0cebe5e",
+    "description" : "HTTP/2",
+    "description_en" : "HTTP/2",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 55, 6, 818890057 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 55, 6, 818890385 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP",
+    "name_en" : null,
+    "id" : "ec4df5a0-950b-49bc-b273-41dc02a36314",
+    "description" : "HTTP",
+    "description_en" : "HTTP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 42, 66973756 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 42, 66974495 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP",
+    "name_en" : null,
+    "id" : "ec4df5a0-950b-49bc-b273-41dc02a36314",
+    "description" : "HTTP",
+    "description_en" : "HTTP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 42, 66973756 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 42, 66974495 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
