@@ -1,0 +1,145 @@
+{
+  "name" : "HTTP/2",
+  "name_en" : null,
+  "id" : "3a2ba2ee-6544-482f-b970-866ecd969ed6",
+  "description" : "HTTP/2 (originally named HTTP/2.0) is a major revision of the HTTP network protocol used by the World Wide Web. It was derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where \"bis\" means \"twice\") of the Internet Engineering Task Force (IETF). HTTP/2 is the first new version of HTTP since HTTP/1.1, which was standardized in RFC 2068 in 1997. The Working Group presented HTTP/2 to the Internet Engineering Steering Group (IESG) for consideration as a Proposed Standard in December 2014,[6][7] and IESG approved it to publish as Proposed Standard on February 17, 2015 (and was updated in February 2020 in regard to TLS 1.3 and again in June 2022). The initial HTTP/2 specification was published as RFC 7540 on May 14, 2015.[10]\n\nThe standardization effort was supported by Chrome, Opera, Firefox, Internet Explorer 11, Safari, Amazon Silk, and Edge browsers. Most major browsers had added HTTP/2 support by the end of 2015. About 97% of web browsers used have the capability (and 100% of \"tracked desktop\" web browsers).[13] As of July 2023, 36% (after topping out at just over 50%) of the top 10 million websites support HTTP/2.\n\nIts successor is HTTP/3, a major revision that builds on the concepts established by HTTP/2.   Ref:  https://en.wikipedia.org/wiki/HTTP/2",
+  "description_en" : "HTTP/2",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ {
+    "id" : "b3d9145b-a5c6-44de-9e09-f06a72ed267f",
+    "name" : "HTTP/3",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ {
+    "id" : "2258790d-47d8-4658-a2c8-d0e5d8ca144a",
+    "name" : "HTTP",
+    "description" : null,
+    "description_en" : null
+  } ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 2,
+  "createdAt" : [ 2024, 4, 30, 8, 14, 6, 661336000 ],
+  "lastEdited" : [ 2024, 4, 30, 8, 16, 54, 937526000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ {
+    "name" : "HTTP/3",
+    "name_en" : null,
+    "id" : "ecd054aa-5403-4620-a274-0146ca60e9cb",
+    "description" : "HTTP/3",
+    "description_en" : "HTTP/3",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 55, 6, 557234541 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 55, 6, 557234902 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ {
+    "name" : "HTTP",
+    "name_en" : null,
+    "id" : "a84d9768-60d8-4b1d-b90a-41cbf8f86908",
+    "description" : "HTTP",
+    "description_en" : "HTTP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 42, 669467704 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 42, 669468213 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  }, {
+    "name" : "HTTP",
+    "name_en" : null,
+    "id" : "a84d9768-60d8-4b1d-b90a-41cbf8f86908",
+    "description" : "HTTP",
+    "description_en" : "HTTP",
+    "coversElement" : {
+      "classification" : "NotSet"
+    },
+    "taggedWith" : [ ],
+    "skillDomains" : [ ],
+    "skillAreaCategories" : [ ],
+    "matchesArea" : [ ],
+    "skillType" : {
+      "skillTypeClassification" : "NotSet"
+    },
+    "relatesTo" : [ ],
+    "isCompositeOf" : [ ],
+    "isExtensionOf" : [ ],
+    "additionaljsonproperties" : null,
+    "skillOwner" : null,
+    "skillOwnerUsername" : null,
+    "editedBy" : null,
+    "editedByUsername" : null,
+    "networkReference" : null,
+    "currentVersion" : 0,
+    "createdAt" : [ 2025, 8, 1, 9, 54, 42, 669467704 ],
+    "lastEdited" : [ 2025, 8, 1, 9, 54, 42, 669468213 ],
+    "hide" : false,
+    "public" : false,
+    "relatesToSkill" : [ ],
+    "isCompositeOfSkill" : [ ],
+    "isExtensionOfSkill" : [ ]
+  } ]
+}
