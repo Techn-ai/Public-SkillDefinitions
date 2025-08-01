@@ -1,0 +1,36 @@
+{
+  "name" : "Intrusion Detection & Prevention Systems (IDS/IPS)",
+  "name_en" : null,
+  "id" : "67f08007-5f7a-40ce-907a-4fcc92379e45",
+  "description" : "Intrusion detection is the process of monitoring your network traffic and analyzing it for signs of possible intrusions, such as exploit attempts and incidents that may be imminent threats to your network. For its part, intrusion prevention is the process of performing intrusion detection and then stopping the detected incidents, typically done by dropping packets or terminating sessions. These security measures are available as intrusion detection systems (IDS) and intrusion prevention systems (IPS).",
+  "description_en" : "Intrusion Detection & Prevention Systems (IDS/IPS)",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "skillOwnerUsername" : "Selina Quadim",
+  "editedBy" : "3e924f56-aee0-42f9-aecb-3c14ebbfba81",
+  "editedByUsername" : "Selina Quadim",
+  "networkReference" : "c6710d2c-a175-4a02-916c-fcedb416c490",
+  "currentVersion" : 0,
+  "createdAt" : [ 2025, 3, 14, 15, 10, 19, 220322000 ],
+  "lastEdited" : [ 2025, 3, 14, 15, 10, 19, 220320000 ],
+  "hide" : false,
+  "public" : false,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
