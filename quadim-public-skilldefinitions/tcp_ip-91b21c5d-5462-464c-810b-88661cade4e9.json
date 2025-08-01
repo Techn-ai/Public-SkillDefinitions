@@ -1,0 +1,36 @@
+{
+  "name" : "tcp/ip",
+  "name_en" : null,
+  "id" : "91b21c5d-5462-464c-810b-88661cade4e9",
+  "description" : "TCP/IP is a data link protocol used on the internet to let computers and other devices send and receive data. TCP/IP stands for Transmission Control Protocol/Internet Protocol and makes it possible for devices connected to the internet to communicate with one another across networks.",
+  "description_en" : "tcp/ip",
+  "coversElement" : {
+    "classification" : "Technical"
+  },
+  "taggedWith" : [ ],
+  "skillDomains" : [ ],
+  "skillAreaCategories" : [ ],
+  "matchesArea" : [ {
+    "skillAreaClassification" : "Technical"
+  } ],
+  "skillType" : {
+    "skillTypeClassification" : "Transferable_and_Functional"
+  },
+  "relatesTo" : [ ],
+  "isCompositeOf" : [ ],
+  "isExtensionOf" : [ ],
+  "additionaljsonproperties" : null,
+  "skillOwner" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "skillOwnerUsername" : "Thor Henning Hetland",
+  "editedBy" : "61d38553-5d09-4cd3-a06a-c7173e6c1947",
+  "editedByUsername" : "Thor Henning Hetland",
+  "networkReference" : null,
+  "currentVersion" : 1,
+  "createdAt" : [ 2022, 5, 23, 10, 43, 17, 390827000 ],
+  "lastEdited" : [ 2022, 8, 25, 13, 17, 32, 24522000 ],
+  "hide" : false,
+  "public" : true,
+  "relatesToSkill" : [ ],
+  "isCompositeOfSkill" : [ ],
+  "isExtensionOfSkill" : [ ]
+}
