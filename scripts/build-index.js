@@ -5,6 +5,7 @@
  *
  * Usage: node scripts/build-index.js
  * Output: docs/data/skills-index.json, docs/data/skills-full.json, docs/data/graph-edges.json
+ *         docs/llms.txt, docs/llms-full.txt
  */
 
 const fs = require('fs');
@@ -213,6 +214,147 @@ fs.writeFileSync(fullPath,  JSON.stringify(fullData));
 fs.writeFileSync(graphPath, JSON.stringify(graphData));
 
 // ---------------------------------------------------------------------------
+// Generate llms.txt and llms-full.txt
+// ---------------------------------------------------------------------------
+const today = new Date().toISOString().slice(0, 10);
+
+// Counts for llms.txt header
+const ceCountsForLlms = {};
+const domainCountsForLlms = {};
+for (const s of publicIndex) {
+  ceCountsForLlms[s.ce] = (ceCountsForLlms[s.ce] || 0) + 1;
+  if (s.domain) domainCountsForLlms[s.domain] = (domainCountsForLlms[s.domain] || 0) + 1;
+}
+
+const ceLines = Object.entries(ceCountsForLlms)
+  .sort((a,b) => b[1]-a[1])
+  .map(([k,v]) => {
+    const label = {
+      Technical: 'Technical', Management_Leadership: 'Management & Leadership',
+      Analytical: 'Analytical', Communication: 'Communication',
+      Relationship: 'Relationship', Physical: 'Physical',
+      Creative: 'Creative', NotSet: 'Unclassified',
+    }[k] || k;
+    return `- ${label} (${v} skills)`;
+  }).join('\n');
+
+const domainLines = Object.keys(domainCountsForLlms)
+  .sort((a,b) => domainCountsForLlms[b] - domainCountsForLlms[a])
+  .join(', ');
+
+const BASE_URL = 'https://techn-ai.github.io/Public-SkillDefinitions';
+
+const llmsTxt = `# Quadim Public Skill Library
+
+> ${publicIndex.length} professionally curated skill definitions for competence mapping, talent management, and workforce planning. Open taxonomy covering Technical, Management & Leadership, Analytical, Communication, Relationship, Physical, and Creative skills across 19 domains. Apache 2.0 License.
+
+## Key Resources
+
+- [Interactive site](${BASE_URL}/): Browse, search, and explore all skills
+- [Skill index (JSON)](${BASE_URL}/data/skills-index.json): Lean index of all ${publicIndex.length} skills with metadata
+- [Full skill data (JSON)](${BASE_URL}/data/skills-full.json): Complete definitions with relationship graph
+- [Graph data (JSON)](${BASE_URL}/data/graph-edges.json): Relationship graph (${graphNodes.length} nodes, ${uniqueEdges.length} edges)
+- [All skills (plain text)](${BASE_URL}/llms-full.txt): Complete skill library for LLM consumption
+- [GitHub repository](https://github.com/Techn-ai/Public-SkillDefinitions): Source data and site code
+
+## Schema
+
+Each skill has: id (UUID), name, description, coversElement (classification), skillType, matchesArea (multi), relatesTo / isCompositeOf / isExtensionOf (relationship graph), skillOwnerUsername, createdAt.
+
+## Classification
+
+${ceLines}
+
+## Domains
+
+${domainLines}
+
+## Data provenance
+
+Skills were authored by human curators (Selina Quadim, Thor Henning Hetland, and team) and Frøya — Quadim's AI co-worker agent. Date range: May 2022 – April 2025.
+
+## License
+
+Apache 2.0 — https://github.com/Techn-ai/Public-SkillDefinitions/blob/main/LICENSE
+`;
+
+// llms-full.txt — all skills grouped by classification, full descriptions
+const CE_ORDER = ['Technical','Management_Leadership','Analytical','Communication','Relationship','Physical','Creative','NotSet'];
+const CE_DISPLAY = {
+  Technical: 'Technical', Management_Leadership: 'Management & Leadership',
+  Analytical: 'Analytical', Communication: 'Communication',
+  Relationship: 'Relationship', Physical: 'Physical',
+  Creative: 'Creative', NotSet: 'Unclassified',
+};
+const ST_DISPLAY = {
+  Transferable_and_Functional: 'Transferable & Functional',
+  Knowledge_Based: 'Knowledge-Based',
+  Personal_Trait_or_Attitude: 'Personal Trait or Attitude',
+  NotSet: null,
+};
+const MA_DISPLAY = {
+  Technical: 'Technical', Process: 'Process',
+  Organizational: 'Organizational', Experience: 'Experience',
+  Domain: 'Domain', NotSet: null,
+};
+
+let llmsFullLines = [
+  `# Quadim Public Skill Library — Complete Skill Definitions`,
+  ``,
+  `${publicIndex.length} professionally curated skill definitions.`,
+  `Source: ${BASE_URL}/ | License: Apache 2.0 | Generated: ${today}`,
+  ``,
+  `---`,
+  ``,
+];
+
+// Group by classification
+const grouped = {};
+for (const s of publicIndex) {
+  (grouped[s.ce] = grouped[s.ce] || []).push(s);
+}
+
+for (const ce of CE_ORDER) {
+  const group = grouped[ce];
+  if (!group || group.length === 0) continue;
+
+  const sortedGroup = group.slice().sort((a,b) => a.name.localeCompare(b.name));
+  llmsFullLines.push(`## ${CE_DISPLAY[ce]} (${group.length} skills)`);
+  llmsFullLines.push('');
+
+  for (const s of sortedGroup) {
+    const full = fullData[s.id];
+    const description = (full?.description || s.desc || '').trim();
+    const stLabel = ST_DISPLAY[s.st];
+    const maLabels = (s.ma || []).map(a => MA_DISPLAY[a]).filter(Boolean);
+
+    llmsFullLines.push(`### ${s.name.trim()}`);
+
+    const meta = [];
+    if (stLabel) meta.push(`**Type:** ${stLabel}`);
+    if (maLabels.length) meta.push(`**Areas:** ${maLabels.join(', ')}`);
+    if (s.domain) meta.push(`**Domain:** ${s.domain}`);
+    if (meta.length) llmsFullLines.push(meta.join(' | '));
+
+    if (description) llmsFullLines.push('', description);
+
+    const relLines = [];
+    if (s.rt?.length) relLines.push(`**Relates to:** ${s.rt.join(', ')}`);
+    if (s.ic?.length) relLines.push(`**Part of:** ${s.ic.join(', ')}`);
+    if (s.ie?.length) relLines.push(`**Extends:** ${s.ie.join(', ')}`);
+    if (relLines.length) llmsFullLines.push('', ...relLines);
+
+    llmsFullLines.push('');
+  }
+}
+
+const llmsPath     = path.join(__dirname, '..', 'docs', 'llms.txt');
+const llmsFullPath = path.join(__dirname, '..', 'docs', 'llms-full.txt');
+
+fs.writeFileSync(llmsPath,     llmsTxt);
+fs.writeFileSync(llmsFullPath, llmsFullLines.join('\n'));
+
+// ---------------------------------------------------------------------------
 // Stats summary
 // ---------------------------------------------------------------------------
 const byClassification = {};
@@ -229,6 +371,8 @@ console.log('\n=== Build Complete ===');
 console.log(`skills-index.json : ${(fs.statSync(indexPath).size / 1024).toFixed(0)} KB`);
 console.log(`skills-full.json  : ${(fs.statSync(fullPath).size / 1024).toFixed(0)} KB`);
 console.log(`graph-edges.json  : ${(fs.statSync(graphPath).size / 1024).toFixed(0)} KB`);
+console.log(`llms.txt          : ${(fs.statSync(llmsPath).size / 1024).toFixed(0)} KB`);
+console.log(`llms-full.txt     : ${(fs.statSync(llmsFullPath).size / 1024).toFixed(0)} KB`);
 console.log(`\nGraph: ${graphNodes.length} nodes, ${uniqueEdges.length} edges`);
 console.log(`\nClassification breakdown:`);
 Object.entries(byClassification).sort((a,b) => b[1]-a[1]).forEach(([k,v]) => console.log(`  ${k}: ${v}`));
