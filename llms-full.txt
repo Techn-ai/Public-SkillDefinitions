@@ -6781,7 +6781,7 @@ The AI Act is the first-ever legal framework on AI, which addresses the risks of
 AI bias, also referred to as machine learning bias or algorithm bias, refers to AI systems that produce biased results that reflect and perpetuate human biases within a society, including historical and current social inequality.
 
 ### AI Ethics
-**Type:** Knowledge-Based | **Areas:** Technical, Organizational, Domain, Experience, Process | **Domain:** AI & Machine Learning
+**Type:** Knowledge-Based | **Areas:** Technical, Organizational, Domain | **Domain:** AI & Machine Learning
 
 AI ethics is a system of moral principles and techniques intended to inform the development and responsible use of artificial intelligence technology.
 
