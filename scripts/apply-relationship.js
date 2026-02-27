@@ -30,7 +30,10 @@ function gh(cmd) {
 }
 
 function comment(msg) {
-  execSync(`gh issue comment ${ISSUE_NUMBER} --body "${msg.replace(/"/g, '\\"')}"`, { stdio: 'inherit' });
+  const tmp = `/tmp/comment-${Date.now()}.md`;
+  fs.writeFileSync(tmp, msg);
+  execSync(`gh issue comment ${ISSUE_NUMBER} --body-file "${tmp}"`, { stdio: 'inherit' });
+  fs.unlinkSync(tmp);
 }
 
 // ─── Validate ────────────────────────────────────────────────────────────────
@@ -98,7 +101,11 @@ const prBody = [
   `_Proposed via the skill library site and created automatically by the relationship bot._`,
 ].join('\n');
 
-const prUrl = gh(`pr create --title "Add relationship: ${SOURCE_NAME} → ${TARGET_NAME} (${relLabel})" --body "${prBody.replace(/"/g, '\\"')}" --head "${branch}" --base main`);
+const prBodyFile = `/tmp/pr-body-${Date.now()}.md`;
+fs.writeFileSync(prBodyFile, prBody);
+const prTitle = `Add relationship: ${SOURCE_NAME} → ${TARGET_NAME} (${relLabel})`;
+const prUrl = gh(`pr create --title "${prTitle.replace(/"/g, '\\"')}" --body-file "${prBodyFile}" --head "${branch}" --base main`);
+fs.unlinkSync(prBodyFile);
 
 // ─── Comment on issue ─────────────────────────────────────────────────────────
 comment(`✅ PR created: ${prUrl}\\n\\nA maintainer will review and merge the change. Once merged, the skill graph will update automatically.`);
