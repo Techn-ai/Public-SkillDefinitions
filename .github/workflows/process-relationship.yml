@@ -1,0 +1,68 @@
+name: Process Relationship Proposal
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    # Only run if the issue body contains an embedded proposal block
+    if: contains(github.event.issue.body, '<!-- proposal-data:')
+
+    steps:
+      - name: Parse proposal data
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || '';
+            const match = body.match(/<!--\s*proposal-data:\s*(\{[\s\S]*?\})\s*-->/);
+            if (!match) {
+              core.setOutput('valid', 'false');
+              return;
+            }
+            let p;
+            try {
+              p = JSON.parse(match[1]);
+            } catch (e) {
+              core.setOutput('valid', 'false');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: `❌ Could not parse proposal data: ${e.message}. Please resubmit via the skill library site.`,
+              });
+              return;
+            }
+            core.setOutput('valid',       'true');
+            core.setOutput('source_id',   p.source_id   || '');
+            core.setOutput('source_name', p.source_name || '');
+            core.setOutput('target_id',   p.target_id   || '');
+            core.setOutput('target_name', p.target_name || '');
+            core.setOutput('rel_type',    p.type        || '');
+
+      - uses: actions/checkout@v4
+        if: steps.parse.outputs.valid == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.parse.outputs.valid == 'true'
+        with:
+          node-version: '20'
+
+      - name: Apply change and open PR
+        if: steps.parse.outputs.valid == 'true'
+        env:
+          GH_TOKEN:     ${{ secrets.GITHUB_TOKEN }}
+          SOURCE_ID:    ${{ steps.parse.outputs.source_id }}
+          SOURCE_NAME:  ${{ steps.parse.outputs.source_name }}
+          TARGET_ID:    ${{ steps.parse.outputs.target_id }}
+          TARGET_NAME:  ${{ steps.parse.outputs.target_name }}
+          REL_TYPE:     ${{ steps.parse.outputs.rel_type }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node scripts/apply-relationship.js

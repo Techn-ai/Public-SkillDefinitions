@@ -763,8 +763,161 @@
 
         ${relSection}
         ${tagsSection}
+
+        <!-- Propose relationship section -->
+        <div class="propose-rel-card" id="propose-rel-card">
+          <button class="propose-rel-toggle" id="propose-rel-toggle" aria-expanded="false">
+            <span>Propose new relationship</span>
+            <svg class="propose-chevron" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+              <path d="M4.427 7.427l3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427z"/>
+            </svg>
+          </button>
+          <div class="propose-rel-body" id="propose-rel-body" hidden>
+            <p class="propose-hint-text">
+              Search for a skill to link to <strong>${esc(skill.name)}</strong>, choose the relationship type, then propose it — a pre-filled GitHub issue will open for review.
+            </p>
+            <div class="propose-search-wrap">
+              <input type="search" id="propose-skill-search" class="propose-search" placeholder="Search skills…" autocomplete="off" aria-label="Search for target skill" aria-controls="propose-results" />
+              <ul id="propose-results" class="propose-results" role="listbox" hidden></ul>
+            </div>
+            <div id="propose-selected-wrap" class="propose-selected-wrap" hidden>
+              <span class="propose-selected-label">Target:</span>
+              <span id="propose-selected-name" class="propose-selected-name"></span>
+              <button id="propose-clear" class="propose-clear-btn" aria-label="Clear selection">×</button>
+            </div>
+            <fieldset class="propose-type-fieldset">
+              <legend class="propose-type-legend">Relationship type</legend>
+              <label class="propose-type-option">
+                <input type="radio" name="rel-type" value="relatesTo" checked />
+                <span class="propose-type-name">relates to</span>
+                <span class="propose-type-desc">Peer / sibling skill</span>
+              </label>
+              <label class="propose-type-option">
+                <input type="radio" name="rel-type" value="isCompositeOf" />
+                <span class="propose-type-name">is part of</span>
+                <span class="propose-type-desc">This skill belongs to the target as a parent category</span>
+              </label>
+              <label class="propose-type-option">
+                <input type="radio" name="rel-type" value="isExtensionOf" />
+                <span class="propose-type-name">extends</span>
+                <span class="propose-type-desc">This skill is a specialisation of the target</span>
+              </label>
+            </fieldset>
+            <button id="propose-submit" class="btn-propose-submit" disabled>
+              Propose on GitHub →
+            </button>
+          </div>
+        </div>
       </div>
     `;
+
+    bindRelationshipProposal(skill);
+  }
+
+  function bindRelationshipProposal(skill) {
+    const toggle   = document.getElementById('propose-rel-toggle');
+    const body     = document.getElementById('propose-rel-body');
+    const searchEl = document.getElementById('propose-skill-search');
+    const results  = document.getElementById('propose-results');
+    const selWrap  = document.getElementById('propose-selected-wrap');
+    const selName  = document.getElementById('propose-selected-name');
+    const clearBtn = document.getElementById('propose-clear');
+    const submit   = document.getElementById('propose-submit');
+    if (!toggle) return;
+
+    let selectedSkill = null;
+
+    // Expand/collapse
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', !expanded);
+      body.hidden = expanded;
+    });
+
+    // Search with debounce
+    let debTm;
+    searchEl.addEventListener('input', () => {
+      clearTimeout(debTm);
+      debTm = setTimeout(() => {
+        const q = searchEl.value.trim();
+        if (!q) { results.hidden = true; results.innerHTML = ''; return; }
+
+        const hits = SkillSearch.search(q, 8).filter(s => s.id !== skill.id);
+        if (!hits.length) { results.hidden = true; return; }
+
+        results.innerHTML = hits.map(s => `
+          <li role="option" class="propose-result-item" data-id="${esc(s.id)}" data-name="${esc(s.name)}">
+            ${badge(s.ce)}<span class="propose-result-name">${esc(s.name)}</span>
+          </li>`).join('');
+        results.hidden = false;
+      }, 150);
+    });
+
+    // Select a result
+    results.addEventListener('click', (e) => {
+      const item = e.target.closest('.propose-result-item');
+      if (!item) return;
+      selectedSkill = { id: item.dataset.id, name: item.dataset.name };
+      selName.textContent = selectedSkill.name;
+      selWrap.hidden = false;
+      results.hidden = true;
+      searchEl.value = '';
+      submit.disabled = false;
+    });
+
+    // Clear selection
+    clearBtn.addEventListener('click', () => {
+      selectedSkill = null;
+      selWrap.hidden = true;
+      submit.disabled = true;
+      searchEl.value = '';
+      searchEl.focus();
+    });
+
+    // Close results on outside click
+    document.addEventListener('click', (e) => {
+      if (!document.getElementById('propose-rel-card')?.contains(e.target)) {
+        results.hidden = true;
+      }
+    }, { capture: true, once: false });
+
+    // Submit — open pre-filled GitHub issue
+    submit.addEventListener('click', () => {
+      if (!selectedSkill) return;
+      const relType = document.querySelector('input[name="rel-type"]:checked')?.value || 'relatesTo';
+      const relLabel = { relatesTo: 'relates to', isCompositeOf: 'is part of', isExtensionOf: 'extends' }[relType];
+
+      const proposalData = JSON.stringify({
+        source_id:   skill.id,
+        source_name: skill.name,
+        target_id:   selectedSkill.id,
+        target_name: selectedSkill.name,
+        type:        relType,
+      });
+
+      const title = `Add relationship: ${skill.name} → ${selectedSkill.name} (${relLabel})`;
+      const body  = [
+        `**Proposed relationship**`,
+        ``,
+        `| | Skill |`,
+        `|---|---|`,
+        `| **Source** | ${skill.name} (\`${skill.id}\`) |`,
+        `| **Target** | ${selectedSkill.name} (\`${selectedSkill.id}\`) |`,
+        `| **Type** | ${relLabel} |`,
+        ``,
+        `**Why is this relationship appropriate?**`,
+        `<!-- Please describe your reasoning -->`,
+        ``,
+        `---`,
+        `<!-- proposal-data: ${proposalData} -->`,
+      ].join('\n');
+
+      const url = new URL('https://github.com/Techn-ai/Public-SkillDefinitions/issues/new');
+      url.searchParams.set('title',  title);
+      url.searchParams.set('body',   body);
+      url.searchParams.set('labels', 'relationship-proposal');
+      window.open(url.toString(), '_blank', 'noopener,noreferrer');
+    });
   }
 
   // ─── Graph Page ──────────────────────────────────────────────────────────────
