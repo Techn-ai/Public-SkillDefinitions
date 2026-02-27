@@ -6785,6 +6785,8 @@ AI bias, also referred to as machine learning bias or algorithm bias, refers to 
 
 AI ethics is a system of moral principles and techniques intended to inform the development and responsible use of artificial intelligence technology.
 
+**Extends:** AI biases
+
 ### AI opportunities
 **Type:** Transferable & Functional | **Areas:** Domain, Technical, Organizational, Process, Experience | **Domain:** AI & Machine Learning
 

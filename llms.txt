@@ -7,7 +7,7 @@
 - [Interactive site](https://techn-ai.github.io/Public-SkillDefinitions/): Browse, search, and explore all skills
 - [Skill index (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/skills-index.json): Lean index of all 1227 skills with metadata
 - [Full skill data (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/skills-full.json): Complete definitions with relationship graph
-- [Graph data (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/graph-edges.json): Relationship graph (401 nodes, 502 edges)
+- [Graph data (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/graph-edges.json): Relationship graph (403 nodes, 503 edges)
 - [All skills (plain text)](https://techn-ai.github.io/Public-SkillDefinitions/llms-full.txt): Complete skill library for LLM consumption
 - [GitHub repository](https://github.com/Techn-ai/Public-SkillDefinitions): Source data and site code
 
