@@ -707,6 +707,12 @@
 
     const areasHtml = (skill.ma || lean?.ma || []).map(a => badgeArea(a)).join('');
 
+    // Construct GitHub edit / view source URLs from skill name + id
+    const sourceFilename = `${skill.name}-${skill.id}.json`;
+    const ghBase = 'https://github.com/Techn-ai/Public-SkillDefinitions';
+    const editUrl = `${ghBase}/edit/main/quadim-public-skilldefinitions/${encodeURIComponent(sourceFilename)}`;
+    const viewUrl = `${ghBase}/blob/main/quadim-public-skilldefinitions/${encodeURIComponent(sourceFilename)}`;
+
     showView('skill');
     document.getElementById('view-skill').innerHTML = `
       <div class="skill-detail">
@@ -723,6 +729,17 @@
           </div>
           <h1 class="skill-title">${esc(skill.name)}</h1>
           <p class="skill-description">${esc(skill.description || lean?.desc || '')}</p>
+
+          <div class="skill-actions">
+            <a href="${editUrl}" target="_blank" rel="noopener noreferrer" class="btn-edit-skill">
+              <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm1.414 1.06a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354l-1.086-1.086ZM11.189 6.25 9.75 4.81l-6.286 6.287a.25.25 0 0 0-.064.108l-.558 1.953 1.953-.558a.25.25 0 0 0 .108-.064l6.286-6.286Z"/></svg>
+              Edit this skill
+            </a>
+            <a href="${viewUrl}" target="_blank" rel="noopener noreferrer" class="btn-view-source">
+              <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"/></svg>
+              View source
+            </a>
+          </div>
         </div>
 
         <div class="detail-grid">
