@@ -1,0 +1,39 @@
+# Quadim Public Skill Library
+
+> 1227 professionally curated skill definitions for competence mapping, talent management, and workforce planning. Open taxonomy covering Technical, Management & Leadership, Analytical, Communication, Relationship, Physical, and Creative skills across 19 domains. Apache 2.0 License.
+
+## Key Resources
+
+- [Interactive site](https://techn-ai.github.io/Public-SkillDefinitions/): Browse, search, and explore all skills
+- [Skill index (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/skills-index.json): Lean index of all 1227 skills with metadata
+- [Full skill data (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/skills-full.json): Complete definitions with relationship graph
+- [Graph data (JSON)](https://techn-ai.github.io/Public-SkillDefinitions/data/graph-edges.json): Relationship graph (401 nodes, 502 edges)
+- [All skills (plain text)](https://techn-ai.github.io/Public-SkillDefinitions/llms-full.txt): Complete skill library for LLM consumption
+- [GitHub repository](https://github.com/Techn-ai/Public-SkillDefinitions): Source data and site code
+
+## Schema
+
+Each skill has: id (UUID), name, description, coversElement (classification), skillType, matchesArea (multi), relatesTo / isCompositeOf / isExtensionOf (relationship graph), skillOwnerUsername, createdAt.
+
+## Classification
+
+- Technical (605 skills)
+- Management & Leadership (244 skills)
+- Unclassified (166 skills)
+- Analytical (105 skills)
+- Communication (44 skills)
+- Relationship (34 skills)
+- Physical (15 skills)
+- Creative (14 skills)
+
+## Domains
+
+Software Development, AI & Machine Learning, Data & Analytics, Leadership & Executive, Cloud & Infrastructure, Security & Cybersecurity, Networking & IoT, Architecture & Design, DevOps & Platform Engineering, Communication & Soft Skills, Finance & Accounting, HR & People, Project & Product Management, Governance & Compliance, Blockchain & Web3, Design & UX, Testing & Quality, ESG & Sustainability
+
+## Data provenance
+
+Skills were authored by human curators (Selina Quadim, Thor Henning Hetland, and team) and Frøya — Quadim's AI co-worker agent. Date range: May 2022 – April 2025.
+
+## License
+
+Apache 2.0 — https://github.com/Techn-ai/Public-SkillDefinitions/blob/main/LICENSE
