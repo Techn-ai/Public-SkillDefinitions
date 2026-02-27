@@ -108,7 +108,7 @@ const prUrl = gh(`pr create --title "${prTitle.replace(/"/g, '\\"')}" --body-fil
 fs.unlinkSync(prBodyFile);
 
 // ─── Comment on issue ─────────────────────────────────────────────────────────
-comment(`✅ PR created: ${prUrl}\\n\\nA maintainer will review and merge the change. Once merged, the skill graph will update automatically.`);
+comment(`✅ PR created: ${prUrl}\n\nA maintainer will review and merge the change. Once merged, the skill graph will update automatically.`);
 
 // Add label (ignore if it doesn't exist yet)
 try {
