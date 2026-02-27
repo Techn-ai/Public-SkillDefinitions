@@ -70,6 +70,19 @@ if (existing.some(r => r.id === TARGET_ID)) {
 data[REL_TYPE] = existing;
 data[REL_TYPE].push({ id: TARGET_ID, name: TARGET_NAME, description: null, description_en: null });
 
+// Bump version and update lastEdited timestamp
+data.currentVersion = (data.currentVersion || 0) + 1;
+const now = new Date();
+data.lastEdited = [
+  now.getUTCFullYear(),
+  now.getUTCMonth() + 1,
+  now.getUTCDate(),
+  now.getUTCHours(),
+  now.getUTCMinutes(),
+  now.getUTCSeconds(),
+  0,
+];
+
 fs.writeFileSync(filepath, JSON.stringify(data, null, 2) + '\n');
 
 // ─── Git: branch + commit + push ─────────────────────────────────────────────
