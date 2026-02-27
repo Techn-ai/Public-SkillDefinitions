@@ -73,7 +73,7 @@ data[REL_TYPE].push({ id: TARGET_ID, name: TARGET_NAME, description: null, descr
 fs.writeFileSync(filepath, JSON.stringify(data, null, 2) + '\n');
 
 // ─── Git: branch + commit + push ─────────────────────────────────────────────
-const branch = `relationship/${SOURCE_ID.slice(0, 8)}-${TARGET_ID.slice(0, 8)}`;
+const branch = `relationship/${SOURCE_ID.slice(0, 8)}-${TARGET_ID.slice(0, 8)}-${ISSUE_NUMBER}`;
 
 execSync('git config user.name "github-actions[bot]"');
 execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
