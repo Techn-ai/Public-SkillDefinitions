@@ -1,0 +1,76 @@
+name: Bump skill version on PR
+
+on:
+  pull_request:
+    paths:
+      - 'quadim-public-skilldefinitions/**.json'
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Bump currentVersion and lastEdited on changed skill files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { execSync } = require('child_process');
+            const fs = require('fs');
+            const path = require('path');
+
+            // Get list of changed JSON files in the skills dir
+            const base = context.payload.pull_request.base.sha;
+            const head = context.payload.pull_request.head.sha;
+            const diff = execSync(
+              `git diff --name-only ${base} ${head} -- quadim-public-skilldefinitions/*.json`,
+              { encoding: 'utf8' }
+            ).trim();
+
+            if (!diff) {
+              console.log('No skill JSON files changed.');
+              return;
+            }
+
+            const files = diff.split('\n').filter(Boolean);
+            console.log('Changed files:', files);
+
+            const now = new Date();
+            const lastEdited = [
+              now.getUTCFullYear(),
+              now.getUTCMonth() + 1,
+              now.getUTCDate(),
+              now.getUTCHours(),
+              now.getUTCMinutes(),
+              now.getUTCSeconds(),
+              0,
+            ];
+
+            let anyChanged = false;
+            for (const file of files) {
+              if (!fs.existsSync(file)) {
+                console.log(`Skipping deleted file: ${file}`);
+                continue;
+              }
+              const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+              data.currentVersion = (data.currentVersion || 0) + 1;
+              data.lastEdited = lastEdited;
+              fs.writeFileSync(file, JSON.stringify(data, null, 2) + '\n');
+              console.log(`Bumped ${file} to version ${data.currentVersion}`);
+              anyChanged = true;
+            }
+
+            if (!anyChanged) return;
+
+            execSync('git config user.name "github-actions[bot]"');
+            execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+            execSync('git add quadim-public-skilldefinitions/*.json');
+            execSync('git commit -m "chore: bump currentVersion + lastEdited [skip ci]"');
+            execSync(`git push origin HEAD:${context.payload.pull_request.head.ref}`);
+            console.log('Pushed version bump commit.');
