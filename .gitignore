@@ -1,0 +1,11 @@
+# Synthesis workspace index (local only)
+.synthesis/
+**/.synthesis.md
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
