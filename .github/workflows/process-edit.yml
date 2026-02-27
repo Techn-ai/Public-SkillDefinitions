@@ -1,0 +1,69 @@
+name: Process Skill Edit Proposal
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.body, '<!-- edit-data:')
+
+    steps:
+      - name: Parse edit data
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || '';
+            const match = body.match(/<!--\s*edit-data:\s*(\{[\s\S]*?\})\s*-->/);
+            if (!match) {
+              core.setOutput('valid', 'false');
+              return;
+            }
+            let p;
+            try {
+              p = JSON.parse(match[1]);
+            } catch (e) {
+              core.setOutput('valid', 'false');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: `❌ Could not parse edit data: ${e.message}. Please resubmit via the skill library site.`,
+              });
+              return;
+            }
+            core.setOutput('valid',          'true');
+            core.setOutput('skill_id',       p.skill_id       || '');
+            core.setOutput('name',           p.name           || '');
+            core.setOutput('description',    p.description    || '');
+            core.setOutput('classification', p.classification || '');
+            core.setOutput('skill_type',     p.skill_type     || '');
+            core.setOutput('matches_area',   JSON.stringify(p.matches_area || []));
+
+      - uses: actions/checkout@v4
+        if: steps.parse.outputs.valid == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.parse.outputs.valid == 'true'
+        with:
+          node-version: '20'
+
+      - name: Apply change and open PR
+        if: steps.parse.outputs.valid == 'true'
+        env:
+          GH_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
+          SKILL_ID:       ${{ steps.parse.outputs.skill_id }}
+          NAME:           ${{ steps.parse.outputs.name }}
+          DESCRIPTION:    ${{ steps.parse.outputs.description }}
+          CLASSIFICATION: ${{ steps.parse.outputs.classification }}
+          SKILL_TYPE:     ${{ steps.parse.outputs.skill_type }}
+          MATCHES_AREA:   ${{ steps.parse.outputs.matches_area }}
+          ISSUE_NUMBER:   ${{ github.event.issue.number }}
+        run: node scripts/apply-edit.js

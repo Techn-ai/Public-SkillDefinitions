@@ -1356,6 +1356,57 @@ ul { list-style: none; }
 .btn-propose-submit:disabled { opacity: 0.4; cursor: not-allowed; }
 .btn-propose-submit:not(:disabled):hover { opacity: 0.88; }
 
+/* ── Edit Skill Form ────────────────────────────────────────── */
+.edit-field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+}
+.edit-label {
+  font-size: var(--text-small);
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.edit-input,
+.edit-select,
+.edit-textarea {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: var(--text-base);
+  font-family: inherit;
+  transition: border-color 0.15s;
+  box-sizing: border-box;
+}
+.edit-input:focus,
+.edit-select:focus,
+.edit-textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+.edit-textarea { resize: vertical; min-height: 80px; }
+.edit-areas-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  padding: 0.5rem 0;
+}
+.edit-area-option {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--text-small);
+  color: var(--text-primary);
+  cursor: pointer;
+}
+.edit-area-option input[type="checkbox"] { accent-color: var(--accent); }
+
 /* ── Stats Page ─────────────────────────────────────────────── */
 .stats-page {
   max-width: var(--max-width);
